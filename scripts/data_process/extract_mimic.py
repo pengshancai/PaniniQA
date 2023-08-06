@@ -61,6 +61,6 @@ if __name__ == "__main__":
                 continue
             idx = '%s-%s-%s' % (row_id, subject_id, hadm_id)
             if idx in ids:
-                with open(args.raw_notes + idx + '.txt', 'w') as f:
+                with open(args.output_dir + idx + '.txt', 'w') as f:
                     f.write(instruction)
 
