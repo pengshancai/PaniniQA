@@ -6,15 +6,26 @@ from collections import defaultdict
 from tqdm import tqdm
 import jsonlines
 from utils import *
+import argparse
 
-ner_dir = '../clinical_qa_/data/conversational_qa/'
-rel_dir = '../clinical_qa_/data/conversational_qa/'
-raw_dir = '../clinical_qa_/data/annotateFile/'
-split_dir = '../clinical_qa_/data/split/'
-output_dir = '../clinical_qa_/data/processed/v_5.5/'
+# ner_dir = '../clinical_qa_/data/conversational_qa/'
+# rel_dir = '../clinical_qa_/data/conversational_qa/'
+# raw_dir = '../clinical_qa_/data/annotateFile/'
+# split_dir = '../clinical_qa_/data/split/'
+# output_dir = '../clinical_qa_/data/processed/v_5.5/'
 
 
-def get_src_tgt():
+def parse_args():
+    parser = argparse.ArgumentParser(description="")
+    parser.add_argument("--anno_dir", type=str, default="data/annotated_dataset/annotated_files/", help="Path to the annotated_files directory")
+    parser.add_argument("--raw_notes_dir", type=str, default="data/annotated_dataset/raw_notes/", help="Path to the raw notes directory")
+    parser.add_argument("--split_file", type=str, default="data/annotated_dataset/split.json", help="Path to the train/valid/test split file 'split.json'")
+    parser.add_argument("--output_dir", type=str, default="data/annotated_dataset/raw_notes/", help="Path to the output directory")
+    args = parser.parse_args()
+    return args
+
+
+def get_src_tgt(anno_dir, raw_note_dir):
     def get_relations(con):
         secs = con.split('\n\n')
         tgt = []
@@ -27,14 +38,14 @@ def get_src_tgt():
                 tgt.append((cate, line.replace(' >', '>')))
         return tgt
     idx2src_tgt = {}
-    fnames = os.listdir(rel_dir)
+    fnames = os.listdir(anno_dir)
     for fname in fnames:
-        if fname.endswith('_template_note.txt'):
-            idx = int(fname[:-18])
-            with open(ner_dir + fname) as f:
+        if fname.endswith('_rel.txt'):
+            idx = int(fname[:-8])
+            with open(anno_dir + fname) as f:
                 con = f.read()
                 tgt = get_relations(con)
-            with open(raw_dir + '%s.txt' % idx) as f:
+            with open(raw_note_dir + '%s.txt' % idx) as f:
                 src = f.read().strip()
             idx2src_tgt[idx] = {
                 'source': src,
@@ -80,14 +91,6 @@ def get_all_rels():
     return rels
 
 
-src_tgt_pairs = get_src_tgt()
-evts = get_all_evts()
-rels = get_all_rels()
-
-with open(split_dir + 'ids_5.json') as f:
-    ids = json.load(f)
-
-
 def create_dataset(split_name):
     if split_name == 'train':
         ids_split = ids['ids_train'] + ids['ids_valid']
@@ -114,6 +117,16 @@ def create_dataset(split_name):
             _ = progress.update(1)
 
 
-for split in ['train', 'test']:
-    create_dataset(split)
+if __name__ == "__main__":
+    args = parse_args()
+
+    src_tgt_pairs = get_src_tgt()
+    evts = get_all_evts()
+    rels = get_all_rels()
+
+    with open(args.split_file) as f:
+        ids = json.load(f)
+
+    for split in ['train', 'valid', 'test']:
+        create_dataset(split)
 
