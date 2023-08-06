@@ -1,0 +1,15 @@
+Medical Issues
+Symptoms [no explicit item] caused by Disease <atrial fibrillation > 
+Complication <low blood pressure > caused by <pulmonary vein isolation> 
+
+Treatments
+Procedure <pulmonary vein isolation> to treat <atrial fibrillation>
+<pulmonary vein isolation>  Results: [no explicit item]
+Medicine <Dofetalide > to treat <low blood pressure>
+<Dofetalide >  Results: [no explicit item]
+
+No template for <You will take Dofetalide twice daily and will use a Heart monitor at home to send information back to Dr.[**Name (NI) 1565**] office. >
+No template for <Medication changes: 1. Decrease Atenolol to 50 mg daily >
+No template for <2. Decrease Diovan to 80 mg daily - Take [**11-26**] of a 160mg pill daily >
+No template for <3. Start Nitroglycerin as needed for chest pain as directed  >
+No template for <Weigh yourself every morning, call Dr. [**Last Name (STitle) **] if weight goes up more than 3 lbs in 1 day or 5 pounds in 3 days. >

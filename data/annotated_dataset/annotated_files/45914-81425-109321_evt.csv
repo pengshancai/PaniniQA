@@ -1,0 +1,12 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|feeling unwell| Medical Issues - Symptom|60|74
+1|rapid heart rate| Medical Issues - Symptom|100|116
+2|medication to help slow your heart rate| Treatments - Medicine name|174|213
+3|When you were on the floor, your port appeared malpositioned which required removal and replacement of your port.| Medical Issues - Complication developed in the hospital|266|379
+4|TPN| Treatments - Procedure name|407|410
+5|to help with your nutritional status| Treatments - Treatment goal|411|447
+6|radiation| Treatments - Procedure name|556|565
+7|You will need to follow up with them as an outpatient| Aftercare instructions - Upcoming Schedules - Specialist appointment|602|655
+8|The following changes were made to your medications: -- STARTED Metoprolol SUCCINATE (Toprol) 100mg, take 2 and half tablets a day| Medicine instructions - Medicine started|659|789
+9|-- STOPPED Metorolol TARTRATE (Lopressor)| Medicine instructions - Medicine stopped|790|832
+10|-- STARTED Roxicet 5/325mg, take 5-10mL every 4 to 6 hours as needed for pain. Do not exceed 40mL per day. --| Medicine instructions - Medicine started|832|941

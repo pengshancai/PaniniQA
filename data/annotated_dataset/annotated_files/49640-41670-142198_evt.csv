@@ -1,0 +1,19 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|fever| Medical Issues - Symptom|63|68
+1|abdominal pain| Medical Issues - Symptom|73|87
+2|severe kidney infection| Tests - Test result|170|193
+3|bacteria growing in your blood| Tests - Test result|199|229
+4|intravenous antibiotics| Treatments - Medicine name|251|274
+5|placement a tube into your kidney to help drain your kidney.| Treatments - Procedure name|298|359
+6|kidney failure| Tests - Test result|388|402
+7|breathing became difficult| Medical Issues - Complication developed in the hospital|412|438
+8|emergent hemodialysis| Treatments - Procedure name|506|527
+9|significantly improved your breathing.| Treatments - Result of the treatment|533|571
+10|You kidney function also improved enough to no longer require in hospital hemodialysis.| Treatments - Result of the treatment|664|752
+11|You should follow closely with the many specialty services that participated in your care.| Aftercare instructions - patient needs to do - Other|753|843
+12|You have been STARTED on 500mg of Meropenem IV every twelve hours, you will continue this medication for 2 weeks total, Day 1 = [**12-20**] Expected completion date is [**2102-1-17**]| Medicine instructions - Medicine started|963|1146
+13|You have been STARTED on 250mg of Cirpofloxacin by mouth every 12 hours, you will continue this medication for 4 week total, Day 1 = [**12-20**] Expected completion date is [**2102-2-14**]| Medicine instructions - Medicine started|1219|1408
+14|Your Azathioprine has been DECREASED to 37.5 mg daily.| Medicine instructions - Medicine changed|1480|1535
+15|Your Aspirin has been STOPPED.| Medicine instructions - Medicine stopped|1538|1569
+16|Please discuss restarting with your vascular surgeon.| Aftercare instructions - Upcoming Schedules - Specialist appointment|1569|1622
+17|Please take your medications as prescribed and keep your outpatient appointments.| Aftercare instructions - patient needs to do - Other|1676|1757

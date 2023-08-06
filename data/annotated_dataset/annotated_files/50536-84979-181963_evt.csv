@@ -1,0 +1,23 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|confusion| Medical Issues - Symptom|144|153
+1|damage to your liver and kidneys| Tests - Test result|297|329
+2|low oxygen levels| Medical Issues - Complication developed in the hospital|551|568
+3|lung cancer| Medical Issues - Disease|611|623
+4|COPD| Medical Issues - Disease|628|632
+5|medication to help remove fluid from your lungs| Treatments - Medicine name|648|695
+6|breathing improved a little| Treatments - Result of the treatment|705|732
+7|coumadin| Medicine instructions - Medicine stopped|918|927
+8|supplemental Oxygen 2-4 L NC| Medicine instructions - Medicine started|935|963
+9|DO NOT SMOKE CIGARETTES while using supplemental oxygen, this could cause fire or explosion| Aftercare instructions - patient needs to do - Medication|966|1057
+10|lasix 40 mg by mouth daily| Medicine instructions - Medicine started|1064|1091
+11|gabapentin| Medicine instructions - Medicine stopped|1100|1110
+12|baclofen| Medicine instructions - Medicine stopped|1119|1128
+13|Decrease dose of Morphine SR from 60 mg daily to 45 mg daily| Medicine instructions - Medicine changed|1130|1191
+14|albuterol nebulizer treatment every 6 hours| Medicine instructions - Medicine started|1199|1243
+15|atrovent nebulizer treatment every 6 hours| Medicine instructions - Medicine started|1250|1292
+16|nicotine patch daily| Medicine instructions - Medicine started|1300|1320
+17|bisacodyl 10 mg by mouth daily as needed for constipation| Medicine instructions - Medicine started|1328|1386
+18|miralax 17 g by mouth daily as needed for constipation| Medicine instructions - Medicine started|1395|1449
+19|oxycodone 5 mg tabs, take 1-2 tabs every 6 hours as neede for pain| Medicine instructions - Medicine started|1458|1524
+20|DO NOT TAKE BOTH OXYCODONE AND DILAUDID| Aftercare instructions - patient needs to do - Medication|1526|1565
+21|This medication causes sedation. Do not drive while taking this medication| Aftercare instructions - patient needs to do - Medication|1669|1743

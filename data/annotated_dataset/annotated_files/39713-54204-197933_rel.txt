@@ -1,0 +1,26 @@
+Medical Issues
+Symptoms include <black tarry stools>;<decreased hematocrit >;
+Symptoms {black tarry stools; decreased hematocrit} caused by Disease <chronic GI bleeding > [No explicit item]
+Symptoms {No explicit item} caused by Disease <divericulosis > {diverticulosis}
+
+Tests
+Tests include <nasogastric lavage >
+
+Treatments
+Procedure <received 2 units of blood  > to treat {decreased hematocrit}
+<received 2 units of blood  >  Results: [No explicit item]
+<increase your hematocrit >  Results: [No explicit item]
+Procedure <colonoscopy > to treat [No explicit item]
+<colonoscopy >  Results: [No explicit item]
+Procedure <upper endoscopy (EGD) > to treat [No explicit item]
+<upper endoscopy (EGD) >  Results: {CHANGE HERE Treatment Result}
+Procedure <endoscopy > to treat {further evaluate for the bleeding}
+<endoscopy >  Results: [No explicit item]
+<control heart rate >  Results: [No explicit item]
+<further evaluate for the bleeding >  Results: [No explicit item]
+Medicine <verapamil > to treat [No explicit item]
+<verapamil >  Results: {control heart rate}
+
+No template for <verapamil >
+No template for <follow up with your PCP  >
+No template for <GI doctors >

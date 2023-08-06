@@ -1,0 +1,12 @@
+Medical Issues
+Symptoms include <intoxication>;<inability to walk>;<seizures>;
+Symptoms <seizures> caused by Disease <intoxication Maybe> 
+
+Tests
+Tests include <x-rays of your feet>;<MRI>;
+Test results of <x-rays of your feet>: <no fractures>;
+Test implications of <MRI>: <damage to your brain that could be from heavy alcohol consumption>;
+
+No template for <You should continue to walk with crutches until you are able to bear weight on your feet>
+No template for <You have an appointment at the [**Hospital Ward Name 23**] Building for primary care with Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) **] on [**2201-8-17**] at 2:30>
+No template for <You will be given information about detoxification programs that you can go to if you would like to quit drinking>

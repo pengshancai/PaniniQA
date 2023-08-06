@@ -1,0 +1,19 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|infection in your kidney.| Medical Issues - Disease|166|191
+1|CT scan performed of your kidney| Tests - Test name|202|234
+2|consistent with a kidney infection| Tests - Test result|246|280
+3|blood pressure was low| Medical Issues - Symptom|317|339
+4|fluids| Treatments - Medicine name|356|362
+5|antibiotics| Treatments - Medicine name|380|391
+6|You improved with these treatments and were able to go home on oral antibiotics| Treatments - Result of the treatment|412|491
+7|Please follow the medications prescibed below.| Aftercare instructions - patient needs to do - Medication|493|539
+8|Please follow up with the appoints made below.| Aftercare instructions - Upcoming Schedules - Specialist appointment|540|586
+9|Please call your PCP or go to the ED if you experience worsening fevers, chills, pain with urination, nausea, vomiting, chest pain, shortness of breath, back pain, or other worsening symptoms| Aftercare instructions - Emergency instruction|587|778
+10|patient should have a CBC and BP check tomorrow| Aftercare instructions - Upcoming Schedules - Test|820|867
+11|urine culture| Tests - Test name|1019|1032
+12|growing E. Coli| Tests - Test result|1036|1051
+13|CT scan| Tests - Test name|1197|1204
+14|hypodensity within the left upper pole| Tests - Test result|1214|1252
+15|risk for developing into an abscess| Tests - Test implication|1270|1305
+16|Close interval followup is suggested. Imaging should be repeated if symptoms worsen or recurrs after treatment.| Aftercare instructions - Upcoming Schedules - Test|1307|1418
+17|The patient should be continued for a 14 day course of antibiotics.| Medicine instructions - Medicine continued|1419|1486

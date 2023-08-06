@@ -1,0 +1,15 @@
+Treatments
+Procedure <intubated > to treat <COPD exacerbation>
+<intubated >  Results: <You improved with these interventions, and by discharge, you were back on 3 L NC as you are normally at home.>
+Medicine <IV antibiotics > to treat <COPD exacerbation>
+<IV antibiotics >  Results: <You improved with these interventions, and by discharge, you were back on 3 L NC as you are normally at home.>
+Medicine <nebulizer treatments > to treat <COPD exacerbation>
+<nebulizer treatments >  Results: <You improved with these interventions, and by discharge, you were back on 3 L NC as you are normally at home.>
+Medicine <steroids > to treat <COPD exacerbation>
+<steroids >  Results: <You improved with these interventions, and by discharge, you were back on 3 L NC as you are normally at home.>
+
+Aftercare instructions
+If encounter <worsening shortness of breath, chest pain, fever &gt;101.4 F, or any other symptoms which are concerning to you> do <Please return to the ED or call your PCP. >
+
+No template for <Please take all your medications as prescribed.  >
+No template for <Please keep all your medical appointments. >

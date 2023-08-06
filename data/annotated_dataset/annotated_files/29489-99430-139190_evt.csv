@@ -1,0 +1,12 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|could not wake you up| Medical Issues - Symptom|110|131
+1|ventilator| Treatments - Procedure name|374|384
+2|help you breathe| Treatments - Treatment goal|388|404
+3|gradually woke up and returned to your normal personality| Treatments - Result of the treatment|471|528
+4|**It is very important that you take only the dose of Seroquel that has been prescribed to you.**| Aftercare instructions - patient needs to do - Medication|530|627
+5|MRI of your brain| Tests - Test name|660|677
+6|area concerning for a stroke| Tests - Test result|694|722
+7|You will need a repeat MRI in [**Month (only) 216**] for further evaluation.| Aftercare instructions - Upcoming Schedules - Test|872|948
+8|liver enzymes were elevated| Medical Issues - Symptom|981|1008
+9|STARTED aspirin 325mg daily| Medicine instructions - Medicine started|1167|1194
+10|We did not make any other changes to your medications. Please continue to take them as you have been doing.| Medicine instructions - Medicine continued|1195|1302

@@ -1,0 +1,8 @@
+Treatments
+<fluids >  Results: <Your hypotension, GI bleeding, and mental status improved >
+Medicine <chemotherapy  > to treat <multiple myeloma >
+<chemotherapy  >  Results: <ineffective and we are unable to cure your cancer>
+
+Aftercare instructions
+If encounter <pain, shortness of breath, nausea, diarrhea, fever, headache, or any other worrsisome symptoms> do <Please contact the hospice team. >
+

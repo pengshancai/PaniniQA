@@ -1,0 +1,8 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|seizusres| Medical Issues - Symptom|64|73
+1|overdose of seroquel, trazadone, and ultram| Medical Issues - Disease|83|126
+2|intubated| Treatments - Procedure name|137|146
+3|stabilized| Treatments - Result of the treatment|199|209
+4|brief fever| Medical Issues - Complication developed in the hospital|313|324
+5|irritation of your lung after the extubation| Medical Issues - Complication developed in the hospital|369|413
+6|| Aftercare instructions - Upcoming Schedules - Specialist appointment|437|494

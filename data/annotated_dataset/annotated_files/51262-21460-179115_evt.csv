@@ -1,0 +1,18 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|upper endoscopy| Tests - Test name|108|123
+1|varices in the stomach| Tests - Test result|136|158
+2|no evidence of active bleeding| Tests - Test result|169|199
+3|transfusions of red blood cells| Treatments - Procedure name|222|253
+4|one cycle of dialysis| Treatments - Procedure name|258|279
+5|you remained stable afterwards with no further bleeding| Treatments - Result of the treatment|285|340
+6|midodrine 5 mg three times daily| Medicine instructions - Medicine started|401|433
+7|pantoprazole 40 mg once daily for stomach acid suppression| Medicine instructions - Medicine started|443|501
+8|ciprofloxacin 250 mg once daily to take for three more days| Medicine instructions - Medicine started|511|570
+9|warfarin| Medicine instructions - Medicine stopped|582|590
+10|aspirin| Medicine instructions - Medicine stopped|602|609
+11|Please discuss with your liver doctor at your clinic appointment on Wednesday before restarting| Aftercare instructions - patient needs to do - Medication|611|706
+12|diazepam| Medicine instructions - Medicine stopped|717|726
+13|Please discuss with your primary care physician before restarting| Aftercare instructions - patient needs to do - Medication|754|819
+14|Please note your follow-up appointments below| Aftercare instructions - Upcoming Schedules - Specialist appointment|868|913
+15|Your sutures should be removed at your primary care visit appointment this coming Friday| Aftercare instructions - Upcoming Schedules - Treatment|915|1003
+16|bleed from the stomach| Medical Issues - Symptom|67|89

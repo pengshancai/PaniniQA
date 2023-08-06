@@ -1,0 +1,20 @@
+Medical Issues
+Symptoms include <difficulty breathing>;
+Symptoms <difficulty breathing> caused by Disease <heart failure > 
+Symptoms <difficulty breathing> caused by Disease <atrial fibrillation > <Maybe>
+
+Treatments
+Medicine <metoprolol > to treat <atrial fibrillation>
+<metoprolol > Results: <heart rate was better controlled >
+Medicine <coumadin > to treat <prevent strokes>
+<coumadin >  Results: [no explicit item]
+Procedure <You also had the fluid in your lungs drained > to treat <difficulty breathing>
+<You also had the fluid in your lungs drained >  Results: [no explicit item]
+
+No template for <The blood thinner requires frequent monitoring of a blood test called the INR to make sure that levels are therapeutic. You will be going to a rehab facility where you will have close monitoring. >
+No template for <We made the following changes to your medications: -START ferrous sulfate 325mg daily >
+No template for <-START pantoprazole 40mg daily >
+No template for <-START metoprolol 25mg three times a day >
+No template for <-START coumadin 2mg daily >
+No template for <-DECREASE aspirin from 325mg to 81mg daily >
+No template for <-STOP mirtazapine 15mg at night >

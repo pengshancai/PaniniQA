@@ -1,0 +1,20 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|belly pain| Medical Issues - Symptom|83|93
+1|chest pain| Medical Issues - Symptom|95|105
+2|palpitations| Medical Issues - Symptom|110|122
+3|atrial fibrillation| Medical Issues - Disease|154|173
+4|diltiazem| Treatments - Medicine name|246|255
+5|You were treated with a medication called diltiazem| Medicine instructions - Medicine started|204|255
+6|continued on your amiodarone| Medicine instructions - Medicine continued|260|288
+7|You were also started on a blood thinner, coumadin, to decrease your risk of complications from atrial fibrillation such as stroke.| Medicine instructions - Medicine started|290|421
+8|Your amlodipine was stopped.| Medicine instructions - Medicine stopped|422|451
+9|ultrasound| Tests - Test name|505|515
+10|to evaluate your abdominal pain| Tests - Test goal|516|547
+11|gall stone in your gallbladder and some dilation of your bile ducts| Tests - Test result|559|626
+12|You should follow up with the gastroenterologists as an outpatient.| Aftercare instructions - Upcoming Schedules - Specialist appointment|740|807
+13|pneumonia| Medical Issues - Disease|836|845
+14|asthma flare| Medical Issues - Disease|850|862
+15|antibiotics| Treatments - Medicine name|900|911
+16|tapering dose of prednisone| Treatments - Medicine name|943|970
+17|Please call your doctor or return to the emergency department if you develop any concerning symptoms including chest pain, difficulty breathing, palpitations or rapid heart rate.| Aftercare instructions - Emergency instruction|1045|1224
+18|gall stone in your gallbladder| Medical Issues - Disease|559|589

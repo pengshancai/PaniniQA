@@ -1,0 +1,14 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|fall| Medical Issues - Symptom|195|200
+1|no break in your skull or spine| Tests - Test implication|212|243
+2|you had a laceration stapled| Treatments - Procedure name|249|277
+3|You are much more yourself| Treatments - Result of the treatment|422|449
+4|will be going back to [**Hospital 100**] Rehab| Aftercare instructions - patient needs to do - Other|453|499
+5|increase your risperidone to 1.5mg daily, to be taken at 8pm (instead of 6pm)| Medicine instructions - Medicine changed|562|640
+6|Lasix| Medicine instructions - Medicine stopped|690|696
+7|Dr. [**First Name (STitle) 3646**] will watch you closely and decide when to restart this medicine| Aftercare instructions - Upcoming Schedules - PCP appointment|732|830
+8|levofloxacin 750mg once daily for 2 days to finish treatment for pneumonia| Medicine instructions - Medicine started|846|920
+9|pneumonia| Medical Issues - Disease|911|920
+10|Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more than 3 lbs| Aftercare instructions - patient needs to do - Other|922|1009
+11|you were confused and your oxygen was low. Some of this may have been related to medication you recieved| Medical Issues - Complication developed in the hospital|316|420
+12|You were admitted to the ICU| Treatments - Procedure name|279|307

@@ -1,0 +1,12 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|head bleed| Medical Issues - Symptom|148|158
+1|a broken nose| Medical Issues - Symptom|160|173
+2|broken bones in your face| Medical Issues - Symptom|175|200
+3|fractures in your neck| Medical Issues - Symptom|202|224
+4|bleeding in your head| Medical Issues - Symptom|229|250
+5|blood transfusion| Treatments - Procedure name|312|329
+6|Your head bleed is stable but you should not restart your aspirin until [**2166-4-17**]| Aftercare instructions - patient needs to do - Medication|331|418
+7|You should not restart your plavix until you see Dr. [**First Name (STitle) **] at your neurosurgery follow up appointment.| Aftercare instructions - patient needs to do - Medication|420|543
+8|You should not restart your plavix until you see Dr. [**First Name (STitle) **] at your neurosurgery follow up appointment.| Aftercare instructions - Upcoming Schedules - Specialist appointment|420|544
+9|Your cardiologist has been informed that we have made these changes to your medications| Aftercare instructions - patient needs to do - Other|544|631
+10|You do not need a cervical collar for your neck fractures but may wear the soft collar for comfort if you would like.| Aftercare instructions - patient needs to do - Other|633|750

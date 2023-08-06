@@ -1,0 +1,17 @@
+Medical Issues
+Symptoms include <lowered your blood pressure and red blood cell count >;<large hiatal hernia >;
+Symptoms <lowered your blood pressure and red blood cell count> caused by Disease <intestinal bleed> 
+
+Treatments
+Medicine <IV fluids > to treat <intestinal bleed>
+<IV fluids >  Results: <improved your blood pressure and red blood cell count>
+Procedure <blood > to treat <intestinal bleed>
+<blood >  Results: <this improved your blood pressure and red blood cell count >
+
+Aftercare instructions
+If encounter <coffee ground or bloody vomiting, blood in your stool, fevers, lightheadedness, abdominal pain, or any other concerning symptoms,> do <please call your physician or come to the emergency room immediately.  >
+
+No template for <Please take all medications as prescribed. >
+No template for < It is important to take your pantoprazole (Protonix) as prescribed, as this helps prevent excess acid that could contribute to bleeding.  >
+No template for <Also, avoid any &quot;NSAID&quot;s (example - ibuprofen, naproxen, aspirin) or alcohol. >
+No template for <Please set up a follow-up appointment with Dr. [**Last Name (STitle) 6431**] at ([**Telephone/Fax (1) 11720**] for 1-2 weeks after discharge. >

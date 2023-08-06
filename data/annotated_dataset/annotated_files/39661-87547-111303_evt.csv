@@ -1,0 +1,9 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|traumatic fall| Medical Issues - Disease|82|96
+1|rehab| Aftercare instructions - Upcoming Schedules - Specialist appointment|331|336
+2|physical therapy with gait training| Treatments - Procedure name|427|462
+3|eat| Aftercare instructions - patient needs to do - Diet|549|552
+4|stay hydrated| Aftercare instructions - patient needs to do - Diet|557|571
+5|return home| Treatments - Treatment goal|522|533
+6|healing| Treatments - Treatment goal|584|591
+7|stamina| Treatments - Treatment goal|596|603

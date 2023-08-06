@@ -1,0 +1,11 @@
+Medical Issues
+Symptoms include <severe narrowing in your throat>;<low platelet counts >;
+
+Tests
+Test results of [No explicit item]: <found to have normal swallowing function without the need for a special diet >;
+
+Treatments
+<steroids and antibiotics> Results: <Your symptoms improved with steroids and antibiotics >
+
+No template for <You will continue antibiotics until [**8-7**] >
+No template for <This will need to be evaluated further by your primary care doctor. >

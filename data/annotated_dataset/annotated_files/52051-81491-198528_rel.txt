@@ -1,0 +1,21 @@
+Medical Issues
+Symptoms include <accumulated too much fluid in your body>;<rapid heart rates>;
+Symptoms [no explicit] caused by Disease <respiratory failure> 
+Symptoms [no explicit] caused by Disease <pneumonia> 
+Symptoms <accumulated too much fluid in your body> caused by Disease <heart failure> 
+Symptoms <rapid heart rates> caused by Disease <atrial fibrillation> 
+
+Treatments
+Procedure <breathing tube> to treat [no explicit]
+<breathing tube>  Results: <breathing improved>
+Medicine <antibiotics> to treat <pneumonia>
+<antibiotics>  Results: <breathing improved>
+Medicine <removal of fluid with medications> to treat <heart failure>
+<removal of fluid with medications>  Results: <breathing improving> 
+
+No template for <metoprolol>
+No template for <amiodarone>
+No template for <It is very important to follow up with a cardiologist as an outpatient to adjust your dose of this medication>
+No template for <miodarone was STARTED. Please take 400mg twice daily for 5 additional days until [**10-16**], then decrease your dose to 200mg daily until followup with a cardiologist>
+No template for <lisinopril>
+No template for <Furosemide>

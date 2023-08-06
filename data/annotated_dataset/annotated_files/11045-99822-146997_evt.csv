@@ -1,0 +1,10 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|chemotherapy| Treatments - Medicine name|69|81
+1|concentrated saline administration| Treatments - Medicine name|86|120
+2|You tolerated the chemotherapy well| Treatments - Result of the treatment|122|158
+3|your sodium levels remained at your baseline| Treatments - Result of the treatment|162|206
+4|Be sure to continue to restrict your fluid intake to 1 liter a day. In addition try to eat salty foods.| Aftercare instructions - patient needs to do - Diet|262|365
+5|Lasix was started to help keep your sodium level normal| Medicine instructions - Medicine started|428|483
+6|Enalapril was decreased to 5mg twice a day| Medicine instructions - Medicine changed|486|528
+7|Clotrimazole as needed for mouth pain| Medicine instructions - Medicine started|531|569
+8|You should start cipro as directed on Saturday [**6-3**] when your 5-FU chemo pump is stopped| Medicine instructions - Medicine started|572|665

@@ -1,0 +1,10 @@
+Tests
+Tests include <biopsy >;
+Test results of <biopsy>: <showed no cancer >;
+
+Aftercare instructions
+If encounter <any worrisome symptoms> do <Please call your doctor or return to the hospital. >
+
+No template for < You will follow up with Dr. [**First Name (STitle) 4223**] and Dr. [**Last Name (STitle) **] for further observation.  >
+No template for <You should discuss this with your kidney doctor. >
+No template for <Please continue to take your medications as prescribed >

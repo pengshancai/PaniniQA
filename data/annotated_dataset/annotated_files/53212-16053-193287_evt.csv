@@ -1,0 +1,8 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|exacerbation of your COPD| Medical Issues - Disease|76|101
+1|You improved| Treatments - Result of the treatment|103|115
+2|azithromycin 250 mg daily for 3 more days| Medicine instructions - Medicine started|235|276
+3|prednisone 40 mg po tomorrow, then 30 mg po the following day, then back to your usual 20 mg po daily| Medicine instructions - Medicine changed|285|386
+4|Please go to all of your outpatient appointments| Aftercare instructions - Upcoming Schedules - Specialist appointment|388|436
+5|Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more than 3 lbs| Aftercare instructions - patient needs to do - Other|438|525
+6|Please seek urgent medical advice or obtain transport to the ED if you experience any of the following: - Worsening shortness of breath, chest pain, intractable cough, fever or chills, fainting, any other new or concerning symptoms| Aftercare instructions - patient needs to do - Other|527|758

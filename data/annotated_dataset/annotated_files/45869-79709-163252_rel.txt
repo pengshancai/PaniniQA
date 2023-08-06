@@ -1,0 +1,29 @@
+Medical Issues
+Symptoms include <becoming more lethargic>;<blood count was below the value recommended for someone with heart disease >;
+Symptoms <becoming more lethargic> caused by Disease <serious infection in your blood caused by MRSA > 
+Symptoms [no explicit item] caused by Disease <ulcer on your left foot > 
+Symptoms [no explicit item] caused by Disease <atrial fibrillation. >
+
+Tests
+Tests include <fluid from your right hip >;<scanned your AAA repair graft >;<ultrasound of your heart >;
+Test results of <fluid from your right hip>: <didn&#x27;t look infected >;
+Test results of <scanned your AAA repair graft>: <looked good as well >;
+Test goal of <ultrasound of your heart>: <to evaluate if your had an infection of your heart valves >;
+Test results of <ultrasound of your heart>: <but we couldn&#x27;t get a good picture >;
+
+Treatments
+Medicine <As a result, we will treat you with 6 weeks of IV antibiotics > to treat <serious infection in your blood caused by MRSA>
+<As a result, we will treat you with 6 weeks of IV antibiotics >  Results: [no explicit item]
+Procedure <blood transfusion > to treat <blood count was below the value recommended for someone with heart disease>
+<blood transfusion >  Results: <declinced knowing the risks and benefits of a transfusion >
+
+No template for <Additionally, we will have you follow up with the vascular surgeons to make sure you have enough blood flow to your left heel to fight the infection >
+No template for <We started you on a blood thinning medication called coumadin to help prevent a stroke >
+No template for <We can control the rate of your heart with medicines, but you do have an increased risk of stroke. >
+No template for <You will need to get your blood levels (INR) checked frequently while on coumadin. >
+No template for <You should follow up with your cardiologist to follow this heart rhythm. >
+No template for <Please note the following changes to your medications: START Vancomycin 1 g every day intravenously through [**9-5**]. >
+No template for <START Coumadin 2.5 mg daily and then as instructed by your doctor [**First Name (Titles) **] [**Last Name (Titles) 9766**] to 81mg daily >
+No template for <INCREASE Metoprolol to 100mg daily >
+No template for <No other changes were made to your medications. >
+No template for <Please attend the following appointments we have made for you. >

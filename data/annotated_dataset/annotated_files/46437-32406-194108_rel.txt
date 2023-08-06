@@ -1,0 +1,36 @@
+Medical Issues
+Symptoms include <abdominal distention>;<nausea >;<bloody vomit >;<extra fluid on your lungs >;
+Complication <atrial fibrillation > caused by [no explicit item]
+Complication <difficulty breathing > caused by <chronic lung disease> 
+Symptoms <extra fluid on your lungs> caused by Disease <chronic lung disease > 
+
+Tests
+Tests include <Biopsies >;
+
+Treatments
+Procedure <endoscopy of your upper gastrointestinal tract > to treat [no explicit item]
+<endoscopy of your upper gastrointestinal tract >  Results: <showed erosion and inflammation in your esophagus that was likely the cause of your bleeding >
+Medicine <proton pump inhibitor > to treat <erosion and inflammation of esophagus>
+<proton pump inhibitor >  Results: [no explicit item]
+Medicine <sulfacrate > to treat <erosion and inflammation of esophagus>
+<sulfacrate >  Results: [no explicit item]
+Medicine <diltiazem > to treat <atrial fibrillation>
+<diltiazem >  Results: <slowed your heart and your heart beat returned to a normal rhythm>
+Procedure <oxygen > to treat <chronic lung disease>
+<oxygen >  Results: <You breathing improved and at the time of discharge, you were breathing comfortably on 3 L of oxygen by nasal cannula>
+Procedure <diuresis > to treat <chronic lung disease>
+<diuresis >  Results: <You breathing improved and at the time of discharge, you were breathing comfortably on 3 L of oxygen by nasal cannula>
+Medicine <steriods > to treat <chronic lung disease>
+<steriods >  Results: <You breathing improved and at the time of discharge, you were breathing comfortably on 3 L of oxygen by nasal cannula>
+Medicine <inhalers > to treat <chronic lung disease>
+<inhalers >  Results: <You breathing improved and at the time of discharge, you were breathing comfortably on 3 L of oxygen by nasal cannula>
+
+Aftercare instructions
+If encounter <any fever, chills, abdominal pain, nausea, vomiting, diarrhea, chest pain, shortness of breath, or any other symptoms that concern you> do <call your doctor immediately or return to the hospital>
+
+No template for <We also stopped your blood thinning medication, aggrenox that you were on to prevent recurrent stroke. You should talk to your doctor about starting this medicine again. >
+No template for <We also stopped your blood thinning medication, aggrenox that you were on to prevent recurrent stroke. You should talk to your doctor about starting this medicine again >
+No template for <Because you have had this arrhythmia several times, you should talk to your doctor about starting another blood thinner (coumadin) to prevent complications from this problem. >
+No template for <You also had significant problems with [**Name2 (NI) 98652**] in the hospital, requiring several medications to have a bowel movement. At the rehab center you can stop these medications as long as you are not constipated. >
+No template for <Please make the following changes to your medication: 1. start Sucralfate 1 gm by mouth 4 times daily 2. protonix 40 mg by mouth twice daily 3. prednisone taper (30, 20, 10 mg) by mouth for 3 days 4. azithromycin 250 mg by mouth for 2 days >
+No template for <5. stop aggrenox >

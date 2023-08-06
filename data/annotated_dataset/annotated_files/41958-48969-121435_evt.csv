@@ -1,0 +1,8 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|required intubation following the procedure but you were successfully extubated| Treatments - Procedure name|130|209
+1|heart is in a slow rhythm| Medical Issues - Symptom|216|241
+2|STOP taking metoprolol, diphenhydramine, and spironolactone| Medicine instructions - Medicine stopped|350|409
+3|START aspirin every day to keep the valve working well| Treatments - Medicine name|412|467
+4|START Plavix every day to keep the valve working well, do not stop taking this medicine unless| Treatments - Medicine name|469|563
+5|START ampicillin to treat a urinary tract infection| Treatments - Medicine name|616|667
+6|START pyridium for three days to treat bladder pain because of the infection| Treatments - Medicine name|670|746

@@ -1,0 +1,17 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|abdominal pain| Medical Issues - Symptom|68|82
+1|leg swelling| Medical Issues - Symptom|84|96
+2|decreased appetite| Medical Issues - Symptom|98|116
+3|weight loss| Medical Issues - Symptom|121|132
+4|unresponsiveness due to pain medications| Medical Issues - Symptom|184|224
+5|given medications to help with better blood pressure control| Treatments - Medicine name|308|368
+6|You will continue to follow up with your PCP [**Last Name (NamePattern4) **]| Aftercare instructions - Upcoming Schedules - PCP appointment|491|567
+7|[**Last Name (STitle) 5717**] for continued care and to follow up with the results of the pending tests.| Aftercare instructions - Upcoming Schedules - Test|569|674
+8|Please discuss whether you need a colonoscopy with your PCP.| Aftercare instructions - Upcoming Schedules - PCP appointment|674|734
+9|Medication changes: 1. Blood pressure medications changes-start metoprolol and spironolactone| Medicine instructions - Medicine started|737|830
+10|STOP atenolol| Medicine instructions - Medicine stopped|832|845
+11|2.start lasix-for leg swelling| Medicine instructions - Medicine started|846|877
+12|3.decrease haldol from 10mg to 5mg daily| Medicine instructions - Medicine changed|877|917
+13|4.your potassium supplementation was decreased by half. Please only take 20mg daily.| Medicine instructions - Medicine changed|918|1002
+14|Please take your medications as prescribed and keep your appointments below.| Aftercare instructions - patient needs to do - Medication|1005|1081
+15|Please take your medications as prescribed and keep your appointments below.| Aftercare instructions - Upcoming Schedules - PCP appointment|1005|1081

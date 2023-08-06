@@ -1,0 +1,13 @@
+Medical Issues
+Symptoms include <impedance of your ICD >;
+Symptoms <impedance of your ICD> caused by Disease <fracture of the ICD leads > 
+
+Treatments
+Procedure <lead revision> to treat <fracture of the ICD leads>
+<lead revision>  Results: <You did not have any complications after this procedure. >
+
+No template for <You are being discharged home to follow-up with your cardiologist. >
+No template for <STOP Cymbalta >
+No template for <START Sertraline (Zoloft) 25 mg daily. You should talk to your PCP regarding whether he wants to further increase your dose.  >
+No template for <START Cephalexin 500 mg every 6 hours for 7 days >
+No template for <Weigh yourself every morning, [**Name6 (MD) 138**] your MD if your weight goes up more than 3 lbs. >

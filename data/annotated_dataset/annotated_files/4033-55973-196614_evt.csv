@@ -1,0 +1,9 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|low blood pressures| Medical Issues - Symptom|113|132
+1|low blood counts| Medical Issues - Symptom|137|153
+2|heart strain| Medical Issues - Symptom|298|311
+3|You improved after some fluid was removed with dialysis.| Treatments - Procedure name|360|416
+4|Please Weigh yourself every morning| Aftercare instructions - patient needs to do - Other|417|452
+5|Increase your tacrolimus| Treatments - Medicine name|556|580
+6|Your warfarin dose was changed| Medicine instructions - Medicine changed|584|615
+7|Start taking Vitamin B12| Treatments - Medicine name|618|642

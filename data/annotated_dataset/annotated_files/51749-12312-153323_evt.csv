@@ -1,0 +1,19 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|watery diarrhea| Medical Issues - Symptom|64|79
+1|shortness of breath| Medical Issues - Symptom|108|127
+2|low blood pressure| Medical Issues - Symptom|129|147
+3|jaundice| Medical Issues - Symptom|153|161
+4|No clear bacterial cause was found| Tests - Test result|163|197
+5|improved during your hospitalization| Treatments - Result of the treatment|226|262
+6|inflammed liver| Medical Issues - Disease|290|304
+7|increased amounts of bile| Tests - Test result|310|335
+8|history of drinking whiskey| Medical Issues - Disease|441|468
+9|1 L of fluid removed from your abdomen| Treatments - Procedure name|479|517
+10|breathing improved prior to discharge| Treatments - Result of the treatment|524|561
+11|kidneys also started working harder than usual| Medical Issues - Complication developed in the hospital|568|614
+12|Losartan| Medicine instructions - Medicine stopped|746|754
+13|lasix| Medicine instructions - Medicine stopped|756|761
+14|sotalol| Medicine instructions - Medicine stopped|767|774
+15|imodium as needed for loose stools| Medicine instructions - Medicine started|884|918
+16|We are holding fluvastatin until your liver numbers go back to baseline| Medicine instructions - Medicine stopped|923|994
+17|Please call your physician or return to the ED if you experience any of the following: fever &gt; 101, worsening shortness of breath, worsening diarrhea, abdominal pain, or any other symptoms concerning to you| Aftercare instructions - patient needs to do - Other|996|1205

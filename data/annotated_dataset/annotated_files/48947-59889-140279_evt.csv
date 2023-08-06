@@ -1,0 +1,16 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|headache| Medical Issues - Symptom|65|73
+1|high potassium| Tests - Test result|78|92
+2|acute progression of your chronic subdural hematoma| Tests - Test result|120|171
+3|multiple CT scans| Tests - Test name|207|224
+4|confused| Medical Issues - Complication developed in the hospital|235|243
+5|combination of the sudural hematoma, infection, and delirium| Medical Issues - Disease|283|343
+6|signifciantly improved over the last 4 days and neurosurgery no longer feels that surgery is needed at this time| Treatments - Result of the treatment|363|475
+7|infection of your [**Last Name (NamePattern1) 2286**] line| Medical Issues - Complication developed in the hospital|564|622
+8|your old line was pulled and you had a temporary line placed. Later a permanent new line was placed| Treatments - Procedure name|634|733
+9|Vancomycin was added for your infection| Medicine instructions - Medicine started|797|836
+10|senna was added for consitpation| Medicine instructions - Medicine started|837|869
+11|Fosrenol was replaced with Sevelamer| Medicine instructions - Medicine changed|870|906
+12|Please follow up with your doctors as detailed below| Aftercare instructions - Upcoming Schedules - PCP appointment|910|962
+13|If you develop headaches, nausea or vomitting, change in your vision, focal weakness, confusion, fevers, chills, chest pain, shortness of breath, abdominal pain, or any other worrisome symptom please call your doctor or go to the emergency room.| Aftercare instructions - patient needs to do - Other|965|1211
+14|[**Last Name (NamePattern1) 2286**]| Treatments - Medicine name|515|550

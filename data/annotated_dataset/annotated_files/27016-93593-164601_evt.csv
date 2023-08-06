@@ -1,0 +1,14 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|vomited blood| Medical Issues - Symptom|72|85
+1|endoscopy| Tests - Test name|124|133
+2|stomach ulcers| Medical Issues - Disease|158|172
+3|found to have stomach ulcers| Tests - Test result|144|172
+4|infection at your recent surgical site (in the left groin)| Medical Issues - Disease|423|481
+5|antibiotics| Treatments - Medicine name|506|517
+6|Continue to take your home medications| Medicine instructions - Medicine continued|521|559
+7|START bactrim (an antibiotic) to complete a 10-day course| Medicine instructions - Medicine started|586|643
+8|START pantoprazole twice a day (to prevent ulcer formation)| Medicine instructions - Medicine started|646|705
+9|START heparin subcutaneous injections twice a day until the patient is ambulatory at which point this can be discontinued| Medicine instructions - Medicine started|708|830
+10|STOP taking your 325mg Aspirin until you follow-up with Dr. [**Last Name (STitle) 1391**] and then you can discuss with him if it is now appropriate/safe to restart the aspirin.| Medicine instructions - Medicine stopped|832|1009
+11|TOP taking omeprazole (pantoprazole is replacing this).| Medicine instructions - Medicine stopped|1011|1066
+12|| Medicine instructions - Medicine started|1067|1174

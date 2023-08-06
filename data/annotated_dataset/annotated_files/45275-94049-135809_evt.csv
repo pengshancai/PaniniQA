@@ -1,0 +1,11 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|difficulty breathing| Medical Issues - Symptom|70|90
+1|chronic lung disease| Medical Issues - Disease|122|142
+2|BiPAP| Treatments - Procedure name|162|167
+3|IV lasix| Treatments - Medicine name|186|194
+4|steroids| Treatments - Medicine name|218|226
+5|Please be sure to use your home oxygen to keep your oxygen saturation over 90%.| Aftercare instructions - patient needs to do - Other|228|307
+6|Also, continue your BiPAP every night.| Aftercare instructions - patient needs to do - Other|308|346
+7|Please go to all follow up appointments and take all medications as prescribed.| Aftercare instructions - Upcoming Schedules - Specialist appointment|347|426
+8|We have lowered you lasix dose as it was causing your chloride (an electrolyte) level to be low.| Medicine instructions - Medicine changed|427|523
+9|| Aftercare instructions - Emergency instruction|524|759

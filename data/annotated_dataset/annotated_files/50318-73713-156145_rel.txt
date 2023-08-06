@@ -1,0 +1,9 @@
+Medical Issues
+Symptoms [no explicit item] caused by Disease <pneumonia> 
+
+Treatments
+Medicine <broad spectrum antibiotics > to treat <pneumonia>
+<broad spectrum antibiotics >  Results: <you improved >
+
+
+No template for <Vancomycin 1 gram IV every 12 hrs for 6 days >

@@ -1,0 +1,24 @@
+Medical Issues
+Symptoms [no explicit item] caused by Disease <acute exacerbation of your congestive heart failure>
+Complication <You also continued to have bleeding from the malformations in your intestinal tract> caused by [no explicit item]
+Complication <Your kidneys worsened with the diuresis temporarily but have now recovered> caused by  [no explicit item]
+
+Tests
+Test results of <{imaging}>: <bony deformity on your spine that is impinging on your throat and causing trouble with swallowing >;
+
+Treatments
+Procedure <intravenous diuretics > to treat <acute exacerbation of your congestive heart failure>
+<intravenous diuretics >  Results: [no explicit item]
+Medicine <medicines to help your heart pump better > to treat <acute exacerbation of your congestive heart failure>
+<medicines to help your heart pump better>  Results: [no explicit item]
+
+No template for <you will need to increase or decrease the torsemide to stay at this weight>
+No template for <we will give you only shakes to drink and liquid or crushed medicines>
+No template for <furosemide>
+No template for <metolazone>
+No template for <digoxin>
+No template for <magnesium>
+No template for <Change metoprolol to tartrate formulation so the medicine can be crushed>
+No template for <Start torsemide 80 mg daily to prevent fluid accumulation. This will need to be titrated up or down to maintain a weight of 182 pounds>
+No template for <Decrease allopurinol to 100 mg daily>
+No template for <Weigh yourself every morning before breakfast>

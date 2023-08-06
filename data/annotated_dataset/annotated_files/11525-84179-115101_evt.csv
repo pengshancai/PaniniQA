@@ -1,0 +1,20 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|confusion| Medical Issues - Symptom|137|147
+1|subdural hematoma| Medical Issues - Disease|250|267
+2|two CT scans of your head| Tests - Test name|316|341
+3|bleeding had stopped| Tests - Test result|373|393
+4|Your were started on Keppra for seizure prophylaxis.| Medicine instructions - Medicine started|395|447
+5|TIPS reduction| Treatments - Procedure name|515|529
+6|hepatic encephalopathy| Medical Issues - Disease|639|661
+7|your encephalopathy improved| Treatments - Result of the treatment|684|712
+8|paracentesis| Treatments - Procedure name|735|747
+9|remove fluid from your abdomen| Treatments - Treatment goal|751|781
+10|infection| Medical Issues - Disease|800|809
+11|antibiotics| Treatments - Medicine name|833|844
+12|repeat tap| Treatments - Procedure name|848|858
+13|removed about 3L of fluid| Treatments - Result of the treatment|859|884
+14|showed that the infection had resolved| Treatments - Result of the treatment|889|927
+15|START: ciprofloxacin 500mg daily on [**2146-9-23**] to prevent recurrence of spontaneous bacterial peritonitis| Medicine instructions - Medicine started|985|1095
+16|START: keppra 500mg twice daily| Medicine instructions - Medicine started|1096|1127
+17|DECREASE: spironolactone to 100mg daily| Medicine instructions - Medicine changed|1128|1167
+18|DECREASE: lasix to 40mg daily| Medicine instructions - Medicine changed|1168|1197

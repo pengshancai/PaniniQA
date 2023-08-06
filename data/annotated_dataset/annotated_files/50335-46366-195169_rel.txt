@@ -1,0 +1,18 @@
+Medical Issues
+Symptoms include <shortness of breath>;
+Symptoms <shortness of breath> caused by Disease <pneumonia > 
+
+Tests
+Tests include <bronchoscopy >;
+Test results of <bronchoscopy>: <you had a large amount of cells called eosinophils >;
+
+Treatments
+Medicine < antibiotics > to treat <pneumonia>
+< antibiotics >  Results: [no explicit item]
+
+No template for <Please start taking Calcium and Vitamin D >
+No template for <take Bactrim to prevent any other lung infections >
+No template for <Please follow up with Dr. [**Last Name (STitle) 713**] and the other doctors listed below >
+No template for <albuterol  >
+No template for <levoalbuterol (Xopenex) >
+No template for <Please return to the hospital for any worsening shortness of breath, increased cough, fevers, chills, chest pain, fainting, headaches, or any other concerns >

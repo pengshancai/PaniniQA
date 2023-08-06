@@ -1,0 +1,23 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|vomited blood| Medical Issues - Symptom|77|90
+1|found unresponsive| Medical Issues - Symptom|100|118
+2|ventilator| Treatments - Procedure name|122|133
+3|help your lungs breathe| Treatments - Treatment goal|145|168
+4|taken off the ventilator| Treatments - Result of the treatment|262|286
+5|did very well breahting on your own| Treatments - Result of the treatment|292|327
+6|infection in your throat and also possibly your blood| Medical Issues - Complication developed in the hospital|363|416
+7|antibiotics| Treatments - Medicine name|450|461
+8|gout flare| Medical Issues - Complication developed in the hospital|478|488
+9|steroids| Treatments - Medicine name|513|521
+10|weakness and trouble swallowing| Medical Issues - Complication developed in the hospital|588|619
+11|feeding tube| Treatments - Procedure name|661|673
+12|You still need physical therapy to help you to continue to improve| Aftercare instructions - patient needs to do - Other|757|823
+13|Prednisone 10mg PO daily x 2days| Medicine instructions - Medicine started|889|921
+14|Toprol XL 200mg daily| Medicine instructions - Medicine started|931|952
+15|artificial tears to both eyes as needed for dry eyes| Medicine instructions - Medicine started|962|1014
+16|Lansoprazole 30mg daily| Medicine instructions - Medicine started|1024|1047
+17|Lansoprazole 15mg daily| Medicine instructions - Medicine stopped|1056|1079
+18|HCTZ| Medicine instructions - Medicine stopped|1087|1092
+19|Flonase nasal spray daily| Medicine instructions - Medicine started|1123|1148
+20|Ipratropium and Albuteral inhalers as needed for shortness of breath or wheezing| Medicine instructions - Medicine started|1157|1238
+21|Please seek immediate medical attention if you expreience extreme weakness in your limbs, high fevers, chest pain, shortness of breath or any other concerning symptoms| Aftercare instructions - patient needs to do - Other|1239|1406

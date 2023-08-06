@@ -1,0 +1,13 @@
+Medical Issues
+Symptoms include <complete heart block>;
+
+Treatments
+Procedure <placement of a permanent pacemaker > to treat <complete heart block>
+<placement of a permanent pacemaker >  Results: <You underwent the procedure without complications>
+
+No template for <You will need to follow-up with the EP (heart rhythm) doctors [**Last Name (NamePattern4) **] 1 week >
+No template for <Your medications have CHANGED as follows: 1. We DECREASED your metoprolol from 100mg twice per day to 50mg twice per day (this medicine is for heart rate and blood pressure) 2. We ADDED cephalexin (keflex) an antibiotic you will need to take for 3 days (last dose on [**6-12**]) to help prevent infection from the procedure. 3. ADDED a few oxycodone tablets for pain relief if your chest is hurting from the procedure >
+No template for <Your medications have CHANGED as follows: 1. We DECREASED your metoprolol from 100mg twice per day to 50mg twice per day (this medicine is for heart rate and blood pressure) >
+No template for <2. We ADDED cephalexin (keflex) an antibiotic you will need to take for 3 days (last dose on [**6-12**]) to help prevent infection from the procedure. >
+No template for <3. ADDED a few oxycodone tablets for pain relief if your chest is hurting from the procedure. This will go away in time. >
+No template for <Please continue to take the rest of your medications as you have been before. >

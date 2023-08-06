@@ -1,0 +1,15 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|abdominal infection| Medical Issues - Disease|163|182
+1|Infectious diarrheal disease| Medical Issues - Disease|302|330
+2|kidney injury| Medical Issues - Disease|512|526
+3|colitis| Medical Issues - Disease|384|391
+4|irritation from the bile leak from your surgery| Medical Issues - Symptom|405|452
+5|mental status changes| Medical Issues - Symptom|608|629
+6|pneumonia| Medical Issues - Disease|714|723
+7|we have been treating with IV antibiotics which will be continued at home for three days| Treatments - Medicine name|731|819
+8|blood pressures were elevated| Medical Issues - Symptom|853|882
+9|hypertension| Medical Issues - Disease|911|923
+10|You will be going home with a mid-line IV and a visiting nurse will come to administer medications and will remove the line.| Aftercare instructions - Upcoming Schedules - Treatment|925|1049
+11|START amlodipine 5mg by mouth every day| Treatments - Medicine name|1140|1179
+12|START Vancomycin 1 gram intravenous every other day| Treatments - Medicine name|1182|1233
+13|START cefepime 2g intravenous every 24 hours| Treatments - Medicine name|1236|1280

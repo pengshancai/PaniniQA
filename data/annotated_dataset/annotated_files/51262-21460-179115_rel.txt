@@ -1,0 +1,26 @@
+Medical Issues
+Symptoms include <bleed from the stomach >;
+
+Tests
+Tests include <upper endoscopy>;
+Test results of <upper endoscopy>: <varices in the stomach>;
+Test results of <upper endoscopy>: <no evidence of active bleeding>;
+
+Treatments
+Procedure <transfusions of red blood cells > to treat <bleed from the stomach>
+<transfusions of red blood cells>  Results: <you remained stable afterwards with no further bleeding>
+Procedure <one cycle of dialysis> to treat <bleed from the stomach>
+<one cycle of dialysis >  Results: <you remained stable afterwards with no further bleeding>
+
+
+No template for <midodrine 5 mg three times daily>
+No template for <pantoprazole 40 mg once daily for stomach acid suppression>
+No template for <ciprofloxacin 250 mg once daily to take for three more days>
+No template for <warfarin>
+No template for <aspirin>
+No template for <Please discuss with your liver doctor at your clinic appointment on Wednesday before restarting>
+No template for <diazepam>
+No template for <Please discuss with your primary care physician before restarting>
+No template for <Please discuss with your liver doctor at your clinic appointment on Wednesday before restarting>
+No template for <Please note your follow-up appointments below>
+No template for <Your sutures should be removed at your primary care visit appointment this coming Friday>

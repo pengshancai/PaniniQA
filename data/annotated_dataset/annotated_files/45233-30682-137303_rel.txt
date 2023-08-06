@@ -1,0 +1,18 @@
+Medical Issues
+Symptoms include <bleed after your kyphoplasty>;
+Symptoms [no explicit item] caused by Disease <bladder infection > 
+Symptoms [no explicit item] caused by Disease <blood infection > 
+
+Treatments
+Procedure <two procedures to stop the bleeding > to treat <bleed>
+<two procedures to stop the bleeding >  Results: [no explicit item]
+Medicine <anitbiotics > to treat <bladder infection >; <blood infection > 
+<anitbiotics >  Results: [no explicit item]
+
+Aftercare instructions
+If encounter <chest pain, shortness of breath, new abdominal pain, new weakness, problems with [**Name2 (NI) 16019**], fainting, or other concerning symptoms> do <please seek medical attention or go to the ER>
+
+No template for <You have now been restarted on your heparin >
+No template for <Your last day of antibiotics will be [**2147-5-10**] >
+No template for <It is improtant that you eat in order to heal. You will be going to a rehab to gain your strength and improve your eating. >
+No template for <Please call to make an appointment with you primary care docotor once you leave the rehab center. >

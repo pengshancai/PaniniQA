@@ -1,0 +1,13 @@
+Medical Issues
+Symptoms include <fever >;
+Symptoms [No explicit item] caused by Disease <subdural hematoma>
+Symptoms [No explicit item] caused by Disease <hemorrhage into the brain >
+Symptoms [No explicit item] caused by Disease <subarachnoid hemorrhage >
+Symptoms [No explicit item] caused by Disease <skull fracture >
+Symptoms [No explicit item] caused by Disease <pancreatitis >
+Symptoms [No explicit item] caused by Disease <aspiration pneumonia >
+
+Tests
+Tests include <cat scan of your body to assess for other injury >;
+Test results of <cat scan>: <Incedentally found was a lung mass in the left upper lobe with masses in spleen and thyroid >;
+

@@ -1,0 +1,17 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|shortness of breath| Medical Issues - Symptom|75|94
+1|chest pain| Medical Issues - Symptom|99|109
+2|exacerbation of your known heart failure| Medical Issues - Disease|137|177
+3|furosemide| Treatments - Medicine name|267|277
+4|get the extra fluid out of your lungs| Treatments - Treatment goal|281|318
+5|You should also adhere to a low sodium diet (less than 2 grams of sodium daily).| Aftercare instructions - patient needs to do - Diet|361|441
+6|ventricular tachycardia| Medical Issues - Disease|491|514
+7|amiodarone| Treatments - Medicine name|556|566
+8|helps to prevent this rhythm from developing| Treatments - Result of the treatment|573|617
+9|You will stop taking sotalol| Medicine instructions - Medicine stopped|690|719
+10|You will increase your isosorbide dose to 90mg daily| Medicine instructions - Medicine changed|720|772
+11|Your metoprolol succinate dose will be 50mg daily| Medicine instructions - Medicine changed|774|823
+12|You will start taking furosemide 20mg daily at home| Medicine instructions - Medicine started|825|876
+13|You will start taking amiodarone 400mg twice daily until [**10-31**], then 400mg daily until [**11-7**], then 200mg daily starting [**11-8**]| Medicine instructions - Medicine started|878|1020
+14|You should follow-up with all of your outpatient medical appointments as listed below.| Aftercare instructions - patient needs to do - Other|1020|1106
+15|Please seek medical care if you experience any concerning symptoms such as fevers, chills, continuous lightheadedness, chest pain that is unresponsive to three nitroglycerin tablets, or increased shortness of breath.| Aftercare instructions - Emergency instruction|1107|1323

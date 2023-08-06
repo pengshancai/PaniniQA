@@ -1,0 +1,13 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|shortness of breath| Medical Issues - Symptom|63|82
+1|fluid around your lungs| Medical Issues - Symptom|107|130
+2|diuretics| Treatments - Medicine name|147|156
+3|to help remove extra fluid from your lungs| Treatments - Treatment goal|157|199
+4|cardiac event| Medical Issues - Complication developed in the hospital|246|259
+5|cath lab| Treatments - Procedure name|283|291
+6|found the blood vessels supplying your heart, including those with stents, to all be patent| Treatments - Result of the treatment|301|392
+7|developed an injury to your kidneys from the contrast dye used during the catherization| Medical Issues - Complication developed in the hospital|398|485
+8|You have a follow-up with Dr. [**Last Name (STitle) 2903**] (see below) during which you should be evaluated for your night sweats.| Aftercare instructions - Upcoming Schedules - Specialist appointment|553|684
+9|The following change was made to your medications: -- STOP losartan. Dr. [**Last Name (STitle) 2903**] should restart this medication after your kidneys have completely recovered.| Medicine instructions - Medicine changed|687|866
+10|Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more than 3 lbs.| Aftercare instructions - patient needs to do - Other|869|957
+11|Please be sure to limit the amount of salt in your diet to less than 2 grams daily.| Aftercare instructions - patient needs to do - Diet|958|1041

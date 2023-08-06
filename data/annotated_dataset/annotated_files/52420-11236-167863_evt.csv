@@ -1,0 +1,20 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|diarrhea| Medical Issues - Symptom|63|71
+1|pneumonia| Medical Issues - Disease|76|85
+2|hypotensive (low blood pressure)| Tests - Test result|108|140
+3|respiratory failure| Medical Issues - Disease|150|169
+4|IV fluids| Treatments - Procedure name|238|247
+5|antibiotics| Treatments - Medicine name|252|263
+6|pulse dose steroids| Treatments - Medicine name|365|384
+7|taper of prednisone| Treatments - Medicine name|402|421
+8|guaiac positive| Tests - Test result|483|498
+9|platelet count| Tests - Test name|509|523
+10|very low| Tests - Test result|531|539
+11|anticoagulation was stopped| Treatments - Procedure name|546|573
+12|renal failure| Medical Issues - Disease|632|645
+13|Please make sure to discuss with your doctor when it is appropriate for you to restart your metoprolol and lovenox| Aftercare instructions - patient needs to do - Medication|671|785
+14|lovenox| Medicine instructions - Medicine stopped|845|852
+15|metoprolol| Medicine instructions - Medicine stopped|876|886
+16|Calcium| Medicine instructions - Medicine started|978|985
+17|vitamin D| Medicine instructions - Medicine started|987|996
+18|If you experience any shortness of breath, chest pains, abdominal pains, fevers or chills, or any other concerning symptoms please call your doctor or return to the emergency room| Aftercare instructions - patient needs to do - Other|1030|1209

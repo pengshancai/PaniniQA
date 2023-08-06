@@ -1,0 +1,14 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|altered conscioussness| Medical Issues - Symptom|70|92
+1|right sided weakness| Medical Issues - Symptom|98|118
+2|difficulty with speech| Medical Issues - Symptom|123|145
+3|meningioma| Medical Issues - Disease|197|207
+4|stroke| Medical Issues - Disease|291|298
+5|You were continued on aspirin for this.| Medicine instructions - Medicine continued|338|377
+6|heart failure| Medical Issues - Disease|407|421
+7|elevated sodium| Medical Issues - Symptom|430|445
+8|You required use of multiple medications for this.| Treatments - Medicine name|447|497
+9|Weigh yourself every morning| Aftercare instructions - patient needs to do - Other|548|576
+10|MD if weight goes up more than 3 lbs.| Aftercare instructions - patient needs to do - Other|598|636
+11|You were discharged to an acute care facility requiring for further care.| Aftercare instructions - Upcoming Schedules - Specialist appointment|637|711
+12|Should you develop any concerning symptoms, please contact the physician responsible for your care at this facility or go to the emergency room.| Aftercare instructions - Emergency instruction|711|855

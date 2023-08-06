@@ -1,0 +1,17 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|bacterial infection.| Medical Issues - Disease|65|85
+1|bacteria in your urine and your blood| Medical Issues - Symptom|109|146
+2|peritonitis| Medical Issues - Disease|196|207
+3|antibiotics| Treatments - Medicine name|231|242
+4|You will continue to receive the antibiotic Ceftriaxone to complete a 2 week course ([**12-15**]) .| Medicine instructions - Medicine continued|244|343
+5|incidental lesions on your liver| Tests - Test result|377|409
+6|abdominal ultrasound| Tests - Test name|422|442
+7|labs| Tests - Test name|506|512
+8|Creatinine was elevated| Tests - Test result|519|543
+9|You will need to wait to get the MRI until this creatinine improved to characterize these lesions.| Aftercare instructions - Upcoming Schedules - Test|580|679
+10|We have stopped your Atacand and Lasix.| Medicine instructions - Medicine stopped|679|718
+11|You were started on iron supplements.| Medicine instructions - Medicine started|719|756
+12|Your Toprol XL was changed to Metoprolol 25mg twice daily.| Medicine instructions - Medicine changed|757|816
+13|Your Glyburide was stopped.| Medicine instructions - Medicine stopped|816|843
+14|You were started on Insulin.| Medicine instructions - Medicine started|844|873
+15|If you have any fever, chills, abdominal pain, nausea, vomiting, chest pain, shortness of breath, diarrhea, or any other symptom that concerns, please call your PCP or return to the ER&gt| Aftercare instructions - Emergency instruction|873|1060

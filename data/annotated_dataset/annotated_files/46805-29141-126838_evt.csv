@@ -1,0 +1,11 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|COPD exacerbation| Medical Issues - Symptom|127|144
+1|infection| Medical Issues - Disease|155|164
+2|Even though the infection was most likely viral, we ask that you complete antibiotics as prescribed and not miss [**First Name (Titles) 691**] [**Last Name (Titles) 4319**].| Aftercare instructions - patient needs to do - Medication|165|339
+3|Echo| Tests - Test name|351|355
+4|slightly worsened pumping function.| Tests - Test result|387|422
+5|Please discuss this with your primary doctor at your next visit.| Aftercare instructions - Upcoming Schedules - PCP appointment|423|487
+6|You are taking a blood thinner (coumadin) for your heart condition called atrial fibrillation. Your blood was too thin and we stopped your coumadin briefly. Then we restarted it as the thinning decreased.| Medicine instructions - Medicine continued|488|693
+7|atrial fibrillation| Medical Issues - Disease|562|581
+9|It is very important that you follow up with coumadin clinic to check your INR (blood thinning) carefully, otherwise you run serious health risks, such as stroke, or bleeding.| Aftercare instructions - Upcoming Schedules - Test|693|868
+11|We stopped your flexuril because it is contraindicated in your condition.| Medicine instructions - Medicine stopped|869|942

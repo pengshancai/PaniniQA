@@ -1,0 +1,25 @@
+Medical Issues
+Symptoms include <nausea>;<diarrhea >;<acute episode of shortness of breath >;
+Symptoms <nausea>;<diarrhea >;<acute episode of shortness of breath > caused by Disease <blood clot in the lungs >
+
+Tests
+Tests include <CT imaging >;
+Test results of <CT imaging>: <showed there was no concern for clot >;
+
+Treatments
+Medicine <heparin therapy > to treat <blood clot in the lungs>
+<heparin therapy >  Results: [no explicit item]
+Medicine <antibiotics > to treat [no explicit item]
+<antibiotics >  Results: <When you were discharged you were feeling better, eating and passing gas>
+Medicine <IV fluids > to treat [no explicit item]
+<IV fluids >  Results: <When you were discharged you were feeling better, eating and passing gas>
+Medicine <nausea medications > to treat <diarrhea>; <nausea>
+<nausea medications >  Results: <When you were discharged you were feeling better, eating and passing gas>
+
+Aftercare instructions
+If encounter <return of abdominal pain, not have bowel movements or having trouble eating> do <please return to the ED>
+If encounter <any chest pain, shortness of breath, persistent palpitations, fevers, chills, worsening abdominal pain or nausea and vomiting> do <please call your doctor>
+
+No template for <Please make sure to follow up with your primary care doctor, Dr.[**Last Name (STitle) **], at your earliest convenience. >
+No template for <Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight &gt; 3 lbs. >
+No template for <Adhere to 2 gm sodium diet Fluid Restriction: >

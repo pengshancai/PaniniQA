@@ -1,0 +1,11 @@
+Medical Issues
+Symptoms [no explicit item] caused by Disease <DKA> 
+Symptoms [no explicit item] caused by Disease <c. diff infection > 
+
+Treatments
+Medicine <insulin dri > to treat <DKA>
+<insulin dri >  Results: <You glucose was well-controlled on transfer, and you were back on your home insulin regimen on discharge. >
+
+No template for <Your medications were not changed >
+No template for <Please continue your outpatient insulin regimen, and follow up at the [**Hospital **] clinic tomorrow. You have an appointment. >
+No template for <Please also continue flagyl for c. diff infection. >

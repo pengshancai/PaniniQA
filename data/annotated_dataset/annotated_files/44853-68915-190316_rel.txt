@@ -1,0 +1,9 @@
+Medical Issues
+Symptoms [no explicit item] caused by Disease <atrial fibrillation > 
+Symptoms [no explicit item] caused by Disease <small bowel obstruction> 
+
+Aftercare instructions
+If encounter <You experience new chest pain, pressure, squeezing or tightness. You develop new or worsening cough, shortness of breath, or wheezing. You are vomiting and cannot keep down fluids, or your medications. If you are getting dehydrated due to continued vomiting, diarrhea, or other reasons. Signs of dehydration include: dry mouth, rapid heartbeat, or feeling dizzy or faint when standing. You see blood or dark/black material when you vomit, or have a bowel movement. You experience burning when you urinate, have blood in your urine, or experience an unusual discharge. Your pain is not improving within 12 hours or is not under control within 24 hours. Your pain worsens or changes location. You have shaking chills, or fever greater than 101.5 degrees Fahrenheit or 38 degrees Celsius. You develop any other concerning symptoms.> do <Please call your doctor or go to the emergency department>
+
+No template for <Please stop taking your Lasix medication until discussing the dosing with your primary care physician in clinic next week. >
+No template for <You should continue all of your other home medications as prescribed, unless otherwise directed above. >

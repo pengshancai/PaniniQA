@@ -1,0 +1,13 @@
+Medical Issues
+Symptoms include <gastrointestinal bleeding>;
+
+Tests
+Tests include <Upper endoscopy >;<blood counts >;
+Test results of <Upper endoscopy >: <some erosions in the stomach which were not actively bleeding >;
+Test results of <blood counts >: <remained stable >;
+
+No template for <Please have a complete blood count drawn during the week of [**6-4**], [**2159**] >
+No template for <1) Omeprazole 40mg by mouth twice daily >
+No template for < Iron supplements were started twice daily >
+No template for <These may cause constipation for which we have prescribed stool softeners >
+No template for <Calcium and vitamin D supplements were recommended. Please take these at a separate time from your iron pills. >

@@ -1,0 +1,14 @@
+Medical Issues
+Symptoms include <breathing fast>;<blood oxygen level was low >;
+Symptoms <breathing fast> <blood oxygen level was low> caused by Disease <aspiration pneumonia > <Maybe>
+
+Treatments
+Procedure <machine to help you breath > to treat <aspiration pneumonia>
+<machine to help you breath >  Results: <You became progressively better during your stay in the ICU >
+Medicine <supplemental oxygen > to treat <aspiration pneumonia>
+<supplemental oxygen >  Results: <improved further. >
+
+No template for <You were seen by physical therapy who recommended getting physical therapy at home.  >
+No template for <Your lasix is changed to 20 mg orally every other day.  >
+No template for <You were given a prescription for a breathing treatment which you can use if you wheeze or feel short of breath. >
+No template for <You will be having an echocardiogram as outpatient, and then to be evaluated by a cardiologist regarding your narrow valve management. >

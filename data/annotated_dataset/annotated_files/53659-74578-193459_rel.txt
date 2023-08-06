@@ -1,0 +1,16 @@
+Medical Issues
+Symptoms include <gastrointestinal bleed>;
+Symptoms <gastrointestinal bleed> caused by Disease [no explicit item]
+
+Tests
+Tests include <colonoscopy>;<endoscopy>;<blood count>;
+Test goal of <endoscopy>: <to look at your esophagus and stomach>;
+Test results of <endoscopy>: <no obvious source of bleeding>;
+Test results of <colonoscopy>: <no obvious source of bleeding>;
+Test results of <blood count>: < stable>;
+
+Treatments
+Procedure <feeding tube replaced by the radiologists> to treat <gastrointestinal bleed>
+<feeding tube replaced by the radiologists >  Results: [no explicit item]
+
+No template for <The instructions for re-starting your tube feeds are below>

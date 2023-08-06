@@ -1,0 +1,28 @@
+Medical Issues
+Symptoms include <fever>;<low blood pressure >;<very high sodium level >;<bleeding >;<edema >;
+Symptoms [no explicit item] caused by Disease <sacral decubitus ulcer >
+
+Tests
+Tests include <extensive testing >;<continuous EEG monitoring >;
+Test results of <extensive testing>: <No source of infection was discovered despite extensive testing >;
+Test results of <continuous EEG monitoring>: <did not show any evidence of seizure activity >;
+
+Treatments
+Medicine <antibiotics > to treat <fever> <Maybe>
+<antibiotics >  Results: {fever stopped}
+Medicine <IV fluids > to treat <low blood pressure>
+<IV fluids >  Results: <Your blood pressure improved >; <Your sodium level also improved  >
+Medicine <anti-acid medication > to treat <stomach bleed>
+<anti-acid medication >  Results: [no explicit item]
+Medicine <IV furosemide > to treat <edema>
+<IV furosemide >  Results: [no explicit item]
+Procedure <PICC line > to treat [no explicit item]
+<PICC line >  Results: [no explicit item]
+Procedure <feeding tube > to treat [no explicit item]
+<feeding tube >  Results: [no explicit item]
+
+Aftercare instructions
+If encounter <low blood pressure, fever, blood in vomit or stool, seizure activity, change in mental status from your baseline, or other concerning symptoms> do <please call your doctor or go to the ER. >
+
+No template for <Please take all of your medications as prescribed >
+No template for <Please attend all of your follow up appointments >

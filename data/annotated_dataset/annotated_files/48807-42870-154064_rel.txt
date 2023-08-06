@@ -1,0 +1,11 @@
+Medical Issues
+Symptoms [no explicit item] caused by Disease <worsening liver failure>
+
+Treatments
+Procedure <discharged to a facility with hospice > to treat <focus foremost on your comfort>
+
+
+No template for <discharged to a facility with hospice >
+No template for <Start lorazepam as needed for anxiety and shortness of breath. >
+No template for <Start morphine as needed for pain and shortness of breath. >
+No template for <Use vaseline as needed for dry skin. >

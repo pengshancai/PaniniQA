@@ -1,0 +1,20 @@
+Medical Issues
+Symptoms include <food stuck in your gastrointestinal tract>;<aspirating >;<difficulty breathing >;
+Symptoms <food stuck in your gastrointestinal tract> caused by Disease <diverticulum > <Maybe>
+Complication <)You were found to be aspirating during your hospital stay. This means that some of the fluid you were eating was going into the wrong pipe, into your lungs. As a result, you may have had some difficulty breathing > caused by <food stuck in your gastrointestinal tract> <Maybe>
+
+Treatments
+Procedure <upper endoscopy > to treat <food stuck in your gastrointestinal tract>
+<upper endoscopy >  Results: <food was moved into your stomach >; <found to have an outpoutching called a diverticulum >
+
+Aftercare instructions
+If encounter <any fevers, chills, chest pain, shortness of breath, abdominal pain, difficulty with swallowing, or any other concerning symptoms> do <please return to the emergency room >
+
+No template for <You have been scheduled to see Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] in gastroenterology. The time and date of your appointment is listed below. >
+No template for <You will also need to have an upper endoscopy repeated as well. This will be scheduled by Dr. [**Last Name (STitle) **] when you see him. >
+No template for <2)Please take all medications as listed in the discharge instructions. >
+No template for <You have been started on one new medication called Pantoprazole, since you were found to have some inflammation of your gastrointestinal tract. Please continue this until you are told to stop by your primary care physician. >
+No template for <please continue to get your INR checked since you are on Coumadin. >
+No template for <You are instructed to be on the following diet with additional recommendations: - Nectar thick liquids and regular solids >
+No template for <- Also follow these precautions: Swallow with chin tucked to chest, at least 2 repeat swallows, intermittent cough to clear possible penetration. >
+No template for <- Lastly, you will need a repeat swallowing study in 2 weeks. You will be contact[**Name (NI) **] regarding the date and time. If you don&#x27;t hear from them, please contact [**Telephone/Fax (1) 3731**] to schedule this appointment. >

@@ -1,0 +1,10 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|confusion| Medical Issues - Symptom|64|73
+1|lactulose| Treatments - Medicine name|124|133
+2|clear your confusion| Treatments - Treatment goal|137|157
+3|You improved| Treatments - Result of the treatment|106|118
+4|regularly take your medications| Aftercare instructions - patient needs to do - Medication|184|215
+5|avoid alcohol and illicit drugs| Aftercare instructions - patient needs to do - Other|220|251
+6|Started ciprofloxacin for urinary tract infection| Medicine instructions - Medicine started|473|522
+7|Please follow-up with your PCP/ID Dr. [**Last Name (STitle) **] and Dr. [**Last Name (STitle) 497**] (liver) as below| Aftercare instructions - Upcoming Schedules - PCP appointment|301|418
+8|We encourage you to enter a drug rehab program| Aftercare instructions - patient needs to do - Other|253|299

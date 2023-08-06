@@ -1,0 +1,14 @@
+Medical Issues
+Symptoms include <trouble breathing>;
+
+Tests
+Tests include <echocardiogram>;
+Test results of <echocardiogram>: <heart function was very poor>;
+
+No template for <milrinone>
+No template for <Weigh yourself every morning, call Dr. [**First Name (STitle) 437**] if weight goes up more than 3 pounds in 1 day or 5 pounds in 3 days>
+No template for <DECREASE valsartan to 120 mg daily>
+No template for <furosemide>
+No template for <take torsemide if you notice your weight is increasing>
+No template for <carvedilol>
+No template for <metoprolol>

@@ -1,0 +1,17 @@
+Medical Issues
+Symptoms include <slow heart rate>;
+Symptoms <slow heart rate> caused by Disease <pacemaker and found that the battery was not working {pacemaker dysfunction} > <Maybe>
+Symptoms <no explicit item> caused by Disease <urinary tract infection > 
+
+Treatments
+Medicine <Vitamin K  > to treat <no explicit item>
+<Vitamin K  >  Results: <no explicit item>
+Procedure <the generator of your pacemaker was replaced > to treat <pacemaker and found that the battery was not working {pacemaker dysfunction}>
+<the generator of your pacemaker was replaced >  Results: <no explicit item>
+
+Aftercare instructions
+If encounter <that your heart rate is slow again or if you develop pain in your chest, shortness of breath, light headededness, fainting, or any concerning bleeding> do <return to the hospital>
+
+No template for <None of your medications were changed >
+No template for <You should take the antibiotic Augmentin 500mg two times per day for a total of 7 days.  >
+No template for <You should call your doctor if you continue to have pain with urination or notice blood in your urine despite taking this antibiotic. In addition you should be evaluated if you develop fever. >

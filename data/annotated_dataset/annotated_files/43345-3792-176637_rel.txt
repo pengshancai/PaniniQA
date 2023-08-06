@@ -1,0 +1,22 @@
+Medical Issues
+Symptoms include <several firings of your ICD device>;
+Complication <low blood pressures > caused by [No explicit item]
+Complication <required medications and fluids > caused by {low blood pressures post-procedure}
+
+Treatments
+Procedure < ablation in the cath lab > to treat {firing of ICD device}
+< ablation in the cath lab >  Results: [No explicit item]
+<prevent future events >  Results: [No explicit item]
+
+No template for <The doses of your heart medications were changed >
+No template for <you will need to follow up with your cardiologist in the next 5-7 days >
+No template for <amiodarone >
+No template for <digoxin >
+No template for <metoprolol >
+No template for <spirnolactone >
+No template for <Torsimide >
+No template for <Mexiletine >
+No template for <Asprin >
+No template for <Lisinopril >
+No template for <Pradaxa >
+No template for <Addtionally please weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more than 3 lbs. >

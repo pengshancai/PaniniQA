@@ -1,0 +1,12 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|shortness of breath| Medical Issues - Symptom|64|83
+1|fever| Medical Issues - Symptom|85|90
+2|nausea| Medical Issues - Symptom|92|98
+3|vomiting| Medical Issues - Symptom|104|112
+4|blood pressure was slightly low| Medical Issues - Symptom|127|158
+5|antibiotics| Treatments - Medicine name|219|230
+6|labwork| Tests - Test name|267|274
+7|viral illness| Medical Issues - Disease|392|405
+8|CHANGES TO YOUR MEDICATIONS: - START Levofloxacin 750 mg daily. You will take this for three more days (ending on [**2138-4-4**]).| Medicine instructions - Medicine started|407|537
+9|- STOP taking the Bactrim that you had started prior to your admission.| Medicine instructions - Medicine stopped|538|609
+10|- Continue all of your other medications as you were taking them previously.| Medicine instructions - Medicine continued|610|687

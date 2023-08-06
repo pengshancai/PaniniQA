@@ -1,0 +1,9 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|shortness of breath| Medical Issues - Symptom|63|82
+1|fast heart rate| Medical Issues - Symptom|97|112
+2|high blood pressure| Medical Issues - Symptom|117|136
+3|COPD| Medical Issues - Disease|154|158
+4|urinary tract infection| Medical Issues - Disease|212|235
+5|antihypertensive medication| Treatments - Medicine name|332|359
+6|You will continue with Lopressor and lisinopril, your HCTZ was discontinued.| Medicine instructions - Medicine changed|361|437
+7|You were started on an antibiotic called Linezolid which you should continue to take to complete a 10day course.| Medicine instructions - Medicine started|438|551

@@ -1,0 +1,14 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|massive bleeding| Tests - Test result|152|168
+1|biopsy in your small intestine| Tests - Test name|178|208
+2|transfused 4 units of red blood cells| Treatments - Procedure name|249|286
+3|had the bleeding artery embolized by our interventional radiologists| Treatments - Procedure name|291|359
+4|tolerated this procedure well| Treatments - Result of the treatment|364|394
+5|no signs of further bleeding for 2 days afterwards| Treatments - Result of the treatment|403|453
+6|You were seen by our vascular surgeons who removed the line| Treatments - Procedure name|722|781
+7|our vascular surgeons who removed the line and felt comfortable that it had healed properly| Treatments - Result of the treatment|739|830
+8|Over the next few days you should avoid any heavy lifting or long distance walking to ensure the leg heals properly.| Aftercare instructions - patient needs to do - Other|872|989
+9|If you develop any bleeding in your leg, your neck or in your stool please call your doctor immediately.| Aftercare instructions - patient needs to do - Other|988|1094
+10|You will need to have a blood count checked in a week's time to ensure that there is no further bleeding.| Aftercare instructions - patient needs to do - Other|1094|1205
+11|During your bleeding a large IV was need to be placed in your leg in order to transfuse you blood as quickly as possible and keep your blood pressure up.| Medical Issues - Complication developed in the hospital|455|608
+12|Unfortunately this "trauma line" was placed in your right femoral artery and not the vein as intended.| Medical Issues - Complication developed in the hospital|609|721

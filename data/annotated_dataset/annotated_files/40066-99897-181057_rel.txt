@@ -1,0 +1,10 @@
+Medical Issues
+Symptoms include <high blood sugar levels>;
+
+Treatments
+Medicine <CHANGE Insulin dosing; you should take 30 units of glargine every evening, and please see attached new insulin sliding scale  > to treat <high blood sugar levels>
+<CHANGE Insulin dosing; you should take 30 units of glargine every evening, and please see attached new insulin sliding scale  >  Results: [No explicit item]
+
+No template for <It is very important that you continue to take all of your medications everyday to keep your blood sugar under better control. >
+No template for <DISCONTINUE your FUROSEMIDE and CHLORTHALIDONE >
+No template for <Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more than 3 lbs. >

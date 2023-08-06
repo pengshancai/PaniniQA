@@ -1,0 +1,14 @@
+Medical Issues
+Symptoms include <right ankle pain>;<hypotension >;<fluid overloaded >;<shortness of breath >;
+Symptoms <right ankle pain> caused by Disease <cellulitis > 
+Symptoms <hypotension >;<fluid overloaded >;<shortness of breath > caused by Disease <congestive heart failure > 
+
+Treatments
+Medicine <full course of antibiotics > to treat <cellulitis>
+<full course of antibiotics >  Results: [no explicit item]
+Medicine <diuretics (water pill) > to treat <congestive heart failure>
+<diuretics (water pill) > Results: <The extra fluid was removed >
+Medicine <Due to the progressive worsening of your congestive heart failure, you were started on a medication called Milrinone, which is given into your vein using your PICC Line.  > to treat <congestive heart failure>
+<Due to the progressive worsening of your congestive heart failure, you were started on a medication called Milrinone, which is given into your vein using your PICC Line.  > Results: <Your symptoms improved and swelling decreased.  >
+
+No template for <We have made appointments for you with cardiologist who will follow your response to the Milrinone, see appointment information below. >

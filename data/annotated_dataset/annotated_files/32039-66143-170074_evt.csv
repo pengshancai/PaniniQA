@@ -1,0 +1,16 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|weak| Medical Issues - Complication developed in the hospital|213|217
+1|radiation therapy| Treatments - Procedure name|236|254
+2|not eating and drinking well| Medical Issues - Complication developed in the hospital|269|297
+3|trouble breathing| Medical Issues - Symptom|325|342
+4|pneumonia| Medical Issues - Disease|368|377
+5|started vancomycin and aztreonam antibiotics: final day abx [**8-1**]| Medicine instructions - Medicine started|431|501
+6|increased prednisone, take 20mg through [**7-29**], then 15 mg through [**8-1**], then 10mg through [**8-3**], then continue 5mg| Medicine instructions - Medicine changed|504|633
+7|changed albuterol and tiotropium to neb solutions| Medicine instructions - Medicine changed|635|684
+8|added benzonotate| Medicine instructions - Medicine started|687|705
+9|added sucralfate four times per day| Medicine instructions - Medicine started|707|742
+10|added white petrolatum cream| Medicine instructions - Medicine started|745|773
+11|added aspirin 81mg| Medicine instructions - Medicine started|776|794
+12|added metoprolol tartrate 25mg three times per day| Medicine instructions - Medicine started|797|847
+13|added lorazepam for anxiety as needed| Medicine instructions - Medicine started|850|887
+14|added nystatin swish and swallow for 5 additional days after discharge| Medicine instructions - Medicine started|890|960

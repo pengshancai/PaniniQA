@@ -1,0 +1,10 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|low blood pressures| Medical Issues - Symptom|77|96
+1|fevers| Medical Issues - Symptom|98|104
+2|infection| Medical Issues - Symptom|110|119
+3|fluid| Treatments - Medicine name|154|159
+4|antibiotics| Treatments - Medicine name|185|196
+5|Cultures of your blood, sputum, and urine| Tests - Test name|297|338
+6|showed no evidence of infection or bacteria| Tests - Test result|339|382
+7|red blood cell count was low| Medical Issues - Symptom|414|442
+8|If your clinical status deteriorates, your mother should consult your PCP about whether [**Name Initial (PRE) **] transfer to the hospital would be appropriate.| Aftercare instructions - Upcoming Schedules - PCP appointment|479|639

@@ -1,0 +1,22 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|heart attack| Medical Issues - Disease|86|98
+1|two stents placed in your coronary arteries| Treatments - Procedure name|108|151
+2|started on dialysis| Treatments - Procedure name|243|262
+3|kidney failure| Medical Issues - Disease|272|286
+4|received 2 units of blood| Treatments - Procedure name|291|316
+5|anemia| Medical Issues - Disease|321|327
+6|Please go to all follow up appointments and take all medications as prescribed.| Aftercare instructions - Upcoming Schedules - Specialist appointment|351|430
+7|Increase aspirin to 325mg daily for one month, then you may resume the 81mg daily dose.| Medicine instructions - Medicine changed|481|568
+8|Take clopdiogrel daily for one month to prevent clots in your stents.| Medicine instructions - Medicine started|572|641
+9|Decreased your isosorbide MONOnitrate to isosorbide DInitrate 30mg three times daily.| Medicine instructions - Medicine changed|645|730
+10|Decreased your carvedilol to 6.25mg twice daily.| Medicine instructions - Medicine changed|734|782
+11|Increased your calcium acetate (Phoslo) to 2 tabs three times daily.| Medicine instructions - Medicine changed|786|854
+12|Started sevelamer, which helps prevent phosphate from becoming too high.| Medicine instructions - Medicine started|858|930
+13|Stopped your oral iron (you will get this at dialysis).| Medicine instructions - Medicine stopped|934|989
+14|Started nephrocaps, a vitamin for patients with kidney damage.| Medicine instructions - Medicine started|993|1056
+15|Started lisinopril, a blood pressure medicine that also helps the heart.| Medicine instructions - Medicine started|1059|1131
+16|Changed omeprazole to pantoprazole, as this is less likely to interact with your heart medications.| Medicine instructions - Medicine changed|1136|1235
+17|Increased warfarin to 5mg daily as your blood test (INR) was not high enough on 2.5mg daily.| Medicine instructions - Medicine changed|1240|1332
+18|Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight > 3 lbs.| Aftercare instructions - patient needs to do - Other|1333|1408
+19|Adhere to 2 gm sodium diet.| Aftercare instructions - patient needs to do - Diet|1409|1436
+20|If you experience chest pain or pressure, trouble breathing, fevers, chills, palpitations, lightheadedness, dizziness, or any other concerning symptoms, please seek medical attention or come to the ER immediately.| Aftercare instructions - Emergency instruction|1437|1650

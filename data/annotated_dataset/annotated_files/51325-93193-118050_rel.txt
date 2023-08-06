@@ -1,0 +1,17 @@
+Medical Issues
+Symptoms include <bleed in your large bowel>;
+Symptoms <bleed in your large bowel> caused by Disease <ITP>
+
+Treatments
+Procedure <colonoscopy> to treat <bleed in your large bowel>
+<colonoscopy>  Results: <a clip was placed>
+Procedure <blood and platelet transfusions > to treat <bleed in your large bowel>
+<blood and platelet transfusions >  Results: <blood counts stabilized>
+Procedure <IVIG and steroids > to treat <ITP>
+<IVIG and steroids >  Results: <platelet count improved and you were stable, without any signs of bleeding at the time of discharge>
+
+
+No template for <Dexamethasone 40mg by mouth for 2 more days (4 days total)>
+No template for <Call Dr.[**Name (NI) 12389**] office at [**Telephone/Fax (1) 6429**] when you have made a decision about surgery>
+No template for <Please call Dr. [**First Name (STitle) 3459**] at [**Telephone/Fax (1) 3468**] prior to your surgery to have your platelets checked>
+No template for <Please take your medications as prescribed>

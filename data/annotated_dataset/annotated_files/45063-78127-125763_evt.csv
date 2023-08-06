@@ -1,0 +1,22 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|flare of pustular psoriasis| Medical Issues - Symptom|66|93
+1|pustular psoriasis| Medical Issues - Disease|75|93
+2|low blood pressure| Medical Issues - Symptom|105|123
+3|medication to support your blood pressure| Treatments - Medicine name|181|222
+4|infection of your bloodstream| Medical Issues - Disease|255|284
+5|infection of your bloodstream as well as your urine| Medical Issues - Disease|255|306
+6|antibiotics| Treatments - Medicine name|344|355
+7|You have completed the treatment for the urine infection and will continue on treatment for the bloodstream infection at home.| Aftercare instructions - patient needs to do - Medication|376|502
+8|You were evaluated by Dermatology who recommended Soriatane for the treatment of your pustular psoriasis.| Aftercare instructions - patient needs to do - Medication|503|608
+9|During your hospitalization you were found to be in renal failure| Medical Issues - Disease|609|674
+10|evaluated by the Renal Service| Tests - Test name|685|715
+11|felt the renal failure may have been due to one of the medications you were taking which was stopped. The renal failure may also have been secondary to your pustular psoriasis flare| Tests - Test result|720|901
+12|Your renal function improved and it will be recheck on Monday and the results given to your PCP.| Aftercare instructions - Upcoming Schedules - Test|903|999
+13|ADDED: Soriatane, for your psoriasis| Medicine instructions - Medicine started|1044|1080
+14|ADDED: Nafcillin - last dose [**2102-8-26**] for your bloodstream infection| Medicine instructions - Medicine started|1081|1156
+15|STOPPED: Diovan 30mg po qd - your PCP may restart| Medicine instructions - Medicine stopped|1157|1206
+16|STOPPED: HCTZ 12.5 po qd - your PCP may restart| Medicine instructions - Medicine stopped|1207|1254
+17|STOPPED: Lasix 20mg PRN (LE edema)| Medicine instructions - Medicine stopped|1255|1289
+18|your PCP may restart These blood pressure medications were stopped because they can worsen renal failure and your blood pressure was well controlled while you were here. Your PCP may restart them when you see her next week.| Aftercare instructions - patient needs to do - Medication|1292|1515
+19|If you have heart burn, you can take Ranitidine (Zantac), please do not take Omeprazole as it could worsen your renal failure.| Aftercare instructions - patient needs to do - Medication|1516|1642
+20|Please return to the ED if you notice new or worsening skin lesions/eruptions, fevers/chills, worsening headache, shortness of breath, abdominal pain, diarrhea, difficult or painful urination, or anything that is concerning to you| Aftercare instructions - Emergency instruction|1643|1873

@@ -1,0 +1,11 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|chest pain| Medical Issues - Symptom|71|81
+1|cough| Medical Issues - Symptom|88|93
+2|right-sided pneumonia| Medical Issues - Disease|238|259
+3|antibiotics| Treatments - Medicine name|482|493
+4|atrial fibrillation| Medical Issues - Disease|546|565
+5|cellulitis of your leg| Medical Issues - Disease|613|635
+6|2 small blood clots in your lungs| Medical Issues - Symptom|713|746
+7|You were started on new medications for your heart and your infections.| Medicine instructions - Medicine started|933|1004
+8|Please keep your follow up appointments.| Aftercare instructions - Upcoming Schedules - Specialist appointment|1007|1047
+9|If you have fevers, worsening shortness of breath, chest pain, worsening of your leg wounds or other concerning symptoms please seek medical attention.| Aftercare instructions - Emergency instruction|1050|1201

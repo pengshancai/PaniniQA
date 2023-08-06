@@ -1,0 +1,39 @@
+Medical Issues
+Symptoms include <infection of your ICD>;<low blood pressures >;<fluid overload >;<infection on your heart valves >;<heart was not pumping forward as well as it could >;<fluid was pooling in your lungs and extremities >;
+Symptoms <fluid overload> caused by Disease <kidney failure >
+
+Treatments
+Procedure <pacemaker > to treat [No explicit item]
+<pacemaker >  Results: [No explicit item]
+Procedure <The pacemaker/ICD was removed in the operating room > to treat <infection>
+<The pacemaker/ICD was removed in the operating room >  Results: [No explicit item]
+Medicine <You were started on IV antibiotics for a planned 6 week course  > to treat <infection>
+<You were started on IV antibiotics for a planned 6 week course  >  Results:[No explicit item]
+Procedure <You will need an echocardiogram again > to treat <[No explicit item]
+<You will need an echocardiogram again >  Results: [No explicit item]
+Medicine <antibiotics > to treat <infection>
+<antibiotics >  Results: [No explicit item]
+Procedure < an ultrasound of your heart  > to treat [No explicit item]
+< an ultrasound of your heart  >  Results: [No explicit item]
+Medicine <1. Start taking Ampicillin  > to treat [No explicit item]
+<1. Start taking Ampicillin  >  Results: [No explicit item]
+Medicine <Ceftriaxone > to treat [No explicit item]
+<Ceftriaxone >  Results: [No explicit item]
+Medicine <Start taking Gentamycin; plan to complete 6 week course .  > to treat <to prevent damage to your kidneys>
+<Start taking Gentamycin; plan to complete 6 week course .  >  Results: [No explicit item]
+Medicine <Stop Lisinopril and Furosemide until kidney function stabilizes.  > to treat [No explicit item]
+<Stop Lisinopril and Furosemide until kidney function stabilizes.  >  Results: [No explicit item]
+Medicine <Decrease Digoxin to three days a week instead of daily until your kidney function improves. > to treat [No explicit item]
+<Decrease Digoxin to three days a week instead of daily until your kidney function improves. >  Results: [No explicit item]
+Medicine <Start taking tylenol as needed for minor pain  > to treat <minor pain>
+<Start taking tylenol as needed for minor pain  >  Results: [No explicit item]
+Medicine <Start taking Lorazepam as needed for anxiety  > to treat <anxiety>
+<Start taking Lorazepam as needed for anxiety  >  Results: [No explicit item]
+Medicine <STart senna and colace as needed > to treat <constipation>
+<STart senna and colace as needed >  Results: [No explicit item]
+No template for <We placed you on medications to faciliate diuresis >
+No template for <Stop taking fenofibrinate and glimepiride  >
+No template for <Increase Vitamin D to 1000u daily  >
+No template for <STop taking glimepiride and Janumet >
+No template for <Continue Glargine insulin while you are in the rehabilitation at 30 units.  >
+No template for <You can restart pills once you are home to control your blood sugar. >

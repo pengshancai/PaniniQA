@@ -1,0 +1,8 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|vomitting blood| Medical Issues - Symptom|64|79
+1|EGD| Tests - Test name|131|134
+2|blood level was also trending down| Medical Issues - Symptom|201|235
+3|blood transfusion| Treatments - Medicine name|254|272
+4|You should have your blood level checked again on [**2150-6-25**].| Aftercare instructions - Upcoming Schedules - Test|274|341
+5|You should have a repeat EGD next week as an outpatient.| Aftercare instructions - Upcoming Schedules - Test|341|398
+6|Please call your doctor or return to the hospital if you have vomit blood or have blood in your stool, lightheadedness, fainting, or have any other concerning symptoms| Aftercare instructions - Emergency instruction|543|710

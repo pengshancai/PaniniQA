@@ -1,0 +1,16 @@
+Medical Issues
+Symptoms include <shortness of breath>;<chest pain >;
+Symptoms [no explicit item] caused by Disease <takotsubo cardiomyopathy > 
+
+Treatments
+Procedure <cardiac catheterization > to treat [no explicit item]
+<cardiac catheterization >  Results: <During the procedure, it was found that the apex of your heart was bigger than it should be. As a result, a diagnosis of takotsubo cardiomyopathy was made, which is a condition in which you can go into congestive heart failure and have acute changes in the anatomy of your heart based on acute changes in emotion or anxiety. >
+
+Aftercare instructions
+If encounter <any acute shortness of breath, cough up pink tinged sputum, chest pain, loss of consciousness, or extreme lightheadedness/dizziness> do <please call your primary care physician [**Last Name (NamePattern4) **] [**Telephone/Fax (1) 608**]. >
+
+No template for <You were given medications to remove fluid from your lungs (which you will be started on at home) and medications to control your heart. >
+No template for <You have an appointment with a cardiologist (Dr. [**Last Name (STitle) **] and one that you must make with your primary care provider. >
+No template for <You have an appointment with a cardiologist (Dr. [**Last Name (STitle) **] and one that you must make with your primary care provider. >
+No template for <In addition: weigh yourself every morning, [**Name8 (MD) 138**] MD if weight &gt; 3 lbs and adhere to 2 gm sodium diet every day. >
+No template for <In addition: weigh yourself every morning, [**Name8 (MD) 138**] MD if weight &gt; 3 lbs and adhere to 2 gm sodium diet every day. >

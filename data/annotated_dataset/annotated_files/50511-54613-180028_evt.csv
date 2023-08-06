@@ -1,0 +1,15 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|dangerously high blood pressure| Tests - Test result|277|308
+1|confusion after your hemodialysis session| Medical Issues - Complication developed in the hospital|207|249
+2|pneumonia| Tests - Test result|376|385
+3|chest x-ray| Tests - Test name|389|400
+4|confusion improved| Treatments - Result of the treatment|410|428
+5|antibiotics| Treatments - Medicine name|444|455
+6|blood pressure improved| Treatments - Result of the treatment|462|486
+7|home blood pressure medications| Treatments - Medicine name|521|552
+8|EEG| Tests - Test name|706|709
+9|you did not have any evidence of seizures| Tests - Test result|614|655
+10|insulin glargine 5 units at bedtime| Medicine instructions - Medicine started|803|838
+11|olanzapine| Medicine instructions - Medicine stopped|848|858
+12|gabapentin| Medicine instructions - Medicine stopped|868|878
+13|INCREASE lisinopril to 40mg daily| Medicine instructions - Medicine changed|883|916

@@ -1,0 +1,28 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|diarrhea| Medical Issues - Symptom|123|131
+1|cough| Medical Issues - Symptom|136|141
+2|weakness| Medical Issues - Symptom|146|154
+3|parainfluenza| Medical Issues - Disease|178|191
+4|inflammation of the colon (colitis)| Medical Issues - Disease|203|238
+5|kidneys were not working well| Medical Issues - Symptom|276|306
+6|heart rate was very irregular and fast| Medical Issues - Symptom|312|350
+7|antibiotics| Treatments - Medicine name|364|375
+8|hydration| Treatments - Medicine name|426|435
+9|improved| Treatments - Result of the treatment|411|419
+10|new medications| Treatments - Medicine name|455|470
+11|control your heart rate| Treatments - Treatment goal|474|497
+12|improved| Treatments - Result of the treatment|506|514
+13|liver enzymes were rising| Medical Issues - Symptom|521|546
+14|got better| Treatments - Result of the treatment|551|561
+15|small clot in your right arm| Medical Issues - Complication developed in the hospital|598|626
+16|removed the IV| Treatments - Procedure name|655|669
+17|got better| Treatments - Result of the treatment|678|688
+18|rehab| Aftercare instructions - Upcoming Schedules - Specialist appointment|738|743
+19|Aspirin 325 mg by mouth daily| Medicine instructions - Medicine started|802|832
+20|Furosemide 20 mg by mouth daily| Medicine instructions - Medicine started|834|865
+21|Metoprolol succinate 75 mg by mouth daily| Medicine instructions - Medicine started|868|909
+22|Warfarin 0.5 mg daily| Medicine instructions - Medicine changed|921|942
+23|Augmentin 875-125 mg| Medicine instructions - Medicine stopped|954|975
+24|Atenolol 50 mg daily| Medicine instructions - Medicine stopped|977|997
+25|Hydrochlorothiazide 50 mg daily| Medicine instructions - Medicine stopped|1000|1031
+26|long IV| Treatments - Procedure name|643|650

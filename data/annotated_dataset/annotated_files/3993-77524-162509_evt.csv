@@ -1,0 +1,9 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|low blood pressure| Medical Issues - Symptom|107|125
+1|C. diff| Medical Issues - Disease|178|186
+2|You were given a lot of intravenous fluid and medicine| Treatments - Procedure name|200|254
+3|You were started on an antibiotics| Treatments - Procedure name|287|321
+4|Please start Vancomycin 125 mg tab, 1 tab, by mouth, every 6 hours| Treatments - Medicine name|566|632
+5|Pleast START amlodipine 5 mg, 1 tab, once a day| Medicine instructions - Medicine started|744|791
+6|Please STOP moxipril 7.5 mg daily for now| Medicine instructions - Medicine stopped|867|908
+7|Please STOP metformin until your kidney function returns to its baseline| Medicine instructions - Medicine stopped|1046|1118

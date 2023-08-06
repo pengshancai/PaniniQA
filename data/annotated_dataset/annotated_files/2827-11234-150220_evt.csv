@@ -1,0 +1,10 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|lead revision| Treatments - Procedure name|170|183
+1|You did not have any complications after this procedure.| Treatments - Result of the treatment|185|242
+2|You are being discharged home to follow-up with your cardiologist.| Aftercare instructions - Upcoming Schedules - Specialist appointment|242|308
+3|STOP Cymbalta| Medicine instructions - Medicine stopped|340|353
+4|START Sertraline (Zoloft) 25 mg daily. You should talk to your PCP regarding whether he wants to further increase your dose.| Medicine instructions - Medicine started|356|481
+5|START Cephalexin 500 mg every 6 hours for 7 days| Medicine instructions - Medicine started|483|531
+6|Weigh yourself every morning, [**Name6 (MD) 138**] your MD if your weight goes up more than 3 lbs.| Aftercare instructions - patient needs to do - Other|532|630
+7|impedance of your ICD| Medical Issues - Symptom|95|116
+8|fracture of the ICD leads| Medical Issues - Disease|129|154

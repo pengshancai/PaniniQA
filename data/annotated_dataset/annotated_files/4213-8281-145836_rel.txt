@@ -1,0 +1,12 @@
+Medical Issues
+Symptoms include <shortness of breath>;<chest pain >;<fluid around your heart >;<fever >;<chills >;<shortness of breath >;<chest pain >;<syncope >;
+Symptoms [No explicit item] caused by Disease <heart blockage >
+Symptoms [No explicit item] caused by Disease <lymphoma >
+
+Treatments
+<CHANGE HERE Procedure name / Medicine name> Results: <fluid around your heart which was relieved with a drain >
+Procedure <you had a stent placed > to treat <heart blockage>
+<you had a stent placed >  Results: [No explicit item]
+Procedure <so received treatment with chemotherapy > to treat <lymphoma>
+<so received treatment with chemotherapy >  Results: [No explicit item]
+

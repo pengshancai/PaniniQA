@@ -1,0 +1,32 @@
+Medical Issues
+Symptoms include <shortness of breath>;
+Symptoms <shortness of breath> caused by Disease <worsening renal failure >
+Symptoms <shortness of breath> caused by Disease <congestive heart failure >
+
+Tests
+Tests include <Upper endoscopy >;<colonoscopy >;
+Test results of <colonoscopy >: <arteriovenous malformation (AVM) in the large intestine >;
+Test results of <Upper endoscopy >: < multiple non-bleeding erosions in the stomach and small intestine >;
+
+Treatments
+Procedure <hemodialysis > to treat <worsening renal failure>
+<hemodialysis >  Results: [no explicit item]
+Procedure <diuretic medication > to treat <congestive heart failure>
+<diuretic medication >  Results: [no explicit item]
+Procedure <argon thermal therapy > to treat <arteriovenous malformation (AVM) in the large intestine>
+<argon thermal therapy >  Results: [no explicit item]
+
+No template for <Please record your weight daily and contact your physician if your weight increases by more than 3 pounds. >
+No template for <Please adhere to a diet containing less 2 grams of sodium, 2 grams of potassium, and 1 gram of phosphorus daily. >
+No template for <Please adhere to a diet containing less 2 grams of sodium, 2 grams of potassium, and 1 gram of phosphorus daily. >
+No template for <Please adhere to a 2 liter daily fluid restriction. >
+No template for <Please call [**Telephone/Fax (1) 13545**] or [**Telephone/Fax (1) 463**] to schedule an outpatient capsule endoscopy study at your earliest convenience. >
+No template for <Sirolimus was changed to a similar medication tacrolimus 0.5 mg twice daily. >
+No template for <Lasix was increased, but at discharge was back at 80 mg twice daily.  >
+No template for <Isosorbide mononitrate (Imdur) was increased to 60 mg daily.  >
+No template for <Amlodipine (Norvasc) >
+No template for <Hydralazine >
+No template for <Pregabalin (Lyrica) was decreased to 75 mg twice daily. >
+No template for <Temazepam (Restoril) was replaced with Mirtazapine (Remeron) >
+No template for <Pantoprazole (Protonix) was increased to 40 mg twice daily. >
+No template for <Please call your physician or return to the Emergency Department if you experience fever, chills, sweats, dizziness, lightheadedness, chest pain, palpitations, cough, wheezing, shortness of breath, abdominal pain, vomiting, diarrhea, bloody or dark stools, or difficulty with urination. >

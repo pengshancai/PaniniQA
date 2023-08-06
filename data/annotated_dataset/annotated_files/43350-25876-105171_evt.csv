@@ -1,0 +1,15 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|dangerously high glucose levels| Medical Issues - Symptom|113|144
+1|diabetic ketoacidosis| Medical Issues - Symptom|160|181
+2|missed insulin doses| Medical Issues - Disease|217|237
+3|IV fluids| Treatments - Medicine name|311|320
+4|insulin| Treatments - Medicine name|325|332
+5|corrected the levels of potassium, magnesium, and phosphate in your blood| Treatments - Result of the treatment|342|415
+6|improved| Treatments - Result of the treatment|421|429
+7|transferred to the medical floor| Treatments - Result of the treatment|461|493
+8|glucose levels came down and were stable| Treatments - Result of the treatment|500|540
+9|mental status also improved| Treatments - Result of the treatment|578|605
+10|more alert and awake| Treatments - Result of the treatment|621|641
+11|home suboxone dose| Treatments - Medicine name|726|744
+12|Please continue to take them as previously prescribed.| Medicine instructions - Medicine continued|800|854
+13|You will need a follow-up appointment with your PCP soon after discharge| Aftercare instructions - Upcoming Schedules - PCP appointment|855|927

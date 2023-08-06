@@ -1,0 +1,22 @@
+Medical Issues
+Symptoms include <facial swelling>;<shortness of breath >;
+Symptoms [facial swelling];[shortness of breath ] caused by Disease <angioedema >
+
+Treatments
+Procedure <intubated > to treat {shortness of breath}
+<intubated >  Results: [No explicit item]
+<help you breath >  Results: [No explicit item]
+
+Aftercare instructions
+If encounter {ACE inhibitors} do <Please make sure to tell all of your doctors that [**Name5 (PTitle) **] have a significant life-threatening allergy to ACE inhibitors. >
+
+No template for <lisinopril >
+No template for <clonidine >
+No template for <With this medication it is important not to skip doses or stop taking it abruptly; doing so can cause your blood pressure to get much higher very quickly. We have also started you on a few other medications which you should take for the next few weeks. >
+No template for <You should never take lisinopril, or any other medication in this category of drugs (called ACE inhibitors) again. >
+No template for <clonidine >
+No template for <prednisone >
+No template for <famotidine >
+No template for <Please take both of these medications exactly as directed. >
+No template for <We have scheduled you to have a brief follow up visit with Dr. [**First Name (STitle) 1726**] at [**Hospital1 **] tomorrow, Wednesday, [**3-29**], at 1:30PM. >
+No template for <You will also then follow up with Dr. [**Last Name (STitle) **] the week after as previously scheduled. >

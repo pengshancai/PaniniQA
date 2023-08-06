@@ -1,0 +1,18 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|shortness of breath| Medical Issues - Symptom|102|121
+1|tracheostomy| Treatments - Procedure name|160|172
+2|We have placed a tube in your neck to help you with breathing| Treatments - Treatment goal|174|235
+3|To help you with eating| Treatments - Treatment goal|237|260
+4|feeding tube into your stomach through your nose| Treatments - Procedure name|274|322
+5|trouble swallowing| Medical Issues - Symptom|425|443
+6|vocal cord dysfunction| Medical Issues - Symptom|448|470
+7|You will follow-up with the neurologists regarding these issues| Aftercare instructions - Upcoming Schedules - Specialist appointment|485|548
+8|Spiriva| Medicine instructions - Medicine stopped|613|620
+9|pantoprazole| Medicine instructions - Medicine stopped|622|634
+10|ipratroprium| Medicine instructions - Medicine started|645|657
+11|advair| Medicine instructions - Medicine started|659|665
+12|lansoprazole| Medicine instructions - Medicine started|667|679
+13|colace| Medicine instructions - Medicine started|690|698
+14|biscodyl| Medicine instructions - Medicine started|700|709
+15|senna| Medicine instructions - Medicine started|713|718
+16|INCREASED Citalopram from 10 mg to 20 mg po daily| Medicine instructions - Medicine changed|748|797

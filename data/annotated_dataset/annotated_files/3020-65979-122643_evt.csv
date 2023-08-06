@@ -1,0 +1,14 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|confusion| Medical Issues - Symptom|96|105
+1|low blood sugar| Medical Issues - Symptom|110|125
+2|too-high dose of insulin| Medical Issues - Disease|153|177
+3|hospital-acquired delirium| Medical Issues - Complication developed in the hospital|317|343
+4|decreased your dose of insulin| Treatments - Medicine name|392|422
+5|sugars and confusion greatly improved| Treatments - Result of the treatment|432|469
+6|Please attend the follow-up appointments listed below with [**Last Name (un) **] Diabetes Center and Cardiology.| Aftercare instructions - Upcoming Schedules - Specialist appointment|473|586
+7|You will also have follow up with your primary care doctor [**First Name4 (NamePattern1) 14403**] [**Last Name (NamePattern1) **] while in rehab.| Aftercare instructions - Upcoming Schedules - PCP appointment|586|731
+8|DECREASED glargine ([**Last Name (NamePattern1) 8472**]) to 10 units daily (at breakfast)| Medicine instructions - Medicine changed|788|877
+9|DECREASED insulin sliding scale (see attached sheet for instructions)| Medicine instructions - Medicine changed|881|950
+10|DECREASED torsemide to 40mg by mouth daily| Medicine instructions - Medicine changed|954|996
+11|STARTED levothyroxine (Synthroid) 50 micrograms by mouth daily| Medicine instructions - Medicine started|999|1063
+12|STOPPED memantine (Namenda) because it was felt to be contributing to your confusion| Medicine instructions - Medicine stopped|1066|1150

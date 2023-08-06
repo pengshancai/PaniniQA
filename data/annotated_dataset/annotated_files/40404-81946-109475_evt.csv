@@ -1,0 +1,14 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|small subdural hematoma (bleeding around the brain)| Medical Issues - Disease|98|149
+1|a small skull fracture| Medical Issues - Disease|151|173
+2|a scapular fracture| Medical Issues - Disease|179|198
+3|chest pain| Medical Issues - Symptom|494|504
+4|pressure| Medical Issues - Symptom|506|514
+5|squeezing or tightness| Medical Issues - Symptom|516|538
+6|shortness of breath| Medical Issues - Symptom|565|584
+7|wheeze| Medical Issues - Symptom|589|595
+8|dry mouth| Medical Issues - Symptom|779|788
+9|rapid heartbeat| Medical Issues - Symptom|790|805
+10|feeling dizzy| Medical Issues - Symptom|810|823
+11|faint| Medical Issues - Symptom|827|832
+12|You see blood or dark/black material when you vomit or have a bowel movement| Medical Issues - Symptom|849|925

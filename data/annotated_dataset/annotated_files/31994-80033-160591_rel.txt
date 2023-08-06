@@ -1,0 +1,16 @@
+Medical Issues
+Symptoms include <hypoxic respiratory distress>;
+Symptoms <hypoxic respiratory distress> caused by Disease <aspiration pneumonia >
+
+Treatments
+Medicine <antibiotics > to treat <aspiration pneumonia >
+<antibiotics >  Results: <improved, however you were unable to be weaned from the ventilator >
+Procedure <tracheostomy > to treat <aspiration pneumonia >
+
+No template for <Your home psychiatric and parkinson&#x27;s medications were continued.  >
+No template for <START Bactrim, continue taking through [**7-13**] >
+No template for <STOP lisinopril and nitroglycerin pathc, this can be restarted if you are hypertensive, however it was discontinued during the admission because your pressures were well controlled >
+No template for <START SC heparin for DVT prophylaxis >
+No template for <START erythromycin eye ointment and moisturizing eye drops >
+No template for <START albuterol and ipratroprium nebs as needed for shortness of breath >
+No template for <START senna and docusate for constipation >

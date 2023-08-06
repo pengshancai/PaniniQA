@@ -1,0 +1,14 @@
+Medical Issues
+Symptoms include <shortness of breath>;
+Symptoms <shortness of breath> caused by Disease <exacerbation of your COPD >
+
+Treatments
+Medicine <antibiotics > to treat <exacerbation of your COPD>
+
+
+Aftercare instructions
+If encounter <shortness of breath, chest pain, fevers, bloody coughing or any concerns> do < Please return to the hospital>
+
+No template for < Please continue your home medications >
+No template for <Finish your prednisone taper as follows: [**2101-9-20**], 19, 20: 30 mg daily [**2105-9-24**], 23, 24: 20 mg daily [**2109-9-28**], 27, 28: 10 mg daily >
+No template for <Continue the last 2 days of your levofloxacin antibiotic on [**9-20**] and [**9-21**]  >

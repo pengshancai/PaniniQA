@@ -1,0 +1,7 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|infection on your blood| Medical Issues - Disease|70|93
+1|antibiotics| Treatments - Medicine name|117|128
+2|restarted to take some food by mouth| Treatments - Result of the treatment|137|174
+3|TPN (supplemental IV nutrition)| Treatments - Procedure name|180|212
+4|take all medications as written| Aftercare instructions - patient needs to do - Medication|381|413
+5|follow up with your doctor| Aftercare instructions - Upcoming Schedules - PCP appointment|421|449

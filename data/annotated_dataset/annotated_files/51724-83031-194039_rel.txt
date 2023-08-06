@@ -1,0 +1,13 @@
+Medical Issues
+Symptoms include <blood pressure was extremely high>;<nausea >;<vomiting >;<inability to take your meds>;
+
+Tests
+Test results of <{blood pressure management}>: <blood pressure was extremely high>;
+
+Treatments
+Medicine <nitroglycerin drip> to treat <blood pressure was extremely high>
+<nitroglycerin drip >  Results: <You were quickly weaned off the drip and transferred to the regular floor with vast improvement in your blood pressure>
+
+
+No template for <You should follow up with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 4539**] as you have already arranged in order to figure out why you keep having these episodes>
+No template for <You should also follow up with Dr. [**Last Name (STitle) 107139**] in the next couple of weeks>

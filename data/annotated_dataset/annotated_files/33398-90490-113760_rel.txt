@@ -1,0 +1,18 @@
+Medical Issues
+Symptoms include <abdominal pain>;< nausea >;<vomiting >;<constipated >;
+Complication <allergic reaction > caused by <IV contrast> 
+
+Tests
+Tests include <CT scan >;<endoscopy >;<barium study >;<gastric emptying study >;
+Test results of <endoscopy>: <normal >;
+Test results of <barium study >: <normal >;
+Test results of <gastric emptying study >: <showed slow stomach >;
+
+Treatments
+Medicine <IV steroids > to treat <allergic reaction>
+Medicine <anti-emetics > to treat <nausea>
+Medicine <pain medications > to treat <abdominal pain>
+
+No template for <Please take Reglan 30 minutes before each meal to help your slow stomach.  >
+No template for <Please see your psychiatric doctor as depression may worsen or significantly contributes to your symptoms of nausea and vomiting.  >
+No template for <Please follow up with Dr. [**Last Name (STitle) **]. >

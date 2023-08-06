@@ -1,0 +1,19 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|chest pain| Medical Issues - Symptom|63|73
+1|rise in your cardiac enzymes| Medical Issues - Symptom|138|166
+2|nitro| Treatments - Medicine name|199|204
+3|left sided weakness| Medical Issues - Complication developed in the hospital|516|535
+4|remove a clot from your left cerebral artery| Treatments - Result of the treatment|593|637
+5|intubated| Medical Issues - Complication developed in the hospital|672|681
+6|fast breathing| Medical Issues - Complication developed in the hospital|773|787
+7|pulmonary embolism| Medical Issues - Complication developed in the hospital|816|834
+8|coumadin| Medicine instructions - Medicine started|891|899
+9|broken tooth| Medical Issues - Symptom|943|955
+10|removed| Treatments - Result of the treatment|967|974
+11|significant fluctuation of your mental status| Medical Issues - Complication developed in the hospital|1049|1094
+12|tube in your stomach| Medical Issues - Complication developed in the hospital|1113|1133
+13|Your diabetes was out of control| Medical Issues - Complication developed in the hospital|1195|1227
+14|Please call your doctor or return to the hospital for any new weakness, numbness, tingling, visual changes, loss of consciousness, chest pain, shortness of breath, lightheadedness, fainting, nausea, vomiting or any other conerns.| Aftercare instructions - Emergency instruction|1282|1511
+15|Call 911 if it is an emergency.| Aftercare instructions - Emergency instruction|1512|1543
+16|Please stop smoking.| Aftercare instructions - patient needs to do - Other|1544|1564
+17|Information was given to you on admission regarding smoking cessation.| Aftercare instructions - patient needs to do - Other|1565|1635

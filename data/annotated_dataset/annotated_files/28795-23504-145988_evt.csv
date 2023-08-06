@@ -1,0 +1,8 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|limited sensation and motor function of your lower extremities| Medical Issues - Symptom|117|179
+1|fall| Medical Issues - Disease|91|96
+2|your strength and sensation in your lower extremities returned to normal levels| Treatments - Result of the treatment|222|301
+3|Imaging of the bones of your neck and back, your spinal cord, your brain and your abdomen| Tests - Test name|303|392
+4|normal| Tests - Test result|398|404
+5|You should take all medications as prescribed| Aftercare instructions - patient needs to do - Medication|609|655
+6|you should not drink alcoholic beverages while taking Flagyl (metronidazole) because of a reaction that causes severe nausea and vomiting.| Aftercare instructions - patient needs to do - Medication|657|795

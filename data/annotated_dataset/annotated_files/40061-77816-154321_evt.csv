@@ -1,0 +1,10 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|aspirating food| Medical Issues - Symptom|97|113
+1|bacterial pneumonia| Medical Issues - Disease|227|246
+2|You received antibiotics| Treatments - Medicine name|248|272
+3|You also received tube feeding| Treatments - Procedure name|301|331
+4|you reveived injections| Treatments - Medicine name|381|404
+5|vocal cord dysfunction| Medical Issues - Disease|414|436
+6|You were maintained on your dialysis schedule while admitted to the hospital and will continue this as an outpatient.| Treatments - Medicine name|479|596
+7|Please take your medications as prescribed and keep your outpatient appointments| Medicine instructions - Medicine continued|597|677
+8|| Aftercare instructions - Upcoming Schedules - PCP appointment|832|1006

@@ -1,0 +1,10 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|small liver abscesses| Medical Issues - Disease|43|64
+1|drainage| Treatments - Procedure name|80|88
+2|pus from one of the liver abscess grew bacteria called STREPTOCOCCUS ANGINOSUS (MILLERI)| Tests - Test result|97|185
+3|You will receive IV antibiotics for several weeks| Aftercare instructions - Upcoming Schedules - Treatment|258|307
+4|see infectious disease doctors in [**Name5 (PTitle) **] for regular follow up| Aftercare instructions - Upcoming Schedules - Specialist appointment|312|389
+5|respiratory failure| Medical Issues - Disease|425|444
+6|ARDS (Acute respiratory distress syndrome)| Medical Issues - Disease|450|492
+7|MRCP| Tests - Test name|508|512
+8|did not show any areas of discrete blockage in your bile ducts| Tests - Test result|519|581

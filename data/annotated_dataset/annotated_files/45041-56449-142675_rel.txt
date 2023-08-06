@@ -1,0 +1,22 @@
+Medical Issues
+Symptoms include <leftward deviation of your eyes>;<difficulty speaking and understanding language >;
+Symptoms <leftward deviation of your eyes>;<difficulty speaking and understanding language > caused by Disease <stroke > 
+Complication <bleeding from the squamous cell carcinoma on your right foot > caused by <blood thinners> 
+
+Tests
+Tests include <physical examinations >;<neuroimaging studies >;<laboratory investigations >;<images of your blood vessels >;
+Test results of <physical examinations >;<neuroimaging studies >;<laboratory investigations >: <suffered a stroke in the left part of your brain that is involved in understanding and producing language >;
+Test results of <images of your blood vessels >: <soft plaque in the left carotid >;
+Test implications of <images of your blood vessels >: <source of your stroke >; 
+
+Treatments
+Medicine <TPA (tissue plasminogen activator) > to treat <stroke>
+<TPA (tissue plasminogen activator) >  Results: [no explicit item]
+Medicine <blood thinner > to treat <stroke>
+<blood thinner >  Results: [no explicit item]
+
+No template for <Given that you have had trouble with bleeding from the squamous cell carcinoma on your right foot, we spoke with your outpatient dermatologist, the plastic surgery consult team, and the radiation oncology consult service about this. The only possible noninvasive option to help with this would be 15-20 sessions with the radiation oncologists to help stop the bleeding. After discussion with your family, it is thought that returning for these sessions would be too disruptive to complete. >
+No template for <Therefore we will hold off on full blood thinners >
+No template for <continue on aspirin >
+No template for <Please continue to take aspirin 325mg by mouth daily to help prevent future strokes >
+No template for <We also started a medication, simvastatin 40mg by mouth daily. This is to decrease inflammation and to help decrease your risk for future strokes. >

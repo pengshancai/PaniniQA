@@ -1,0 +1,8 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|stridor| Medical Issues - Symptom|61|68
+1|tracheal stenosis| Medical Issues - Disease|174|191
+2|myasthenia| Medical Issues - Disease|304|314
+3|balloon open this stenosis| Treatments - Procedure name|417|443
+4|stridor| Medical Issues - Symptom|450|457
+5|we will need to discontinue your prednisone as this medication interferes with wound healing| Medicine instructions - Medicine stopped|641|733
+6|| Medicine instructions - Medicine changed|1378|1525

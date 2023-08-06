@@ -1,0 +1,17 @@
+Medical Issues
+Symptoms include <shortness of breath after a blood transfusion>;<urinary tract infection>;
+Symptoms <shortness of breath after a blood transfusion> caused by Disease <pulmonary embolism> 
+
+Tests
+Tests include <V/Q scan>;
+Test results of <V/Q scan>: <pulmonary embolism>;
+
+Treatments
+Procedure <3 units of blood> to treat [no explicit item]
+<3 units of blood>  Results: [no explicit item]
+
+No template for <lovenox (60mcg per day). You will need to continue this for at least 6 months>
+No template for <Please discuss this with your primary care doctor>
+No template for <Please continue to have your blood checked and have transfusions as needed as an outpatient>
+No template for <3 days of bactrim>
+No template for <Please return to the hospital for worsening shortness of breath, difficulty breathing, chest pain, fevers, or chills>

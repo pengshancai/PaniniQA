@@ -1,0 +1,11 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|difficulty swallowing| Medical Issues - Symptom|64|85
+1|swelling at the throat| Medical Issues - Symptom|90|112
+2|fever| Medical Issues - Symptom|119|124
+3|laryngitis| Medical Issues - Disease|230|240
+4|For this infection, you were started on 2 antibiotics, an antibacterial and an antifungal.| Medicine instructions - Medicine started|273|364
+5|2 antibiotics, an antibacterial and an antifungal| Treatments - Medicine name|314|363
+6|symptoms had improved| Treatments - Result of the treatment|556|577
+7|START fluconazole for 11 days (an antibiotic)| Medicine instructions - Medicine started|676|721
+8|START augmentin for 11 days (an antibiotic)| Medicine instructions - Medicine started|724|767
+9|If you have further throat swelling, or difficulty breathing or swallowing, or high fevers, or pain with swallowing, then call your physician or return to the hospital.| Aftercare instructions - Emergency instruction|770|938

@@ -1,0 +1,17 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|traumatic right flank stab wound| Medical Issues - Disease|115|147
+1|chest pain| Medical Issues - Symptom|441|451
+2|pressure| Medical Issues - Symptom|453|461
+3|squeezing or tightness| Medical Issues - Symptom|463|485
+4|New or worsening cough| Medical Issues - Symptom|489|511
+5|wheezing| Medical Issues - Symptom|515|523
+6|dehydrated| Medical Issues - Symptom|612|622
+7|vomiting| Medical Issues - Symptom|640|648
+8|diarrhea| Medical Issues - Symptom|650|658
+9|dry mouth| Medical Issues - Symptom|706|715
+10|rapid heartbeat| Medical Issues - Symptom|717|732
+11|feeling dizzy| Medical Issues - Symptom|736|749
+12|faint when standing| Medical Issues - Symptom|753|772
+13|shaking chills| Medical Issues - Symptom|865|879
+14|Activity: No heavy lifting of items [**9-3**] pounds for 6 weeks| Aftercare instructions - patient needs to do - Other|1097|1161
+15|You may resume moderate exercise at your discretion, no abdominal exercises| Aftercare instructions - patient needs to do - Other|1163|1238

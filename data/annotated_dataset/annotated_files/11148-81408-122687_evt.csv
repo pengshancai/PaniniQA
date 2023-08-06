@@ -1,0 +1,14 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|right leg weakness| Medical Issues - Symptom|81|99
+1|aneurysm found on your brain| Medical Issues - Disease|106|134
+2|small stroke| Medical Issues - Disease|237|249
+3|elevated blood pressure| Medical Issues - Symptom|330|353
+4|cholesterol| Medical Issues - Symptom|358|369
+5|we have started you on two new medications: Lisinopril: 5mg daily (for blood pressure control) Atorvastatin: 40mg daily (for cholesterol control)| Medicine instructions - Medicine started|388|533
+6|you should take the medication Plavix, which is a blood thinner, to prevent future strokes| Medicine instructions - Medicine started|547|637
+7|small abnormality on one of your heart valves| Medical Issues - Disease|664|709
+8|irregular heart rhythm| Medical Issues - Disease|726|748
+9|This wlll need to be followed by your cardiologist.| Aftercare instructions - Upcoming Schedules - Specialist appointment|750|801
+10|In addition, we recommend that you follow-up with your PCP and the Neurology stroke clinic.| Aftercare instructions - Upcoming Schedules - PCP appointment|802|894
+11|In addition, we recommend that you follow-up with your PCP and the Neurology stroke clinic.| Aftercare instructions - Upcoming Schedules - Specialist appointment|802|894
+12|Please call your doctor or seek immediate medical attention if you develop any new symptoms or have any concerns.| Aftercare instructions - Emergency instruction|894|1007

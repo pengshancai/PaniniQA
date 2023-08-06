@@ -1,0 +1,10 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|carotid stent placement| Treatments - Procedure name|149|172
+1|without any complications| Treatments - Result of the treatment|226|251
+2|medications to maintain your blood pressure at a safe level| Treatments - Medicine name|384|443
+3|START pantoprazole 40 mg by mouth twice daily instead of omeprazole (Prilosec)| Medicine instructions - Medicine started|677|755
+4|START clopidogrel (Plavix) 75 mg by mouth daily| Medicine instructions - Medicine started|756|803
+5|STOP amlodipine until you are instructed to restart it by your PCP or cardiologist| Medicine instructions - Medicine stopped|806|888
+6|STOP losartan until you are instructed to restart it by your PCP or cardiologist| Medicine instructions - Medicine stopped|889|969
+7|STOP diltiazem until you are instructed to restart it by your PCP or cardiologist| Medicine instructions - Medicine stopped|970|1051
+8|| Aftercare instructions - patient needs to do - Medication|806|1052

@@ -1,0 +1,21 @@
+Medical Issues
+Symptoms include <jaw pain>;
+Symptoms <jaw pain> caused by Disease <heart attack > 
+Complication <arrhythmia > caused by <cardiac catheterization> 
+Complication <low blood pressure > caused by <cardiac catheterization>
+
+Treatments
+Procedure <cardiac catheterization  > to treat <heart attack >
+<cardiac catheterization  >  Results: <the blocked artery in your heart was opened with a small balloon>
+Medicine <beta blocker > to treat <atrial tachycardia>
+<beta blocker >  Results: {successful and your heart beat returned to normal}
+
+Aftercare instructions
+If encounter <jaw pain, chest pain, palpitations, shortness of breath, nausea, vomiting or any other concerning symptoms> do <Please return to the ED.>
+
+No template for <Aspirin 325mg by mouth daily >
+No template for <Atorvastatin 80mg by mouth daily >
+No template for <Toprol-XL 150mg by mouth daily >
+No template for <Lisinopril 2.5mg by mouth daily >
+No template for <Nitroglycerin 0.3mg under the tongue as needed  >
+No template for < Please go to all scheduled follow-up appointments as listed below (PCP, [**Name Initial (NameIs) **]) >

@@ -1,0 +1,18 @@
+Medical Issues
+Symptoms include <abdominal pain>;
+
+Tests
+Tests include <CT scan >;<MRI >;<tested your blood for an infection in your stomach >;<MRI of your spine >;
+Test goal of <MRI of your abdomen>;<CT>: <determine a source of your infection >;
+Test results of <MRI of your abdomen>;<CT>: <did not reveal a clear cost >;
+Test results of <MRI of your spine>: <deformity >;
+
+Treatments
+Medicine <antibiotics > to treat <abdominal pain>
+<antibiotics >  Results: [no explicit item]
+
+Aftercare instructions
+If encounter <chest pain, palpitations, shortness of breath, nausea, vomiting, fevers, chills, or other concerning symptoms> do <Please call your PCP or go to the ED>
+
+No template for <Please follow the medications prescribed below. >
+No template for <Please follow up with the appointments below. >

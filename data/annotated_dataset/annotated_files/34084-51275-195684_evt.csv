@@ -1,0 +1,13 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|malaise| Medical Issues - Symptom|125|132
+1|dysuria| Medical Issues - Symptom|137|144
+2|bacterial urinary tract infection| Medical Issues - Disease|165|198
+3|IV antibiotics| Treatments - Medicine name|261|275
+4|your condition improved significantly.| Treatments - Result of the treatment|280|318
+5|ATG| Treatments - Medicine name|370|373
+6|aplastic anemia| Medical Issues - Disease|401|416
+7|wheezing and shortness of breath| Medical Issues - Complication developed in the hospital|516|548
+8|You will need to follow up with your oncologist as an outpatient in regards to further plans.| Aftercare instructions - Upcoming Schedules - Specialist appointment|550|643
+9|You were noted to have high blood pressure, so amlodipine, a blood pressure medication, was started.| Medicine instructions - Medicine started|646|747
+10|Change cyclosporine to 50 mg twice a day (2 pills)| Medicine instructions - Medicine changed|806|856
+11|Should you develop worsening shortness of breath, wheezing, fever, chills, pain with urination, lightheadedness, dizziness, please call the on-call oncology fellow or visit the emergency room.| Aftercare instructions - Emergency instruction|859|1052

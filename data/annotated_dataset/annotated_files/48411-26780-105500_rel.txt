@@ -1,0 +1,24 @@
+Medical Issues
+Symptoms include <falls>;
+Complication <MGUS may be progressing further > caused by {Kidney failure Reason} {CHANGE HERE Maybe}
+Complication <heart was beating very slowly > caused by {CHANGE HERE Reason} {CHANGE HERE Maybe}
+Complication <unresponsive > caused by {CHANGE HERE Reason} {CHANGE HERE Maybe}
+
+Tests
+Tests include <kidney function  >;<bone marrow biopsy >;
+Test results of {kidney function Test name}: <kidney failure >;
+Test results of {kidney function Test name}: <improving >;
+Test implications of {bone marrow biopsy Test name}: <multiple myeloma >; {CHANGE HERE Maybe}
+
+Treatments
+Medicine <antibiotics > to treat {CHANGE HERE Disease}
+<antibiotics >  Results: {kidney failure Treatment Result}
+
+No template for <follow up as an outpatient with the kidney doctors  >
+No template for <hematologist/oncologist >
+No template for <follow up with the heart doctors >
+No template for <lisinopril >
+No template for <citalopram >
+No template for <gabapentin >
+No template for <HAVE BLOODWORK CHECKED  >
+No template for <YOU SHOULD BE DRINKING AT LEAST [**1-26**] LITERS PER DAY >

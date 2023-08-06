@@ -1,0 +1,13 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|upper GI bleed| Medical Issues - Disease|71|85
+1|TIPS procedure| Treatments - Procedure name|111|125
+2|bleeding complication| Medical Issues - Complication developed in the hospital|142|163
+3|bleeding complication of the TIPS which required a stay in the MICU and surgery.| Treatments - Result of the treatment|142|222
+4|hematocrit and liver function was monitored| Tests - Test name|328|371
+5|drain from the site of an old paracentesis| Medical Issues - Complication developed in the hospital|386|428
+6|sutured| Treatments - Procedure name|439|446
+7|The sutures should be removed in [**10-13**] days.| Aftercare instructions - patient needs to do - Other|448|498
+8|Your spironolactone was increased to 200mg daily.| Medicine instructions - Medicine changed|564|613
+9|Your lasix is now 80mg daily| Medicine instructions - Medicine changed|615|643
+10|Your nadolol was discontinued .| Medicine instructions - Medicine stopped|645|676
+11|You should return to the ED or call your doctor if you experience worsening abdominal pain, shortness of breath, dizziness, loss of consciousness, blood in your stool, dark stools, fever greater than 101.4 degrees F, or any other symptoms that concern you.| Aftercare instructions - Emergency instruction|677|933

@@ -1,0 +1,8 @@
+
+Treatments
+Procedure <stent in your left carotid artery> to treat [no explicit item]
+<stent in your left carotid artery>  Results: [no explicit item]
+
+No template for < Imdur was held during your hospitalization, but can be restarted the after you leave the hospital >
+No template for <Please hold atenolol until your follow up appointment Dr. [**Last Name (STitle) **] next week. >
+No template for <Please call your doctor or come the emergency room if you have lightheadedness, chest pain, change in vision or any other concerning symptoms. >

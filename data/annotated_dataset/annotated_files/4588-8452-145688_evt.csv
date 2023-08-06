@@ -1,0 +1,12 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|infection in your L foot| Medical Issues - Disease|67|91
+1|shock| Medical Issues - Disease|111|116
+2|breathing tube| Treatments - Procedure name|173|187
+3|medicine to support your blood pressure| Treatments - Medicine name|192|231
+4|antibiotics| Treatments - Medicine name|251|262
+5|You improved with antibiotics and no longer required these supports| Treatments - Result of the treatment|233|300
+6|Please follow-up with Dr. [**First Name (STitle) **] your PCP [**Name9 (PRE) 1639**] to check your electrolytes as your potassium was low today| Aftercare instructions - Upcoming Schedules - PCP appointment|365|508
+7|Please resume your home peritoneal dialysis schedule of 4 daily cycles every 6 hours with 1.5% dextrose for 3 cycles and 1 cycle with 2.5% dextrose.| Medicine instructions - Medicine continued|510|658
+8|The following medications were added to your regimen: 1. Keflex, an antibiotic, please take this for 6 days| Medicine instructions - Medicine started|659|767
+9|2. Increase simvastatin to 80mg daily| Medicine instructions - Medicine changed|767|804
+10|Please return to the ED or call your doctor if you experience fever or chills, chest pain, difficulty breathing, severe pain, redness or swelling in your foot.| Aftercare instructions - Emergency instruction|805|964

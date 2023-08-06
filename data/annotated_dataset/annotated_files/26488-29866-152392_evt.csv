@@ -1,0 +1,11 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|headache| Medical Issues - Symptom|83|91
+1|drowsiness| Medical Issues - Symptom|96|106
+2|scna your head| Tests - Test name|117|131
+3|found bleeding.| Tests - Test result|139|154
+4|bleeding| Medical Issues - Disease|145|153
+5|You were given medication to reverse your anticoagulation and you were given medication to better control your blood pressure.| Treatments - Medicine name|211|337
+6|repeated the head scan.| Tests - Test name|187|210
+7|bleeding was stable| Tests - Test result|159|178
+8|Your coumadin and aspirin were stopped| Medicine instructions - Medicine stopped|415|453
+9|Plavix needs to be started on ([**2118-9-11**])| Aftercare instructions - patient needs to do - Medication|456|503

@@ -1,0 +1,12 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|abnormal heart rhythm which would come and go occasionally| Medical Issues - Symptom|118|176
+1|Electrophysiology Lab| Treatments - Procedure name|284|305
+2|ablate some of the cardiac tissue that might have been contributing to your abnormal rhythm| Treatments - Treatment goal|351|442
+3|parts of cardiac tissue contributing to your abnormal heart rhythm could not be completely ablated because it was too close to your coronary arteries and there was a lot of calcification around the area| Treatments - Result of the treatment|463|665
+4|You will be sent home with [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] of Hearts monitor which will be further explained to you before leaving the hospital.| Medicine instructions - Medicine started|783|958
+5|You will wear this monitor for several days and push an event button to record when you are feeling symptoms. At this time, the monitor will record your heart rhythm, which can be analyzed afterwards by your cardiologist.| Aftercare instructions - Upcoming Schedules - Specialist appointment|959|1180
+6|The following changes have been made to your medications:| Medicine instructions - Medicine changed|1181|1238
+7|Your mexilitine has been stopped| Medicine instructions - Medicine stopped|1239|1271
+8|Your lisinopril has been decreased from 20mg to 10mg| Medicine instructions - Medicine changed|1273|1325
+9|All of the rest of your medications are unchanged.| Medicine instructions - Medicine continued|1326|1376
+10|Please be sure to keep all of your followup appointments.| Aftercare instructions - Upcoming Schedules - Specialist appointment|1377|1434

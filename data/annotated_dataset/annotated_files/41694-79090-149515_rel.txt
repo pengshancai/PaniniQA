@@ -1,0 +1,11 @@
+Medical Issues
+Symptoms include <bruising on your brain >;
+Symptoms <bruising on your brain> caused by Disease <skull fracture>
+Symptoms [No explicit item] caused by Disease <injury to your left eye >
+Symptoms [No explicit item] caused by Disease <rib fractures >
+
+Tests
+Tests include <you were on a respirator and required frequent neurologic checks >;
+
+No template for <ou are tolerating a regular diet >
+No template for <working with Physical Therapy and Occupational Therapy and your memory is gradually getting better >

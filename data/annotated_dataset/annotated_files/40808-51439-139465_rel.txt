@@ -1,0 +1,8 @@
+Medical Issues
+Symptoms include <swallowed battery>;
+
+Treatments
+[No explicit item] Results: <object was removed from your digestive tract >
+Medicine <You were started on a medication to protect the stomach lining near where the battery was sitting in your stomach.  > to treat [No explicit item]
+<You were started on a medication to protect the stomach lining near where the battery was sitting in your stomach.  >  Results: [No explicit item]
+

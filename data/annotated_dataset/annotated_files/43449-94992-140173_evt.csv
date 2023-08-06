@@ -1,0 +1,14 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|facial swelling| Medical Issues - Symptom|63|78
+1|shortness of breath| Medical Issues - Symptom|83|102
+2|intubated| Treatments - Procedure name|133|142
+3|help you breath| Treatments - Treatment goal|146|161
+4|angioedema| Medical Issues - Disease|251|261
+5|lisinopril| Medicine instructions - Medicine stopped|344|354
+6|Please make sure to tell all of your doctors that [**Name5 (PTitle) **] have a significant life-threatening allergy to ACE inhibitors.| Aftercare instructions - Emergency instruction|632|766
+7|clonidine| Medicine instructions - Medicine started|984|993
+8|With this medication it is important not to skip doses or stop taking it abruptly; doing so can cause your blood pressure to get much higher very quickly. We have also started you on a few other medications which you should take for the next few weeks.| Aftercare instructions - patient needs to do - Medication|1035|1287
+9|You should never take lisinopril, or any other medication in this category of drugs (called ACE inhibitors) again.| Aftercare instructions - patient needs to do - Medication|517|631
+10|prednisone| Medicine instructions - Medicine started|1319|1329
+11|famotidine| Medicine instructions - Medicine started|1416|1426
+12|Please take both of these medications exactly as directed.| Aftercare instructions - patient needs to do - Medication|1516|1574

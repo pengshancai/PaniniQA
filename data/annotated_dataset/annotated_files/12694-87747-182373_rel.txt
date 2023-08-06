@@ -1,0 +1,16 @@
+Medical Issues
+Complication <rash > caused by <Lisinopril> <Maybe>
+
+Treatments
+Procedure <cardiac catheterization> to treat <no explicit item {left circumflex artery blockage}>
+<cardiac catheterization>  Results: <clear a blockage {left circumflex artery blockage was cleared}>
+Procedure <two bare metal stents were placed in the left circumflex artery > to treat <no explicit item {left circumflex artery blockage}>
+<two bare metal stents were placed in the left circumflex artery >  Results: <clear a blockage {left circumflex artery blockage was cleared}>
+<cardiac catheterization>;<two bare metal stents were placed in the left circumflex artery > Results: <clear a blockage {left circumflex artery blockage was cleared}>
+Procedure < underwent a desensitization to aspirin  > to treat <no explicit item>
+< underwent a desensitization to aspirin  >  Results: <no explicit item>
+
+No template for <You cannot drive for 48 hours and cannot lift more than 10 pounds for one week. This means that you will need help with your suitcases on your way home and will need to be picked up at the airport.  >
+No template for < It is very important that you take aspirin every day from now on. Do not miss any more than 2 days of aspirin for any reason.  >
+No template for <Take nitroglycerin as needed for chest pain. You can take up to 2 tablets 5 minutes apart. If you still have chest pain after 2 tablets, call 911.  >
+No template for <Take aspirin 325 mg every day to keep the stent from clotting off >

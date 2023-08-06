@@ -1,0 +1,16 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|extensive bleeding into your belly| Medical Issues - Symptom|209|243
+1|liver cancer| Medical Issues - Disease|254|266
+2|You required 6 blood transfusions, 2 at [**Hospital3 7571**]and 4 here| Treatments - Procedure name|268|338
+3|We made several changes to your medications to help control your symptoms at home & minimize other medications| Medicine instructions - Medicine changed|705|819
+4|GLYBURIDE 5 MG DAILY| Treatments - Medicine name|845|867
+5|AMLODIPINE 10 MG DAILY (two 5mg tablets)| Treatments - Medicine name|867|907
+6|LABETOLOL 200 MG THREE TIMES DAILY (8 HOUR INTERVALS)| Treatments - Medicine name|908|961
+7|ONDANSETRON 8 mg (two 4mg tablets) every 8 hours as needed for nausea| Treatments - Medicine name|1083|1152
+8|COMPAZINE, one 10 mg Tablet every 6 hours as needed for nausea| Treatments - Medicine name|1153|1215
+9|LORAZEPAM, [**11-24**]-to-one 1 mg tablet every 6 hours as needed for nausea| Treatments - Medicine name|1216|1292
+10|MORPHINE SULFATE SOLUTION, 5 mg every 4 hours as needed for pain| Treatments - Medicine name|1293|1357
+11|TYLENOL, one 500 mg Tablet every 6 hours as needed for pain| Treatments - Medicine name|1358|1417
+12|ATROPINE 1 % Drops, 2 drops every 4 hours as needed for secretions| Treatments - Medicine name|1418|1484
+13|LAXATIVES (COLACE, SENNA, MIRALAX AND SUPPOSITORIES), use as-needed for constipation| Treatments - Medicine name|1485|1569
+14|colace and senna daily to prevent constipation| Treatments - Medicine name|1599|1645

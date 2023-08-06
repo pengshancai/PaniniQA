@@ -1,0 +1,38 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|nausea| Medical Issues - Symptom|115|121
+1|abdominal pain| Medical Issues - Symptom|126|141
+2|blood pressure and blood levels were dropping quickly| Medical Issues - Complication developed in the hospital|148|201
+3|retroperitoneal bleed| Medical Issues - Symptom|231|253
+4|interventional radiology procedure| Treatments - Procedure name|264|299
+5|was able to isolate and stop the blood vessel that was bleeding into your retroperitoneal space| Treatments - Result of the treatment|320|415
+6|You lost a tremendous amount of blood into this space| Medical Issues - Complication developed in the hospital|417|471
+7|several blood product transfusions| Treatments - Procedure name|484|518
+8|briefly intubated on a ventilator to protect your airway| Treatments - Procedure name|534|590
+9|blood levels have remained stable for several days| Treatments - Result of the treatment|597|647
+10|You also developed a pulmonary embolus which is a blood clot in your lungs| Medical Issues - Complication developed in the hospital|649|723
+11|You will need to be on Lovenox which is a blood thinner to prevent further clots from happening| Medicine instructions - Medicine started|725|820
+12|need to be followed up as an outpatient| Aftercare instructions - Upcoming Schedules - Specialist appointment|889|928
+13|You will also need a repeat CT scan of your abdomen in a month to re-evaluate the size of your retroperitoneal hematoma| Aftercare instructions - Upcoming Schedules - Test|930|1049
+14|Excedrin| Medicine instructions - Medicine stopped|1156|1165
+15|Sudafed| Medicine instructions - Medicine stopped|1167|1174
+16|Topamax| Medicine instructions - Medicine stopped|1175|1183
+17|Vicodin| Medicine instructions - Medicine stopped|1185|1192
+18|Carisoprodol| Medicine instructions - Medicine stopped|1194|1206
+19|Diclofenac| Medicine instructions - Medicine stopped|1208|1218
+20|atenolol| Medicine instructions - Medicine stopped|1224|1233
+21|folic acid| Medicine instructions - Medicine started|1250|1261
+22|pantoprazole| Medicine instructions - Medicine started|1263|1275
+23|metoprolol succinate| Medicine instructions - Medicine started|1277|1297
+24|docusate/senna/miralax/Dulcolax as needed for constipation| Medicine instructions - Medicine started|1299|1357
+25|simethicone as needed for gas| Medicine instructions - Medicine started|1359|1388
+26|lisinopril| Medicine instructions - Medicine started|1390|1400
+27|oxycodone as needed for pain| Medicine instructions - Medicine started|1402|1430
+28|Lovenox| Medicine instructions - Medicine started|1431|1439
+29|ranitidine| Medicine instructions - Medicine started|1440|1451
+30|Maalox/lidocaine as needed for abdominal discomfort| Medicine instructions - Medicine started|1453|1504
+31|ondansetron ODT as needed for nausea| Medicine instructions - Medicine started|1505|1542
+32|benzonatate/Delsym/guaifenesin with codeine as needed for cough| Medicine instructions - Medicine started|1543|1607
+33|Flonase for nasal congestion| Medicine instructions - Medicine started|1613|1641
+34|retroperitoneal hematoma| Medical Issues - Disease|1025|1049
+35|thyroid nodules| Tests - Test result|841|856
+36|CT scan| Tests - Test name|872|879

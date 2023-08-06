@@ -1,0 +1,13 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|altered mental status| Medical Issues - Symptom|48|69
+1|slurred speech| Medical Issues - Symptom|74|88
+2|no evidence of stroke or seizures| Tests - Test result|157|190
+3|CT| Tests - Test name|218|220
+4|MRI| Tests - Test name|225|228
+5|EEG| Tests - Test name|233|236
+6|CSF| Tests - Test name|243|246
+7|to assess for possible infectious etiology for your change in mental status| Tests - Test goal|266|341
+8|bradycardic| Medical Issues - Symptom|438|449
+9|mental status and heart rate improved by hospital day #2| Treatments - Result of the treatment|534|590
+10|Please take medications as scheduled - there has been no changes to your medications| Aftercare instructions - patient needs to do - Medication|734|818
+11|Please contact your PCP to set up a follow-up appointment as soon as available| Aftercare instructions - patient needs to do - Other|820|898

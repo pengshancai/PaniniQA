@@ -1,0 +1,19 @@
+Medical Issues
+Symptoms include <abdominal pain>;<vomiting blood >;<blood count was low >;
+
+Tests
+Tests include <upper endoscopy >;
+Test results of <upper endoscopy>: <it did not show any active bleeding >;
+
+Treatments
+Procedure <the other hospital gave you one unit of blood and transferred you to [**Hospital1 18**] > to treat [No explicit item]
+<the other hospital gave you one unit of blood and transferred you to [**Hospital1 18**] >  Results: [No explicit item]
+Procedure <received another 2 units of blood  > to treat [No explicit item]
+<received another 2 units of blood  >  Results: [No explicit item]
+Medicine <were given antibiotics to prevent infection > to treat [No explicit item]
+<were given antibiotics to prevent infection >  Results: [No explicit item]
+Medicine <TART Ciprofloxacin 500mg by mouth twice a day for 3 days  > to treat [No explicit item]
+<TART Ciprofloxacin 500mg by mouth twice a day for 3 days  >  Results: [No explicit item]
+
+No template for <You should avoid drinking alcohol in the future >
+No template for <INCREASE Protonix to 40mg by mouth twice a day >

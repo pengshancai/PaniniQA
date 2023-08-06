@@ -1,0 +1,17 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|GI bleeding| Medical Issues - Symptom|63|74
+1|EGD| Tests - Test name|87|90
+2|gastritis in your stomach| Tests - Test result|105|130
+3|gastritis| Medical Issues - Disease|105|114
+4|colonoscopy| Tests - Test name|147|158
+5|AVM (arteriovenous malformation) in the cecum| Tests - Test result|176|221
+6|coagulated with thermal therapy to stop the bleeding| Tests - Test implication|232|284
+7|thermal therapy| Treatments - Procedure name|248|263
+8|stop the bleeding| Treatments - Result of the treatment|267|284
+9|diverticulosis of the sigmoid colon| Tests - Test result|301|336
+10|diverticulosis| Medical Issues - Disease|301|315
+11|You will need to get a capsule endoscopy as an outpatient. This will be coordinated by gastroenterology.| Aftercare instructions - Upcoming Schedules - Test|338|442
+12|We restarted your Coumadin before discharge.| Medicine instructions - Medicine started|445|490
+13|Your INR was between 2.5 and 3.5 at discharge. You will need to have a follow up INR check with your regular doctor next week.| Aftercare instructions - Upcoming Schedules - Test|490|616
+14|You should take your Coumadin as per your prior regimen (5.5mg every day but Saturday, on Saturday take 4mg).| Aftercare instructions - patient needs to do - Medication|617|726
+15|| Aftercare instructions - Emergency instruction|727|966

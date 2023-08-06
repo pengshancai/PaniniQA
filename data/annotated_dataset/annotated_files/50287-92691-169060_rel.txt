@@ -1,0 +1,16 @@
+Medical Issues
+Symptoms [no explicit item] caused by Disease <heart attack> 
+
+Treatments
+Procedure <cardiac catheterization > to treat [no explicit item]
+<cardiac catheterization >  Results: < drug eluting stent placed in the right coronary artery >
+
+
+No template for <do not stop taking Aspirin 325 mg by mouth daily >
+No template for <do not stop taking Plavix (Clopidogrel) 75 mg by mouth daily >
+No template for <YOU MUST stay on this medication for 1 year >
+No template for <Lipitor (Atorvastatin) 80 mg by mouth daily >
+No template for <Atenolol 50 mg by mouth daily >
+No template for <Increase your Lisinopril to 40 mg by mouth daily >
+No template for <Increase your Lisinopril to 40 mg by mouth daily >
+No template for <amlodipine >

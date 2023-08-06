@@ -1,0 +1,22 @@
+Medical Issues
+Symptoms include <fever>;
+Complication <low blood pressure after your ERCP procedure> caused by <infection Maybe>
+Complication <oxygen levels were low> caused by [no explicit item]
+Complication <may have been extra fluid in your lungs > caused by <lung disease>
+
+
+Treatments
+Medicine <antibiotics > to treat <infection>
+<antibiotics>  Results: <You did well and were able to leave the ICU>
+Procedure <fluid> to treat <low blood pressure after your ERCP procedure>
+<fluid>  Results: <You did well and were able to leave the ICU>
+Procedure <extra fluid in your lungs, therefore that was removed with medication> to treat <{extra fluid in your lungs}>
+<extra fluid in your lungs, therefore that was removed with medication>  Results: <you still had low oxygen levels afterwards>
+
+
+No template for <it is VERY important that you and everyone else in your household quit smoking>
+No template for <ciprofloxacin 500 mg Tablet Twice daily. Last dose in evening on [**2134-12-9**]>
+No template for <metronidazole 500 mg Tablet Three times daily. Last dose in evening on [**2134-12-9**]>
+No template for <You should continue taking all of your other medications as you were previously>
+No template for <You will need to see your primary care doctor soon for further evaluation of your lung disease>
+No template for <You also will need further evaluation for your low blood counts>

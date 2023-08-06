@@ -1,0 +1,16 @@
+Medical Issues
+Symptoms include <short of breath>;<blood pressure was high >;<fluid backing up into your lungs >;
+
+Treatments
+Medicine <intravenous medications > to treat [no explicit item]
+<intravenous medications >  Results: <Your blood pressures came down nicely and we were able to get the fluid off of your lungs with extra diuretics. You began to feel better and are now ready to go home.>
+Procedure <BiPAP > to treat [no explicit item]
+<BiPAP >  Results: <Your blood pressures came down nicely and we were able to get the fluid off of your lungs with extra diuretics. You began to feel better and are now ready to go home.>
+
+No template for <We think the cause of this episode was eating too much salt and missing a dose of your medication. It is extremetly important to take all of your medications as prescribed and to adhere to a low salt diet. >
+No template for <We think the cause of this episode was eating too much salt and missing a dose of your medication. It is extremetly important to take all of your medications as prescribed and to adhere to a low salt diet. >
+No template for <Also, you should weigh yourself every morning, and call your doctor if your weight goes up more than 3 lbs in 1 day or 5 pounds in 3 days. >
+No template for <Please get your blood drawn on Thursday to check your electrolytes on the increased lasix. >
+No template for <Medications started: Pravastatin 40mg daily (restart this medicine) >
+No template for <Medications changed: Increase lasix to 40mg daily (Two 20mg tabs) >
+No template for <Follow-up needed for: 1. Blood pressure 2. INR check 3. Weight and respiratory status >

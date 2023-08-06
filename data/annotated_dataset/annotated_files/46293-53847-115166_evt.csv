@@ -1,0 +1,14 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|trouble breathing| Medical Issues - Symptom|102|119
+1|pneumonia| Medical Issues - Disease|152|161
+2|worsening asthma| Medical Issues - Disease|163|179
+3|mild diastolic heart failure| Medical Issues - Disease|190|218
+4|extra fluid in your lungs| Medical Issues - Symptom|232|257
+5|antibiotics| Treatments - Medicine name|279|290
+6|steroids| Treatments - Medicine name|292|300
+7|lasix| Treatments - Medicine name|305|310
+8|bacteria in your blood stream| Medical Issues - Disease|369|398
+9|The following medication were started: Ceftriaxone 2gm intravenously for 24HRS for 5 days (total treatment 2 weeks).| Medicine instructions - Medicine started|634|750
+10|Prednisone 10-30 mg per taper listed in medication list| Medicine instructions - Medicine started|751|807
+11|The following medications were changed: -Amlodipine 5 mg daily --> increased to 10 mg Daily -Atenolol 50 mg daily --> metoprolol 75mg by mouth Three times a day -Moexipril 15 mg [**Hospital1 **] --> lisinopril 20 mg daily -Insulin dosing increased while on steroids .| Medicine instructions - Medicine changed|809|1085
+12|Please take your other medications as prescribed| Medicine instructions - Medicine continued|1086|1134

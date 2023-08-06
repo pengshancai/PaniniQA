@@ -1,0 +1,15 @@
+Medical Issues
+Symptoms include <fevers, cough and fluid surrounding your lungs>;
+Symptoms <fevers, cough and fluid surrounding your lungs> caused by Disease <pneumonia > 
+
+Treatments
+Medicine <antibiotics > to treat <pneumonia>
+<antibiotics >  Results: <no explicit item>
+Procedure <drain the fluid around your lungs > to treat <pneumonia>
+<drain the fluid around your lungs >  Results: <help you breath easier>
+<help you breath easier >  Results: <no explicit item>
+
+No template for <restarted Coumadin for you diagnosis of atrial fibrillation >
+No template for <you will have to have your INR checked regularly  >
+No template for <START taking warfarin again, 3 mg daily >
+No template for <START taking lisinopril 2.5 mg daily >

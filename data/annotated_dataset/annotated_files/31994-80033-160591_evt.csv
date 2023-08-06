@@ -1,0 +1,16 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|hypoxic respiratory distress| Medical Issues - Symptom|63|91
+1|aspiration pneumonia| Medical Issues - Disease|113|133
+2|antibiotics| Treatments - Medicine name|157|168
+3|improved, however you were unable to be weaned from the ventilator| Treatments - Result of the treatment|177|243
+4|tracheostomy| Treatments - Procedure name|257|269
+5|PEG tube| Treatments - Procedure name|290|298
+6|conjunctivitis| Medical Issues - Disease|381|395
+7|vertebral artery anuerysm| Medical Issues - Disease|418|443
+8|Your home psychiatric and parkinson's medications were continued.| Medicine instructions - Medicine continued|462|533
+9|START Bactrim, continue taking through [**7-13**]| Medicine instructions - Medicine started|589|638
+10|STOP lisinopril and nitroglycerin pathc, this can be restarted if you are hypertensive, however it was discontinued during the admission because your pressures were well controlled| Medicine instructions - Medicine stopped|640|820
+11|START SC heparin for DVT prophylaxis| Medicine instructions - Medicine started|822|858
+12|START erythromycin eye ointment and moisturizing eye drops| Medicine instructions - Medicine started|860|918
+13|START albuterol and ipratroprium nebs as needed for shortness of breath| Medicine instructions - Medicine started|920|991
+14|START senna and docusate for constipation| Medicine instructions - Medicine started|993|1034

@@ -1,0 +1,8 @@
+Medical Issues
+Symptoms include <inflammation >;<lung had collapsed  >;
+Symptoms <inflammation>;<lung had collapsed> caused by Disease <part of the brush you were using to clean your tracheostomy tube broke off and became lodged in your airway >
+
+Treatments
+Procedure <tracheostomy> to treat [No explicit item]
+<tracheostomy>  Results: [No explicit item]
+No template for <Please do not make any changes to your medications and please keep your follow-up appointment with your primary care physician. >

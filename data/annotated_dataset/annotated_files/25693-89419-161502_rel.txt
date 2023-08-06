@@ -1,0 +1,27 @@
+Medical Issues
+Symptoms include <diarrhea>;<cough >;<weakness >;<kidneys were not working well>;<heart rate was very irregular and fast >;<liver enzymes were rising >;
+Symptoms {cough} {weakness} {kidneys were not working well} {heart rate was very irregular and fast} {liver enzymes were rising} {caused by Disease <parainfluenza {parainfluenza virus} >
+Symptoms {diarrhea} caused by Disease <inflammation of the colon (colitis) >
+Complication <small clot in your right arm > caused by {long IV} 
+
+Treatments
+Medicine <antibiotics > to treat {inflammation of the colon (colitis)}
+<antibiotics >  Results: {improved}
+Medicine <hydration > to treat {kidneys were not working well}
+<hydration >  Results: {improved}
+Medicine <new medications > to treat {heart rate was very irregular and fast {irregular and fast heart rate}}
+<new medications >  Results: {improved}
+<control your heart rate >  Results: {improved}
+<control your heart rate >  Results: {improved}
+Procedure <removed the IV > to treat {small clot in your right arm}
+<removed the IV >  Results: {got better}
+Procedure <long IV > to treat {parainfluenza}
+
+No template for <rehab >
+No template for <Aspirin 325 mg by mouth daily  >
+No template for <Furosemide 20 mg by mouth daily >
+No template for <Metoprolol succinate 75 mg by mouth daily >
+No template for <Warfarin 0.5 mg daily >
+No template for <Augmentin 875-125 mg  >
+No template for <Atenolol 50 mg daily >
+No template for <Hydrochlorothiazide 50 mg daily >

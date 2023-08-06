@@ -1,0 +1,9 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|fevers| Medical Issues - Symptom|63|70
+1|chills| Medical Issues - Symptom|75|81
+2|severe infection in your blood| Medical Issues - Disease|225|255
+3|antibiotics| Treatments - Medicine name|286|297
+4|improved significantly| Treatments - Result of the treatment|308|330
+5|You have improved significantly but will need to complete a 14 day course of antibiotics.| Aftercare instructions - patient needs to do - Medication|299|388
+6|Please take all medications as prescribed and keep all your doctors [**Name5 (PTitle) 4314**].| Aftercare instructions - patient needs to do - Medication|389|483
+7|If you experience any chest pain, nausea, vominting, fevers, chills, low blood pressure, or any other symptom that concerns you, please seek medical attention.| Aftercare instructions - Emergency instruction|484|643

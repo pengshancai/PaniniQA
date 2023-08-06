@@ -1,0 +1,12 @@
+Medical Issues
+Symptoms [no explicit item] caused by Disease <large progressive aortic dissection> 
+Symptoms [no explicit item] caused by Disease <atrial fibrillation > 
+Symptoms [no explicit item] caused by Disease <pleural effusions > 
+
+Treatments
+Medicine <agents to control your heart rate > to treat <atrial fibrillation>
+<agents to control your heart rate >  Results: [no explicit item]
+Medicine <aggressive pain control > to treat <large progressive aortic dissection>
+<aggressive pain control >  Results: [no explicit item]
+
+No template for < >

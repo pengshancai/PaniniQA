@@ -1,0 +1,17 @@
+Medical Issues
+Symptoms include <fevers>;
+Symptoms <fevers> caused by Disease <pneumonia > 
+
+Treatments
+Medicine <antibiotics > to treat <pneumonia>
+<antibiotics > Results: <clinical improvement >; <no longer require supplemental oxygen >
+Procedure <fitted for a boot > to treat <foot drop>
+<fitted for a boot >  Results: [no explicit item]
+
+No template for <Please be aware that your blood sugars may vary in the setting of your infection as well as with decreased appetite. Please continue to check your blood sugars and call your [**Last Name (un) **] physician >
+No template for <Please be aware that your blood sugars may vary in the setting of your infection as well as with decreased appetite. Please continue to check your blood sugars and call your [**Last Name (un) **] physician >
+No template for <Your chemotherapy was delayed in the setting of infection. Please discuss your treatment plan at your follow-up visit with your Oncology team >
+No template for <Also, please reschedule the MRI and EEG studies that Dr. [**Last Name (STitle) 724**] recommended.  >
+No template for <STARTED on levofloxacin, to take for 9 more days (last dose [**1-9**]) >
+No template for <STARTED on ondansetron, to take as needed for nausea >
+No template for <You can use an over-the-counter cough medication like guaifenesin as needed for your cough Please take all medications as directed >

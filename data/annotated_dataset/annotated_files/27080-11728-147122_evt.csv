@@ -1,0 +1,20 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|a procedure to sample lymph nodes in your chest| Tests - Test name|95|142
+1|very low blood pressure| Medical Issues - Complication developed in the hospital|173|196
+2|difficult time breathing| Medical Issues - Complication developed in the hospital|203|227
+3|abnormal heart rhythm| Medical Issues - Complication developed in the hospital|285|306
+4|received medication| Treatments - Medicine name|377|396
+5|to help remove fluid and to control your heart rate.| Treatments - Treatment goal|397|449
+6|You lost more than 25 lbs of fluid weight and your breathing greatly improved.| Treatments - Result of the treatment|450|528
+7|liver function tests| Tests - Test name|534|554
+8|slightly increased| Tests - Test result|572|590
+9|Your liver function tests were found to be slightly increased, we would recommend following up with your primary care physician for an [**Name9 (PRE) 60478**].| Aftercare instructions - Upcoming Schedules - PCP appointment|529|689
+10|Please STOP Lisinopril 20 mg for now until your primary care physician feels it is safe to restart| Medicine instructions - Medicine stopped|725|823
+11|Please DECREASE Metoprolol Succinate to 100mg daily| Medicine instructions - Medicine changed|826|877
+12|Please START torsemide 20mg daily| Medicine instructions - Medicine started|880|913
+13|Please STOP lasix| Medicine instructions - Medicine stopped|916|933
+14|Please ask your cardiologist whether or not you may decrease your aspirin full strength to the baby aspirin dose (81mg) daily.| Aftercare instructions - patient needs to do - Medication|934|1060
+15|Please follow up with your primary care physician later this week.| Aftercare instructions - Upcoming Schedules - PCP appointment|1061|1127
+16|You will also need to get Pulmonary Function Tests| Aftercare instructions - Upcoming Schedules - Test|1241|1291
+17|Please be sure to follow up your liver function tests and kidney function with him and consider getting an MRCP.| Aftercare instructions - Upcoming Schedules - Test|1128|1240
+18|follow up with your cardiologist for a potential Right Heart Catheterization.| Aftercare instructions - Upcoming Schedules - Specialist appointment|1296|1373

@@ -1,0 +1,11 @@
+Medical Issues
+Symptoms include <desensitization of doxycycline>;
+Symptoms <desensitization of doxycycline> caused by Disease <Lyme disease > <Maybe>
+
+Treatments
+Medicine <doxycycline > to treat <Lyme disease>
+<doxycycline >  Results: <did not have any adverse reactions>
+
+No template for <We made no changes to your medications >
+No template for <Please start taking doxycycline at home tonight at 5pm. Please do not miss [**First Name (Titles) 691**] [**Last Name (Titles) 11014**]. If you miss a dose, you are at risk of developing an allergic reaction. >
+No template for <Please contact your primary care doctor if you miss [**First Name (Titles) 691**] [**Last Name (Titles) 4319**] of the doxycycline. >

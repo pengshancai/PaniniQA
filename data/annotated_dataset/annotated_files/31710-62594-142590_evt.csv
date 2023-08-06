@@ -1,0 +1,15 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|anemia| Medical Issues - Disease|85|91
+1|gastrointestinal bleed| Medical Issues - Disease|111|133
+2|trasnfused with 2 units of blood| Treatments - Procedure name|144|176
+3|your blood count increased and remained stable| Treatments - Result of the treatment|200|246
+4|upper endoscopy| Tests - Test name|289|304
+5|showed grade I varices which had not recently bleed and gastric antral ectasia (small vascular abnormalities)| Tests - Test result|311|420
+6|low blood count| Medical Issues - Symptom|445|461
+7|chronic blood loss from your gastric antral extasia| Medical Issues - Disease|472|523
+8|You were started on 2 antibiotics for concern of cellulitis at the site of your skin biopsy. These are called augmentin and bactrim.| Medicine instructions - Medicine started|525|658
+9|cellulitis at the site of your skin biopsy| Medical Issues - Disease|574|616
+10|augmentin and bactrim| Treatments - Medicine name|635|656
+11|You should follow-up with your dermatologist within 7-10 days regarding your skin wound.| Aftercare instructions - Upcoming Schedules - Specialist appointment|696|785
+12|Otherwise continue your outpatient medications as prescribed.| Aftercare instructions - patient needs to do - Medication|786|848
+13|Call you primary doctor or go to the emergency room if you experience fevers, chills, dizziness, shortness of breath, abdominal pain, blood in your stool, vomiting of blood, or dark black stool (different from your normal stool).| Aftercare instructions - Emergency instruction|849|1078

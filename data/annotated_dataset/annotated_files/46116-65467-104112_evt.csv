@@ -1,0 +1,10 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|shortness of breath| Medical Issues - Symptom|106|125
+1|machine helping you breathe| Treatments - Procedure name|204|231
+2|antibiotics| Treatments - Medicine name|256|267
+3|medications to remove excess fluid| Treatments - Medicine name|272|306
+4|you improved| Treatments - Result of the treatment|311|323
+5|We are providing you with a prescription for an antibiotic to continue after discharge.| Medicine instructions - Medicine continued|360|447
+6|Your platelets were discovered to be very low during this admission. You will need to return for a follow up appointment tomorrow morning at 9 AM (detail below). You will need to have your platelets re-checked.| Aftercare instructions - Upcoming Schedules - Test|450|660
+7|Please be very careful that you do not fall, as injurying yourself could be very dangerous because with low platelets your blood does not clot appropriately.| Aftercare instructions - patient needs to do - Other|661|818
+8|| Medicine instructions - Medicine started|821|955

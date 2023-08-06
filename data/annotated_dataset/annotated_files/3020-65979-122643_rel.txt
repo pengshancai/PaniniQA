@@ -1,0 +1,15 @@
+Medical Issues
+Symptoms include <confusion>;<low blood sugar >;
+Symptoms <low blood sugar> caused by Disease <too-high dose of insulin > 
+
+Treatments
+Medicine <decreased your dose of insulin > to treat <low blood sugar>
+<decreased your dose of insulin >  Results: <sugars and confusion greatly improved>
+
+No template for <Please attend the follow-up appointments listed below with [**Last Name (un) **] Diabetes Center and Cardiology.  >
+No template for <You will also have follow up with your primary care doctor [**First Name4 (NamePattern1) 14403**] [**Last Name (NamePattern1) **] while in rehab. >
+No template for <DECREASED glargine ([**Last Name (NamePattern1) 8472**]) to 10 units daily (at breakfast) >
+No template for <DECREASED insulin sliding scale (see attached sheet for instructions) >
+No template for <DECREASED torsemide to 40mg by mouth daily >
+No template for < STARTED levothyroxine (Synthroid) 50 micrograms by mouth daily  >
+No template for <STOPPED memantine (Namenda) because it was felt to be contributing to your confusion >

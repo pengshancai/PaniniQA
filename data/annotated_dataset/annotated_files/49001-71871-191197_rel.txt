@@ -1,0 +1,21 @@
+Medical Issues
+Symptoms include <low blood pressure >;
+Symptoms <low blood pressure> caused by Disease <gastrointestinal bleed> 
+
+Tests
+Tests include <upper endoscopy >;<colonoscopy >;<capsule study >;
+Test goal of <upper endoscopy >;<colonoscopy >;<capsule study >: <to look for the source of bleeding >;
+Test results of <upper endoscopy>: <normal >;
+Test results of <colonoscopy>: <did not find a source of bleeding, but did find polyps in your colon >;
+Test implications of <colonoscopy>: <{polyps} will need to be removed >; 
+Test results of <capsule study>: < in progress >;
+
+Treatments
+Medicine <intravenous fluid > to treat <low blood pressure>
+<intravenous fluid >  Results: <blood pressure returned to [**Location 213**] >
+Medicine <two units of blood > to treat <gastrointestinal bleed>
+<two units of blood >  Results: <your blood counts (hemoglobin and hematocrit) had increased >
+
+
+No template for <you will need to follow up with your gastroenterologist for the results >
+No template for <follow up with your primary care doctor >

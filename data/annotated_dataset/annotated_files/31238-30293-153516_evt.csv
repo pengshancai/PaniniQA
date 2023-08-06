@@ -1,0 +1,6 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|pancreatitis| Medical Issues - Disease|84|96
+1|fluids| Treatments - Medicine name|136|143
+2|Please take all medication as prescribed.| Aftercare instructions - patient needs to do - Medication|266|308
+3|Please make all medical appointments.| Aftercare instructions - Upcoming Schedules - Specialist appointment|311|349
+4|Please call your physician or go to the emergency room if you develop chest pain, shortness of breath, lightheadedness, fever greater than 101.5 not responsive to tylenol, redness or swelling, severe abdominal pain or distention, persistent nausea or vomiting, diarrhea, inability to eat or drink, or any other symptoms which are concerning to you.| Aftercare instructions - Emergency instruction|352|700

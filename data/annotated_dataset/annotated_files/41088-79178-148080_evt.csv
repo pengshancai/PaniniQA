@@ -1,0 +1,7 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|pneumonia| Medical Issues - Disease|74|83
+1|MRSA| Medical Issues - Disease|118|122
+2|you required help from a breathing machine| Treatments - Procedure name|140|182
+3|You are going to require a very long course of antibiotics to help treat this| Treatments - Medicine name|184|261
+4|difficulty with breathing| Medical Issues - Symptom|295|320
+5|a breathing tube placed at the base of your neck to help you breath| Treatments - Procedure name|348|415

@@ -1,0 +1,21 @@
+Medical Issues
+Symptoms include <fall>;<confused and your oxygen was low >;
+Complication <you were confused and your oxygen was low> caused by< medication you received Maybe>
+Symptoms [no explicit item] caused by Disease <pneumonia > 
+
+Tests
+Test implications of <{imaging}>: <no break in your skull or spine >
+
+Treatments
+Procedure <you had a laceration stapled > to treat <{laceration}>
+<you had a laceration stapled >  Results: [no explicit item]
+Procedure <you were admitted to the ICU> to treat <confused and your oxygen was low >
+<you were admitted to the ICU> Results: <You are much more yourself  >
+
+
+No template for <will be going back to [**Hospital 100**] Rehab >
+No template for < increase your risperidone to 1.5mg daily, to be taken at 8pm (instead of 6pm) >
+No template for < Lasix >
+No template for <Dr. [**First Name (STitle) 3646**] will watch you closely and decide when to restart this medicine >
+No template for <levofloxacin 750mg once daily for 2 days to finish treatment for pneumonia >
+No template for <Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more than 3 lbs >

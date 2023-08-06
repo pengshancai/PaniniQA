@@ -1,0 +1,18 @@
+Medical Issues
+Symptoms include <worsening shortness of breath>;<extremely high blood pressure >;<fluid was backing up into your lungs >;
+Symptoms <worsening shortness of breath>;<extremely high blood pressure >;<fluid was backing up into your lungs > caused by Disease <eating too much salt and fluids in a short period of time {salt and fluid overload} > <Maybe>
+
+Treatments
+Medicine <IV infusion of medications  > to treat <extremely high blood pressure>
+<IV infusion of medications  >  Results: <you began to feel a lot better>
+<IV infusion of medications > Results: <you began to feel a lot better >
+Medicine <put you back on your regular mediations> to treat <no explicit item>
+<put you back on your regular mediations >  Results: <your breathing and blood pressure remained well controlled >
+Medicine <low salt diet > to treat <no explicit item>
+<low salt diet >  Results: <your breathing and blood pressure remained well controlled>
+<put you back on your regular mediations>;<low salt diet> Results: <your breathing and blood pressure remained well controlled >
+
+No template for <We made no changes to your medications. >
+No template for <It is exremely important for you to be 100% compliant with your medications and to follow a low salt diet.  >
+No template for <You will need to continue dialysis per your usual schedule. >
+No template for <You should weigh yourself every morning, and call your doctor if your weight goes up more than 3 lbs. >

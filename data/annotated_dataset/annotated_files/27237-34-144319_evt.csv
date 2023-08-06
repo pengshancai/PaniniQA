@@ -1,0 +1,15 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|low heart rate| Medical Issues - Symptom|129|143
+1|intubated| Treatments - Procedure name|184|193
+2|pacemaker| Treatments - Procedure name|275|284
+3|to help keep your heart rate within a normal range| Treatments - Treatment goal|292|342
+4|tolerated this procedure well| Treatments - Result of the treatment|348|377
+5|thyroid is not working properly| Medical Issues - Disease|416|447
+6|For this reason your thyroid medication (Synthroid) may need to be adjusted.| Medicine instructions - Medicine changed|449|525
+7|Please remember to take this medication daily and follow up with your Primary Care Physician to address this.| Aftercare instructions - patient needs to do - Medication|526|635
+8|Please START Keflex 500mg by mouth every 8 hours for the next three days| Medicine instructions - Medicine started|699|771
+9|Please START Tramadol 25mg by mouth every 6hrs as needed for pain ***This can cause drowsiness, do not take this medication when doing activity.| Medicine instructions - Medicine started|773|917
+10|Please continue to take your Coumadin at the same dose (5mg every day except for 2.5mg on Monday on Friday).| Medicine instructions - Medicine continued|919|1027
+11|Please have your labs drawn on Tuesday [**2191-3-1**] for PT/INR.| Aftercare instructions - Upcoming Schedules - Test|1091|1156
+12|Please continue to take your other medications as instructed| Aftercare instructions - patient needs to do - Medication|1198|1258
+13|Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more than 3 lbs.| Aftercare instructions - patient needs to do - Other|1259|1347

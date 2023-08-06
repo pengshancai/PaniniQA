@@ -1,0 +1,28 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|infection of your ICD| Medical Issues - Symptom|161|182
+1|pacemaker| Treatments - Procedure name|184|193
+2|The pacemaker/ICD was removed in the operating room| Treatments - Procedure name|212|263
+3|low blood pressures| Medical Issues - Symptom|294|313
+4|fluid overload| Medical Issues - Symptom|315|329
+5|kidney failure| Medical Issues - Disease|334|348
+6|You were started on IV antibiotics for a planned 6 week course| Treatments - Medicine name|521|584
+7|infection on your heart valves| Medical Issues - Symptom|597|627
+8|You will need an echocardiogram again| Treatments - Procedure name|629|666
+9|antibiotics| Treatments - Medicine name|677|688
+10|an ultrasound of your heart| Treatments - Procedure name|851|880
+11|heart was not pumping forward as well as it could| Medical Issues - Symptom|903|952
+12|fluid was pooling in your lungs and extremities| Medical Issues - Symptom|969|1016
+13|We placed you on medications to faciliate diuresis| Medicine instructions - Medicine stopped|1018|1068
+14|1. Start taking Ampicillin| Treatments - Medicine name|1175|1202
+15|Ceftriaxone| Treatments - Medicine name|1206|1217
+16|Start taking Gentamycin; plan to complete 6 week course .| Treatments - Medicine name|1315|1373
+17|Stop Lisinopril and Furosemide until kidney function stabilizes.| Treatments - Medicine name|1411|1476
+18|Decrease Digoxin to three days a week instead of daily until your kidney function improves.| Treatments - Medicine name|1479|1570
+19|Stop taking fenofibrinate and glimepiride| Medicine instructions - Medicine stopped|1574|1616
+20|Start taking tylenol as needed for minor pain| Treatments - Medicine name|1619|1665
+21|Start taking Lorazepam as needed for anxiety| Treatments - Medicine name|1668|1713
+22|Increase Vitamin D to 1000u daily| Medicine instructions - Medicine changed|1716|1750
+23|STart senna and colace as needed| Treatments - Medicine name|1753|1785
+24|STop taking glimepiride and Janumet| Medicine instructions - Medicine stopped|1813|1848
+25|Continue Glargine insulin while you are in the rehabilitation at 30 units.| Medicine instructions - Medicine continued|1850|1925
+26|You can restart pills once you are home to control your blood sugar.| Aftercare instructions - patient needs to do - Medication|1925|1993

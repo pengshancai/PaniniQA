@@ -1,0 +1,8 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|COPD/emphysema| Medical Issues - Disease|136|150
+1|respiratory failure| Medical Issues - Disease|176|195
+2|you were intubated in the emergency department| Treatments - Procedure name|200|246
+3|You were admitted to the intensive care unit| Treatments - Procedure name|248|292
+4|started on antibiotics and steroids| Treatments - Medicine name|297|332
+5|You were extubated, improved clinically, and transferred to the floor| Treatments - Procedure name|335|403
+6|| Treatments - Medicine name|462|611

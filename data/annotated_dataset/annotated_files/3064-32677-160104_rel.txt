@@ -1,0 +1,21 @@
+Medical Issues
+Symptoms include <heart rate varies >;
+Symptoms [no explicit item] caused by Disease <left lower extremity ulcer >
+Complication <heart rhythms > caused by [no explicit item]
+Symptoms <heart rate varies> caused by Disease <Tachy-Brady Syndrome > 
+Complication <change in your thinking > caused by [no explicit item]
+
+Treatments
+Medicine <IV antibiotics> to treat <left lower extremity ulcer>
+<IV antibiotics>  Results: [no explicit item]
+
+Aftercare instructions
+If encounter <develop chest pain, shortness of breath, abdominal pain, nausea, vomiting, diarrhea, new neurological changes, or new changes in your thinking> do <Return to the hospital or contact your physician>
+
+No template for <Start Thiamine 100 mg PO DAILY >
+No template for <Start Seroquel 25mg QHS >
+No template for <Start Clonidine 0.2 mg/24 hr Patch Weekly, Apply one patch every Sunday. Remove previous patch and apply this patch which should be left on for the week and replaced every Sunday.  >
+No template for <Start Clonidine 0.2 mg/24 hr Patch Weekly, Apply one patch every Sunday. Remove previous patch and apply this patch which should be left on for the week and replaced every Sunday.  >
+No template for <Start Pantoprazole 20mg Daily >
+No template for <STOP Atenolol 50mg Twice Daily >
+No template for <CHANGE Enalapril from 10mg Daily to 40mg Daily >

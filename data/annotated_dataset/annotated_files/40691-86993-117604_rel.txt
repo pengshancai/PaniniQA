@@ -1,0 +1,15 @@
+Medical Issues
+Symptoms include <fever >;<morbiliform rash >;
+Symptoms <morbiliform rash> caused by Disease <drug reaction >
+
+Treatments
+Medicine <vancomycin > to treat [No explicit item]
+<vancomycin >  Results: [No explicit item]
+Medicine <ertapenem > to treat [No explicit item]
+<ertapenem >  Results: [No explicit item]
+Medicine <prednisone > to treat [No explicit item]
+<prednisone >  Results: [No explicit item]
+<CHANGE HERE Procedure name / Medicine name> Results: <the plastic surgeons who felt the wound on your right hand were healing well and were not concerned for worsening infections >
+Medicine <anti-bioitics > to treat [No explicit item]
+<anti-bioitics >  Results: [No explicit item]
+

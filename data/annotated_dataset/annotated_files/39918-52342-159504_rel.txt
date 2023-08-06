@@ -1,0 +1,16 @@
+Medical Issues
+Symptoms include <gastrointestinal bleed >;<bleeding ulcers >;<enlarged blood vessels >;
+Symptoms <gastrointestinal bleed> caused by Disease <ulcers>
+Symptoms <enlarged blood vessels> caused by Disease <liver disease >
+
+Treatments
+Medicine <-START nadolol 40 mg daily > to treat [No explicit item]
+<-START nadolol 40 mg daily >  Results: [No explicit item]
+Medicine <take oxycodone as needed for treatment of your pain > to treat <pain>
+<take oxycodone as needed for treatment of your pain >  Results: [No explicit item]
+Medicine <START taking pantoprazole twice a day > to treat [No explicit item]
+<START taking pantoprazole twice a day >  Results: [No explicit item]
+
+No template for <-STOP taking all non-steroidal anti-inflammatory medications, such as ibuprofen >
+No template for <STOP taking atenolol. This medication may need to be restarted after you stabilize on nadalol >
+No template for <you start physical therapy and follow up with your spine surgeon >

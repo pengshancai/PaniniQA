@@ -1,0 +1,16 @@
+Medical Issues
+Symptoms include <shortness of breath>;
+Symptoms <shortness of breath> caused by Disease <cardiac ischemia > 
+
+Tests
+Test results of <{chest x-ray}>: <fluid in you lungs >;
+
+Treatments
+Procedure <cardiac catheterization > to treat <cardiac ischemia >
+<cardiac catheterization >  Results: <You had stents placed to these blockages>
+
+
+No template for <aspirin 325 mg and plavix 75 mg daily to prevent clotting of these stents >
+No template for <Please do not stop either of these medications unless instructed to do so by your cardiologist >
+No template for <Please keep all of your follow up appointments >
+No template for <If you develop chest pain, shortness of breath or any other concerning symptoms, please call your primary care doctor or go to the nearest Emergency Department >

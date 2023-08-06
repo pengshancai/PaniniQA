@@ -1,0 +1,16 @@
+Medical Issues
+Symptoms include <severe chest pain>;<low blood count of 21 >;
+
+Treatments
+Procedure <transfused a total of 5 units PRBC > to treat [no explicit item]
+<transfused a total of 5 units PRBC >  Results: [no explicit item]
+
+Aftercare instructions
+If encounter <any concerning symptoms including chest pain that is wore or different than your usual angina, light headedness, fainting, low blood pressure, difficulty breathing, evidence of blood loss or any other worrisome symptoms> do <Please call your doctor or return to the hospital>
+
+No template for <You were seen by the gastroenterologists who think that you are losing blood in your GI tract. You did not have a colonoscopy or endoscopy because of the severity of your heart disease. At this time the gastroenterologists felt that it would be risky to do either of these procedures. You will likely continue to require occasional blood transfusions to treat the blood loss becausing having a low blood count will cause you to have more chest pain. You were discharged to rehab to help work on your strength. >
+No template for <1)You were changed to Flomax to treat your prostatic hypertrophy. This is a better medication given your other medical conditions. >
+No template for <Please stop taking your terazosin >
+No template for <2) Your dose of allopurinol was reduced to be more appropriate for your age and kidney function >
+No template for <3) None of your other medications were changed >
+No template for <Please follow up as below.  >

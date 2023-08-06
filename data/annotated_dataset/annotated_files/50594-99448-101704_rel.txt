@@ -1,0 +1,20 @@
+Medical Issues
+Symptoms include <chest pain>;
+
+Tests
+Tests include <EKG >;
+Test results of <EKG>: <changes in the electrical pattern of your heart >;
+Test implications of <EKG>: < impaired blood flow >; 
+
+Treatments
+Procedure <cardiac catheterization > to treat <impaired blood flow >
+<cardiac catheterization >  Results: <Your stent was placed in the bypass graft leading to your LAD artery>;<you did well and your chest pain resolved >
+
+
+No template for <Plavix  >
+No template for <Metoprolol succinate (Toprol XL) [**2-1**] a 25mg tablet daily (total 12.5mg) >
+No template for <Atorvastatin- increased from 20mg a day to 80mg a day >
+No template for <Atenolol  >
+No template for <Continue taking your baby aspirin (81mg) by mouth once a day >
+No template for <Make sure to have your INR checked the morning of your doctors [**Name5 (PTitle) 648**] with Dr [**Last Name (STitle) 3357**] next week >
+No template for <You should bring your medications to each [**Last Name (STitle) 648**] so your doctors [**Name5 (PTitle) **] update their records and adjust the doses as needed >

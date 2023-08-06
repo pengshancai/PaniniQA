@@ -1,0 +1,15 @@
+Medical Issues
+Symptoms include <confusion>;
+Symptoms [No explicit item]caused by Disease <pneumonia >
+Symptoms [No explicit item] caused by Disease <enlarged prostate >
+
+Treatments
+Procedure <foley catheter > to treat [No explicit item]
+<foley catheter >  Results: [No explicit item]
+Medicine <STARTED flomax > to treat [No explicit item]
+<STARTED flomax >  Results: [No explicit item]
+Medicine <STARTED metoprolol > to treat [No explicit item]
+<STARTED metoprolol >  Results: [No explicit item]
+
+No template for <STOPPED atenolol  >
+No template for <STOPPED enalapril >

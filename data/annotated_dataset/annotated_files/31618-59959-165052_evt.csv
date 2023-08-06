@@ -1,0 +1,15 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|fevers| Medical Issues - Symptom|139|145
+1|headache| Medical Issues - Symptom|147|155
+2|myalgias| Medical Issues - Symptom|157|165
+3|malaria fingerstick test| Tests - Test name|182|206
+4|positive| Tests - Test result|173|181
+5|melena| Medical Issues - Symptom|309|315
+6|malaria infection| Medical Issues - Disease|372|389
+7|blood tests| Tests - Test name|472|484
+8|EGD| Tests - Test name|490|493
+9|Please call your doctor or return to the emergency room with any new or concerning symptoms, in particular, fever, severe headache, nausea or vomiting, confusion, black or bloody stool or vomitus, difficulty tolerating your medications or any other worrisome symptoms.| Aftercare instructions - Emergency instruction|777|1046
+10|You are being given prescriptions for the following NEW medications: ** Quinine sulfate, 648 mg, TID for a total of 3 days (first dose was night of [**2170-10-12**]) - Please take one dose this afternoon, one dose this evening, one dose tomorrow morning, and one dose tomorrow afternoon. This will complete a three day course of TID treatment| Medicine instructions - Medicine started|1048|1391
+11|You are being given prescriptions for the following NEW medications: ** Quinine sulfate, 648 mg, TID for a total of 3 days (first dose was night of [**2170-10-12**]) - Please take one dose this afternoon, one dose this evening, one dose tomorrow morning, and one dose tomorrow afternoon. This will complete a three day course of TID treatment| Aftercare instructions - patient needs to do - Medication|1048|1391
+12|** Clindamycin tabs,300 mg, TID X 1 week -- Please take two tablets by mouth (for total dose of 600 mg), three times per day for 7 days| Medicine instructions - Medicine started|1391|1526
+13|** Clindamycin tabs,300 mg, TID X 1 week -- Please take two tablets by mouth (for total dose of 600 mg), three times per day for 7 days| Aftercare instructions - patient needs to do - Medication|1391|1526

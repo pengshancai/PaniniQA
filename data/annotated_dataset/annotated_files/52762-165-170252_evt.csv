@@ -1,0 +1,11 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|short of breath| Medical Issues - Symptom|183|198
+1|flare up of your chronic obstructive pulmonary disease| Medical Issues - Disease|208|262
+2|inhalers| Treatments - Medicine name|279|287
+3|nebulizers| Treatments - Procedure name|292|302
+4|steroids| Treatments - Medicine name|315|323
+5|antibiotics| Treatments - Medicine name|328|339
+6|INCREASED prednisone to 40mg a day for [**10-6**] and [**10-7**], then continue taking your home dose of 5mg daily| Medicine instructions - Medicine changed|431|546
+7|Azithromycin (last day [**10-7**])| Medicine instructions - Medicine started|554|588
+8|Advair twice daily| Medicine instructions - Medicine started|597|615
+9|Flovent| Medicine instructions - Medicine stopped|628|635

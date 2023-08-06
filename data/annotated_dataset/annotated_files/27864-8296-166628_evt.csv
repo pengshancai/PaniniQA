@@ -1,0 +1,7 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|acute renal failure| Medical Issues - Disease|64|83
+1|hemodialysis| Treatments - Procedure name|175|187
+2|your body did not tolerate hemodialysis because of your heart rate and blood pressure.| Treatments - Result of the treatment|148|234
+3|pneumonia| Medical Issues - Disease|261|270
+4|blood clots| Medical Issues - Symptom|299|310
+5|| Aftercare instructions - Upcoming Schedules - Treatment|457|563

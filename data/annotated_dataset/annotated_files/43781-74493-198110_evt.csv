@@ -1,0 +1,17 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|continued management of your heart attack| Medical Issues - Disease|97|138
+1|take out the temporary pacing wire and the aortic balloon pump| Treatments - Result of the treatment|246|308
+2|vomited some blood| Medical Issues - Symptom|427|445
+3|You will need to see the gastroenterology doctors as [**Name5 (PTitle) **] outpatient and an upper endoscopy in [**7-22**] weeks.| Aftercare instructions - Upcoming Schedules - Specialist appointment|535|664
+4|You will need a [**Date Range **] test in 1 month, Dr. [**Last Name (STitle) **] can arrange that at [**Hospital1 **] [**Location (un) 620**].| Aftercare instructions - Upcoming Schedules - Specialist appointment|665|807
+5|We have changed your medications. Please do the following:| Aftercare instructions - patient needs to do - Medication|810|868
+6|1. Please stop your simvastatin 20 mg daily.| Medicine instructions - Medicine stopped|869|913
+7|2. START ATORVASTATIN (LIPITOR) 80 mg every night.| Medicine instructions - Medicine started|914|964
+8|3. Stop Zantac, start taking Pantoprazole twice daily to protect your stomach from bleeding| Medicine instructions - Medicine stopped|965|1056
+9|4. Continue your aspirin 325 mg daily| Medicine instructions - Medicine continued|1058|1095
+10|5. Decrease your Lisinopril to 5 mg daily from 10 mg| Medicine instructions - Medicine changed|1096|1148
+11|6. Decrease your Toprol to 25 mg daily from 50 mg| Medicine instructions - Medicine changed|1149|1198
+12|7. Start Plavix to help keep your heart arteries open. You will need to take this medicine every day. Do not skip any doses or stop taking Plavix unless Dr. [**Last Name (STitle) **] tells you to.| Medicine instructions - Medicine started|1199|1395
+13|You will need to take this medicine every day. Do not skip any doses or stop taking Plavix unless Dr. [**Last Name (STitle) **] tells you to.| Aftercare instructions - patient needs to do - Medication|1254|1395
+14|8. Take nitroglycerin under your tongue as needed for chest pain. Sit down and take 5 minutes apart, no more than 3 tablets total.| Medicine instructions - Medicine started|1459|1589
+15|Call Dr. [**Last Name (STitle) **] if you have any chest pain for which you take nitroglycerin.| Aftercare instructions - patient needs to do - Medication|1590|1685

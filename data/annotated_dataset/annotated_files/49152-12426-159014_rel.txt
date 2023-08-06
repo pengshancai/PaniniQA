@@ -1,0 +1,21 @@
+Medical Issues
+Symptoms include <fever>;<possible seizure >;
+Symptoms <fever>;<possible seizure > caused by Disease < pneumonia > 
+
+Tests
+Test results of <{blood test}>: <high blood sugars >;
+
+Treatments
+Procedure <intubation and admission to the ICU > to treat <fever>;<possible seizure >
+<intubation and admission to the ICU >  Results: [no explicit item]
+Medicine <antibiotics > to treat <pneumonia>
+<antibiotics >  Results: [no explicit item]
+
+No template for <You will need complete a few more days of antibiotics at rehab >
+No template for <Your insulin regimen was changed to a long acting insulin called glargine to be taken at night >
+No template for <You are now on a medication called metoprolol instead of atenolol >
+No template for <You are also on a new medication called amlodipine >
+No template for <You should continue to take your other medications as directed >
+No template for <You should continue to take your other medications as directed >
+No template for <You should keep your follow-up appointments as detailed below >
+No template for <If you experience difficulty breathing, chest pain, bleeding or other concerning symptoms please call your doctor or come to the emergency room. >

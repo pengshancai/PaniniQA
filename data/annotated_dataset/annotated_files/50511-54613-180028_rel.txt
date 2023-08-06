@@ -1,0 +1,19 @@
+Medical Issues
+Complication < confusion after your hemodialysis session > caused by <pneumonia> 
+
+Tests
+Tests include <chest x-ray >;<EEG >;
+Test results of <{blood pressure measurement}>: <dangerously high blood pressure >;
+Test results of <chest x-ray>: <pneumonia >;
+Test results of <EEG>: <you did not have any evidence of seizures >;
+
+Treatments
+Medicine <antibiotics > to treat <pneumonia>
+<antibiotics> Results: <confusion improved >
+Medicine <home blood pressure medications > to treat <dangerously high blood pressure>
+<home blood pressure medications >  Results: <blood pressure improved>
+
+No template for <insulin glargine 5 units at bedtime >
+No template for <olanzapine >
+No template for <gabapentin >
+No template for <INCREASE lisinopril to 40mg daily >

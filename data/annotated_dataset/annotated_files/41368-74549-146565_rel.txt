@@ -1,0 +1,16 @@
+Medical Issues
+Symptoms include <difficult for you to breathe >;<increased the work that your heart does >;
+Symptoms <difficult for you to breathe>; <increased the work that your heart does> caused by Disease <pulmonary emboli>
+
+Treatments
+Medicine <treat you medically with medications that can help prevent further clots from forming > to treat <prevent further clots from forming>
+<treat you medically with medications that can help prevent further clots from forming >  Results: [No explicit item]
+Procedure <Ultrasound > to treat [No explicit item]
+<Ultrasound >  Results: [No explicit item]
+Medicine < the blood thinner you have been started on will help to prevent further such clots from forming. > to treat <prevent further clots from forming>
+< the blood thinner you have been started on will help to prevent further such clots from forming. >  Results: [No explicit item]
+Medicine <START warfarin. > to treat [No explicit item]
+<START warfarin. >  Results: [No explicit item]
+
+No template for <STOP metoprolol >
+No template for <Continue primodone if you want >

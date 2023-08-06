@@ -1,0 +1,13 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|shortness of breath| Medical Issues - Symptom|63|82
+1|cough| Medical Issues - Symptom|87|92
+2|COPD (emphysema) exacerbation| Medical Issues - Disease|119|148
+3|pneumonia| Medical Issues - Disease|153|162
+4|antibiotics, nebulizers, oxygen, and steroids| Treatments - Medicine name|186|231
+5|You will need to complete a course of antibiotics at home.| Aftercare instructions - patient needs to do - Medication|233|292
+6|potassium levels were also elevated| Medical Issues - Disease|297|332
+7|lisinopril was stopped and you were placed on a low potassium diet| Treatments - Medicine name|341|408
+8|Your potassium levels were also elevated, so your lisinopril was stopped and you were placed on a low potassium diet.| Medicine instructions - Medicine stopped|292|410
+9|Levofloxacin daily x7 days total.| Medicine instructions - Medicine started|435|468
+10|Trimethoprim-sulfamethoxazole (Bactrim) DS 1 tab every Monday, Wednesday, and Friday to prevent lung infections.| Medicine instructions - Medicine started|472|584
+11|Stop lisinopril.| Medicine instructions - Medicine stopped|588|604

@@ -1,0 +1,15 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|IV antibiotics| Treatments - Medicine name|69|83
+1|left lower extremity ulcer| Medical Issues - Disease|90|116
+2|heart rhythms| Medical Issues - Complication developed in the hospital|159|172
+3|Tachy-Brady Syndrome| Medical Issues - Disease|301|321
+4|change in your thinking| Medical Issues - Complication developed in the hospital|520|543
+5|Start Thiamine 100 mg PO DAILY| Medicine instructions - Medicine started|991|1021
+6|Start Seroquel 25mg QHS| Medicine instructions - Medicine started|1024|1047
+7|Start Clonidine 0.2 mg/24 hr Patch Weekly, Apply one patch every Sunday. Remove previous patch and apply this patch which should be left on for the week and replaced every Sunday.| Medicine instructions - Medicine started|1050|1230
+8|Start Clonidine 0.2 mg/24 hr Patch Weekly, Apply one patch every Sunday. Remove previous patch and apply this patch which should be left on for the week and replaced every Sunday.| Aftercare instructions - patient needs to do - Medication|1050|1230
+9|Start Pantoprazole 20mg Daily| Medicine instructions - Medicine started|1232|1261
+10|STOP Atenolol 50mg Twice Daily| Medicine instructions - Medicine stopped|1264|1294
+11|CHANGE Enalapril from 10mg Daily to 40mg Daily| Medicine instructions - Medicine changed|1297|1343
+12|Return to the hospital or contact your physician if you develop chest pain, shortness of breath, abdominal pain, nausea, vomiting, diarrhea, new neurological changes, or new changes in your thinking.| Aftercare instructions - Emergency instruction|1344|1543
+13|heart rate varies| Medical Issues - Symptom|345|362

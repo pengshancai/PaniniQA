@@ -1,0 +1,16 @@
+Medical Issues
+Symptoms include <difficulty breathing>;<low oxygen >;<low blood pressure >;<dehydrated >;
+Symptoms <difficulty breathing>;<low oxygen >;<low blood pressure> caused by Disease <pneumonia > 
+
+Treatments
+Medicine <antibiotics > to treat <pneumonia>
+<antibiotics >  Results: [no explicit item]
+Medicine <IV fluids > to treat <pneumonia>
+<IV fluids >  Results: [no explicit item]
+Procedure <mechanical ventilation through your trach > to treat <low oxygen>
+<mechanical ventilation through your trach >  Results: <Throughout your stay, your oxygen level improved and you were able to be kept off the ventilator for long periods of time >
+
+No template for <The following changes were made to your medications: - Continue Cefpodoxime 200mg by mouth twice a day through [**2162-4-14**] >
+No template for <- Continue Prednisone according to the following taper: 40mg until [**4-17**] 30mg until [**4-22**] 20mg until [**4-27**] 10mg until [**5-2**] >
+No template for <- Use ipratropium and albuterol neublizers as needed for shortness of breath, and wheezing Please take all medications as prescribed. >
+No template for <Please follow-up at your appointments below. >

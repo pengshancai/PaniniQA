@@ -1,0 +1,30 @@
+Medical Issues
+Symptoms include <flare of pustular psoriasis>;<low blood pressure >;
+Symptoms <flare of pustular psoriasis> caused by Disease <pustular psoriasis > 
+Symptoms [no explicit item] caused by Disease <bloodstream infection> 
+Symptoms [no explicit item] caused by Disease <urine infection> 
+Symptoms <low blood pressure> caused by Disease <renal failure > <Maybe>
+
+Tests
+Tests include <evaluated by the Renal Service >;
+Test results of <evaluated by the Renal Service>: <felt the renal failure may have been due to one of the medications you were taking which was stopped. The renal failure may also have been secondary to your pustular psoriasis flare >;
+
+Treatments
+Medicine <medication to support your blood pressure > to treat <low blood pressure>
+<medication to support your blood pressure >  Results: [no explicit item]
+Medicine <antibiotics > to treat <urine infection>; <bloodstream infection>
+<antibiotics >  Results: [no explicit item]
+
+Aftercare instructions
+If encounter <notice new or worsening skin lesions/eruptions, fevers/chills, worsening headache, shortness of breath, abdominal pain, diarrhea, difficult or painful urination, or anything that is concerning to you> do <Please return to the ED >
+
+No template for <You have completed the treatment for the urine infection and will continue on treatment for the bloodstream infection at home. >
+No template for <You were evaluated by Dermatology who recommended Soriatane for the treatment of your pustular psoriasis. >
+No template for <Your renal function improved and it will be recheck on Monday and the results given to your PCP. >
+No template for <ADDED: Soriatane, for your psoriasis >
+No template for <ADDED: Nafcillin - last dose [**2102-8-26**] for your bloodstream infection >
+No template for <STOPPED: Diovan 30mg po qd - your PCP may restart >
+No template for <STOPPED: HCTZ 12.5 po qd - your PCP may restart >
+No template for <STOPPED: Lasix 20mg PRN (LE edema) >
+No template for <your PCP may restart These blood pressure medications were stopped because they can worsen renal failure and your blood pressure was well controlled while you were here. Your PCP may restart them when you see her next week. >
+No template for <If you have heart burn, you can take Ranitidine (Zantac), please do not take Omeprazole as it could worsen your renal failure. >

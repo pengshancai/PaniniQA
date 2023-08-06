@@ -1,0 +1,21 @@
+Medical Issues
+Symptoms include <shortness of breath>;
+Symptoms <shortness of breath> caused by Disease <exacerbation of your COPD>
+Symptoms <shortness of breath> caused by Disease <pneumonia>
+
+Treatments
+Procedure <nebulizers > to treat <exacerbation of your COPD>
+<nebulizers >  Results: <you improved>
+Medicine <steroids > to treat <exacerbation of your COPD>
+<steroids >  Results: <you improved>
+Medicine <antibiotics > to treat <pneumonia>
+<antibiotics >  Results: <you improved>
+
+No template for <prednisone>
+No template for <azithromycin>
+No template for <cefepime>
+No template for <pantoprazole>
+No template for <finasteride>
+No template for <Please follow up with your Primary Care Physician>
+No template for <[**Name10 (NameIs) 6**] appointment has been made>
+No template for <Once you are home, you should continue your home inhalers and nebulizers as needed for shortness of breath>

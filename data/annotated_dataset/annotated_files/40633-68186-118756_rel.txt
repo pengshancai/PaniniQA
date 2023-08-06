@@ -1,0 +1,23 @@
+Medical Issues
+Symptoms include <fluid build-up in the linings surrounding your heart and lungs>;
+Symptoms <CHANGE HERE Symptom name> caused by Disease <cancer >
+
+Treatments
+Medicine <zofran > to treat <nausea>
+<zofran >  Results: [No explicit item]
+Medicine <compazine > to treat <nausea>
+<compazine >  Results: [No explicit item]
+Medicine <ativan > to treat <nausea>
+<ativan >  Results: [No explicit item]
+Medicine <ativan > to treat <anxiety>
+<ativan >  Results: [No explicit item]
+Medicine <haloperidol > to treat <agitation>
+<haloperidol >  Results: [No explicit item]
+No template for <axitinib >
+No template for <lovenox >
+No template for <omeprazole >
+No template for <tamsulosin >
+No template for <please start oral morphine concentrate for pain >
+No template for <continue OxyContin (long acting) >
+No template for <dexamethasone >
+No template for <laxatives >

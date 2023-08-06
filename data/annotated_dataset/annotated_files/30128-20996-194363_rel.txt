@@ -1,0 +1,10 @@
+Treatments
+Procedure <intubation > to treat <hypoxic respiratory distress >
+Medicine <antibiotics > to treat <infection>
+
+Aftercare instructions
+If encounter <fever > 101.4, nausea/vomiting, chills, severe abdominal pain or any other concerning symptoms> do <Please call your doctor or return to the ER. >
+
+No template for <Please take all medications as prescribed.  >
+No template for <You can continue taking your depakote and oral contraceptive when you leave the hospital. >
+No template for < Please follow up with all appointments as instructed. >

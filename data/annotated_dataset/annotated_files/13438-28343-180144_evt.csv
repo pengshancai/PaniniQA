@@ -1,0 +1,28 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|fevers| Medical Issues - Symptom|67|75
+1|change in mental status| Medical Issues - Symptom|79|102
+2|urinary tract infection| Medical Issues - Disease|129|152
+3|pneumonia| Medical Issues - Disease|167|176
+4|appropriate IV antibiotics| Treatments - Medicine name|231|257
+5|increased movements in your arms| Medical Issues - Symptom|279|312
+6|seizures| Medical Issues - Disease|340|348
+7|video EEG| Tests - Test name|352|361
+8|confirmed that you were indeed having seizures| Tests - Test result|377|423
+9|Keppra dose was optimized| Treatments - Medicine name|430|455
+10|Dilantin| Treatments - Medicine name|506|514
+11|to prevent seizures| Treatments - Treatment goal|516|535
+12|Valium| Treatments - Medicine name|568|574
+13|further help with seizure control| Treatments - Treatment goal|578|611
+14|Start Keppra 1500 mg twice a day| Medicine instructions - Medicine started|671|703
+15|Stop Keppra 1000mg twice a day| Medicine instructions - Medicine stopped|707|737
+16|Start Dilantin 100 mg in morning and at noon, then 150 mg in the evening| Medicine instructions - Medicine started|741|814
+17|Start Valium 5 mg daily| Medicine instructions - Medicine started|817|840
+18|Stop Heparin 5,000 unit/mL three times a day 6| Medicine instructions - Medicine stopped|844|890
+19|Start Metoprolol Tartate 37.5 mg three times a day| Medicine instructions - Medicine started|892|942
+20|Stop Metoprolol Tartate 50 mg every 6 hours| Medicine instructions - Medicine stopped|946|989
+21|Stop Multivitamin 1 tablet daily| Medicine instructions - Medicine stopped|993|1025
+22|Stop Modafinil 100 mg Tablet daily| Medicine instructions - Medicine stopped|1029|1063
+23|Stop Ferrous Sulfate 325 mg daily| Medicine instructions - Medicine stopped|1068|1101
+24|Start Prednisone 25 mg in morning and 2.5 mg at night| Medicine instructions - Medicine started|1106|1159
+25|Stop Prednisone 5 mg daily| Medicine instructions - Medicine stopped|1164|1190
+26|Seek medical attention immediately if patient has uncontrollable bleeding, continuous seizure activity, fevers or any other concerning symptoms.| Aftercare instructions - Emergency instruction|1191|1335

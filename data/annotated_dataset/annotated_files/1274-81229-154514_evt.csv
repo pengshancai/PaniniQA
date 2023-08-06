@@ -1,0 +1,13 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|congestive heart failure| Medical Issues - Disease|112|136
+1|milrinone| Treatments - Medicine name|176|185
+2|home diuretics| Treatments - Medicine name|247|261
+3|removed fluid| Treatments - Treatment goal|265|278
+4|help with your heart function| Treatments - Treatment goal|189|218
+5|Ultimately, the decision was made to stop the milrinone| Medicine instructions - Medicine stopped|280|335
+6|We have also provided you with a prescription to have your INR (coumadin level) checked by your visiting nurse.| Aftercare instructions - Upcoming Schedules - Test|540|651
+7|Torsemide from 40mg twice daily to 80mg once daily| Medicine instructions - Medicine changed|717|767
+8|Lyrica for your leg pain| Medicine instructions - Medicine started|777|801
+9|Please continue all other medications as listed below| Medicine instructions - Medicine continued|802|856
+10|Also, please note your follow up appointments. If you feel these appointments will help with your comfort you should go to these appointments.| Aftercare instructions - patient needs to do - Other|856|999
+11|We have also made an appointment with your PCP [**Name Initial (PRE) 7928**]| Aftercare instructions - Upcoming Schedules - PCP appointment|999|1075

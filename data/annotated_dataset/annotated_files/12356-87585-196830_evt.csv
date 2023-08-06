@@ -1,0 +1,15 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|transient episode of right arm weakness| Medical Issues - Symptom|81|120
+1|imaging| Tests - Test name|244|252
+2|left internal carotid dissection| Tests - Test result|263|295
+3|Please have Dr. [**Last Name (STitle) **] check your blood pressure to make sure the medications are adequate.| Aftercare instructions - Upcoming Schedules - PCP appointment|668|779
+4|You will need to follow-up with Dr. [**Last Name (STitle) **] on Tuesday morning to have your INR checked (coumadin level).| Aftercare instructions - Upcoming Schedules - Test|780|904
+5|You will follow up with Dr. [**First Name (STitle) **] in neurology clinic in 3 months. Dr. [**First Name (STitle) **] in Neurology - [**2116-4-20**] at 1:00 pm, [**Hospital Ward Name 23**] [**Location (un) 6332**]| Aftercare instructions - Upcoming Schedules - Specialist appointment|978|1193
+6|You will need a CT angiogram prior to your appointment.| Aftercare instructions - Upcoming Schedules - Test|1193|1249
+7|Started Coumadin (warfarin) 5 mg every night w/ a goal INR [**3-20**]| Medicine instructions - Medicine started|1538|1608
+8|Lovenox 90 mg SC twice daily - until INR is therapeutic| Medicine instructions - Medicine started|1611|1667
+9|Amlodipine 5 mg by mouth at night| Medicine instructions - Medicine started|1670|1704
+10|Lisinopril 20 mg by mouth at night| Medicine instructions - Medicine started|1707|1741
+11|Atorvastatin 20 mg by mouth at night| Medicine instructions - Medicine started|1745|1781
+12|slight right pronator drift| Medical Issues - Symptom|140|167
+13|mild weakness| Medical Issues - Disease|182|195

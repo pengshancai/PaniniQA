@@ -1,0 +1,16 @@
+Medical Issues
+Symptoms <no explicit item> caused by Disease <congestive heart failure> 
+
+Treatments
+Medicine <milrinone > to treat <congestive heart failure>
+<milrinone >  Results: <no explicit item>
+Medicine <home diuretics > to treat <congestive heart failure>
+<home diuretics >  Results: <no explicit item>
+
+No template for <Ultimately, the decision was made to stop the milrinone >
+No template for <We have also provided you with a prescription to have your INR (coumadin level) checked by your visiting nurse. >
+No template for <Torsemide from 40mg twice daily to 80mg once daily >
+No template for <Lyrica for your leg pain >
+No template for <Please continue all other medications as listed below  >
+No template for <Also, please note your follow up appointments. If you feel these appointments will help with your comfort you should go to these appointments.  >
+No template for <We have also made an appointment with your PCP [**Name Initial (PRE) 7928**] >

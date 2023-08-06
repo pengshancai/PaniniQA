@@ -1,0 +1,9 @@
+
+Aftercare instructions
+If encounter <signs of bleeding (spitting up blood, blood in your stool, dizzyness, or lightheadedness)> do <Please return to the ER.>
+
+No template for <Please followup with all of your appointments. >
+No template for <Please take all medication as we have prescribed.  >
+No template for <Please take all medication as we have prescribed. **We have changed your medications. Please take the medications as we have prescribed. >
+No template for <INSTEAD OF BUMEX YOU WILL NOW BE TAKING LASIX >
+No template for <You will be readmitted to the hospital likely on [**2104-12-8**]. The admitting office will call you to arrange the details. >

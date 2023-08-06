@@ -1,0 +1,19 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|difficulty breathing| Medical Issues - Symptom|66|86
+1|pneumnia| Medical Issues - Disease|94|102
+2|chronic obstructive pulmonary disease (COPD)| Medical Issues - Disease|131|175
+3|your heart was not able to pump blood effectively| Medical Issues - Symptom|244|293
+4|difficulty with your breathing| Medical Issues - Symptom|494|524
+5|pneumonia| Medical Issues - Disease|531|540
+6|COPD exacerbation| Medical Issues - Symptom|545|562
+7|You will need pulmonary function tests and an echo of your heart as an outpatient| Treatments - Procedure name|611|692
+8|high blood pressure (hypertension)| Medical Issues - Symptom|718|752
+9|you undergo a repeat CT scan of the chest in [**7-6**] months to check for change in the nodules| Treatments - Procedure name|931|1027
+10|acapella device to help your breathing| Treatments - Procedure name|1136|1174
+11|START prednisone taper: - take 20 mg (2 tablets) for 2 days| Treatments - Medicine name|1196|1255
+12|START spiriva daily (this treats your COPD) START aspirin 325 mg daily| Treatments - Medicine name|1347|1417
+13|START lisinopril 20 mg daily (this treats your high blood pressure)| Treatments - Medicine name|1418|1485
+14|START dilitiazem 360 mg daily (this treats your high blood pressure)| Treatments - Medicine name|1486|1554
+15|START chlorthalidone 15 mg daily (this treats your high blood pressure)| Treatments - Medicine name|1555|1626
+16|START simvastatin 40 mg daily (this treats your cholesterol)| Treatments - Medicine name|1627|1687
+17|| Treatments - Medicine name|1688|1770

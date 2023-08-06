@@ -1,0 +1,12 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|heart attack| Medical Issues - Disease|83|95
+1|cardiac catheterization| Treatments - Procedure name|120|143
+2|to open the blocked coronary artery that you had| Treatments - Treatment goal|153|201
+3|drug eluting stent placed in the right coronary artery| Treatments - Result of the treatment|212|267
+4|do not stop taking Aspirin 325 mg by mouth daily| Medicine instructions - Medicine started|337|385
+5|do not stop taking Plavix (Clopidogrel) 75 mg by mouth daily| Medicine instructions - Medicine started|400|460
+6|YOU MUST stay on this medication for 1 year| Aftercare instructions - patient needs to do - Medication|462|505
+7|Lipitor (Atorvastatin) 80 mg by mouth daily| Medicine instructions - Medicine started|516|559
+8|Atenolol 50 mg by mouth daily| Medicine instructions - Medicine continued|572|601
+9|Increase your Lisinopril to 40 mg by mouth daily| Medicine instructions - Medicine changed|606|654
+10|amlodipine| Medicine instructions - Medicine stopped|676|686

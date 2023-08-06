@@ -1,0 +1,12 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|abdominal pain| Medical Issues - Symptom|126|140
+1|vomiting blood| Medical Issues - Symptom|150|164
+2|blood count was low| Medical Issues - Symptom|171|190
+3|the other hospital gave you one unit of blood and transferred you to [**Hospital1 18**]| Treatments - Procedure name|195|282
+4|received another 2 units of blood| Treatments - Procedure name|317|351
+5|were given antibiotics to prevent infection| Treatments - Medicine name|355|398
+6|upper endoscopy| Tests - Test name|411|426
+7|it did not show any active bleeding| Tests - Test result|443|478
+8|You should avoid drinking alcohol in the future| Aftercare instructions - patient needs to do - Diet|591|638
+9|TART Ciprofloxacin 500mg by mouth twice a day for 3 days| Treatments - Medicine name|695|752
+10|INCREASE Protonix to 40mg by mouth twice a day| Medicine instructions - Medicine changed|753|799

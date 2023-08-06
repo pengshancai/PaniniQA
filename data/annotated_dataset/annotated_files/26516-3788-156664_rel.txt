@@ -1,0 +1,14 @@
+Medical Issues
+Symptoms include <low blood pressure>;
+Complication <low blood pressure> caused by <the sedation you had for the bronchoscopy>
+
+Tests
+Tests include <bronchoscopy >;<Blood tests >;<the sedation you had for the bronchoscopy >;
+Test results of <Blood tests>: <no evidence of any infection or heart attack >;
+
+Aftercare instructions
+If encounter <high fevers, chest pain, difficulty breathing, loss of consciousness, or other concerning symptoms> do <seek medical attention. >
+
+No template for <No changes were made to any of your home medications. >
+No template for <Please attend all followup appointments. >
+No template for <Please take all medications as prescribed. >

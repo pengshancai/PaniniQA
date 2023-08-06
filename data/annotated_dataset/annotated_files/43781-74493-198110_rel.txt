@@ -1,0 +1,20 @@
+Medical Issues
+Symptoms include <vomited some blood >;
+Symptoms <CHANGE HERE Symptom name> caused by Disease <continued management of your heart attack> <CHANGE HERE Maybe>
+Treatments
+<CHANGE HERE Procedure name / Medicine name> Results: <take out the temporary pacing wire >
+<CHANGE HERE Procedure name / Medicine name> Results: <take out the temporary pacing wire and the aortic balloon pump >
+No template for <You will need to see the gastroenterology doctors as [**Name5 (PTitle) **] outpatient and an upper endoscopy in [**7-22**] weeks. >
+No template for <You will need a [**Date Range **] test in 1 month, Dr. [**Last Name (STitle) **] can arrange that at [**Hospital1 **] [**Location (un) 620**]. >
+No template for <We have changed your medications. Please do the following: >
+No template for <1. Please stop your simvastatin 20 mg daily. >
+No template for <2. START ATORVASTATIN (LIPITOR) 80 mg every night. >
+No template for <3. Stop Zantac, start taking Pantoprazole twice daily to protect your stomach from bleeding >
+No template for <4. Continue your aspirin 325 mg daily >
+No template for <5. Decrease your Lisinopril to 5 mg daily from 10 mg >
+No template for <5. Decrease your Lisinopril to 5 mg daily from 10 mg >
+No template for <6. Decrease your Toprol to 25 mg daily from 50 mg >
+No template for <7. Start Plavix to help keep your heart arteries open. You will need to take this medicine every day. Do not skip any doses or stop taking Plavix unless Dr. [**Last Name (STitle) **] tells you to. >
+No template for <You will need to take this medicine every day. Do not skip any doses or stop taking Plavix unless Dr. [**Last Name (STitle) **] tells you to. >
+No template for <8. Take nitroglycerin under your tongue as needed for chest pain. Sit down and take 5 minutes apart, no more than 3 tablets total. >
+No template for <Call Dr. [**Last Name (STitle) **] if you have any chest pain for which you take nitroglycerin. >

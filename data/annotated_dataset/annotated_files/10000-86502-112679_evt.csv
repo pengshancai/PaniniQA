@@ -1,0 +1,11 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|back pain| Medical Issues - Symptom|122|131
+1|stone in your ureter which is the tube draining urine from your kidney into the bladder| Medical Issues - Disease|158|245
+2|you need a tube in your right side to drain the urine that your right kidney makes| Treatments - Procedure name|306|388
+3|You will follow-up with the urologists (kidney specialists) so they can break the stone and take out this tube.| Aftercare instructions - Upcoming Schedules - Specialist appointment|390|501
+4|This kidney stone was also infected and caused you to have bacteria in your blood stream| Medical Issues - Symptom|504|592
+5|you received antibiotics through the IV and lots of IV fluids| Treatments - Medicine name|604|665
+6|START vancomycin 1250mg IV twice daily until [**2119-12-24**]| Medicine instructions - Medicine started|816|878
+7|STOP hydrochlorothiazide until you visit your primary care doctor| Medicine instructions - Medicine stopped|878|943
+8|blood pressure was low| Medical Issues - Symptom|718|740
+9|from the infection.| Medical Issues - Disease|741|760

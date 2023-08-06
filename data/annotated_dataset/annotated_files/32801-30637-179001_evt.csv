@@ -1,0 +1,8 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|heart attack| Medical Issues - Disease|66|78
+1|stent placed in your coronary artery| Treatments - Procedure name|90|126
+2|to open up the blockage| Treatments - Treatment goal|127|150
+3|You were started on new medication which include: Aspirin Plavix Lisinopril Toprol XL .| Medicine instructions - Medicine started|154|241
+4|You have been set up with a follow up appointment with a new primary care physician.| Aftercare instructions - Upcoming Schedules - PCP appointment|345|429
+5|Please call Cardiology clinic to set up an appointment with a cardiologist ([**Telephone/Fax (1) 2037**] .| Aftercare instructions - Upcoming Schedules - Specialist appointment|606|713
+6|Please call your doctor or return to the emergency room if you develop any worrisome symptoms such as shortness of breath, chest pain, palpitations, lightheadedness, bleeding, etc.| Aftercare instructions - Emergency instruction|713|893

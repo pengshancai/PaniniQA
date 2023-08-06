@@ -1,0 +1,11 @@
+Medical Issues
+Symptoms include <multiple injuries after falling>;
+Symptoms [No explicit item] caused by Disease <cervical fracture  >
+Symptoms [No explicit item] caused by Disease <compresion fractures in the thoracic spine >
+
+Treatments
+Procedure <wear a soft collar for comfort > to treat <cervical fracture>
+<wear a soft collar for comfort >  Results: [No explicit item]
+
+No template for <You should NOT bend, twist or lift anything &gt; 2 lbs for the next 6 weeks. >
+No template for <Do NOT drink any alcohol >

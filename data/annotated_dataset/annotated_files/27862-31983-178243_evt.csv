@@ -1,0 +1,9 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|slow heart rate| Medical Issues - Symptom|68|83
+1|acute renal failure| Medical Issues - Disease|99|118
+2|accumulation of the diltiazem secondary to your renal failure| Medical Issues - Disease|163|224
+3|heart attack| Medical Issues - Disease|265|277
+4|pneumonia| Medical Issues - Disease|296|305
+5|antibiotics| Treatments - Medicine name|327|338
+6|We changed several of your medications. Please see the medications sheet for specific medications and doses.| Medicine instructions - Medicine changed|358|466
+7|Please contact your primary care physician if you have chest pain, shortness of breath, fevers, chills, or any other concerns.| Aftercare instructions - Emergency instruction|469|595

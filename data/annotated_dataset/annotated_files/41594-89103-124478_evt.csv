@@ -1,0 +1,9 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|urinary tract infection| Medical Issues - Disease|93|116
+1|blood cultures| Tests - Test name|128|142
+2|low blood pressure| Medical Issues - Symptom|299|317
+3|altered mental status| Medical Issues - Symptom|322|343
+4|Please take the [**Hospital6 9847**] 500mg every 12 hours for the next 13 days to treat your urinary tract infection.| Medicine instructions - Medicine started|420|537
+5|On your CT scan there was a mass noted in the abdomen| Tests - Test result|538|591
+6|infection| Medical Issues - Disease|682|691
+7|possible cancer| Medical Issues - Disease|697|712

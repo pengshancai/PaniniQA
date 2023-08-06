@@ -1,0 +1,31 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|shortness of breath| Medical Issues - Symptom|101|120
+1|CT scan of your chest| Tests - Test name|124|145
+2|pneumonia| Tests - Test result|165|174
+3|emphysema| Tests - Test result|179|188
+4|antibiotics| Treatments - Medicine name|212|223
+5|nebulizers| Treatments - Medicine name|228|238
+6|bronchoscopy| Tests - Test name|310|322
+7|prematurely aborted| Tests - Test result|349|369
+8|oxygen levels became low| Medical Issues - Complication developed in the hospital|382|406
+9|oxygen levels improved| Treatments - Result of the treatment|531|554
+10|fevers resolved| Treatments - Result of the treatment|563|578
+11|follow-up with your PCP| Aftercare instructions - Upcoming Schedules - PCP appointment|600|624
+12|see the pulmonologist within 4-6weeks of discharge| Aftercare instructions - Upcoming Schedules - Specialist appointment|669|719
+13|Please talk to your PCP about scheduling [**Name Initial (PRE) **] repeat CAT scan of your chest before this appointment| Aftercare instructions - patient needs to do - Other|720|841
+14|recheck your electrolytes| Aftercare instructions - patient needs to do - Other|864|889
+15|sodium level was low| Medical Issues - Complication developed in the hospital|902|923
+16|started on a new medication for your blood pressure| Treatments - Treatment goal|976|1027
+17|liver enzymes| Tests - Test goal|1033|1047
+18|elevated| Tests - Test result|1058|1066
+19|blood tests| Tests - Test name|1098|1109
+20|did not have the final results before you were discharged| Tests - Test result|1126|1184
+21|losartan| Medicine instructions - Medicine started|1348|1357
+22|50mg once a day for your blood pressure| Aftercare instructions - patient needs to do - Medication|1358|1397
+23|omeprazole| Medicine instructions - Medicine started|1407|1417
+24|20mg once a day for heartburn| Aftercare instructions - patient needs to do - Medication|1418|1447
+25|albuterol inhaler| Medicine instructions - Medicine started|1457|1474
+26|2puffs every 4-6hours as needed for shortness of breath| Aftercare instructions - patient needs to do - Medication|1475|1530
+27|hydrochlorothiazide| Medicine instructions - Medicine stopped|1539|1558
+28|follow up the final results| Aftercare instructions - patient needs to do - Other|1202|1229
+29|recheck your liver function tests| Aftercare instructions - patient needs to do - Other|1233|1267

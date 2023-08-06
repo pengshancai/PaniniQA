@@ -1,0 +1,9 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|weakness while reaching for a coffee mug| Medical Issues - Symptom|64|104
+1|rapid irregular heart beat| Medical Issues - Symptom|131|157
+2|in the setting of not having taken your morning dose of Toprol| Medical Issues - Disease|159|221
+3|breifly treated with IV medication for heart rate in the ICU| Treatments - Medicine name|232|292
+4|your Toprol dose was increased to 75mg daily.| Medicine instructions - Medicine changed|321|366
+5|we discussed extensively your risk for stroke, and recommended that you take coumadin to reduce this risk, however you preferred to stay on a regular aspirin, as you had had some rectal bleeding with coumadin in the past| Aftercare instructions - patient needs to do - Medication|369|590
+6|urinary tract infection| Medical Issues - Disease|657|681
+7|ou have a history of frequent urinary tract infections, and should discuss with your primary care physician| Aftercare instructions - Upcoming Schedules - PCP appointment|695|802

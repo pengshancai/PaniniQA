@@ -1,0 +1,13 @@
+Medical Issues
+Symptoms include <shortness of breath>;<wheezing>;
+Symptoms <shortness of breath>;<wheezing> caused by Disease <exacerbation of your asthma>
+
+Treatments
+Medicine <prednisone and inhalers> to treat <exacerbation of your asthma>
+<prednisone and inhalers>  Results: <You responded well>
+
+
+No template for <Take prednisone 60mg once a day through [**9-11**], take prednisone 40mg once a day through [**9-14**], take prednisone 20mg once a day through [**9-16**], take prednisone 10mg once a day through [**9-18**]>
+No template for <Advair 250/50 twice a day>
+No template for <Albuterol nebulizer every 4-6 hours as needed>
+No template for <Please keep all of your follow-up appointments>

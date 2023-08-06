@@ -1,0 +1,9 @@
+Medical Issues
+Symptoms include <shortness of breath>;<fast heart rate >;<high blood pressure >;
+Symptoms <shortness of breath> <fast heart rate > <high blood pressure > caused by Disease <COPD > 
+
+Treatments
+Medicine <antihypertensive medication > to treat <high blood pressure>
+
+No template for <You will continue with Lopressor and lisinopril, your HCTZ was discontinued. >
+No template for <You were started on an antibiotic called Linezolid which you should continue to take to complete a 10day course. >

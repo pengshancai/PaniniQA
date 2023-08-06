@@ -1,0 +1,22 @@
+Medical Issues
+Symptoms include <nausea>;<bleeding from your PEG tube>;<lightheadedness when standing>;<abdominal pain>;
+
+Tests
+Tests include <upper endoscopy>;
+Test results of <upper endoscopy>: <esophagitis and a tear at your esophagus-stomach junction>;
+Test results of <complete blood count>: <high white blood cell count>;
+
+Treatments
+Medicine <antibiotics> to treat <esophagitis and a tear at your esophagus-stomach junction>
+<antibiotics>  Results: <good effect>
+Medicine <stool softeners> to treat [no explicit item]
+<stool softeners>  Results: <good effect>
+Procedure <intravenous fluids > to treat <bleeding from your PEG tube>
+<intravenous fluids>  Results: <good effect>
+
+No template for <augmentin>
+No template for <seroquel>
+No template for <pantoprazole>
+No template for <lorazepam>
+No template for < metoprolol>
+No template for <nystatin>

@@ -1,0 +1,22 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|shortness of breath| Medical Issues - Symptom|69|88
+1|congestive heart failure| Medical Issues - Disease|123|147
+2|chronic obstructive pulmonary disease| Medical Issues - Disease|152|189
+3|infection| Medical Issues - Disease|213|222
+4|diuretics| Treatments - Medicine name|254|263
+5|steroids| Treatments - Medicine name|265|273
+6|antibiotics| Treatments - Medicine name|279|290
+7|Your condition improved and you did not require as much oxygen at time of transfer.| Treatments - Result of the treatment|292|375
+8|The following changes were made to your medications: STOP oral furosemide| Medicine instructions - Medicine stopped|376|449
+9|STOP albuterol inhaler| Medicine instructions - Medicine stopped|449|472
+10|STOP lisinopril| Medicine instructions - Medicine stopped|473|488
+11|STOP oxycodone| Medicine instructions - Medicine stopped|489|503
+12|STOP amlodipine| Medicine instructions - Medicine stopped|504|519
+13|START IV furosemide and adjust dose as needed| Medicine instructions - Medicine started|520|566
+14|START miconazole powder as needed for rash under R breast| Medicine instructions - Medicine started|566|624
+15|START albuterol nebs, both every four hours and as needed every six hours| Medicine instructions - Medicine started|624|697
+16|START nicotine patch| Medicine instructions - Medicine started|698|718
+17|Please stop smoking.| Aftercare instructions - patient needs to do - Other|719|739
+18|Please maintain a low salt diet| Aftercare instructions - patient needs to do - Diet|740|771
+19|Weigh yourself every day and call your doctor if your weight goes up by 3 pounds or more.| Aftercare instructions - patient needs to do - Other|773|863
+20|Please take all medications as instructed.| Aftercare instructions - patient needs to do - Medication|863|905

@@ -1,0 +1,7 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|GI bleed| Medical Issues - Symptom|163|171
+1|endoscopy| Tests - Test name|184|193
+2|colonoscopy| Tests - Test name|198|209
+3|did not show a great reason for a bleed| Tests - Test implication|216|255
+4|You were transfused with blood| Treatments - Procedure name|312|342
+5|START taking PROTONIX (PANTOPRAZOLE) 40 mg by mouth twice daily (If your insurance doesn&#x27;t cover this, you can talk to your PCP about getting this medication authorized| Treatments - Medicine name|637|810

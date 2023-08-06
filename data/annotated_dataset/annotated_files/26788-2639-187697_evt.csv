@@ -1,0 +1,9 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|low blood pressure| Medical Issues - Symptom|210|228
+1|IV fluids| Treatments - Medicine name|238|247
+2|to help increase your blood pressure| Treatments - Treatment goal|263|299
+3|Please do your best to eat three meals a day when you go home.| Aftercare instructions - patient needs to do - Diet|562|624
+4|Please STOP taking metoprolol XL 12.5 mg daily.| Medicine instructions - Medicine stopped|685|733
+5|Please STOP taking lisinopril 2.5 mg daily.| Medicine instructions - Medicine stopped|733|777
+6|Continue to STOP taking furosemide (Lasix) and HCTZ.| Medicine instructions - Medicine stopped|844|896
+7|Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more than 3 lbs.| Aftercare instructions - patient needs to do - Other|898|987

@@ -1,0 +1,16 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|replacement of your g-tube| Treatments - Procedure name|112|138
+1|In the ED, you had a fall| Medical Issues - Complication developed in the hospital|140|165
+2|head CT| Tests - Test name|171|178
+3|intracranial bleed| Tests - Test result|194|212
+4|Serial neurologic exams| Tests - Test name|328|351
+5|head CT| Tests - Test name|356|363
+6|stable| Tests - Test result|370|376
+7|without complication| Treatments - Result of the treatment|424|444
+8|Please continue to take all your medications through the g-tube| Aftercare instructions - patient needs to do - Medication|448|511
+9|Coumadin| Medicine instructions - Medicine stopped|513|521
+10|aspirin| Medicine instructions - Medicine stopped|526|533
+11|You should not restart the coumadin until further discussion with your primary care doctor| Aftercare instructions - patient needs to do - Medication|553|643
+12|Please restart the aspirin on [**2162-11-3**]| Aftercare instructions - patient needs to do - Medication|703|748
+13|Follow up with your primary care doctor| Aftercare instructions - Upcoming Schedules - PCP appointment|750|789
+14|Seek medical attention if you have any further falls, lightheadedness, syncope, weakness, changes in vision, or difficulties with your feeding tube| Aftercare instructions - patient needs to do - Other|871|1018

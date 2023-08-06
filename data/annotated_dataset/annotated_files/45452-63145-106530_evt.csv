@@ -1,0 +1,17 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|low blood pressure| Medical Issues - Symptom|64|82
+1|ow oxygen levels| Medical Issues - Symptom|102|118
+2|blood clots in your lungs| Medical Issues - Symptom|123|148
+3|blood thinning medication| Treatments - Medicine name|168|193
+4|antibiotics| Treatments - Procedure name|303|314
+5|We were initially concerned you had pneumonia because you had a fever| Treatments - Treatment goal|215|284
+6|CAT scan| Tests - Test name|362|370
+7|no evidence of pneumonia| Tests - Test result|329|353
+8|we stopped your antibiotics on [**10-7**]| Tests - Test implication|374|415
+9|We made the following changes to your medications 1. We changed your Lovenox dose. You will only need the Lovenox for a few days while the Coumadin is starting to work. Your lovenox has been stopped at time of discharge as your coumadin levels were adequate.| Medicine instructions - Medicine stopped|417|676
+10|2. We started you on Coumadin. Your INR level will be followed and the dose adjusted accordingly.| Medicine instructions - Medicine started|676|774
+11|3. You were started on potassium supplement, you should have your potassium levels checked regularly.| Medicine instructions - Medicine started|774|875
+12|4. Your nifedipine from home has been held since your last admission, you and your doctor may consider restarting this should your blood pressure remain consistently elevated above 140.| Medicine instructions - Medicine stopped|876|1061
+13|Please return to the ER or call your primary care doctor if you develop shortness of breath, chest pain, fever>100.4, chills or any other concerning symptoms.| Aftercare instructions - Emergency instruction|1062|1223
+14|Please take all medications as prescribed and attend all scheduled follow up appointments.| Aftercare instructions - patient needs to do - Medication|1224|1314
+15|Please take all medications as prescribed and attend all scheduled follow up appointments.| Aftercare instructions - Upcoming Schedules - Specialist appointment|1224|1314

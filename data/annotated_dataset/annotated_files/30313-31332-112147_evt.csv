@@ -1,0 +1,13 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|shortness of breath| Medical Issues - Symptom|70|89
+1|IV antibiotics| Treatments - Medicine name|183|197
+2|tube placed in your nose| Treatments - Procedure name|208|232
+3|to recieve nutrition| Treatments - Treatment goal|233|253
+4|stable to leave the intensive care unit and go to the oncology floor| Treatments - Result of the treatment|264|332
+5|tap of fluid around your lung| Tests - Test name|441|471
+6|did not show malignancy| Tests - Test result|471|494
+7|cancer recurrence| Medical Issues - Disease|535|552
+8|morphine| Treatments - Medicine name|734|743
+9|You were given morphine as needed for SOB and other meds as needed for comfort.| Medicine instructions - Medicine started|719|799
+10|All of your medications have been changed. Please take as prescribed.| Aftercare instructions - patient needs to do - Medication|835|905
+11|Please call your doctor or your hospice care if you have concerns.| Aftercare instructions - Emergency instruction|906|973

@@ -1,0 +1,14 @@
+Medical Issues
+Symptoms include <shortness of breath>;
+Symptoms <shortness of breath> caused by Disease {cancer invasion into the lung } 
+
+Treatments
+Medicine <1 dose of palliative chemotherapy, and 5 sessions of palliative radition > to treat {cancer invasion into the lung } 
+Medicine <antibiotics x 14 days > to treat <infection of your stool which causes diarrhea >
+<antibiotics x 14 days >  Results: <diarrhea improved>
+
+Aftercare instructions
+If encounter <any symptoms which concern you> do <please call the on [**Name8 (MD) 138**] RN, your doctor, or go to the ED. >
+
+No template for <Please take all you medications as prescribed. >
+No template for <Please keep all followup appointments. >

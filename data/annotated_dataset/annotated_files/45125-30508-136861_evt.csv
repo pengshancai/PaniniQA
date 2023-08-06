@@ -1,0 +1,12 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|intestinal bleed| Medical Issues - Disease|72|88
+1|lowered your blood pressure and red blood cell count| Medical Issues - Symptom|94|146
+2|IV fluids| Treatments - Medicine name|207|216
+3|blood| Treatments - Procedure name|221|226
+4|this improved your blood pressure and red blood cell count| Treatments - Result of the treatment|232|290
+5|large hiatal hernia| Medical Issues - Symptom|447|466
+6|Please take all medications as prescribed.| Aftercare instructions - patient needs to do - Medication|689|731
+7|It is important to take your pantoprazole (Protonix) as prescribed, as this helps prevent excess acid that could contribute to bleeding.| Medicine instructions - Medicine started|731|869
+8|Also, avoid any "NSAID"s (example - ibuprofen, naproxen, aspirin) or alcohol.| Aftercare instructions - patient needs to do - Diet|869|956
+9|If you develop coffee ground or bloody vomiting, blood in your stool, fevers, lightheadedness, abdominal pain, or any other concening symptoms, please call your physician or come to the emergency room immediately.| Aftercare instructions - Emergency instruction|957|1171
+10|Please set up a follow-up appointment with Dr. [**Last Name (STitle) 6431**] at ([**Telephone/Fax (1) 11720**] for 1-2 weeks after discharge.| Aftercare instructions - Upcoming Schedules - Specialist appointment|1171|1312

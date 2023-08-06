@@ -1,0 +1,21 @@
+Medical Issues
+Symptoms include <blood in your urine>;<lightheaded >;
+Symptoms <blood in your urine>;<lightheaded> caused by Disease <sepsis (a severe infection) from your urinary tract> 
+
+Tests
+Test results of <chest x-ray>: <extra fluid outside of your lungs >;
+
+Treatments
+Medicine <antibiotics > to treat <sepsis (a severe infection) from your urinary tract>
+<antibiotics >  Results: [no explicit item]
+Medicine <Lasix> to treat <extra fluid outside of your lungs>
+<Lasix >  Results: <good effect>
+
+
+No template for <Your foley catheter should also remain in place until your follow up appointment with Dr. [**Last Name (STitle) 3748**]>
+No template for <you should continue to have your INR checked regularly>
+No template for <Continue Cipro 750mg daily for 6 more days>
+No template for <Please take all of your medications as prescribed and follow up with the appointments below>
+No template for <Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more than 3 lbs>
+No template for <Please take all of your medications as prescribed>
+No template for < follow up with the appointments below>

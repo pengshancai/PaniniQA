@@ -1,0 +1,15 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|arm and chest pain| Medical Issues - Symptom|83|101
+1|low blood pressure| Medical Issues - Symptom|138|156
+2|IV medications| Treatments - Medicine name|208|222
+3|keep your blood pressure up| Treatments - Treatment goal|237|264
+4|infection| Medical Issues - Disease|344|353
+5|cortisol levels were found to be low| Medical Issues - Disease|707|743
+6|gout| Medical Issues - Disease|825|829
+7|colchicine| Treatments - Medicine name|874|884
+8|allopurinol| Treatments - Medicine name|889|900
+9|prednisone| Medicine instructions - Medicine started|1015|1025
+10|allopurinol| Medicine instructions - Medicine changed|1261|1272
+11|Flonase| Medicine instructions - Medicine started|1303|1310
+12|Coumadin| Medicine instructions - Medicine changed|1356|1364
+13|prednisone| Medicine instructions - Medicine continued|1408|1418

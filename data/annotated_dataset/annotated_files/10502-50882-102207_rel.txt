@@ -1,0 +1,15 @@
+Medical Issues
+Symptoms include <confusion>;
+
+Treatments
+Medicine <lactulose > to treat <confusion>
+<lactulose >  Results: <You improved>
+<clear your confusion >  Results: <no explicit item>
+<You improved >  Results: <no explicit item>
+
+No template for <regularly take your medications and avoid alcohol and illicit drugs >
+No template for <regularly take your medications >
+No template for <avoid alcohol and illicit drugs >
+No template for <Started ciprofloxacin for urinary tract infection >
+No template for <Please follow-up with your PCP/ID Dr. [**Last Name (STitle) **] and Dr. [**Last Name (STitle) 497**] (liver) as below >
+No template for <We encourage you to enter a drug rehab program >

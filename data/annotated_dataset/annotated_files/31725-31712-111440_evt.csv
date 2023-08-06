@@ -1,0 +1,17 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|toe amputation| Treatments - Procedure name|64|78
+1|pneumonia| Medical Issues - Disease|121|130
+2|Your amputation was performed successfully| Treatments - Result of the treatment|132|174
+3|leg ulcer| Medical Issues - Disease|184|193
+4|surgically debrided| Treatments - Procedure name|198|217
+5|atrial fibrillation| Medical Issues - Complication developed in the hospital|315|334
+6|Amiodarone| Treatments - Medicine name|490|500
+7|diltiazem| Treatments - Medicine name|505|514
+8|You were started on 2 new medications for control of this heart rate - Amiodarone and diltiazem. You should discuss these with your doctor as you may not need to take them long term. In the short term however, please take all new medications as directed upon leaving the hospital.| Aftercare instructions - patient needs to do - Medication|419|699
+9|Please call your physician should you develop any new lower extremity pain, chest pain, palpitations, shortness of breath, fever > 101 or any other symptom concerning to you.| Aftercare instructions - Emergency instruction|702|876
+10|You must take the following medications: 1. Piperacillin/tazobactam - for total of 2 weeks through [**4-26**] [**2135**]| Medicine instructions - Medicine started|879|999
+11|2. Amiodarone - 400mg twice daily and then 200mg daily thereafter. Please do not discontinue this medication without discussing it with your doctor.| Medicine instructions - Medicine started|1000|1148
+12|2. Amiodarone - 400mg twice daily and then 200mg daily thereafter. Please do not discontinue this medication without discussing it with your doctor.| Aftercare instructions - patient needs to do - Medication|1000|1148
+13|3. Diltiazem 15mg by mouth every 6 hours. Please do not discontinue this medication without discussing it with your doctor.| Medicine instructions - Medicine started|1149|1272
+14|3. Diltiazem 15mg by mouth every 6 hours. Please do not discontinue this medication without discussing it with your doctor.| Aftercare instructions - patient needs to do - Medication|1149|1272
+15|4. Please continue all other medications as directed.| Medicine instructions - Medicine continued|1273|1326

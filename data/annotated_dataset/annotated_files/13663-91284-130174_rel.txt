@@ -1,0 +1,12 @@
+Medical Issues
+Symptoms <no explicit item> caused by Disease <ingesting a substance that was detrimental to your stomach and gastrointestinal system. {toxic ingestion}> 
+
+Tests
+Tests include <EGD >;
+Test results of <EGD>: <showed damage to your stomach and further down in your esophagus >;
+
+Treatments
+Procedure <transferred you to the psychiatric floor > to treat <no explicit item>
+<transferred you to the psychiatric floor >  Results: <no explicit item>
+
+No template for <please take pantoprazole 40mg by mouth twice a day >

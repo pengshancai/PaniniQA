@@ -1,0 +1,13 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|bleed in your large bowel| Medical Issues - Symptom|143|168
+1|colonoscopy| Treatments - Procedure name|242|253
+2|a clip was placed| Treatments - Result of the treatment|260|277
+3|blood and platelet transfusions| Treatments - Procedure name|294|325
+4|blood counts stabilized| Treatments - Result of the treatment|335|358
+5|ITP| Medical Issues - Disease|382|386
+6|IVIG and steroids| Treatments - Procedure name|392|409
+7|platelet count improved and you were stable, without any signs of bleeding at the time of discharge| Treatments - Result of the treatment|416|515
+8|Dexamethasone 40mg by mouth for 2 more days (4 days total)| Medicine instructions - Medicine started|579|637
+9|Call Dr.[**Name (NI) 12389**] office at [**Telephone/Fax (1) 6429**] when you have made a decision about surgery| Aftercare instructions - Upcoming Schedules - Specialist appointment|732|844
+10|Please call Dr. [**First Name (STitle) 3459**] at [**Telephone/Fax (1) 3468**] prior to your surgery to have your platelets checked| Aftercare instructions - Upcoming Schedules - Test|848|979
+11|Please take your medications as prescribed| Aftercare instructions - patient needs to do - Medication|640|682

@@ -1,0 +1,21 @@
+Medical Issues
+Symptoms include <bleeding in your urine >;<chest pain >;<pressure >;<squeezing >;<tightness >;<vomiting >;<diarrhea >;<dry mouth >;<rapid heartbeat >;<dizzy >;<faint when standing >;<blood or dark/black material when you vomit >;<blood in your urine >;<experience an unusual discharge >;<shaking chills >;<fever greater than 101.5 degrees Fahrenheit  >;<vomiting >;<cannot keep down fluids >;<worsening cough >;< shortness of breath >;<wheezing >;<bloody urine >;
+Symptoms {No explicit item} caused by Disease <ventricular tachycardia> [No explicit item]
+Symptoms {No explicit item} caused by Disease <bladder mass > [No explicit item]
+Symptoms {No explicit item} caused by Disease <residual clot burden > [No explicit item]
+Symptoms {dry mouth; rapid heartbeat; dizzy; faint when standing} caused by Disease <dehydration > [No explicit item]
+
+Treatments
+Procedure <ablation > to treat {ventricular tachycardia}
+<ablation >  Results: [No explicit item]
+Procedure <Foley catheter > to treat {bloody urine}
+<Foley catheter >  Results: [No explicit item]
+Procedure <transfused 2 units of packed red blood cells > to treat [No explicit item]
+<transfused 2 units of packed red blood cells >  Results: [No explicit item]
+Procedure <cystoscopy > to treat [No explicit item]
+<cystoscopy >  Results: [No explicit item]
+
+No template for <follow-up with Urology >
+No template for <aspirin >
+No template for <aspirin >
+No template for <continue all of your other home medications as prescribed >

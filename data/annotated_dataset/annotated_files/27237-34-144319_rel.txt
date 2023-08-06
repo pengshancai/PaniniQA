@@ -1,0 +1,13 @@
+
+Treatments
+Procedure <pacemaker > to treat <low heart rate>
+<pacemaker >  Results: <tolerated this procedure well>
+
+No template for <For this reason your thyroid medication (Synthroid) may need to be adjusted. >
+No template for <Please remember to take this medication daily and follow up with your Primary Care Physician to address this. >
+No template for <Please START Keflex 500mg by mouth every 8 hours for the next three days >
+No template for <Please START Tramadol 25mg by mouth every 6hrs as needed for pain ***This can cause drowsiness, do not take this medication when doing activity. >
+No template for <Please continue to take your Coumadin at the same dose (5mg every day except for 2.5mg on Monday on Friday). >
+No template for <Please have your labs drawn on Tuesday [**2191-3-1**] for PT/INR. >
+No template for <Please continue to take your other medications as instructed >
+No template for <Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more than 3 lbs. >

@@ -1,0 +1,12 @@
+Medical Issues
+Symptoms include <rib fractures >;<pain >;<shallow breaths >;
+Symptoms [No explicit item] caused by Disease <Pneumonia > [No explicit item]
+
+Treatments
+Procedure <use your incentive spirometer 4 times every hour while awake > to treat [No explicit item]
+<use your incentive spirometer 4 times every hour while awake >  Results: [No explicit item]
+
+No template for <wear your TLSO brace for the next 8 weeks>
+No template for <use a cough pillow to hold against your chest and guard your rib cage while coughing and deep breathing >
+No template for <Symptomatic relief with ice packs or heating pads for short periods may ease the pain >
+No template for <Do NOT smoke  >

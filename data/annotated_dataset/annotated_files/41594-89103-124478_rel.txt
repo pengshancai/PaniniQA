@@ -1,0 +1,11 @@
+Medical Issues
+Symptoms include <low blood pressure >;<altered mental status >;
+Symptoms [No explicit item] caused by Disease <urinary tract infection>
+Symptoms <low blood pressure> caused by Disease <infection >
+Symptoms [No explicit item] caused by Disease <possible cancer >
+
+Tests
+Tests include <blood cultures >;
+Test results of <CT scan>: <On your CT scan there was a mass noted in the abdomen >;
+
+No template for <Please take the [**Hospital6 9847**] 500mg every 12 hours for the next 13 days to treat your urinary tract infection. >

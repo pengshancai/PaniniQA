@@ -1,0 +1,14 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|difficulty breathing| Medical Issues - Symptom|64|84
+1|low blood pressures| Medical Issues - Symptom|89|108
+2|You were initially given medicines| Treatments - Medicine name|186|221
+3|You were also given antibiotics| Treatments - Medicine name|290|321
+4|Your last dose of the antibiotic, Ciprofloxacin, will be on [**2179-8-27**].| Treatments - Medicine name|366|443
+5|Palliative care was consulted and they helped you arrange for hospice care after discharge.| Aftercare instructions - Upcoming Schedules - Specialist appointment|446|538
+6|Metoprolol and lisinopril were initially stopped while you were in the hospital because of your low BP at that time| Medicine instructions - Medicine stopped|755|870
+7|Your morning Seroquel dose was also changed so that it was only given if you are agitated| Medicine instructions - Medicine changed|1142|1231
+8|START Cipro 500mg two times per day until [**2179-8-27**]| Treatments - Medicine name|1288|1345
+9|START oxycodone 5-10ml of 5mg/mL liquid every 4 hours as needed for pain or shortness of breath| Treatments - Medicine name|1346|1441
+10|CONTINUE Seroquel 150 mg at night| Medicine instructions - Medicine continued|1442|1475
+11|STOP Seroquel 50mg PO in the morning, give only if agitated.| Medicine instructions - Medicine stopped|1477|1537
+12|STOP Lisinopril STOP vicodin| Medicine instructions - Medicine stopped|1538|1566

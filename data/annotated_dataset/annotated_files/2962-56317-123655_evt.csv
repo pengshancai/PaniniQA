@@ -1,0 +1,17 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|shortness of breath| Medical Issues - Symptom|64|83
+1|pneumonia| Medical Issues - Disease|104|113
+2|antibiotics| Treatments - Medicine name|136|148
+3|steroids| Treatments - Medicine name|153|161
+4|breathing improved| Treatments - Result of the treatment|171|189
+5|atrial fibrillation| Medical Issues - Disease|256|275
+6|medication| Treatments - Medicine name|302|312
+7|You also had an episode of a fast, irregular heart rhythm called atrial fibrillation and were started on a new medication to control your heart rate.| Medicine instructions - Medicine started|191|341
+8|START diltiazem 120mg XR daily| Medicine instructions - Medicine started|397|427
+9|START levofloxacin until [**2164-6-13**]| Medicine instructions - Medicine started|431|471
+10|START aspirin 325mg daily| Medicine instructions - Medicine started|475|500
+11|START prednisone taper 40mg on [**6-16**]; prednisone 30mg on [**8-17**]; prednisone 20mg [**6-15**], [**6-16**]; prednisone 10mg [**6-17**], [**6-18**]| Medicine instructions - Medicine started|504|656
+12|Insulin as directed below| Medicine instructions - Medicine started|660|685
+13|blood sugars have been elevated| Medical Issues - Complication developed in the hospital|693|724
+14|You will need to monitor your blood sugars four times daily and administer insulin as directed.| Aftercare instructions - patient needs to do - Medication|796|891
+15|Please call your PCP or return to the emergency department if you experience increased shortness of breath, chest pain, low oxygen levels, diarrhea, abdominal pain or any other symptoms that are concerning to you.| Aftercare instructions - Emergency instruction|892|1105

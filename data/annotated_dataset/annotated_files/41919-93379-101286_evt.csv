@@ -1,0 +1,10 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|gallstone pancreatitis| Medical Issues - Disease|64|86
+1|You were on antibiotics after the procedure and nystatin cream to treat vaginitis| Treatments - Medicine name|351|432
+2|You needed additional pain medicine but you are now back on your home doses of oxycodone and fentenyl| Treatments - Medicine name|434|535
+3|STOP taking Ticlid, nifedipine, metoprolol and clonidine| Medicine instructions - Medicine stopped|732|788
+4|START taking Imdur to prevent further chest pain| Treatments - Medicine name|792|840
+5|START taking carvedilol instead of the metoprolol to slow your heart rate, this medicine lowers your blood pressure as well| Treatments - Medicine name|844|967
+6|START taking nystatin tablets intravaginally to treat the vaginitis, you only need 5 more days of this medicine| Medicine instructions - Medicine started|972|1083
+7|INCREASE the aspirin to 325 mg daily because of your heart attack| Medicine instructions - Medicine changed|1087|1152
+8|INCREASE the Lisinopril to 40 mg daily| Medicine instructions - Medicine changed|1156|1194

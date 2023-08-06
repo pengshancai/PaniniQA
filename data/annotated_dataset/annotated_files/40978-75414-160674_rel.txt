@@ -1,0 +1,21 @@
+Medical Issues
+Symptoms include <difficulty breathing>;<low blood pressures >;
+
+Treatments
+Medicine < You were initially given medicines > to treat <normal blood pressure>
+< You were initially given medicines >  Results: [No explicit item]
+Medicine <You were also given antibiotics > to treat <urinary tract infection>
+<You were also given antibiotics >  Results: [No explicit item]
+Medicine < Your last dose of the antibiotic, Ciprofloxacin, will be on [**2179-8-27**]. > to treat [No explicit item]
+< Your last dose of the antibiotic, Ciprofloxacin, will be on [**2179-8-27**]. >  Results: [No explicit item]
+Medicine <START Cipro 500mg two times per day until [**2179-8-27**] > to treat [No explicit item]
+<START Cipro 500mg two times per day until [**2179-8-27**] >  Results: [No explicit item]
+Medicine <START oxycodone 5-10ml of 5mg/mL liquid every 4 hours as needed for pain or shortness of breath > to treat <pain or shortness of breath>
+<START oxycodone 5-10ml of 5mg/mL liquid every 4 hours as needed for pain or shortness of breath >  Results: [No explicit item]
+
+No template for <Palliative care was consulted and they helped you arrange for hospice care after discharge.  >
+No template for <Metoprolol and lisinopril were initially stopped while you were in the hospital because of your low BP at that time >
+No template for <Your morning Seroquel dose was also changed so that it was only given if you are agitated >
+No template for <CONTINUE Seroquel 150 mg at night >
+No template for <STOP Seroquel 50mg PO in the morning, give only if agitated. >
+No template for <STOP Lisinopril STOP vicodin >

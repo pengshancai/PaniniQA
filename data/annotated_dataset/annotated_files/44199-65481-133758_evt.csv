@@ -1,0 +1,7 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|desensitization of doxycycline| Medical Issues - Symptom|116|146
+1|Lyme disease| Medical Issues - Disease|194|206
+2|doxycycline| Treatments - Medicine name|248|259
+3|We made no changes to your medications| Medicine instructions - Medicine continued|456|494
+4|Please start taking doxycycline at home tonight at 5pm. Please do not miss [**First Name (Titles) 691**] [**Last Name (Titles) 11014**]. If you miss a dose, you are at risk of developing an allergic reaction.| Medicine instructions - Medicine started|496|704
+5|Please contact your primary care doctor if you miss [**First Name (Titles) 691**] [**Last Name (Titles) 4319**] of the doxycycline.| Aftercare instructions - Upcoming Schedules - PCP appointment|705|836

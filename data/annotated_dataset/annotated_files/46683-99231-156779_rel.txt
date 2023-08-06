@@ -1,0 +1,24 @@
+Medical Issues
+Symptoms include <pain in your abdomen that was caused by Clostridium difficile>;<fevers >;<blood pressure was low >;
+Symptoms <pain in your abdomen that was caused by Clostridium difficile>;<fevers >;<blood pressure was low > caused by Disease <infection > 
+Complication <blood pressure fell even further > caused by <dialysis> <Maybe>
+Complication <fistula on your left arm also stopped working. > caused by [no explicit item]
+
+Treatments
+Procedure <dialysis > to treat [no explicit item]
+<dialysis >  Results: [no explicit item]
+Medicine <antibiotics > to treat <infection>
+<antibiotics >  Results: <your pain and fevers improved >
+Procedure <tunneled line > to treat {fistula that was not working}
+<tunneled line >  Results: [no explicit item]
+
+No template for <You will need to continue to take these antibiotics for several more weeks. The course of antibiotics is described below >
+No template for <The transplant surgeons want to create a new fistula for you to use, and you have a follow up appointment set up with them as an outpatient to arrange this. >
+No template for <1. We started you on oral vancomycin. You should continue to take this with the following regimen: (a) take 125 mg daily by mouth for one week ([**2149-12-8**] - [**2149-12-14**]) (b) then take 125 mg every other day for one week ([**2149-12-15**] - [**2149-12-21**]) (c) then take 125 mg every third day for two weeks ([**2149-12-22**] - [**2150-1-4**])  >
+No template for < 2. You can take 5 mg of the prednisone every day instead of 10 mg. >
+No template for <3. You will be receiving vancomycin intravenously with hemodialysis until [**2150-1-1**] to complete a 4 week course. >
+No template for <4. You should take vangancyclovir 450 mg twice a week with dialysis. >
+No template for <5. You can take oxycodone 5 mg as needed every 6 hours for pain. >
+No template for <6. You should stop taking gancyclovir IV. >
+No template for <7. You should stop taking tacrolimus. >
+No template for <Please keep the follow up appointments scheduled for you below. >

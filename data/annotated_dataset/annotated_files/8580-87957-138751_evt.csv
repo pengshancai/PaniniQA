@@ -1,0 +1,14 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|lung surgery| Treatments - Procedure name|65|77
+1|recovered well| Treatments - Result of the treatment|94|108
+2|* Continue to use your incentive spirometer 10 times an hour while awake.| Aftercare instructions - patient needs to do - Other|143|217
+3|* Check your incisions daily and report any increased redness or drainage. Cover the area with a gauze pad if it is draining.| Aftercare instructions - patient needs to do - Other|217|343
+4|* Your chest tube dressing may be removed in 48 hours. If it starts to drain, cover it with a clean dry dressing and change it as needed to keep site clean and dry.| Aftercare instructions - patient needs to do - Other|343|507
+5|* You will continue to need pain medication once you are home but you can wean it over a few weeks as the discomfort resolves. Make sure that you have regular bowel movements while on narcotic pain medications as they are constipating which can cause more problems. Use a stool softener or gentle laxative to stay regular.| Aftercare instructions - patient needs to do - Medication|508|831
+6|* No driving while taking narcotic pain medication.| Aftercare instructions - patient needs to do - Other|831|883
+7|* Take Tylenol 650 mg every 6 hours in between your narcotic. If your doctor allows you may also take Ibuprofen to help relieve the pain.| Aftercare instructions - patient needs to do - Medication|883|1021
+8|* Continue to stay well hydrated and eat well to heal your incisions| Aftercare instructions - patient needs to do - Diet|1021|1090
+9|* Shower daily. Wash incision with mild soap & water, rinse, pat dry| Aftercare instructions - patient needs to do - Other|1090|1163
+10|* No tub bathing, swimming or hot tubs until incision healed| Aftercare instructions - patient needs to do - Other|1163|1223
+11|Walk 4-5 times a day and gradually increase your activity as you can tolerate| Aftercare instructions - patient needs to do - Other|1265|1343
+12|Call Dr.[**Name (NI) 2347**] office [**Telephone/Fax (1) 2348**] if you experience: -Fevers &gt; 101 or chills -Increased shortness of breath, chest pain or any other symptoms that concern you.| Aftercare instructions - Emergency instruction|1345|1538

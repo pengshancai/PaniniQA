@@ -1,0 +1,24 @@
+Medical Issues
+Symptoms include <bacteria in your urine and your blood >;
+Symptoms <bacteria in your urine and your blood> caused by Disease <bacterial infection> <Maybe>
+Symptoms <bacteria in your urine and your blood> caused by Disease <peritonitis > <Maybe>
+
+Tests
+Tests include <abdominal ultrasound >;< labs  >;
+Test results of <abdominal ultrasound>: <incidental lesions on your liver >;
+Test results of <labs>: <Creatinine was elevated  >;
+
+Treatments
+Medicine <antibiotics > to treat <bacterial infection>;<peritonitis >
+<antibiotics >  Results: <no explicit item>
+
+Aftercare instructions
+If encounter <any fever, chills, abdominal pain, nausea, vomiting, chest pain, shortness of breath, diarrhea, or any other symptom that concerns> do <call your PCP or return to the ER&gt >
+
+No template for <You will continue to receive the antibiotic Ceftriaxone to complete a 2 week course ([**12-15**]) . >
+No template for <You will need to wait to get the MRI until this creatinine improved to characterize these lesions.  >
+No template for <We have stopped your Atacand and Lasix. >
+No template for <You were started on iron supplements. >
+No template for <Your Toprol XL was changed to Metoprolol 25mg twice daily.  >
+No template for <Your Glyburide was stopped. >
+No template for <You were started on Insulin.  >

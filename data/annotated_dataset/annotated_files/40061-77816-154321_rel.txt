@@ -1,0 +1,17 @@
+Medical Issues
+Symptoms include <aspirating food>;
+Symptoms [No explicit item] caused by Disease <bacterial pneumonia >
+Symptoms [No explicit item] caused by Disease <vocal cord dysfunction >
+
+Treatments
+Medicine <You received antibiotics > to treat <bacterial antibiotics>
+<You received antibiotics >  Results: <symptoms improved>
+Procedure <You also received tube feeding > to treat [No explicit item]
+<You also received tube feeding >  Results: [No explicit item]
+Medicine <you reveived injections > to treat <vocal cord dysfunction>
+<you reveived injections >  Results: <improved your voice and swallowing>
+Medicine <You were maintained on your dialysis schedule while admitted to the hospital and will continue this as an outpatient. > to treat [No explicit item]
+<You were maintained on your dialysis schedule while admitted to the hospital and will continue this as an outpatient. >  Results: [No explicit item]
+
+No template for <Please take your medications as prescribed and keep your outpatient appointments >
+No template for < >

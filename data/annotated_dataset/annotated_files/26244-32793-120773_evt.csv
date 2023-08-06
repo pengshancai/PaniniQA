@@ -1,0 +1,16 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|elective procedure| Treatments - Procedure name|66|84
+1|80-99% stenosis in the arteries on both sides of your neck| Medical Issues - Disease|166|224
+2|MRI of your brain| Tests - Test name|242|259
+3|normal| Tests - Test result|270|276
+4|home medications| Medicine instructions - Medicine continued|314|330
+5|You will need to take aspirin and plavix EVERY DAY| Aftercare instructions - patient needs to do - Medication|332|382
+6|Sleep Neurology| Aftercare instructions - Upcoming Schedules - Specialist appointment|424|439
+7|sleep apnea| Medical Issues - Disease|489|500
+8|bradycardia at night| Medical Issues - Symptom|459|479
+9|sleep study| Tests - Test name|446|457
+10|Hand specialist| Aftercare instructions - Upcoming Schedules - Specialist appointment|504|519
+11|bilateral ulnar neuropathy| Medical Issues - Disease|535|561
+12|primary care doctor| Aftercare instructions - Upcoming Schedules - Specialist appointment|569|588
+13|cardiologist| Aftercare instructions - Upcoming Schedules - Specialist appointment|609|621
+14|If you have any syncope, lightheadedness, dizziness, change in your vision, nausea, vomiting, muscle weakness or loss of sensation, chest pain, shortness of breath, nausea, vomiting, or any other concerning symptom, please call your doctor or return to the ER.| Aftercare instructions - Emergency instruction|624|884

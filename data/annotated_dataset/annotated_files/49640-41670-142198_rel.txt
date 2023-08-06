@@ -1,0 +1,25 @@
+Medical Issues
+Symptoms include <fever>;<abdominal pain >;
+Complication <breathing became difficult > caused by <kidney failure>
+
+Tests
+Test results of <{urine culture}>: <severe kidney infection >;
+Test results of <{blood culture}>: <bacteria growing in your blood >;
+Test results of [no explicit item]: <kidney failure >;
+
+Treatments
+Medicine <intravenous antibiotics > to treat <severe kidney infection>;<bacteria growing in your blood>
+<intravenous antibiotics >  Results: [no explicit item]
+Procedure <placement of a tube into your kidney to help drain your kidney.  > to treat <kidney failure>
+<placement of a tube into your kidney to help drain your kidney.  >  Results: [no explicit item]
+Procedure <emergent hemodialysis > to treat <kidney failure>;<breathing became difficult >
+<emergent hemodialysis >  Results: <significantly improved your breathing. >;<Your kidney function also improved enough to no longer require in hospital hemodialysis. >
+
+
+No template for <You should follow closely with the many specialty services that participated in your care. >
+No template for <You have been STARTED on 500mg of Meropenem IV every twelve hours, you will continue this medication for 2 weeks total, Day 1 = [**12-20**] Expected completion date is [**2102-1-17**] >
+No template for <You have been STARTED on 250mg of Cirpofloxacin by mouth every 12 hours, you will continue this medication for 4 week total, Day 1 = [**12-20**] Expected completion date is [**2102-2-14**]  >
+No template for <Your Azathioprine has been DECREASED to 37.5 mg daily.  >
+No template for <Your Aspirin has been STOPPED.  >
+No template for <Please discuss restarting with your vascular surgeon. >
+No template for <Please take your medications as prescribed and keep your outpatient appointments. >

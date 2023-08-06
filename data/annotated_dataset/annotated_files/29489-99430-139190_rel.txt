@@ -1,0 +1,15 @@
+Medical Issues
+Symptoms include <could not wake you up>;<liver enzymes were elevated >;
+
+Tests
+Tests include <MRI of your brain >;
+Test results of <MRI of your brain>: <area concerning for a stroke >;
+
+Treatments
+Procedure <ventilator > to treat <breathing>
+<ventilator >  Results: <gradually woke up and returned to your normal personality >
+
+No template for <**It is very important that you take only the dose of Seroquel that has been prescribed to you.** >
+No template for <You will need a repeat MRI in [**Month (only) 216**] for further evaluation. >
+No template for <STARTED aspirin 325mg daily >
+No template for <We did not make any other changes to your medications. Please continue to take them as you have been doing. >

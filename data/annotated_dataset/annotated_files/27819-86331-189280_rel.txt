@@ -1,0 +1,11 @@
+Tests:
+Tests include <catheterization >;
+Test results of <catheterization>: < revealed that the changes in your pacemaker and milrinone were not enough to make your heart squeeze well. >;
+
+No template for <Dr. [**Last Name (STitle) **] felt that you would benefit from further diuresis with continuous medications through the IV called furosemide and milrinone. >
+No template for <STOP carvedilol  >
+No template for <START metoprolol tartrate 25 mg three times a day >
+No template for <START metolazone 2.5mg daily >
+No template for < START milrionone infusion  >
+No template for <CHANGE torsemide to 100 mg daily >
+No template for <It is also very important that you keep all of the follow-up appointments listed below. >

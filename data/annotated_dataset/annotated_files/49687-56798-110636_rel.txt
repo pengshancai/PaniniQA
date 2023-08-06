@@ -1,0 +1,25 @@
+
+Tests
+Tests include <leg ultrasound  >;
+Test implications of [no explicit item]: <bleeding in your stomach from polyps>;
+Test results of <leg ultrasound  >: < resolution of the blood clot in your leg >;
+
+Treatments
+Procedure <endoscopy (swallowed camera test) > to treat <bleeding in your stomach from polyps>
+<endoscopy (swallowed camera test) >  Results: [no explicit item]
+Medicine <IV anti-acid medication > to treat <bleeding in your stomach from polyps>
+<IV anti-acid medication >  Results: [no explicit item]
+Medicine <carafate (protect the stomach) > to treat <bleeding in your stomach from polyps>
+<carafate (protect the stomach) >  Results: [no explicit item]
+Procedure <blood products to boost blood clotting ability > to treat <bleeding in your stomach from polyps>
+<blood products to boost blood clotting ability >  Results: [no explicit item]
+
+No template for <stopped your coumadin >
+No template for <We recommend hematocrit checks on Sunday and Monday, and this can be done 2x/week (Wed/Fri) next week.  >
+No template for <Subsequently, hematocrit labs can be stopped and you can be followed clinically for any concern for bright red bleeding. >
+No template for <You missed your MRCP as scheduled by your primary care doctor due to your admission for your bleeding. Please discuss setting this up as an outpatient if your primary care doctor would like this completed. >
+No template for <Carafate, mix tab w/ hot water to make a slurry and drink 4 times daily. This medicine protects your stomach after your procedure. >
+No template for <Omeprazole 40 mg twice a day for acid control and to prevent ulcers from forming >
+No template for <Coumadin  >
+No template for < Enoxaparin >
+No template for <Please follow up with your doctors as stated below.  >

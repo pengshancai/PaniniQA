@@ -1,0 +1,12 @@
+Medical Issues
+Symptoms include <seizure>;<low oxygen levels occasionally >;
+Symptoms <seizure> caused by Disease <urinary tract infection > 
+
+Tests
+Tests include <chest x ray>;
+Test results of <chest x ray>: <normal >;
+Test implications of <chest x ray>: <This may be due to atelectesis vs a small amount of aspiration during your seizure. >;
+
+No template for <You were seen by neurology who did not recommend changes to your depakote but who would like to see you in clinic in follow up. >
+No template for <We have added an antibiotic for a 7 days (cefpodoxime). >
+No template for <You should discuss with your doctors [**First Name (Titles) 3380**] [**Last Name (Titles) 96355**] [**Name5 (PTitle) 96356**] 1 gram twice a day once you complete the cefpodoxime to prevent recurrent UTIs in the future.  >

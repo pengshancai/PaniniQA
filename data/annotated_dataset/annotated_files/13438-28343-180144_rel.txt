@@ -1,0 +1,35 @@
+Medical Issues
+Symptoms include <fevers>;<change in mental status >;< increased movements in your arms >;
+Symptoms <fevers>;<change in mental status > caused by Disease <urinary tract infection > <Maybe>
+Symptoms <fevers>;<change in mental status > caused by Disease <pneumonia > <Maybe>
+Symptoms <increased movements in your arms> caused by Disease <seizures > 
+
+Tests
+Tests include <video EEG >;
+Test results of <video EEG>: <confirmed that you were indeed having seizures {confirmed you were having seizures} >;
+
+Treatments
+Medicine <appropriate IV antibiotics > to treat <urinary tract infection>;<pneumonia>
+<appropriate IV antibiotics >  Results: <no explicit item>
+Medicine <Keppra dose was optimized > to treat <seizures>
+<Keppra dose was optimized >  Results: <no explicit item>
+Medicine <Dilantin > to treat <seizures>
+<Dilantin >  Results: <no explicit item>
+Medicine <Valium > to treat <seizures>
+<Valium >  Results: <no explicit item>
+
+Aftercare instructions
+If encounter <uncontrollable bleeding, continuous seizure activity, fevers or any other concerning symptoms> do <Seek medical attention immediately>
+
+No template for <Start Keppra 1500 mg twice a day >
+No template for <Stop Keppra 1000mg twice a day >
+No template for <Start Dilantin 100 mg in morning and at noon, then 150 mg in the evening  >
+No template for <Start Valium 5 mg daily >
+No template for <Stop Heparin 5,000 unit/mL three times a day 6 >
+No template for <Start Metoprolol Tartate 37.5 mg three times a day >
+No template for <Stop Metoprolol Tartate 50 mg every 6 hours >
+No template for <Stop Multivitamin 1 tablet daily >
+No template for <Stop Modafinil 100 mg Tablet daily >
+No template for <Stop Ferrous Sulfate 325 mg daily >
+No template for <Start Prednisone 25 mg in morning and 2.5 mg at night >
+No template for <Stop Prednisone 5 mg daily >

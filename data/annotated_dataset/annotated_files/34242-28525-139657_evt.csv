@@ -1,0 +1,10 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|infection in your blood| Medical Issues - Disease|69|92
+1|urinary tract infection| Medical Issues - Disease|119|142
+2|You will be discharged on a 2 week course of antibiotics| Aftercare instructions - patient needs to do - Medication|173|229
+3|c. difficile infection| Medical Issues - Disease|264|286
+4|Levofloxacin 250mg PO Q24H (day [**3-30**]) stop date of [**2114-8-4**]| Medicine instructions - Medicine started|398|469
+5|Flagyl 500 mg PO TID (day [**3-30**]) stop date of [**2114-8-4**]| Medicine instructions - Medicine started|471|536
+6|It is very important that you take all of your medications as prescribed.| Aftercare instructions - patient needs to do - Medication|540|614
+7|It is very important that you make all of your doctor's appointments.| Aftercare instructions - Upcoming Schedules - Specialist appointment|616|691
+8|If you develop a fever, chills, sweats, chest pain, shortness of breath, or other concerning symptoms please seek immediate medical attention.| Aftercare instructions - Emergency instruction|694|835

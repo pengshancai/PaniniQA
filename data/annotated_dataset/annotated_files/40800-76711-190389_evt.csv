@@ -1,0 +1,12 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|infection over your pacemaker| Medical Issues - Disease|116|145
+1|We treated you with antibiotics| Treatments - Medicine name|255|286
+2|took out the old pacemaker| Treatments - Procedure name|292|318
+3|We then inserted a new pacemaker on the other side of your chest| Treatments - Procedure name|320|384
+4|You will need to take antiobiotics for a few weeks| Treatments - Medicine name|460|510
+5|one of the valves in your heart isn't opening up as well as it should| Medical Issues - Symptom|584|658
+6|Ciprofloxacin 500mg twice daily through| Treatments - Medicine name|955|995
+7|START Aspirin 81mg daily| Treatments - Medicine name|1011|1035
+8|You should have this followed up with your PCP and cardiologist.| Aftercare instructions - Upcoming Schedules - Specialist appointment|738|802
+9|START Metoprolol succinate 25mg daily| Treatments - Medicine name|1036|1073
+10|DECREASE Coumadin to 5mg daily due to interaction with antibiotic and we are requesting that you follow up to measure your INR within 3 days of discharge.| Medicine instructions - Medicine changed|1074|1228

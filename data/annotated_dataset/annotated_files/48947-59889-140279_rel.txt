@@ -1,0 +1,24 @@
+Medical Issues
+Symptoms include <headache>;
+Complication <confused > caused by <combination of the subdural hematoma, infection, and delirium Maybe>
+Symptoms <headache> caused by Disease <acute progression of your chronic subdural hematoma>
+Complication <infection of your [**Last Name (NamePattern1) 2286**] line > caused by [no explicit item]
+
+Tests
+Tests include <multiple CT scans >;
+Test results of <{blood test}>: <high potassium >;
+Test results of <multiple CT scans>: <acute progression of your chronic subdural hematoma >;
+
+Treatments
+[no explicit item] Results: <significantly improved over the last 4 days and neurosurgery no longer feels that surgery is needed at this time >
+Procedure <your old line was pulled and you had a temporary line placed. Later a permanent new line was placed > to treat <infection of your [**Last Name (NamePattern1) 2286**] line >
+<your old line was pulled and you had a temporary line placed. Later a permanent new line was placed >  Results: [no explicit item]
+Medicine <[**Last Name (NamePattern1) 2286**] > to treat <high potassium>
+<[**Last Name (NamePattern1) 2286**] >  Results: [no explicit item]
+
+No template for <Vancomycin was added for your infection >
+No template for <senna was added for constipation >
+No template for <Fosrenol was replaced with Sevelamer >
+No template for <Please follow up with your doctors as detailed below >
+No template for <Please follow up with your doctors as detailed below >
+No template for < If you develop headaches, nausea or vomiting, change in your vision, focal weakness, confusion, fevers, chills, chest pain, shortness of breath, abdominal pain, or any other worrisome symptom please call your doctor or go to the emergency room. >

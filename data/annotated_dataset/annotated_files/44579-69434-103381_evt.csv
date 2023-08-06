@@ -1,0 +1,14 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|rib fractures| Medical Issues - Symptom|130|143
+1|bruise to your lungs| Medical Issues - Symptom|150|170
+2|stabilization of your rib fractures| Treatments - Result of the treatment|215|250
+3|chest tube was placed| Treatments - Procedure name|313|334
+4|Because you had rib fractures, please follow: * Your injury caused right sided [**3-26**] rib fractures which can cause severe pain and subsequently cause you to take shallow breaths because of the pain.| Aftercare instructions - patient needs to do - Other|492|695
+5|* You should take your pain medication as directed to stay ahead of the pain otherwise you won't be able to take deep breaths. If the pain medication is too sedating take half the dose and notify your physician.| Aftercare instructions - patient needs to do - Medication|696|912
+6|* Pneumonia is a complication of rib fractures. In order to decrease your risk you must use your incentive spirometer 4 times every hour while awake. This will help expand the small airways in your lungs and assist in coughing up secretions that pool in the lungs.| Aftercare instructions - patient needs to do - Other|913|1177
+7|* You will be more comfortable if you use a cough pillow to hold against your chest and guard your rib cage while coughing and deep breathing.| Aftercare instructions - patient needs to do - Other|1178|1320
+8|* Symptomatic relief with ice packs or heating pads for short periods may ease the pain| Aftercare instructions - patient needs to do - Other|1321|1408
+9|* Narcotic pain medication can cause constipation therefore you should take a stool softener twice daily and increase your fluid and fiber intake if possible.| Aftercare instructions - patient needs to do - Medication|1410|1568
+10|Do NOT smoke| Aftercare instructions - patient needs to do - Other|1571|1583
+11|If your doctor allows, non steroidal antiinflammatory drugs are very effective in controlling pain ( ie, Ibuprofen, Motrin, Advil, Aleve, Naprosyn) but they have their own set of side effects so make sure your doctor approves.| Aftercare instructions - patient needs to do - Medication|1586|1812
+12|Return to the Emergency Room right away for any acute shortness of breath, increased pain or crackling sensation around your ribs ( crepitus ).| Aftercare instructions - Emergency instruction|1815|1958

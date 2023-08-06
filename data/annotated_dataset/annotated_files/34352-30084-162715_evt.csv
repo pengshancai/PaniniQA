@@ -1,0 +1,17 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|confusion| Medical Issues - Symptom|95|104
+1|difficulty writing| Medical Issues - Symptom|109|127
+2|brain biopsy| Tests - Test name|163|175
+3|brain lymphoma| Tests - Test result|231|245
+4|brain swelling| Medical Issues - Disease|358|372
+5|methotrexate| Treatments - Medicine name|458|470
+6|brain swelling decreased| Treatments - Result of the treatment|513|537
+7|confusion and mental state improved singificantly| Treatments - Result of the treatment|547|596
+8|difficulty moving the right side of your body| Medical Issues - Symptom|620|665
+9|prevention of seizures| Treatments - Treatment goal|693|716
+10|prevention of infection| Treatments - Treatment goal|720|743
+11|blood infection| Medical Issues - Complication developed in the hospital|871|886
+12|Vancomycin| Treatments - Medicine name|937|947
+13|Because of the swelling in your brain, you were also placed on steroids, you should continue to take these as prescribed.| Medicine instructions - Medicine continued|1009|1130
+14|During your stay, you were also suspected to to have a blood infection, for which you are being treated with antibiotic (Vancomycin).| Medicine instructions - Medicine continued|816|949
+15|| Aftercare instructions - Emergency instruction|1238|1539

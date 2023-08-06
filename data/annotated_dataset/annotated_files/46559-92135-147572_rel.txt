@@ -1,0 +1,12 @@
+Medical Issues
+Symptoms include <head bleed>;<a broken nose >;<broken bones in your face, >;<fractures in your neck >;<bleeding in your head >;
+
+Treatments
+Procedure <blood transfusion > to treat <lost blood>
+<blood transfusion >  Results: [no explicit item]
+
+No template for <Your head bleed is stable but you should not restart your aspirin until [**2166-4-17**] >
+No template for <You should not restart your plavix until you see Dr. [**First Name (STitle) **] at your neurosurgery follow up appointment. >
+No template for <You should not restart your plavix until you see Dr. [**First Name (STitle) **] at your neurosurgery follow up appointment.  >
+No template for <Your cardiologist has been informed that we have made these changes to your medications >
+No template for <You do not need a cervical collar for your neck fractures but may wear the soft collar for comfort if you would like. >

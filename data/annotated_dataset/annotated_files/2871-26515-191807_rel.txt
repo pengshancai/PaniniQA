@@ -1,0 +1,10 @@
+Medical Issues
+Symptoms include <GI bleeding>;
+Symptoms <GI bleeding> caused by Disease <small outpouchings of the large intestine (diverticulosis) >
+
+Aftercare instructions
+If encounter < fever, chills, sweats, lightheadedness, dizziness, visual changes, chest pain, palpitations, shortness of breath, abdominal pain, blood in the stool, or dark stools> do < Please return to the Emergency Room>
+
+No template for <Your metoprolol was increased to 25 mg by mouth three times daily. >
+No template for <Please continue taking your medicines at the usual dosages.  >
+No template for <Please call your primary care physician [**Last Name (NamePattern4) **]. [**Last Name (STitle) **] at [**Telephone/Fax (1) 1579**] to make an appointment in the next 7 days.  >

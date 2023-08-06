@@ -1,0 +1,16 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|low blood pressure| Medical Issues - Symptom|70|88
+1|dehydration| Medical Issues - Symptom|93|104
+2|vomiting| Medical Issues - Symptom|121|129
+3|diarrhea| Medical Issues - Symptom|134|142
+4|IV fluids| Treatments - Medicine name|165|175
+5|medicine to increase your blood pressure| Treatments - Medicine name|182|222
+6|antibiotics| Treatments - Medicine name|244|255
+7|infection| Medical Issues - Disease|278|287
+8|tests of your blood, urine, and stool| Tests - Test name|327|365
+9|found no definite source of infection| Tests - Test result|369|406
+10|We do not know for sure what caused your symptoms| Tests - Test implication|408|457
+11|peanut allergy| Medical Issues - Disease|509|523
+12|After you are discharged from the hospital, please follow up with the doctor appointments mentioned below.| Aftercare instructions - Upcoming Schedules - Specialist appointment|636|742
+13|Epi-Pen| Medicine instructions - Medicine started|774|781
+14|If you develop any of the symptoms listed below or any other symptoms that are concerning to you, please call your primary care doctor or go to your local emergency room.| Aftercare instructions - Emergency instruction|835|1005

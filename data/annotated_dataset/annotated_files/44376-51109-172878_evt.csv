@@ -1,0 +1,15 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|right sided weakness| Medical Issues - Symptom|121|141
+1|difficulty speaking| Medical Issues - Symptom|146|165
+2|bleeding in the left side of your brain| Medical Issues - Disease|190|229
+3|high blood pressure| Medical Issues - Symptom|245|264
+4|MRI of your brain| Tests - Test name|385|402
+5|left thalamic and intraventricular hemorrhages (bleeds) in your brain| Tests - Test result|410|479
+6|We made the following changes to your medications: - Your aspirin 81mg qd was held and will continue to be held until [**2137-2-26**]| Medicine instructions - Medicine stopped|481|614
+7|You should also be started on heparin SQ 5000U TID starting [**2137-2-20**]| Medicine instructions - Medicine started|617|692
+8|- Please also avoid NSAIDs (such as ibuprofen and aleve) to help prevent further bleeding. In case of pain, you could try tylenol| Aftercare instructions - patient needs to do - Medication|693|822
+9|We recommend pneumoboots for deep vein thrombosis prophylaxis.| Aftercare instructions - patient needs to do - Other|826|888
+10|You will be discharged to [**Hospital3 **] [**Location (un) 86**] for rehabilitation services and further treatment.| Aftercare instructions - patient needs to do - Other|889|1005
+11|If you experience any of the below listed danger signs, please call your doctor or go to the nearest Emergency Department.| Aftercare instructions - Emergency instruction|1006|1128
+12|You will need to followup with Dr. [**Last Name (STitle) **] at the appointment shown below.| Aftercare instructions - Upcoming Schedules - Specialist appointment|1128|1221
+13|Also, please call registration at [**Telephone/Fax (1) 10676**] to update your insurance information and current PCP.| Aftercare instructions - patient needs to do - Other|1222|1339

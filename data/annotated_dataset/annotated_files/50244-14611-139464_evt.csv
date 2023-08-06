@@ -1,0 +1,7 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|low blood pressure| Tests - Test result|72|90
+1|fluids| Treatments - Procedure name|132|138
+2|antibiotics| Treatments - Medicine name|156|167
+3|infection| Medical Issues - Disease|177|186
+4|followup on [**2135-8-8**] with Dr. [**Last Name (STitle) 17751**]| Aftercare instructions - Upcoming Schedules - PCP appointment|298|364
+5|You will be discharged with two types of antiobiotics which you will complete at home on [**2135-8-11**]| Aftercare instructions - patient needs to do - Medication|188|291

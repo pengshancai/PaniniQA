@@ -1,0 +1,9 @@
+Medical Issues
+Symptoms include <short of breath>;<severe shortness of breath >;
+
+Tests
+Tests include <Chest X-ray >;<CT scan >;
+Test implications of <CT scan>: <showed a mass that has caused collapse of part of your left lung >;
+
+No template for <you can see interventional radiology as an outpatient to get a tissue sample (biopsy) of the mass. >
+No template for <You can then be seen in the thoracic oncology clinic where they can make a final diagnosis and decide what treatment options are available >

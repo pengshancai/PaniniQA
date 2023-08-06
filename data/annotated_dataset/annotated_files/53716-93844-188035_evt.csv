@@ -1,0 +1,18 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|nausea| Medical Issues - Symptom|63|69
+1|vomiting| Medical Issues - Symptom|71|79
+2|abdominal pain| Medical Issues - Symptom|85|99
+3|CT of the abdomen| Tests - Test name|101|118
+4|did not show a blockage, but did show extensive metastatic stomach cancer| Tests - Test result|119|192
+5|Paracentesis| Tests - Test name|238|250
+6|no bacteria grew in culture| Tests - Test result|319|346
+7|white blood cells in the fluid| Tests - Test result|352|382
+8|reflect an infection| Tests - Test implication|389|409
+9|If the nausea and vomiting recur, you may need a feeding tube placed| Aftercare instructions - patient needs to do - Other|500|568
+10|to improve intestinal motility| Treatments - Treatment goal|608|638
+11|Cefpodoxime 2x a day for one day| Medicine instructions - Medicine changed|696|728
+12|Docusate 100mg 2x a day| Medicine instructions - Medicine changed|733|756
+13|Metoclopramide (Reglan) 4x a day| Medicine instructions - Medicine changed|761|793
+14|Increase omeprazole (Prilosec) to 2x a day| Medicine instructions - Medicine changed|798|840
+15|Acetaminophen (Tylenol) 325-650mg every 6 hours as needed for pain| Medicine instructions - Medicine changed|845|911
+16|Oxycodone 5-10mg as needed for pain| Medicine instructions - Medicine changed|916|951

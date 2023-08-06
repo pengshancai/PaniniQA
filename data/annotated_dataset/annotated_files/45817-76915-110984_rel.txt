@@ -1,0 +1,12 @@
+Medical Issues
+Symptoms [no explicit item] caused by Disease <pneumonia>
+
+Treatments
+Medicine <antibiotics > to treat <pneumonia>
+<antibiotics >  Results: <your breathing improved >
+
+No template for <Please note the following changes to your medications: -START Bactrim DS 2 tablets three times daily for 7 days including today >
+No template for <-START Prenisone 40mg daily for 5 days including today, then decrease dose to 20mg daily for 11 days >
+No template for <-After you finish Bactrim DS, start Bactrim SS 1 tablet daily >
+No template for <We made no other changes to your medications while you were in the hospital. Please continue taking the rest of your medications as prescribed by your outpatient providers. >
+No template for <Please see below for your currently scheduled follow up appointments >

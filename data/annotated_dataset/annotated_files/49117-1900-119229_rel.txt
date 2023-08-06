@@ -1,0 +1,12 @@
+Medical Issues
+Symptoms include <fevers>;<chills >;<nausea >;<vomiting >;
+
+Tests
+Tests include <upper endoscopy >;
+Test results of <upper endoscopy>: <small tear from the vomiting, but also some inflammation and an erosion in the stomach >;
+Test implications of <upper endoscopy>: <bleeding >; 
+
+No template for <You should continue your treatment with the Levofloxacin for 5 more days as below >
+No template for <You should follow up with your primary care physician on Tuesday morning >
+No template for <you should call and make an appointment to follow-up with Dr. [**Last Name (STitle) **], as listed below as well >
+No template for < If you develop any fevers, chills, worsening nausea or vomiting, or abdominal pain, you should return to the emergency room immediately. >

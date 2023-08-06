@@ -1,0 +1,13 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|bleeding from your nose| Medical Issues - Symptom|82|105
+1|excessive menstual bleeding| Medical Issues - Symptom|110|137
+2|very low platelets| Medical Issues - Disease|162|180
+3|platelet transfusion| Treatments - Procedure name|199|219
+4|allergic reaction| Medical Issues - Complication developed in the hospital|237|254
+5|low platelets| Medical Issues - Symptom|306|319
+6|ITP| Medical Issues - Disease|369|372
+7|steroids| Treatments - Medicine name|398|406
+8|You need to come to the hospital on Tuesday [**2172-4-8**] to have your platelet count drawn.| Aftercare instructions - Upcoming Schedules - Test|630|724
+9|START Prednisone 80 mg daily. You should continue this regimen until your heme/onc follow-up appointment. At that time, you can discuss your prednisone regimen with your doctor.| Medicine instructions - Medicine started|755|932
+10|START Iron 325 mg three times a day| Medicine instructions - Medicine started|935|970
+11|START Pantoprazole 40 mg daily. You should continue to take this to protect your stomach while you are on steroids.| Medicine instructions - Medicine started|973|1089

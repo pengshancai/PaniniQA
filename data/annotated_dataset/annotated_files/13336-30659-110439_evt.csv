@@ -1,0 +1,6 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|TIPS revised| Treatments - Procedure name|90|102
+1|fluid taken out of your abdomen| Treatments - Procedure name|133|164
+2|spironolactone, lasix, levaquin, and potassium were stopped| Medicine instructions - Medicine stopped|222|281
+3|Please have your labs checked next Monday, [**12-27**] with the attached prescription.| Aftercare instructions - Upcoming Schedules - Test|284|370
+4|Please call your doctor or return to the hospital if you have chest pain or shortnes of breath, increasing abdominal girth, fevers and chills, or other symptoms that are concerning to you.| Aftercare instructions - Emergency instruction|372|561

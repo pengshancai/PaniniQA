@@ -1,0 +1,16 @@
+Medical Issues
+Symptoms include <dark stools >;
+
+Tests
+Tests include <endoscopy >; <{blood test}>;
+Test results of <{blood test}>: <anemia>;
+Test goal of <endoscopy>: <concerned that you might be bleeding from your gastrointestinal tract >;
+Test results of <endoscopy>: <did not show any explanation for your low blood counts and no evidence of bleeding >;
+
+Treatments
+Procedure <blood transfusions > to treat <anemia>
+<blood transfusions >  Results: <blood counts improved>;
+
+
+No template for < It is very important you follow up tomorrow for a repeat check of your blood counts. >
+No template for < continue to take all of your other medications as prescribed. >

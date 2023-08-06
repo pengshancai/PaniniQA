@@ -1,0 +1,35 @@
+Medical Issues
+Symptoms include <large upper GI bleed>;
+Symptoms <large upper GI bleed> caused by Disease <esophageal varices > 
+Symptoms <large upper GI bleed> caused by Disease <peptic ulcer >
+Complication <aspiration pneumonia > caused by <intubation> 
+Complication <confused > caused by [no explicit item]
+Complication <blood in your stool > caused by [no explicit item]
+
+Tests
+Tests include <upper endoscopies >;
+Test results of <upper endoscopies>: <showed esophageal varices and a peptic ulcer that may have been bleeding >;
+
+Treatments
+Procedure <blood transfusions > to treat <large upper GI bleed>
+<blood transfusions >  Results: [no explicit item]
+Procedure <intubated > to treat <upper endoscopy>
+<intubated >  Results: [no explicit item]
+Medicine <antibiotics > to treat <aspiration pneumonia>
+<antibiotics >  Results: [no explicit item]
+Medicine <lactulose > to treat <confusion>
+<lactulose >  Results: [no explicit item]
+
+Aftercare instructions
+If encounter <crushing chest pain, difficulty breathing, fevers/ chills intractable nausea or vomiting, blood in your urine vomit or stool or any other concerning medical problem> do <Please call your doctor or 911 >
+
+No template for <1. We ADDED Nadolol 20mg twice per day. This is important to take to prevent further bleeding.  >
+No template for <2. We ADDED Sucralfate and Pantoprazole for your ulcer. >
+No template for <3. We ADDED Lactulose and Rifaxamin to help keep your thinking clear. >
+No template for <4. We added Amlodipine for blood pressure control. >
+No template for <We DISCONTINUED captopril during your last hospitalization. >
+No template for <5. We added FOLATE, THIAMINE and MULTIVITAMINS which you should take daily for good nutrition. >
+No template for <6. We ADDED Ciprofloxacin to prevent infection in your abdomen. You need to take this TWICE A DAY until [**11-16**] and then take it once a day from then on. >
+No template for <6. We ADDED Ciprofloxacin to prevent infection in your abdomen. You need to take this TWICE A DAY until [**11-16**] and then take it once a day from then on. >
+No template for <Your cefpodoxime was stopped. >
+No template for <It is extremely important to stop drinking alcohol as drinking alcohol is the cause of your bleeding. You were seen by social work and were given resources to stop drinking. >

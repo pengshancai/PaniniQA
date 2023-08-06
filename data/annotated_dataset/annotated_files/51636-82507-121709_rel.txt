@@ -1,0 +1,15 @@
+Medical Issues
+Symptoms [no explicit item] caused by Disease <small liver abscesses> 
+Symptoms <respiratory failure> caused by Disease <ARDS (Acute respiratory distress syndrome)> 
+
+Tests
+Tests include <MRCP>;
+Test results of <{culture}>: <pus from one of the liver abscess grew bacteria called STREPTOCOCCUS ANGINOSUS (MILLERI)>;
+Test results of <MRCP>: <did not show any areas of discrete blockage in your bile ducts>;
+
+Treatments
+Procedure <drainage> to treat <small liver abscesses>
+<drainage>  Results: [no explicit item]
+
+No template for <You will receive IV antibiotics for several weeks>
+No template for <see infectious disease doctors in [**Name5 (PTitle) **] for regular follow up>

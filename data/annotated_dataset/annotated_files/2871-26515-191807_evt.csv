@@ -1,0 +1,7 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|GI bleeding| Medical Issues - Symptom|64|75
+1|small outpouchings of the large intestine (diverticulosis)| Medical Issues - Disease|88|146
+2|Your metoprolol was increased to 25 mg by mouth three times daily.| Medicine instructions - Medicine changed|150|216
+3|Please continue taking your medicines at the usual dosages.| Medicine instructions - Medicine continued|265|325
+4|Please call your primary care physician [**Last Name (NamePattern4) **]. [**Last Name (STitle) **] at [**Telephone/Fax (1) 1579**] to make an appointment in the next 7 days.| Aftercare instructions - Upcoming Schedules - PCP appointment|327|501
+5|| Aftercare instructions - Emergency instruction|503|723

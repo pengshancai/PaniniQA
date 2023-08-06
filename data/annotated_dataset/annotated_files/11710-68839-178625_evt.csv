@@ -1,0 +1,10 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|shortness of breath| Medical Issues - Symptom|83|102
+1|pneumonia| Medical Issues - Disease|129|138
+2|intubation| Treatments - Procedure name|153|163
+3|You have slowly recovered| Treatments - Result of the treatment|165|190
+4|You should stop your home Pulmicort| Medicine instructions - Medicine stopped|385|420
+5|You should stop your home Coumadin| Medicine instructions - Medicine stopped|422|457
+6|You should stop your home simvastatin| Medicine instructions - Medicine stopped|460|497
+7|You should stop your home metoprolol| Medicine instructions - Medicine stopped|500|536
+8|You should decrease your home clonazepam dose to 0.25mg three times daily| Medicine instructions - Medicine changed|539|612

@@ -1,0 +1,9 @@
+Tests
+Tests include <chest x ray >;<cardiac echo of the heart >;
+Test results of <chest x ray>: <normal >;
+Test results of <cardiac echo of the heart>: <demonstrated a hole in between two [**Doctor Last Name 1754**] of the heart >;
+
+No template for <You were started on Simvastatin for your cholesterol  >
+No template for <started on Aspirin for further stroke prevention >
+No template for <A hypercoagability work up was started will in patient. This will need to be followed by your primary care physician.  >
+No template for <You are to follow up with surgery with Dr. [**Last Name (STitle) 914**] >

@@ -1,0 +1,5 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|your old hemodialysis catheter.| Treatments - Procedure name|140|171
+1|receive antibiotic intravenously at dialysis for two weeks| Treatments - Medicine name|284|342
+2|We STARTED you on vancomycin to be dosed at each dialysis appointment for 2 weeks| Treatments - Medicine name|465|546
+3|We INCREASED yout tylenol to 1000mg every 8 hours| Medicine instructions - Medicine changed|551|600

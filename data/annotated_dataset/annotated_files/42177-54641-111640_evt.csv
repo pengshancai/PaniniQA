@@ -1,0 +1,6 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|tracheostomy| Treatments - Procedure name|197|209
+1|inflammation| Medical Issues - Symptom|304|316
+2|lung had collapsed| Medical Issues - Symptom|331|350
+3|Please do not make any changes to your medications and please keep your follow-up appointment with your primary care physician.| Aftercare instructions - Upcoming Schedules - PCP appointment|560|687
+4|part of the brush you were using to clean your tracheostomy tube broke off and became lodged in your airway| Medical Issues - Disease|150|257

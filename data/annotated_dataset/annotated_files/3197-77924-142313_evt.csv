@@ -1,0 +1,28 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|fractures in both your right hip and your right wrist| Medical Issues - Symptom|150|203
+1|respiratory distress| Medical Issues - Complication developed in the hospital|315|335
+2|intubation| Treatments - Procedure name|382|392
+3|You were ultimately extubated and transferred back to the medical floor.| Treatments - Treatment goal|394|466
+4|urinary tract infection| Medical Issues - Complication developed in the hospital|527|550
+5|pneumonia| Medical Issues - Complication developed in the hospital|564|573
+6|antibiotics| Treatments - Medicine name|599|610
+7|MEDICATION CHANGES: -CHANGE Lorazepam to 0.5 mg at night as needed for anxiety| Medicine instructions - Medicine changed|752|831
+8|-STOP Aciphex| Medicine instructions - Medicine stopped|831|844
+9|START Pantoprazole 40 mg twice a day| Medicine instructions - Medicine started|846|882
+10|STOP Ibuprofen| Medicine instructions - Medicine stopped|884|898
+11|STOP Lexapro| Medicine instructions - Medicine stopped|900|912
+12|START Duloxetine 40 mg daily| Medicine instructions - Medicine started|914|942
+13|CHANGE Metoprolol Tartrate to 50 mg twice a day| Medicine instructions - Medicine changed|944|991
+14|CHANGE Prednisone to 5 mg daily| Medicine instructions - Medicine changed|993|1024
+15|STOP Ultram| Medicine instructions - Medicine stopped|1026|1037
+16|THE FOLLOWING MEDICATIONS WERE ADDED: -Milk of Magnesia 30 mL twice a day as needed for upset stomach| Medicine instructions - Medicine started|1038|1139
+17|Bisacodyl 10 mg PO/PR daily as needed for constipation| Medicine instructions - Medicine started|1141|1195
+18|Docusate Sodium 100 mg twice a day| Medicine instructions - Medicine started|1197|1231
+19|Enoxaparin Sodium 40 mg injection daily| Medicine instructions - Medicine started|1233|1272
+20|Acetaminophen 650 mg every 6 hours as needed for pain| Medicine instructions - Medicine started|1274|1327
+21|Miconazole Powder 2% three times a day| Medicine instructions - Medicine started|1329|1367
+22|Fluconazole 200 mg daily (to complete a 7 day course, ending on [**11-14**])| Medicine instructions - Medicine started|1369|1445
+23|Senna 1 tab twice a day| Medicine instructions - Medicine started|1447|1470
+24|Lidocaine 5% Patch daily (apply for 12 hours and then keep off for 12 hours)| Medicine instructions - Medicine started|1472|1548
+25|Amlodipine 5 mg daily| Medicine instructions - Medicine started|1550|1571
+26|Please return to the emergency room or call 911 if you experience any further falls, chest pain, shortness of breath, fevers greater than 101.5, severe nausea with inability to tolerate food or liquids by mouth, confusion, or any other concerning symptoms.| Aftercare instructions - Emergency instruction|1572|1828

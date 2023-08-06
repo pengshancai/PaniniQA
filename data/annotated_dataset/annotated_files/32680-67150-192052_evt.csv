@@ -1,0 +1,8 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|corneal ulcer| Medical Issues - Disease|159|172
+1|orbital cellulitis| Medical Issues - Disease|233|251
+2|Please call the infectious disease specialist Dr. [**Last Name (STitle) 6137**] ([**Telephone/Fax (1) 457**]) if you experience a fever (temperature of 100.4 or greater).| Aftercare instructions - Emergency instruction|325|495
+3|Continue Fluconazole 400 mg daily for 7 more days| Medicine instructions - Medicine continued|521|571
+4|Start Fortified Tobramycin eyedrops 1 drop in right eye every 2 hours (while awake)| Medicine instructions - Medicine started|573|656
+5|Start Prednisolone Acetate eyedrops (pred-forte) 1 drop right eye FOUR times a day| Medicine instructions - Medicine started|659|741
+6|Start Ciprofloxacin 500 mg twice a day for 7 days| Medicine instructions - Medicine started|744|793

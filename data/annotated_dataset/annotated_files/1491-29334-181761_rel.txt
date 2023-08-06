@@ -1,0 +1,23 @@
+Medical Issues
+Symptoms include <worsening shortness of breath>;
+
+Tests
+Tests include <CT scan of your chest >;
+Test results of <CT scan of your chest >: <did not show a clot in your lungs >;
+Test results of <CT scan of your chest >: <did show an increase in the size of the fluid collections around your lungs >;
+
+Treatments
+Procedure <drained the fluid from your lungs  > to treat <no explicit item>
+<drained the fluid from your lungs  >  Results: <no explicit item>
+
+Aftercare instructions
+If encounter <increasing shortness of breath, chest pain, palpitations, dizziness, increased swelling, new or concerning symptoms> do <call your doctor>
+
+No template for <Lisinopril was started and then stopped due to low blood pressure - Captopril which is in the same class as lisinopril was started >
+No template for <Your Metoprolol Succinate was switched to Metoprolol Tartrate 50 mg twice a day >
+No template for <Lasix 80 mg daily >
+No template for <Please continue to have draining from your pleural catheters 3 times a week.  >
+No template for <You have a follow appointment with pulmonology on [**3-23**]. >
+No template for <You will have to have an xray before the appointment.  >
+No template for <Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight increases by more than 3 lbs. >
+No template for <Adhere to a 2 gram sodium diet. >

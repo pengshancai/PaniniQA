@@ -1,0 +1,11 @@
+
+Treatments
+<elective carotid stent>  Results: <You tolerated the procedure without significant complications >
+
+Aftercare instructions
+If encounter <lightheadedness, weakness or numbness of your arms or legs, neck pain, fever, or other concerning symptoms> do <please call your doctor or go to the ER. >
+
+No template for <You were briefly on medications to increase your blood pressure.  >
+No template for <Please take all of your medications as prescribed.  >
+No template for <Please note that you were taken off your Toprol XL, Norvasc, and Zestril. >
+No template for <Please note that you were taken off your Toprol XL, Norvasc, and Zestril. Please do *NOT* restart these medications unless instructed by your cardiologist or Dr. [**First Name (STitle) **] >

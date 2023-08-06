@@ -1,0 +1,13 @@
+Medical Issues
+Symptoms include < ringing in your ears >;<dizziness >;<nausea >;<vomiting >;<confusion >;
+Symptoms < ringing in your ears >;<dizziness >;<nausea >;<vomiting >;<confusion > caused by Disease <accidental aspirin overdose >
+
+Treatments
+Medicine < fluids > to treat <accidental aspirin overdose>
+< fluids >  Results: <medically stabilized>
+Medicine <treatment to counteract the effects of the aspirin in your blood > to treat <accidental aspirin overdose >
+<treatment to counteract the effects of the aspirin in your blood >  Results: <medically stabilized>
+<fluids>;<treatment to counteract the effects of the aspirin in your blood > Results: <medically stabilized>
+
+No template for <We strongly recommend that you continue attending either day treatment at [**Hospital1 1680**] HRI, or that you arrange for day treatment at another program, Crossroads Day Program, which the staff at [**Hospital1 1680**] would be happy to refer you to.  >
+No template for <You were discharged on the same medications that you were taking before admission. >

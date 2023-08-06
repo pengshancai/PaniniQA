@@ -1,0 +1,12 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|defibrillator was not functioning properly| Medical Issues - Symptom|72|114
+1|lead was replaced| Treatments - Procedure name|121|138
+2|atrial fibrillation| Medical Issues - Complication developed in the hospital|178|197
+3|cardioversion| Treatments - Procedure name|211|224
+4|Coumadin| Medicine instructions - Medicine started|249|257
+5|You will be started on Coumadin and finish your antibiotic course for pneumonia as an outpatient| Aftercare instructions - patient needs to do - Medication|226|322
+6|Please attend all follow-up appointments listed below.| Aftercare instructions - Upcoming Schedules - Treatment|324|378
+7|Coumadin| Medicine instructions - Medicine started|470|478
+8|have your blood levels checked at the discretion of your primary care physician [**Name Initial (PRE) **] [**Name10 (NameIs) **] will complete your antibiotics course for pneumonia (5 more days of cefpodoxime and 3 more days of azithromycin)| Aftercare instructions - Upcoming Schedules - PCP appointment|496|737
+9|Please call your doctor or return to the hospital if you develop chest pain, difficulty breathing, fevers, palpitations, lightheadedness, or any other concerning symptom.| Aftercare instructions - Emergency instruction|738|908
+10|| Aftercare instructions - patient needs to do - Other|909|1012

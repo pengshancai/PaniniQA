@@ -1,0 +1,10 @@
+Medical Issues
+Symptoms include <bleeding from your lungs>;<fevers >;<chills >;<chest pain >;<shortness of breath >;<dizziness >;
+
+Treatments
+Procedure <bronchoscopy > to treat [No explicit item]
+<bronchoscopy >  Results: <did not reveal any active bleeding>
+Medicine <Nystatin swish and swallow for some thrush > to treat [No explicit item]
+<Nystatin swish and swallow for some thrush >  Results:[No explicit item]
+
+No template for <Please schedule a follow-up appointment with your primary care physician within the next few weeks. >

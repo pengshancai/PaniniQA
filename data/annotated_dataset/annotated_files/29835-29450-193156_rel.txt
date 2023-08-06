@@ -1,0 +1,20 @@
+Medical Issues
+Symptoms include <bilateral groin pain>;<vomiting >;
+Symptoms [no explicit item] caused by Disease <urinary tract infection > 
+
+Tests
+Test results of [no explicit item]: <renal failure had worsened >;
+Test results of [no explicit item]: <blood level of your Digoxin (a medicine to help regulate your heart beat) was too hig >;
+
+Treatments
+Medicine <antibiotic for a urinary tract infection > to treat <urinary tract infection>
+<antibiotic for a urinary tract infection >  Results: [no explicit item]
+
+Aftercare instructions
+If encounter <chest pain or pressure, very fast or irregular heart beat, palpitations, fainting, changes in mental status, nausea or vomitting, trouble breathing, abdominal or groin pain, blood in your stools or very dark/black stools, blockage of your suprapubic catheter, fever > 101 and/or shaking chills or any other health-related concerns> do <Please call your Primary Care Provider [**Name Initial (PRE) **]/or come to the Emergency Department>
+
+No template for <DO NOT take any more Digoxin, Furosemide (Lasix) or Ramipril (Altace) until told differently by your MD; & >
+No template for <2.) please complete the course of your antibiotic as has been prescribed. Continue your Clopidogrel (Plavix) and your Novalog 70/30 flex pen as directed (6 units every morning and 6 units at bedtime) as you were, before coming to the hospital. >
+No template for <We have also started a baby aspirin once a day (also to help thin your blood) and medicines (Colace and Senna) to help you have a bowel movement every day. >
+No template for <Another medicine called Gabapentin (Neurontin) has been started and is helping with the pain you were having in your legs. >
+No template for <Please make and keep all of your follow-up appointments. >

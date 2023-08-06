@@ -1,0 +1,28 @@
+Medical Issues
+Symptoms include <confusion>
+Symptoms <confusion> caused by Disease <heart failure >
+Symptoms <confusion> caused by Disease <kidney disease >
+Symptoms [no explicit item] caused by Disease <urinary infection >
+
+Tests
+Tests include <cardiac catheterization >;
+Test results of <{blood test}>: <sodium in your blood got too low >;
+Test results of <cardiac catheterization>: <multiple blockages in one of your heart arteries >;
+
+Treatments
+Procedure <3 stents were placed in this artery to improve your blood flow > to treat <multiple blockages in one of your heart arteries>
+<3 stents were placed in this artery to improve your blood flow >  Results: <condition improved>
+Medicine <antibiotic > to treat <urinary infection>
+<antibiotic >  Results: <condition improved>
+
+
+No template for <Lisinopril decreased from 10mg by mouth daily to 2.5mg daily >
+No template for <Pantoprazole stopped >
+No template for <Raniditine 150mg by mouth once each day >
+No template for <Metoprolol increased to 25mg twice a day >
+No template for <Tetracycline 500mg by mouth three times each day for 14 days >
+No template for <Metronidazole 500mg by mouth three times each day for 14 days >
+No template for <Bismuth subsalucylate 2 tablets four times each day for 14 days >
+No template for <Please follow-up with your PCP >
+No template for <Please make sure to follow a diet low in salt and do not drink more than 1.5 L of fluid each day >
+No template for <Make sure to weigh yourself every morning, and call the doctor if your weight goes up more than 3 lbs >

@@ -1,0 +1,12 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|lower intestinal bleeding| Medical Issues - Symptom|63|88
+1|hematocrit (blood count) was low| Medical Issues - Symptom|95|127
+2|gave you 4 units of blood| Treatments - Medicine name|135|160
+3|stabilized| Treatments - Result of the treatment|176|186
+4|diverticula| Medical Issues - Disease|220|231
+5|colonoscopy| Tests - Test name|273|284
+6|showed some continued diverticulosis.| Tests - Test result|296|334
+7|You should eat a diet high in fiber.| Aftercare instructions - patient needs to do - Diet|334|371
+8|Please restart your home medications.| Aftercare instructions - patient needs to do - Medication|462|499
+9|Follow up with your PCP as scheduled below.| Aftercare instructions - Upcoming Schedules - PCP appointment|500|543
+10|If you develop rectal bleeding, abdominal pain, nausea/vomiting, fevers/chills, chest pain, trouble breathing or any other symptoms that concern you please call your doctor or go to the emergency room.| Aftercare instructions - Emergency instruction|544|745

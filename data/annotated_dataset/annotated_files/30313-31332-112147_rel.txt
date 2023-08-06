@@ -1,0 +1,18 @@
+Medical Issues
+Symptoms include <shortness of breath>;
+Symptoms <shortness of breath> caused by Disease <cancer recurrence > 
+
+Tests
+Tests include <tap of fluid around your lung  >;
+Test results of <tap of fluid around your lung>: <did not show malignancy >;
+
+Treatments
+<IV antibiotics >  Results: <stable to leave the intensive care unit and go to the oncology floor>
+<tube placed in your nose >  Results: <stable to leave the intensive care unit and go to the oncology floor>
+Medicine <morphine  > to treat <shortness of breath>
+
+Aftercare instructions
+If encounter <concerns> do < Please call your doctor or your hospice care >
+
+No template for <You were given morphine as needed for SOB and other meds as needed for comfort.  >
+No template for <All of your medications have been changed. Please take as prescribed.  >

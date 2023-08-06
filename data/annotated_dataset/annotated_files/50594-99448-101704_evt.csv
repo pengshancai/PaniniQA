@@ -1,0 +1,16 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|chest pain| Medical Issues - Symptom|187|197
+1|EKG| Tests - Test name|204|207
+2|changes in the electrical pattern of your heart| Tests - Test result|220|267
+3|impaired blood flow| Tests - Test implication|287|307
+4|cardiac catheterization| Treatments - Procedure name|348|371
+5|to place a stent in your heart and open up the blood flow| Treatments - Treatment goal|372|429
+6|Your stent was placed in the bypass graft leading to your LAD artery| Treatments - Result of the treatment|431|499
+7|you did well and your chest pain resolved| Treatments - Result of the treatment|521|562
+8|Plavix| Medicine instructions - Medicine started|641|648
+9|Metoprolol succinate (Toprol XL) [**2-1**] a 25mg tablet daily (total 12.5mg)| Medicine instructions - Medicine started|707|784
+10|Atorvastatin- increased from 20mg a day to 80mg a day| Medicine instructions - Medicine changed|809|862
+11|Atenolol| Medicine instructions - Medicine stopped|887|896
+12|Continue taking your baby aspirin (81mg) by mouth once a day| Medicine instructions - Medicine continued|946|1006
+13|Make sure to have your INR checked the morning of your doctors [**Name5 (PTitle) 648**] with Dr [**Last Name (STitle) 3357**] next week| Aftercare instructions - Upcoming Schedules - Test|1040|1175
+14|You should bring your medications to each [**Last Name (STitle) 648**] so your doctors [**Name5 (PTitle) **] update their records and adjust the doses as needed| Aftercare instructions - patient needs to do - Medication|1258|1418

@@ -1,0 +1,17 @@
+Medical Issues
+Symptoms include <fevers>;<confusion >;<cough >;
+Symptoms <fevers> <confusion > <cough > caused by Disease <aspiration pneumonia > 
+
+Tests
+Tests include <seen by our speech and swallow specialists who assessed your swallowing >;
+Test results of <seen by our speech and swallow specialists who assessed your swallowing>: <recommended that supervised feeding of a soft diet with nectar thickened liquids would be the best way to prevent future aspiration events >;
+
+Treatments
+Medicine <antibiotics  > to treat <aspiration pneumonia>
+<antibiotics  >  Results: <improved>
+
+No template for <Please START Augmentin 875mg twice daily ending [**12-7**]  >
+No template for <Please START Augmentin 875mg twice daily ending [**12-7**]  >
+No template for <Please START Albuterol inhaler as needed >
+No template for <Please DECREASE your home glipizide dose to 2.5mg daily >
+No template for <Please STOP your home metformin >

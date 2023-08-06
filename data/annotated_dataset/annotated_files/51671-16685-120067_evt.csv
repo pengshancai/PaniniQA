@@ -1,0 +1,14 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|cough| Medical Issues - Symptom|102|107
+1|fever| Medical Issues - Symptom|109|114
+2|vomiting| Medical Issues - Symptom|120|128
+3|pneumonia| Medical Issues - Disease|167|176
+4|xray| Tests - Test name|180|185
+5|antibiotics| Treatments - Medicine name|213|224
+6|improvement| Treatments - Result of the treatment|241|252
+7|blood pressures were lower than normal| Tests - Test result|259|297
+8|intravenous fluids| Treatments - Procedure name|341|359
+9|improvement of your blood pressures| Treatments - Result of the treatment|393|428
+10|Levofloxacin was STARTED, to be taken for 4 additional days, last day being [**2173-7-28**]| Medicine instructions - Medicine started|490|581
+11|Lisinopril was stopped during this hospitalization but may be restarted tomorrow| Medicine instructions - Medicine continued|583|663
+12|Please be sure to call your primary care doctor&#x27;s office on Tuesday to set up a followup appointment this week, so that your doctor can see how your oxygenation and blood pressure are doing| Aftercare instructions - Upcoming Schedules - PCP appointment|665|859

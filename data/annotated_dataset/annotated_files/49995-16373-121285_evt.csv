@@ -1,0 +1,13 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|trouble breathing| Medical Issues - Symptom|70|87
+1|high blood pressure| Tests - Test result|92|111
+2|improved| Treatments - Result of the treatment|117|126
+3|lasix| Treatments - Medicine name|132|137
+4|urinary infection| Medical Issues - Disease|305|322
+5|ciprofloxacin| Treatments - Medicine name|283|297
+6|Please take all medications as prescribed and go to all follow up [**Name (NI) 4314**].| Aftercare instructions - patient needs to do - Other|643|730
+7|Increased hydralazine to four times daily.| Medicine instructions - Medicine changed|780|822
+8|lisinopril| Medicine instructions - Medicine started|833|843
+9|Lowered your furosemide (lasix) to 20mg daily.| Medicine instructions - Medicine changed|876|922
+10|If you experience fevers, trouble breathing, chest pain, abdominal pain, or any other concerning symptoms, please seek medical attention immediately.| Aftercare instructions - patient needs to do - Other|922|1072
+11|helped remove extra fluid from your lungs| Treatments - Result of the treatment|157|198

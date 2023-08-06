@@ -1,0 +1,14 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|swelling in your legs| Medical Issues - Symptom|227|248
+1|difficulty breathing when you laid down flat| Medical Issues - Symptom|263|307
+2|diuretics| Treatments - Medicine name|330|339
+3|to remove fluid| Treatments - Treatment goal|340|355
+4|Dr. [**Last Name (STitle) **] felt that you would benefit from further diuresis with continuous medications through the IV called furosemide and milrinone.| Medicine instructions - Medicine started|396|551
+5|catheterization| Tests - Test name|567|582
+6|revealed that the changes in your pacemaker and milrinone were not enough to make your heart squeeze well.| Tests - Test result|652|759
+7|STOP carvedilol| Medicine instructions - Medicine stopped|978|994
+8|START metoprolol tartrate 25 mg three times a day| Medicine instructions - Medicine started|994|1043
+9|START metolazone 2.5mg daily| Medicine instructions - Medicine started|1044|1072
+10|START milrionone infusion| Medicine instructions - Medicine started|1072|1099
+11|CHANGE torsemide to 100 mg daily| Medicine instructions - Medicine changed|1099|1131
+12|It is also very important that you keep all of the follow-up appointments listed below.| Aftercare instructions - Upcoming Schedules - Specialist appointment|1134|1221

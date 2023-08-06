@@ -1,0 +1,15 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|coughing up blood| Medical Issues - Symptom|108|125
+1|small amount of blood in your urine| Medical Issues - Symptom|174|209
+2|eye and mild inflammation in your right| Medical Issues - Symptom|229|268
+3|A blood study was performed showing that you have a marker called anti-neutrophil cytoplasmic antibody (ANCA).| Tests - Test name|292|402
+4|wegener| Medical Issues - Disease|487|494
+5|granulomatosis| Medical Issues - Disease|502|516
+6|For this you were started on steroids and rituxan.| Treatments - Medicine name|565|615
+7|You will need long term followup with a rheumatologist to help you manage this disorder.| Aftercare instructions - Upcoming Schedules - Specialist appointment|616|704
+8|START: -Prednisone, which suppresses the immune system and the inflammation of your Wegener's| Treatments - Medicine name|1091|1189
+9|Bactrim to prevent infection while on Prednisone| Treatments - Medicine name|1191|1239
+10|Vitamin D to prevent to prevent bone problems on Prednisone| Treatments - Medicine name|1241|1300
+11|Calcium to prevent bone problems on Prednisone| Treatments - Medicine name|1302|1348
+12|Cough syrup as needed for cough| Treatments - Medicine name|1350|1381
+13|inflammation of the blood vessels| Medical Issues - Symptom|529|563

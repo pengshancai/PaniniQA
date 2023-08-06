@@ -1,0 +1,17 @@
+Medical Issues
+Symptoms include <lower back pain>;
+Complication <episode of slow breathing> caused by [no explicit item]
+Complication <low blood sugars> caused by [no explicit item]
+
+Tests
+Tests include <Imaging of the spine>;<blood sugars>;
+Test results of <Imaging of the spine>: <degenerative changes in the spine, and potentially cancer in the spine>;
+Test results of <blood sugars>: <normal>;
+
+Treatments
+[no explicit item] Results: <pain is now well controlled>
+
+No template for <DECREASE your Lantus from 60 units daily to 20 units daily>
+No template for <OXYCONTIN(long acting Oxycodone)>
+No template for <short-acting OXYCODONE 5-10mg every 4 hours as needed for pain>
+No template for <Lorazepam>

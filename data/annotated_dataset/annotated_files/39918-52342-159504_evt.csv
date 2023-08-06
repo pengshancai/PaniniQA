@@ -1,0 +1,12 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|ulcers| Medical Issues - Disease|186|192
+1|gastrointestinal bleed| Medical Issues - Symptom|199|221
+2|bleeding ulcers| Medical Issues - Symptom|362|377
+3|enlarged blood vessels| Medical Issues - Symptom|407|429
+4|liver disease| Medical Issues - Disease|480|493
+5|-START nadolol 40 mg daily| Treatments - Medicine name|618|644
+6|-STOP taking all non-steroidal anti-inflammatory medications, such as ibuprofen| Medicine instructions - Medicine stopped|645|724
+7|take oxycodone as needed for treatment of your pain| Treatments - Medicine name|743|794
+8|STOP taking atenolol. This medication may need to be restarted after you stabilize on nadalol| Medicine instructions - Medicine stopped|916|1009
+9|START taking pantoprazole twice a day| Treatments - Medicine name|1063|1100
+10|you start physical therapy and follow up with your spine surgeon| Aftercare instructions - Upcoming Schedules - Specialist appointment|1282|1346

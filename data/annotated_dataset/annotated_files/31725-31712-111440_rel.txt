@@ -1,0 +1,25 @@
+Medical Issues
+Symptoms [no explicit item] caused by Disease <pneumonia > 
+Symptoms [no explicit item] caused by Disease <leg ulcer > 
+Complication <atrial fibrillation > caused by [no explicit item]
+
+Treatments
+Procedure <toe amputation> to treat [no explicit item]
+<toe amputation>  Results: <Your amputation was performed successfully >
+Procedure <surgically debrided > to treat <leg ulcer>
+<surgically debrided >  Results: [no explicit item]
+Medicine <Amiodarone > to treat <atrial fibrillation>
+<Amiodarone >  Results: [no explicit item]
+Medicine <diltiazem > to treat <atrial fibrillation>
+<diltiazem >  Results: [no explicit item]
+
+Aftercare instructions
+If encounter <any new lower extremity pain, chest pain, palpitations, shortness of breath, fever > 101 or any other symptom concerning to you> do <Please call your physician>
+
+No template for <You were started on 2 new medications for control of this heart rate - Amiodarone and diltiazem. You should discuss these with your doctor as you may not need to take them long term. In the short term however, please take all new medications as directed upon leaving the hospital. >
+No template for <You must take the following medications: 1. Piperacillin/tazobactam - for total of 2 weeks through [**4-26**] [**2135**] >
+No template for <2. Amiodarone - 400mg twice daily and then 200mg daily thereafter. Please do not discontinue this medication without discussing it with your doctor. >
+No template for <2. Amiodarone - 400mg twice daily and then 200mg daily thereafter. Please do not discontinue this medication without discussing it with your doctor. >
+No template for <3. Diltiazem 15mg by mouth every 6 hours. Please do not discontinue this medication without discussing it with your doctor. >
+No template for <3. Diltiazem 15mg by mouth every 6 hours. Please do not discontinue this medication without discussing it with your doctor. >
+No template for <4. Please continue all other medications as directed. >

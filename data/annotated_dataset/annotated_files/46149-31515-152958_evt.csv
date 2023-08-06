@@ -1,0 +1,13 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|slow heart rate| Medical Issues - Symptom|77|92
+1|pacemaker| Treatments - Procedure name|108|117
+2|You had a small collection of blood around your heart because of a perforation during the pacemaker insertion, but it is now resolved.| Medical Issues - Complication developed in the hospital|119|253
+3|Do not take a shower until after your check up at the device clinic on [**7-7**]. Please keep the dressing clean and dry. You may take a bath, but please keep the dressing dry.| Aftercare instructions - patient needs to do - Other|256|432
+4|Please avoid extreme movements with you left arm such as tucking your shirt in or reaching to lift something. Do not lift more than 5 pounds for one week.| Aftercare instructions - patient needs to do - Other|435|589
+5|antibiotics| Treatments - Medicine name|620|631
+6|You developed a drug rash to Keflex, therefore you should not take this antibiotic or any other cephalosporin or penicillin as you probably are allergic to them.| Aftercare instructions - patient needs to do - Other|633|794
+7|Please keep all of your follow-up appts.| Aftercare instructions - Upcoming Schedules - Specialist appointment|797|837
+8|Make sure you drink plenty of water or juice when you get home.| Aftercare instructions - patient needs to do - Diet|1148|1211
+9|| Medicine instructions - Medicine started|1214|1306
+10|Please call Dr. [**Last Name (STitle) 98155**] or Dr. [**Last Name (STitle) **] you have any weakness, fevers, trouble breathing, fainting, blood in your stools, increased coughing, vomiting or pain in your chest.| Aftercare instructions - Emergency instruction|838|1051
+11|Please call the device clinic if your chest area around the pacemaker becomes more sore or red.| Aftercare instructions - patient needs to do - Other|1052|1147

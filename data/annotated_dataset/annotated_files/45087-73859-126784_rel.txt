@@ -1,0 +1,19 @@
+Medical Issues
+Symptoms include <high blood pressures >;<confusion >;
+Symptoms [no explicit item] caused by Disease <atrial fibrillation>
+Symptoms [no explicit item] caused by Disease <urinary tract infection >
+
+Tests
+Tests include <echocardiogram >;
+Test goal of <echocardiogram>: <look at your heart >;
+Test results of <echocardiogram>: <showed that your mitral valve has some damage (torn cord) >;
+
+Treatments
+Medicine <medications to control your heart read and blood pressure > to treat <high blood pressure>; <atrial fibrillation> 
+<medications to control your heart read and blood pressure >  Results: [no explicit item]
+Medicine <antibiotics > to treat <urinary tract infection>
+<antibiotics >  Results: [no explicit item]
+
+No template for <You should follow-up with your cardiologist Dr. [**Last Name (STitle) **]. >
+No template for <You will continue physical therapy at rehab. >
+No template for <You should followup with Dr. [**Last Name (STitle) 363**] for your recent spine surgery. >

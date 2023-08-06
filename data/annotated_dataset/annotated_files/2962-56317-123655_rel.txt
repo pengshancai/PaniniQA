@@ -1,0 +1,23 @@
+Medical Issues
+Symptoms include <shortness of breath>;
+Symptoms <shortness of breath> caused by Disease <pneumonia > 
+Complication <blood sugars have been elevated > caused by <steroids> <Maybe>
+
+Treatments
+Medicine < antibiotics > to treat <pneumonia >
+< antibiotics >  Results: <breathing improved >
+Medicine <steroids > to treat <pneumonia >
+<steroids >  Results: <breathing improved >
+
+Medicine <medication > to treat <atrial fibrillation>
+
+Aftercare instructions
+If encounter <increased shortness of breath, chest pain, low oxygen levels, diarrhea, abdominal pain or any other symptoms that are concerning to you> do <Please call your PCP or return to the emergency department >
+
+No template for <You also had an episode of a fast, irregular heart rhythm called atrial fibrillation and were started on a new medication to control your heart rate.  >
+No template for <START diltiazem 120mg XR daily >
+No template for <START levofloxacin until [**2164-6-13**] >
+No template for <START aspirin 325mg daily >
+No template for <START prednisone taper 40mg on [**6-16**]; prednisone 30mg on [**8-17**]; prednisone 20mg [**6-15**], [**6-16**]; prednisone 10mg [**6-17**], [**6-18**] >
+No template for <Insulin as directed below >
+No template for <You will need to monitor your blood sugars four times daily and administer insulin as directed. >

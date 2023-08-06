@@ -1,0 +1,8 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|complete heart block| Medical Issues - Symptom|62|82
+1|placement of a permanent pacemaker| Treatments - Procedure name|103|137
+2|You will need to follow-up with the EP (heart rhythm) doctors [**Last Name (NamePattern4) **] 1 week| Aftercare instructions - Upcoming Schedules - Specialist appointment|190|290
+3|Your medications have CHANGED as follows: 1. We DECREASED your metoprolol from 100mg twice per day to 50mg twice per day (this medicine is for heart rate and blood pressure)| Medicine instructions - Medicine changed|292|465
+4|2. We ADDED cephalexin (keflex) an antibiotic you will need to take for 3 days (last dose on [**6-12**]) to help prevent infection from the procedure.| Medicine instructions - Medicine started|466|616
+5|3. ADDED a few oxycodone tablets for pain relief if your chest is hurting from the procedure. This will go away in time.| Medicine instructions - Medicine started|617|737
+6|Please continue to take the rest of your medications as you have been before.| Medicine instructions - Medicine continued|738|815

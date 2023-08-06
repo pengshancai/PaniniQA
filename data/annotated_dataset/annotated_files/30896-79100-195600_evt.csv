@@ -1,0 +1,13 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|infection of your old left port site| Medical Issues - Disease|158|194
+1|antibiotics| Treatments - Medicine name|218|229
+2|surgical drainage of a small fluid collection| Treatments - Procedure name|262|307
+3|You were desensitized to naficillin in the ICU, but you developed a renal condition called acute interstitial nephritis so this antibiotic was discontinued.| Medicine instructions - Medicine stopped|309|465
+4|acute interstitial nephritis| Medical Issues - Complication developed in the hospital|400|428
+5|naficillin| Treatments - Medicine name|334|344
+6|daptomycin| Treatments - Medicine name|516|526
+7|You were started on a different antibiotic called daptomycin.| Medicine instructions - Medicine started|466|528
+8|START Daptomycin 580 mg intravenous through your port once a day until [**11-5**]| Medicine instructions - Medicine started|583|665
+9|STOP Lisinopril (please discuss restarting this medication with your primary care physician in several weeks because your kidney function has not yet come back to normal)| Medicine instructions - Medicine stopped|665|836
+10|STOP Simvastatin| Medicine instructions - Medicine stopped|836|852
+11|Please continue your other home medications.| Medicine instructions - Medicine continued|853|897

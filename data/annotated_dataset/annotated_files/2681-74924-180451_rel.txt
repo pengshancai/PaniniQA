@@ -1,0 +1,19 @@
+Medical Issues
+Symptoms include <chest pain>;<shortness of breath  >;
+Symptoms  <chest pain> <shortness of breath  > caused by Disease <large blood clot in your lungs > 
+
+Tests
+Tests include <xray >;<MRI of your spine >;
+Test results of <xray>: <shows only degenerative changes >;
+Test results of <MRI of your spine >: <showed some known surgical changes on the right side, and degenerative changes, but no acute infection or bleed >;
+
+Treatments
+Medicine <blood thinning medication > to treat <large blood clot in your lungs>
+Medicine <additional blood thinning medication-lovenox and coumadin > to treat <large blood clot in your lungs>
+
+No template for <Then, you were started on additional blood thinning medication-lovenox and coumadin. >
+No template for <Coumadin, to be continued for at least 6 months  >
+No template for <Stool softeners >
+No template for <Pain medications: lidoderm patch, oxycontin, lyrica, tylenol, oxycodone as needed, and valium as needed  >
+No template for <Please take all of your medications as prescribed and follow up with the appointments below.  >
+No template for <Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more than 3 lbs. Your discharge weight is 82 kgs (180.5 lbs). >

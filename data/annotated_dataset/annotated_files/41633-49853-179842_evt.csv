@@ -1,0 +1,14 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|diarrhea| Medical Issues - Symptom|64|72
+1|fast heart rate| Medical Issues - Symptom|79|94
+2|CAT scan| Tests - Test name|106|114
+3|showed blood clots in the lungs and a mass in your abdomen| Tests - Test result|121|179
+4|Stool studies were sent| Tests - Test name|249|272
+5|all of your stool studies were either negative or still pending| Tests - Test result|300|363
+6|These will be followed up by your PCP| Aftercare instructions - Upcoming Schedules - PCP appointment|365|402
+7|blood clots| Medical Issues - Disease|488|499
+8|you were started on blood thinners (heparin, then switched to lovenox)| Treatments - Medicine name|501|571
+9|You will ultimately need to be started on coumadin| Treatments - Medicine name|573|623
+10|start lovenox for your blood clots| Treatments - Medicine name|1054|1088
+11|start vitamin B12 and folic acid| Treatments - Medicine name|1091|1123
+12|start atovaquone (to prevent pneumonia)| Treatments - Medicine name|1126|1165

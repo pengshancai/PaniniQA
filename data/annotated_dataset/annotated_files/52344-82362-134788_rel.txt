@@ -1,0 +1,13 @@
+Medical Issues
+Symptoms include <shortness of breath>;
+
+Treatments
+Medicine <antibiotics > to treat <shortness of breath>
+<antibiotics >  Results: [no explicit item]
+Procedure <nebulizers > to treat <shortness of breath>
+<nebulizers >  Results: [no explicit item]
+Medicine <morphine > to treat <shortness of breath>
+<morphine >  Results: [no explicit item]
+
+No template for <Please take all of your medications exactly as prescribed>
+No template for <Please call your physician or return to the emergency department if you experience fevers, chest pain, worsening shortness of breath that in not relieved with your medications, or any other concerning symptoms>

@@ -1,0 +1,8 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|treated with steroids and BIPAP| Treatments - Medicine name|98|129
+1|We also gave you some medication to get rid of fluid from your lungs as it may have been contributing.| Treatments - Medicine name|144|246
+2|abdominal pain| Medical Issues - Symptom|265|279
+3|constipation| Medical Issues - Disease|301|313
+4|COPD| Medical Issues - Disease|73|77
+5|resolved with a bowel movement.| Treatments - Result of the treatment|321|352
+6|You will continue on prednisone for your COPD and it will be tapered down as you get better.| Medicine instructions - Medicine continued|353|445

@@ -1,0 +1,21 @@
+Medical Issues
+Symptoms include <seizure >;<enlargement of the liver >;
+Symptoms <seizure> caused by Disease <alcohol withdrawal>
+Symptoms [No explicit item]> caused by Disease <cirrhosis >
+
+Treatments
+Procedure <You had a breathing tube in place for one day. > to treat <alcohol withdrawal>
+<You had a breathing tube in place for one day. >  Results: [No explicit item]
+[No explicit item] Results: <Your symptoms improved quickly and you had no evidence of withdrawal symptoms for almost 72 hours >
+Medicine <You were started on 5 mg norvasc for your blood pressure > to treat [No explicit item]
+<You were started on 5 mg norvasc for your blood pressure >  Results: [No explicit item]
+Medicine <Start folate 1 mg daily > to treat [No explicit item]
+<Start folate 1 mg daily >  Results: [No explicit item]
+Medicine <Start thiamine 100 mg daily > to treat [No explicit item]
+<Start thiamine 100 mg daily >  Results: [No explicit item]
+Medicine <Start multivitamin daily > to treat [No explicit item]
+<Start multivitamin daily >  Results: [No explicit item]
+Medicine <Start Norvasc 5 mg daily > to treat [No explicit item]
+<Start Norvasc 5 mg daily >  Results: [No explicit item]
+
+No template for <Please refrain from drinking, as it has already affected your health >

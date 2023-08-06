@@ -1,0 +1,14 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|progressively worsening shortness of breath| Medical Issues - Symptom|137|180
+1|oxygen therapy| Treatments - Procedure name|226|240
+2|Your respiratory status was stabilized| Treatments - Result of the treatment|182|220
+3|steroids| Treatments - Medicine name|316|324
+4|antibiotics| Treatments - Medicine name|338|349
+5|intravenous and oral morphine| Treatments - Medicine name|756|785
+6|We discharged you to hospice on the following medications: -Morphine Sulfate concentrated oral solution, 10 mg every four hours, as well as an additional 5-10 mg every two hours, as needed for shortness of breath or pain| Medicine instructions - Medicine started|948|1168
+7|Docusate sodium 100 mg by mouth twice daily, as needed for constipation| Medicine instructions - Medicine started|1170|1241
+8|Senna 1-2 tabs by mouth twice daily, as needed for constipation| Medicine instructions - Medicine started|1243|1307
+9|Bisacodyl 5 mg tab, two tabs by mouth as needed for constipation| Medicine instructions - Medicine started|1308|1372
+10|Lidocaine 5% (700 mg) topical patch as needed for pain| Medicine instructions - Medicine started|1374|1429
+11|Acetaminophen 325 mg tabs, one to two tabs as needed for pain or fever| Medicine instructions - Medicine started|1430|1501
+12|Polyethylene Glycol 3350 17 gram/dose Powder by mouth daily as needed for constipation| Medicine instructions - Medicine started|1502|1588

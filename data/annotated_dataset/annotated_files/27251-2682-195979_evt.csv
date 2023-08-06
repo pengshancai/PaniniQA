@@ -1,0 +1,10 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|losing consciousness (syncope or fainting)| Medical Issues - Symptom|65|107
+1|difficulty breathing| Medical Issues - Symptom|133|153
+2|intubation| Treatments - Procedure name|167|177
+3|underlying lung disease from smoking and being overweight.| Medical Issues - Disease|239|297
+4|If you feel short of breath, experience fevers, difficulty breathing, chest or abdominal pain, please call your doctor or return to the emergency room for evaluation.| Aftercare instructions - Emergency instruction|363|529
+5|difficulty urinating| Medical Issues - Symptom|545|565
+6|The urologists evaluated you and determined that you need a stent change in your right ureter. The urology office will call you to schedule this appointment.| Aftercare instructions - Upcoming Schedules - Treatment|605|762
+7|WE CHANGED THE DOSE OF 2 MEDICATIONS; TAKE ONLY 30 MG DAILY OF IMDUR. TAKE 20 MG DAILY OF LISINOPRIL.| Medicine instructions - Medicine changed|836|938
+8|WE ALSO STARTED A FEW NEW MEDICATIONS. TAKE ALBUTEROL AND IPATROPRIUM| Medicine instructions - Medicine started|940|1009

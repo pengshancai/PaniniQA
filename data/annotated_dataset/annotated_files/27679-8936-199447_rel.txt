@@ -1,0 +1,13 @@
+Medical Issues
+Symptoms <bloody bowel movement> caused by Disease <gastrointestinal tract bleed >
+
+Tests
+Tests include <enteroscopy >;<red blood cells / hematocrit values >;
+Test results of <enteroscopy>: <no evidence seen of a bleeding site >;
+Test results of <red blood cells / hematocrit values >: <remained stable (around 30). >;
+
+Aftercare instructions
+If encounter <bleeding, shortness of breath, bloody bowel movements, chest pain, lightheadedness, palpitations, or any other concerning symptom> do <Please go to the Emergency Department at [**Hospital1 18**]. >
+
+No template for <Please continue to take all medications as prescribed.  >
+No template for <Also, you should take an additional medication, pantoprazole, once a day as prescribed, which should help suppress gastrointestinal acid. >

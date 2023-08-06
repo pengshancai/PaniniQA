@@ -1,0 +1,15 @@
+Medical Issues
+Symptoms include <vomitting blood>;<blood level was also trending down >;
+
+Tests
+Tests include <EGD >;
+
+Treatments
+Medicine < blood transfusion > to treat <no explicit item>
+< blood transfusion >  Results: <no explicit item>
+
+Aftercare instructions
+If encounter <vomit blood or have blood in your stool, lightheadedness, fainting, or have any other concerning symptoms> do <call your doctor or return to the hospital>
+
+No template for <You should have your blood level checked again on [**2150-6-25**].  >
+No template for <You should have a repeat EGD next week as an outpatient.  >

@@ -1,0 +1,10 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|skull and sinus fractures| Medical Issues - Symptom|107|132
+1|injuries to your upper and lower extremities| Medical Issues - Symptom|144|188
+2|exploratory surgery of your abdomen| Treatments - Procedure name|198|233
+3|lower extremity injuries| Medical Issues - Symptom|484|508
+4|tracheostomy tube placed| Treatments - Procedure name|520|545
+5|help clear the secretions from your lungs because you were unable to clear them on your own| Treatments - Result of the treatment|548|639
+6|you had a feeding tube placed through which you received additional supplements| Treatments - Procedure name|678|757
+7|increased swelling| Medical Issues - Symptom|402|421
+8|You are now preparing for discharge to a rehabilitation facility where you can further regain your strength.| Aftercare instructions - Upcoming Schedules - Specialist appointment|759|867

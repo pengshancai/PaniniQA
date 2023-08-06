@@ -1,0 +1,14 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|fevers| Medical Issues - Symptom|67|73
+1|pneumonia| Medical Issues - Disease|94|103
+2|antibiotics| Treatments - Medicine name|253|264
+3|clinical improvement| Treatments - Result of the treatment|229|249
+4|no longer require supplemental oxygen| Treatments - Result of the treatment|269|306
+5|fitted for a boot| Treatments - Procedure name|431|448
+6|foot drop| Treatments - Treatment goal|460|469
+7|Please be aware that your blood sugars may vary in the setting of your infection as well as with decreased appetite. Please continue to check your blood sugars and call your [**Last Name (un) **] physician| Aftercare instructions - Upcoming Schedules - PCP appointment|471|676
+8|Your chemotherapy was delayed in the setting of infection. Please discuss your treatment plan at your follow-up visit with your Oncology team| Aftercare instructions - Upcoming Schedules - Treatment|677|818
+9|Also, please reschedule the MRI and EEG studies that Dr. [**Last Name (STitle) 724**] recommended.| Aftercare instructions - Upcoming Schedules - Test|820|919
+10|STARTED on levofloxacin, to take for 9 more days (last dose [**1-9**])| Medicine instructions - Medicine started|972|1042
+11|STARTED on ondansetron, to take as needed for nausea| Medicine instructions - Medicine started|1043|1095
+12|You can use an over-the-counter cough medication like guaifenesin as needed for your cough Please take all medications as directed| Aftercare instructions - patient needs to do - Medication|1096|1226

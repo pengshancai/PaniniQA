@@ -1,0 +1,19 @@
+Medical Issues
+Symptoms include <cough>;<fever>;<vomiting>;
+Symptoms <cough>;<fever>;<vomiting> caused by Disease <pneumonia>
+
+Tests
+Tests include <x-ray>; <{blood pressure measurement}>
+Test results of <x-ray>: <pneumonia>
+Test results of <{blood pressure measurement}>: <blood pressures were lower than normal>
+
+Treatments
+Medicine <antibiotics > to treat <pneumonia>
+<antibiotics>  Results: <improvement>
+
+Procedure <intravenous fluids> to treat <blood pressures were lower than normal>
+<intravenous fluids >  Results: <improvement of your blood pressures>
+
+No template for <Levofloxacin was STARTED, to be taken for 4 additional days, last day being [**2173-7-28**]>
+No template for <Lisinopril was stopped during this hospitalization but may be restarted tomorrow>
+No template for <Please be sure to call your primary care doctor&#x27;s office on Tuesday to set up a followup appointment this week, so that your doctor can see how your oxygenation and blood pressure are doing>

@@ -1,0 +1,12 @@
+Medical Issues
+Symptoms include <passed out>;
+Symptoms <passed out> caused by Disease <heart was beating too slow > 
+
+Treatments
+Procedure <pacemaker > to treat <heart was beating too slow>
+
+Aftercare instructions
+If encounter <experience chest pain, shortness of breath, fever, or any other concerning symptoms> do <Please call your doctor or return to the hospital. >
+
+No template for < Please take your medications as prescribed. >
+No template for <Your INR will need to be followed by Dr. [**First Name (STitle) 5936**].  >

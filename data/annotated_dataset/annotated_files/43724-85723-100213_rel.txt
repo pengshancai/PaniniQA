@@ -1,0 +1,14 @@
+Medical Issues
+Symptoms include <abdominal pain >;
+Symptoms <abdominal pain> caused by Disease <constipation >
+Symptoms [no explicit item] caused by Disease <COPD > 
+
+Treatments
+Medicine <treated with steroids and BIPAP > to treat <COPD>
+<treated with steroids and BIPAP >  Results: <did well>
+Medicine <We also gave you some medication to get rid of fluid from your lungs as it may have been contributing. > to treat <COPD>
+<We also gave you some medication to get rid of fluid from your lungs as it may have been contributing. >  Results: [no explicit item]
+<bowel movement> Results: <resolved with a bowel movement. >
+
+No template for <You will continue on prednisone for your COPD and it will be tapered down as you get better. >
+No template for <You will continue on prednisone for your COPD and it will be tapered down as you get better. >

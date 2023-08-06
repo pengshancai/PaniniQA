@@ -1,0 +1,16 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|oxygen level at home was low| Medical Issues - Symptom|72|100
+1|trouble breathing| Medical Issues - Symptom|126|143
+2|COPD| Medical Issues - Disease|208|212
+3|pneumonia infection| Medical Issues - Disease|226|245
+4|several different inhaled medications for your COPD| Treatments - Medicine name|286|337
+5|oxygen| Treatments - Procedure name|350|356
+6|steroids| Treatments - Medicine name|369|377
+7|antibiotic for pneumonia| Treatments - Medicine name|390|414
+8|started breathing very fast| Medical Issues - Complication developed in the hospital|460|487
+9|your blood showed that your oxygen was dangerously low.| Medical Issues - Complication developed in the hospital|492|547
+10|intubated| Treatments - Procedure name|595|604
+12|Please take all medications as directed, and please use your home oxygen on a regular basis as this is very important to prevent further worsening in your oxygen levels.| Aftercare instructions - patient needs to do - Medication|1046|1216
+13|For now, we recommend using 3L of oxygen when you walk, and can come down to 1.5L when resting, at least for the next 1 to 2 weeks.| Aftercare instructions - patient needs to do - Other|1217|1348
+14|You will take 20mg Prednisone until you see Dr. [**First Name (STitle) 1022**] on the [**4-27**], at which time he can adjust the dose further.| Medicine instructions - Medicine started|1349|1492
+15|Please call your PCP if you have any symptoms of increasing cough, trouble breathing, fever/chills, or other symptoms which are concerning to you. If your PCP is not available, please come to the nearest ED.| Aftercare instructions - Emergency instruction|1495|1702

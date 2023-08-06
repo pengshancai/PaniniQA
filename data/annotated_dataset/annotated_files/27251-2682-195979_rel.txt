@@ -1,0 +1,13 @@
+Medical Issues
+Symptoms include <losing consciousness (syncope or fainting)>;<difficulty breathing >;<difficulty urinating >;
+Symptoms <losing consciousness (syncope or fainting)> caused by Disease <underlying lung disease from smoking and being overweight. > <Maybe>
+
+Treatments
+Procedure <intubation > to treat <difficulty breathing>
+
+Aftercare instructions
+If encounter <you feel short of breath, experience fevers, difficulty breathing, chest or abdominal pain> do <please call your doctor or return to the emergency room for evaluation. >
+
+No template for <The urologists evaluated you and determined that you need a stent change in your right ureter. The urology office will call you to schedule this appointment. >
+No template for <WE CHANGED THE DOSE OF 2 MEDICATIONS; TAKE ONLY 30 MG DAILY OF IMDUR. TAKE 20 MG DAILY OF LISINOPRIL.  >
+No template for <WE ALSO STARTED A FEW NEW MEDICATIONS. TAKE ALBUTEROL AND IPATROPRIUM >

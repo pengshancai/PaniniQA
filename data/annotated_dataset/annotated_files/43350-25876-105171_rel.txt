@@ -1,0 +1,21 @@
+Medical Issues
+Symptoms include <dangerously high glucose levels>;<diabetic ketoacidosis >;
+Symptoms {dangerously high glucose levels} caused by Disease <diabetic ketoacidosis > {Maybe}
+Symptoms [dangerously high glucose levels]; [diabetic ketoacidosis] caused by Disease <missed insulin doses > {Maybe}
+
+Treatments
+Medicine <IV fluids > to treat {diabetic ketoacidosis}
+<IV fluids >  Results: [No explicit item]
+Medicine <insulin > to treat {diabetic ketoacidosis}
+<insulin >  Results: {CHANGE HERE Treatment Result}
+<corrected the levels of potassium, magnesium, and phosphate in your blood >  Results: {CHANGE HERE Treatment Result}
+<improved >  Results: {CHANGE HERE Treatment Result}
+<transferred to the medical floor >  Results: {CHANGE HERE Treatment Result}
+<glucose levels came down and were stable >  Results: {CHANGE HERE Treatment Result}
+<mental status also improved >  Results: {CHANGE HERE Treatment Result}
+<more alert and awake >  Results: {CHANGE HERE Treatment Result}
+Medicine <home suboxone dose > to treat {CHANGE HERE Disease}
+<home suboxone dose >  Results: {CHANGE HERE Treatment Result}
+
+No template for <Please continue to take them as previously prescribed. >
+No template for <You will need a follow-up appointment with your PCP soon after discharge >

@@ -1,0 +1,8 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|fast heart rate| Medical Issues - Symptom|72|87
+1|difficulty breathing| Medical Issues - Symptom|92|112
+2|three session of hemodialysis| Treatments - Procedure name|233|262
+3|restarted on you home medications| Medicine instructions - Medicine continued|282|315
+4|Please do not use cocaine anymore as this is very hazardous to your health| Aftercare instructions - patient needs to do - Other|317|391
+5|Please inquire at your hemodialysis center about outpatient cocaine abuse rehabilitation to help you quit| Aftercare instructions - patient needs to do - Other|393|498
+6|Please take your medications as prescribed and keep your outpatient appointments| Aftercare instructions - patient needs to do - Medication|547|627

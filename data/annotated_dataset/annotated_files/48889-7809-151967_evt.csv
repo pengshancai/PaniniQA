@@ -1,0 +1,13 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|blood sugars were extremely high| Tests - Test result|149|182
+1|confused| Medical Issues - Symptom|200|208
+2|insulin| Treatments - Medicine name|225|232
+3|intravenous fluids| Treatments - Medicine name|233|252
+4|electrolytes| Treatments - Medicine name|258|270
+5|you were transferred and we encouraged you to begin eating| Treatments - Procedure name|381|439
+6|You were still feeling unwell and we could not start you on your insulin regimen until you began to eat| Medical Issues - Complication developed in the hospital|441|544
+7|we started you on adjusted long-acting insulin doses| Treatments - Medicine name|616|668
+8|encouraged you to follow-up with your doctors [**First Name8 (NamePattern2) **] [**Last Name (Titles) **] in a few days| Aftercare instructions - Upcoming Schedules - PCP appointment|673|792
+9|We changed your long-acting insulin dose (Lantus) to 14 units in the morning and 18 units in the evening| Medicine instructions - Medicine changed|794|898
+10|If your blood sugars are too high or too low or you are feeling unwell, please call the [**Last Name (un) **] Diabetes Center.| Aftercare instructions - patient needs to do - Other|900|1026
+11|you were stable enough to be watched on the regular hospital floor| Treatments - Result of the treatment|313|379

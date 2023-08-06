@@ -1,0 +1,17 @@
+Medical Issues
+Symptoms include <abdominal pain>;<leg swelling >;<decreased appetite >;<weight loss >;<unresponsiveness due to pain medications >;
+
+Treatments
+Medicine <given medications to help with better blood pressure control > to treat [no explicit item]
+<given medications to help with better blood pressure control >  Results: [no explicit item]
+
+No template for <You will continue to follow up with your PCP [**Last Name (NamePattern4) **] >
+No template for <[**Last Name (STitle) 5717**] for continued care and to follow up with the results of the pending tests.  >
+No template for <Please discuss whether you need a colonoscopy with your PCP. >
+No template for <Medication changes: 1. Blood pressure medications changes-start metoprolol and spironolactone >
+No template for <STOP atenolol >
+No template for <2.start lasix-for leg swelling  >
+No template for <3.decrease haldol from 10mg to 5mg daily >
+No template for <4.your potassium supplementation was decreased by half. Please only take 20mg daily. >
+No template for <Please take your medications as prescribed and keep your appointments below. >
+No template for <Please take your medications as prescribed and keep your appointments below. >

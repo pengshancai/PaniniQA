@@ -1,0 +1,24 @@
+Medical Issues
+Symptoms include <low blood pressure>;<ow oxygen levels >;<blood clots in your lungs >;
+
+Tests
+Tests include <CAT scan >;
+Test results of <CAT scan>: <no evidence of pneumonia >;
+Test implications of <CAT scan>: <we stopped your antibiotics on [**10-7**] >; <CHANGE HERE Maybe>
+
+Treatments
+Medicine <blood thinning medication > to treat <blood clots in your lungs>
+<blood thinning medication >  Results: [no explicit item]
+Procedure <antibiotics > to treat <pneumonia>
+<antibiotics >  Results: [no explicit item]
+
+Aftercare instructions
+If encounter <shortness of breath, chest pain, fever&gt;100.4, chills or any other concerning symptoms> do <Please return to the ER or call your primary care doctor>
+
+No template for <We made the following changes to your medications 1. We changed your Lovenox dose. You will only need the Lovenox for a few days while the Coumadin is starting to work. Your lovenox has been stopped at time of discharge as your coumadin levels were adequate.  >
+No template for <2. We started you on Coumadin. Your INR level will be followed and the dose adjusted accordingly.  >
+No template for <3. You were started on potassium supplement, you should have your potassium levels checked regularly. >
+No template for <3. You were started on potassium supplement, you should have your potassium levels checked regularly. >
+No template for <4. Your nifedipine from home has been held since your last admission, you and your doctor may consider restarting this should your blood pressure remain consistently elevated above 140. >
+No template for <Please take all medications as prescribed and attend all scheduled follow up appointments. >
+No template for <Please take all medications as prescribed and attend all scheduled follow up appointments. >

@@ -1,0 +1,22 @@
+Medical Issues
+Symptoms include <bradycardia at night >;
+Disease <80-99% stenosis in the arteries on both sides of your neck > 
+Symptoms {bradycardia at night} caused by Disease <sleep apnea > 
+Disease <bilateral ulnar neuropathy > {CHANGE HERE Maybe}
+
+Tests
+Tests include <MRI of your brain {brain MRI} >;<sleep study >;
+Test results of {MRI of your brain {brain MRI}}: <normal >;
+
+Treatments
+Procedure <elective procedure> to treat {80-99% stenosis in the arteries on both sides of your neck}
+
+Aftercare instructions
+If encounter {syncope, lightheadedness, dizziness, change in your vision, nausea, vomiting, muscle weakness or loss of sensation, chest pain, shortness of breath, nausea, vomiting, or any other concerning symptom} do <please call your doctor or return to the ER. >
+
+No template for <home medications >
+No template for <You will need to take aspirin and plavix EVERY DAY >
+No template for <Sleep Neurology >
+No template for <Hand specialist >
+No template for <primary care doctor >
+No template for <cardiologist >

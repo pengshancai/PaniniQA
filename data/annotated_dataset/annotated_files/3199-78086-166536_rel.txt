@@ -1,0 +1,20 @@
+Medical Issues
+Symptoms include <progressively worsening shortness of breath>;
+
+Treatments
+Procedure <oxygen therapy > to treat <progressively worsening shortness of breath>
+<oxygen therapy >  Results: <Your respiratory status was stabilized >
+Medicine <steroids > to treat <progressively worsening shortness of breath>
+<steroids >  Results: [no explicit item]
+Medicine <antibiotics > to treat <progressively worsening shortness of breath>
+<antibiotics >  Results: [no explicit item]
+Medicine <intravenous and oral morphine > to treat <progressively worsening shortness of breath>
+<intravenous and oral morphine >  Results: [no explicit item]
+
+No template for <We discharged you to hospice on the following medications: -Morphine Sulfate concentrated oral solution, 10 mg every four hours, as well as an additional 5-10 mg every two hours, as needed for shortness of breath or pain >
+No template for <Docusate sodium 100 mg by mouth twice daily, as needed for constipation >
+No template for <Senna 1-2 tabs by mouth twice daily, as needed for constipation  >
+No template for <Bisacodyl 5 mg tab, two tabs by mouth as needed for constipation >
+No template for <Lidocaine 5% (700 mg) topical patch as needed for pain  >
+No template for <Acetaminophen 325 mg tabs, one to two tabs as needed for pain or fever  >
+No template for <Polyethylene Glycol 3350 17 gram/dose Powder by mouth daily as needed for constipation >

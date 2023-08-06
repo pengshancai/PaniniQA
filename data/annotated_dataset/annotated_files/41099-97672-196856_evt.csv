@@ -1,0 +1,14 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|dangerously high blood pressures| Medical Issues - Symptom|64|96
+1|We gave you IV medications to reduce your blood pressure| Treatments - Medicine name|98|154
+2|heart attack| Medical Issues - Disease|246|258
+3|high blood pressure| Medical Issues - Symptom|400|419
+4|hypertension| Medical Issues - Symptom|424|436
+5|stroke| Medical Issues - Symptom|852|858
+6|heart attack| Medical Issues - Symptom|862|874
+7|START: lisinopril 40mg, take once a day at bedtime| Treatments - Medicine name|940|990
+8|carvedilol 50mg, take twice a day| Treatments - Medicine name|991|1025
+9|Isosorbide Mononitrate (Imdur) ER 60 mg take once a day| Medicine instructions - Medicine started|1025|1080
+10|Furosemide 80mg, take once a day| Treatments - Medicine name|1081|1113
+11|Ferrous Sulfate (Iron) 325 mg once a day| Treatments - Medicine name|1114|1154
+12|STOP: Metoprolol Amlodipine| Medicine instructions - Medicine stopped|1158|1185

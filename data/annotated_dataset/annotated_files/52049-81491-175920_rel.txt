@@ -1,0 +1,21 @@
+Medical Issues
+Complication <In the ED, you had a fall> caused by [no explicit item]
+
+Tests
+Tests include <head CT>;<Serial neurologic exams >;<head CT>;
+Test results of <head CT>: <intracranial bleed>;
+Test results of <Serial neurologic exams >;<head CT>: <stable>;
+
+Treatments
+Procedure <replacement of your g-tube> to treat [no explicit item]
+<replacement of your g-tube>  Results: <without complication>
+
+
+
+No template for <Please continue to take all your medications through the g-tube>
+No template for <Coumadin>
+No template for <aspirin>
+No template for <You should not restart the coumadin until further discussion with your primary care doctor>
+No template for <Please restart the aspirin on [**2162-11-3**]>
+No template for <Follow up with your primary care doctor>
+No template for <Seek medical attention if you have any further falls, lightheadedness, syncope, weakness, changes in vision, or difficulties with your feeding tube>

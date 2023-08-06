@@ -1,0 +1,23 @@
+Medical Issues
+Symptoms include <palpitations>;
+Symptoms <palpitations> caused by Disease <pneumonia > <Maybe>
+
+Tests
+Tests include <echocardiogram >;
+Test results of <echocardiogram>: <slight [**Hospital1 9140**] of your valve function >;
+
+Treatments
+Procedure <intubation > to treat <pneumonia>
+<intubation >  Results: <you improved >
+Medicine <intravenous antibiotics > to treat <pneumonia>
+<intravenous antibiotics >  Results: <you improved>
+Medicine <medications to remove excess fluid from your body > to treat <excess body fluid>
+<medications to remove excess fluid from your body >  Results: <Your breathing and leg swelling improved. >
+
+No template for <you should follow up with your cardiologist >
+No template for <You are being discharged to a rehabilitative facility for continued care. There they will provide you with your medications, and additional physical therapy services to help you build strength. >
+No template for <You will need to follow up with your primary care physician after you leave rehab. >
+No template for <We are discharging you on a higher dose of Furosemide for continued fluid removal. >
+No template for <We are discharging you on a higher dose of Furosemide for continued fluid removal. -Please INCREASE the FREQUENCY of Furosemide to 80 mg twice daily  >
+No template for <You will be discharged to the rehab facility with nebulizers to help your breathing as your pneumonia resolves >
+No template for <Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more than 3 lbs. >

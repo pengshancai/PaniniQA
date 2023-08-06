@@ -1,0 +1,6 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|esophagus removed| Treatments - Procedure name|78|95
+1|You can eat a regular diet but avoid foods with sharp edges such as chips and crackers.| Aftercare instructions - patient needs to do - Diet|178|265
+2|For pain, you were given a prescription for Percocet.| Medicine instructions - Medicine started|266|320
+3|For pain, you were given a prescription for Percocet. Please do not drive while taking this medication. Also, while taking this medication, you should take a stool softener such as colace. You do not need to crush your pills.| Aftercare instructions - patient needs to do - Medication|266|491
+4|Return to the Emergency room if you develop any fevers, chills, headaches, dizziness, chest pain, shortness of breath, redness/drainage from your incision, nausea, vomiting, diarrhea and/or any other symptoms that are concerning to you.| Aftercare instructions - Emergency instruction|492|729

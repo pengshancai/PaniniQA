@@ -1,0 +1,25 @@
+Medical Issues
+Symptoms include <low blood pressure>;
+Symptoms <low blood pressure> caused by Disease <infection in your kidney.> <Maybe>
+
+Tests
+Tests include <CT scan performed of your kidney >;<urine culture >;
+Test results of <CT scan performed of your kidney>: <consistent with a kidney infection >;
+Test results of <urine culture>: <growing E. Coli >;
+Test results of <CT scan performed of your kidney>: <hypodensity within the left upper pole >;
+Test implications of <CT scan performed of your kidney>: <risk for developing into an abscess >; 
+
+Treatments
+Medicine <fluids > to treat <low blood pressure>
+<fluids >  Results: <You improved with these treatments and were able to go home on oral antibiotics >
+Medicine <antibiotics > to treat <kidney infection>
+<antibiotics >  Results: <You improved with these treatments and were able to go home on oral antibiotics >
+
+Aftercare instructions
+If encounter <worsening fevers, chills, pain with urination, nausea, vomiting, chest pain, shortness of breath, back pain, or other worsening symptoms> do <Please call your PCP or go to the ED>
+
+No template for <Please follow the medications prescibed below. >
+No template for <Please follow up with the appoints made below. >
+No template for <patient should have a CBC and BP check tomorrow >
+No template for <Close interval followup is suggested. Imaging should be repeated if symptoms worsen or recurrs after treatment. >
+No template for <The patient should be continued for a 14 day course of antibiotics. >

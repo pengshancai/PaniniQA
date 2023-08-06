@@ -1,0 +1,11 @@
+Medical Issues
+Symptoms [no explicit item] caused by Disease <exacerbation of your COPD> 
+
+Treatments
+[no explicit item] Results: <You improved>
+
+No template for <azithromycin 250 mg daily for 3 more days>
+No template for <prednisone 40 mg po tomorrow, then 30 mg po the following day, then back to your usual 20 mg po daily>
+No template for <Please go to all of your outpatient appointments>
+No template for <Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more than 3 lbs>
+No template for <Please seek urgent medical advice or obtain transport to the ED if you experience any of the following: - Worsening shortness of breath, chest pain, intractable cough, fever or chills, fainting, any other new or concerning symptoms>

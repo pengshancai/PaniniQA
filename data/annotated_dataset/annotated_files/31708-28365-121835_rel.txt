@@ -1,0 +1,11 @@
+Treatments
+Medicine <holding of your meds > to treat <low blood pressure>
+<holding of your meds >  Results: <blood pressure returned to acceptable levels>
+Medicine <several liters of IV fluids > to treat <low blood pressure>
+<several liters of IV fluids >  Results: <blood pressure returned to acceptable levels >
+
+Aftercare instructions
+If encounter <fever greater 101, chest pain, SOB, DOE, or worsening of baseline dizziness with walking> do <Please return to your local ED. >
+
+No template for <We successfully restarted your home carvedilol.  >
+No template for <You should NOT take your: Furosemide Spironolactone lisinopril Terazosin until you discuss with Dr. [**Last Name (STitle) 74485**] at the causeway VA >

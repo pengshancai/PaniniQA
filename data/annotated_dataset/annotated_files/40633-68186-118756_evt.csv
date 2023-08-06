@@ -1,0 +1,16 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|fluid build-up in the linings surrounding your heart and lungs| Medical Issues - Symptom|101|163
+1|cancer| Medical Issues - Disease|217|223
+2|axitinib| Medicine instructions - Medicine stopped|554|562
+3|lovenox| Medicine instructions - Medicine stopped|564|571
+4|omeprazole| Medicine instructions - Medicine stopped|573|583
+5|tamsulosin| Medicine instructions - Medicine stopped|585|595
+6|please start oral morphine concentrate for pain| Medicine instructions - Medicine started|598|645
+7|zofran| Treatments - Medicine name|654|660
+8|compazine| Treatments - Medicine name|662|671
+9|ativan| Treatments - Medicine name|677|683
+10|ativan| Treatments - Medicine name|703|709
+11|haloperidol| Treatments - Medicine name|730|741
+12|continue OxyContin (long acting)| Medicine instructions - Medicine continued|758|790
+13|dexamethasone| Medicine instructions - Medicine continued|792|805
+14|laxatives| Medicine instructions - Medicine continued|807|816

@@ -1,0 +1,27 @@
+Medical Issues
+Symptoms include <blood pressure to be low >;
+Symptoms <blood pressure to be low> caused by Disease <infection in your blood> 
+Complication <fever > caused by [no explicit item]
+
+Treatments
+Medicine <fluid > to treat <low blood pressure>
+<fluid >  Results: <your condition improved>
+Medicine <antibiotics > to treat <infection in your blood>
+<antibiotics >  Results: <your condition improved>
+Procedure <remove your catheter > to treat <infection in your blood>
+<remove your catheter >  Results: [no explicit item]
+Procedure <new line > to treat [no explicit item]
+<new line >  Results: [no explicit item]
+Procedure <amputation of you the second toe of your left foot > to treat [no explicit item]
+<amputation of you the second toe of your left foot >  Results: <You tolerated surgery well and were able to walk after the surgery >
+Procedure <dialysis > to treat [no explicit item]
+<dialysis >  Results: [no explicit item]
+
+Aftercare instructions
+If encounter <chest pain, shortness of breath, dizziness, lightheadedness, fevers, chills, diarrhea, burning on urination, fainting or any other symptom that concerns> do <please return to the hospital for further evaluation>
+
+No template for <While you were here, we made the following changes to your medications: 1. You are to receive an antibiotic called Cefepime for a total of 14 days. At home a visiting nurse will help you with this.  >
+No template for <2. We stopped your lasix during this admission because your blood pressure was low. >
+No template for <Please follow up with your PCP regarding the need for this medication. >
+No template for <3. We added neutraphos to your medication regiment because of low phosphate in your blood. You should take this until your PCP instructs you otherwise. >
+No template for <No other changes were made to your medications. >

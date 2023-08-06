@@ -1,0 +1,10 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|fever| Medical Issues - Symptom|75|80
+1|low blood pressure| Medical Issues - Symptom|85|103
+2|sepsis| Medical Issues - Disease|119|125
+3|acute bacterial prostatitis| Medical Issues - Disease|323|350
+4|testicular torsion| Medical Issues - Disease|197|215
+5|strangulated inguinal hernia| Medical Issues - Disease|220|248
+6|Please continue to take the antibiotic, Ciprofloxacin, until you run out of them (3 weeks).| Aftercare instructions - patient needs to do - Medication|354|446
+7|If you are unable to tolerate Cipro due to nausea/vomiting, or prolonged diarrhea, please call [**Telephone/Fax (1) 2756**] and page the urology resident on-call. We can consider an alternative antibiotic.| Aftercare instructions - patient needs to do - Medication|446|651
+8|Please follow up with your Primary Care Physician (PCP) and Dr. [**Last Name (STitle) **] (Urologist) for follow-up as intructed below. .| Aftercare instructions - Upcoming Schedules - PCP appointment|654|791

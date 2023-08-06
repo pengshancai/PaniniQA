@@ -1,0 +1,15 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|rectal bleeding| Medical Issues - Symptom|63|78
+1|diverticular bleed| Medical Issues - Disease|86|104
+2|15 units of red blood cells| Treatments - Medicine name|162|190
+3|embolized the vessel causing the bleed| Treatments - Procedure name|250|288
+4|severe constipation| Medical Issues - Complication developed in the hospital|338|357
+5|bowel rest| Treatments - Procedure name|415|425
+6|nasogastric tube| Treatments - Procedure name|432|448
+7|Your symptoms improved| Treatments - Result of the treatment|450|472
+8|you started having bowel movements| Treatments - Result of the treatment|474|508
+9|you tolerated a normal diet| Treatments - Result of the treatment|513|540
+10|Please STOP your imdur until seeing your cardiologist or primary care physician| Medicine instructions - Medicine stopped|607|686
+11|Please REDUCE your lisinopril to 5mg until you see your primary care physician| Medicine instructions - Medicine changed|690|768
+12|When you have abdominal pain, take tyelenol first. If that does not relieve your symptoms you make take a percocet (please do not drink or drive while taking this medication as it can make you sleepy).| Aftercare instructions - patient needs to do - Medication|772|973
+13|You may take ambien as needed for sleep| Aftercare instructions - patient needs to do - Medication|977|1016

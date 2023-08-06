@@ -1,0 +1,17 @@
+Medical Issues
+Symptoms include <confused>;
+
+Treatments
+Medicine <medications > to treat <support your blood pressure>
+Medicine < antibiotics > to treat <urine infection>
+< antibiotics >  Results: <started to improve >
+
+No template for <You were transferred to the medicine service as you started to improve and your antibiotics were changed to ceftriaxone. >
+No template for <You will need to complete antibiotics for a total of 10 days. >
+No template for <You should follow up with your urologist to discuss the need for further testing in regards to your recurrent urinary infections and methods of prevention. >
+No template for <Please START taking - ceftriaxone 1 gram intravenously daily for 10 days (last day [**2-20**]) >
+No template for <warfarin 2 mg daily >
+No template for <lovenox 80 mg subcutenously twice daily (please continue to use until 2 days after your INR is therapeutic) >
+No template for <Please CHANGE - lasix 40 mg from twice daily to once daily.  >
+No template for <Please take the rest of your medications as prescribed and follow up with your doctors >
+No template for < >

@@ -1,0 +1,16 @@
+Medical Issues
+Symptoms include <extra fluid in your legs>;<diarrhea >;
+Symptoms <extra fluid in your legs> caused by Disease <worsening heart failure > 
+Symptoms [no explicit item] caused by Disease <blood stream infection > 
+Symptoms <diarrhea> caused by Disease <infection in your bowels > 
+
+Treatments
+Medicine <water pills > to treat <extra fluid>
+<water pills >  Results: <Overall, your medical condition is much improved, but because you are very weak you will be discharged to a rehabilitation center. >
+Medicine <antibiotics > to treat <blood stream infection >; <infection in your bowels >  
+<antibiotics >  Results: <Overall, your medical condition is much improved, but because you are very weak you will be discharged to a rehabilitation center. >
+
+No template for <You will not be discharged on water pills, but Dr. [**Last Name (STitle) **] and the physicians at the rehabilitation center will be monitoring your fluid status very closely and will restart the water pills if your weight starts to increase meaning that you are holding on to too much fluid. >
+No template for <You were not eating very much while in the hospital and we encourage you to increase your food intake so that you do not become too malnourished. Please limit your salt intake to 2 grams per day. >
+No template for <Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more than 3 lbs. >
+No template for <Please see below for your follow-up appointments. >

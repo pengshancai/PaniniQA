@@ -1,0 +1,17 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|headache| Medical Issues - Symptom|75|83
+1|fever| Medical Issues - Symptom|88|93
+2|CT of your head| Tests - Test name|141|156
+3|did not show any recurrent bleeding| Tests - Test result|157|192
+4|lumbar puncture| Tests - Test name|199|214
+5|did not show any signs of infection| Tests - Test result|215|250
+6|CT scan| Tests - Test name|394|401
+7|nodule in you upper lung and a lesion in the pancreas| Tests - Test result|335|388
+8|You will need to make sure that your doctor checks this with another CT scan in [**5-26**] weeks| Aftercare instructions - Upcoming Schedules - Test|403|499
+9|Afrin nasal spray| Medicine instructions - Medicine started|519|536
+10|you should only use this for 3 days, your nose may get more congested after stopping this medication, this will not last and you should not restart this medication| Aftercare instructions - patient needs to do - Medication|538|701
+11|sinus infection| Medical Issues - Disease|743|758
+12|azithromycin| Medicine instructions - Medicine started|721|733
+13|azithromycin for your sinus infection, you will take this for the next 5 days| Aftercare instructions - patient needs to do - Medication|721|798
+14|hydrochlorothiazide| Medicine instructions - Medicine stopped|956|975
+15|plendil| Medicine instructions - Medicine stopped|977|984

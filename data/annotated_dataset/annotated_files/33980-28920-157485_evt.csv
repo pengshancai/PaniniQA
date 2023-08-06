@@ -1,0 +1,17 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|jaw pain| Medical Issues - Symptom|74|83
+1|heart attack| Medical Issues - Disease|114|126
+2|cardiac catheterization| Treatments - Procedure name|142|166
+3|the blocked artery in your heart was opened with a small balloon| Treatments - Result of the treatment|170|234
+4|arrhythmia| Medical Issues - Complication developed in the hospital|268|278
+5|low blood pressure| Medical Issues - Complication developed in the hospital|305|323
+6|atrial tachycardia| Medical Issues - Complication developed in the hospital|552|570
+7|beta blocker| Treatments - Medicine name|589|601
+8|successful and your heart beat returned to [**Location 213**]| Treatments - Result of the treatment|636|697
+9|Aspirin 325mg by mouth daily| Medicine instructions - Medicine started|850|878
+10|Atorvastatin 80mg by mouth daily| Medicine instructions - Medicine started|883|915
+11|Toprol-XL 150mg by mouth daily| Medicine instructions - Medicine started|920|950
+12|Lisinopril 2.5mg by mouth daily| Medicine instructions - Medicine started|955|986
+13|Nitroglycerin 0.3mg under the tongue as needed| Medicine instructions - Medicine started|991|1038
+14|Please go to all scheduled follow-up appointments as listed below (PCP, [**Name Initial (NameIs) **])| Aftercare instructions - Upcoming Schedules - PCP appointment|1090|1192
+15|Please return to the ED if you develop jaw pain, chest pain, palpitations, shortness of breath, nausea, vomiting or any other concerning symptoms.| Aftercare instructions - Emergency instruction|1196|1343

@@ -1,0 +1,10 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|cardiac catheterization| Treatments - Procedure name|70|93
+1|two bare metal stents were placed in the left circumflex artery| Treatments - Procedure name|98|161
+2|clear a blockage| Treatments - Result of the treatment|165|181
+3|You cannot drive for 48 hours and cannot lift more than 10 pounds for one week. This means that you will need help with your suitcases on your way home and will need to be picked up at the airport.| Aftercare instructions - patient needs to do - Other|183|381
+4|underwent a desensitization to aspirin| Treatments - Procedure name|384|424
+5|rash| Medical Issues - Complication developed in the hospital|438|442
+6|It is very important that you take aspirin every day from now on. Do not miss any more than 2 days of aspirin for any reason.| Aftercare instructions - patient needs to do - Medication|538|665
+7|Take nitroglycerin as needed for chest pain. You can take up to 2 tablets 5 minutes apart. If you still have chest pain after 2 tablets, call 911.| Medicine instructions - Medicine changed|717|864
+8|Take aspirin 325 mg every day to keep the stent from clotting off| Medicine instructions - Medicine changed|931|996

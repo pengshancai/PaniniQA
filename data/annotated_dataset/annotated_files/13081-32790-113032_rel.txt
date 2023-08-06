@@ -1,0 +1,15 @@
+Medical Issues
+Symptoms <no explicit item> caused by Disease <pneumonia (lung infection)> 
+
+Treatments
+Procedure <machine helped you breath > to treat <pneumonia (lung infection)>
+<machine helped you breath >  Results: <no explicit item>
+Medicine <antibiotics > to treat <pneumonia (lung infection)>
+<antibiotics >  Results: <no explicit item>
+Medicine <medicines > to treat <no explicit item>
+<medicines >  Results: <helped with this fluid balance {helped restore fluid balance} >
+<medicines > Results: <helped with this fluid balance {helped restore fluid balance} >
+
+Aftercare instructions
+If encounter <documented fevers, shaking chills - nausea with vomiting - chestpain, increasing shortness of breath - any other new symptoms which concern you> do <call your doctor or return to the emergeny department>
+

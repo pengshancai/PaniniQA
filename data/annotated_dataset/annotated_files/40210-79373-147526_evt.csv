@@ -1,0 +1,9 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|multiple orthopedic injuries| Medical Issues - Symptom|64|92
+1|bladder injury| Medical Issues - Symptom|149|163
+2|you have a catheter in place| Treatments - Procedure name|184|212
+3|you will hen needs a special xray of your bladder caled a cystogram to make sure there is no leakage present.| Treatments - Procedure name|266|376
+4|You were given an anit-seizure medication called Dilantin (Phenytoin) as prevention for seizure activity.| Treatments - Medicine name|495|600
+5|You were given a brace for your rght knee avulsion fracture which must be worn when out of bed at all times.| Aftercare instructions - Upcoming Schedules - Treatment|601|709
+6|Wear the sling for comfort on your left arm and you may weight bear as tolerated on that arm but should avoid over the head motions as much as poosible because of your fracture.| Aftercare instructions - Upcoming Schedules - Treatment|710|887
+7|If prescribed narcotics for pain please take a stool softener and laxative to prevent constipation.| Medicine instructions - Medicine started|888|987

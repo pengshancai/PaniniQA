@@ -1,0 +1,22 @@
+Medical Issues
+Symptoms include <diarrhea>;<fast heart rate >;
+Symptoms [No explicit item] caused by Disease <blood clots >
+
+Tests
+Tests include <CAT scan >;<Stool studies were sent >;
+Test results of <CAT scan>: <showed blood clots in the lungs and a mass in your abdomen >;
+Test results of <CAT scan>: <all of your stool studies were either negative or still pending >;
+
+Treatments
+Medicine <you were started on blood thinners (heparin, then switched to lovenox) > to treat <blood clots>
+<you were started on blood thinners (heparin, then switched to lovenox) >  Results: [No explicit item]
+Medicine <You will ultimately need to be started on coumadin > to treat <blood clots>
+<You will ultimately need to be started on coumadin >  Results: [No explicit item]
+Medicine <start lovenox for your blood clots > to treat <blood clots>
+<start lovenox for your blood clots >  Results: [No explicit item]
+Medicine <start vitamin B12 and folic acid > to treat [No explicit item]
+<start vitamin B12 and folic acid >  Results: [No explicit item]
+Medicine <start atovaquone (to prevent pneumonia) > to treat <pneumonia>
+<start atovaquone (to prevent pneumonia) >  Results: [No explicit item]
+
+No template for <These will be followed up by your PCP >

@@ -1,0 +1,19 @@
+Medical Issues
+Symptoms include <defibrillator was not functioning properly>;
+Complication <atrial fibrillation > caused by {lead replacement} 
+
+Treatments
+Procedure <lead was replaced > to treat {nonfunctioning defibrillator}
+<lead was replaced >  Results: [No explicit item]
+Procedure <cardioversion > to treat {atrial fibrillation}
+<cardioversion >  Results: [No explicit item]
+
+Aftercare instructions
+If encounter [chest pain]; [difficulty breathing]; [fevers]; [palpitations]; [lightheadedness]; [other concerning symptom] do <Please call your doctor or return to the hospital if you develop chest pain, difficulty breathing, fevers, palpitations, lightheadedness, or any other concerning symptom. >
+
+No template for <Coumadin >
+No template for <You will be started on Coumadin and finish your antibiotic course for pneumonia as an outpatient >
+No template for <Please attend all follow-up appointments listed below. >
+No template for <Coumadin >
+No template for <have your blood levels checked at the discretion of your primary care physician [**Name Initial (PRE) **] [**Name10 (NameIs) **] will complete your antibiotics course for pneumonia (5 more days of cefpodoxime and 3 more days of azithromycin) >
+No template for < >

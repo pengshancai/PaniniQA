@@ -1,0 +1,14 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|vomiting blood| Medical Issues - Symptom|97|111
+1|endoscopy| Tests - Test name|130|139
+2|dark bleeding and poor blood flow to the esophagus| Tests - Test result|162|212
+3|mass-like object in your stomach| Tests - Test result|220|252
+4|may represent a compression of the stomach by a hiatal hernia| Tests - Test implication|259|320
+5|part of the stomach is extending up into the chest through the diaphragm| Tests - Test implication|338|410
+6|you will need to have another endoscopy prior to this procedure as an outpatient| Aftercare instructions - Upcoming Schedules - Specialist appointment|513|593
+7|START PANTOPRAZOLE 40mg twice a day until instructed to stop| Medicine instructions - Medicine started|742|802
+8|START SUCRALFATE 1 gram four times a day until instructed to stop. Do not take at the same time as your pantoprazole, as it will decrease its effectiveness. Try to take it 1-2 hours apart.| Medicine instructions - Medicine started|806|994
+9|STOP ASPIRIN and all other "non steroidal anti-inflammatory drugs" like ibuprofen and naproxen.| Medicine instructions - Medicine stopped|998|1103
+10|Please continue all other medications as previously prescribed.| Medicine instructions - Medicine continued|1104|1167
+11|hiatal hernia| Medical Issues - Disease|307|320
+12|you will eventually need surgical repair| Aftercare instructions - Upcoming Schedules - Specialist appointment|467|507

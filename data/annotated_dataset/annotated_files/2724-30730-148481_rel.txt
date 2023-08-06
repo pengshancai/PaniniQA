@@ -1,0 +1,20 @@
+Medical Issues
+Complication <bleeding complication > caused by <TIPS procedure> 
+
+
+Tests
+Tests include <hematocrit and liver function was monitored >;
+
+Treatments
+Procedure <TIPS procedure > to treat <upper GI bleed>
+<TIPS procedure >  Results: <bleeding complication>
+<TIPS procedure> Results: <required a stay in the MICU and surgery >
+Procedure <sutured > to treat <drain from the site of an old paracentesis>
+
+Aftercare instructions
+If encounter <worsening abdominal pain, shortness of breath, dizziness, loss of consciousness, blood in your stool, dark stools, fever greater than 101.4 degrees F, or any other symptoms that concern you.> do <You should return to the ED or call your doctor >
+
+No template for <The sutures should be removed in [**10-13**] days. >
+No template for <Your spironolactone was increased to 200mg daily. >
+No template for <Your lasix is now 80mg daily >
+No template for <Your nadolol was discontinued . >

@@ -1,0 +1,15 @@
+Medical Issues
+Symptoms include <shortness of breath>;
+
+Tests
+Test results of <chest x-ray>: <fluid around your lung>;
+Test results of <{pleural fluid culture}>: <did not grow any bacteria>;
+
+Treatments
+Procedure <fluid was removed> to treat <fluid around your lung>
+<fluid was removed>  Results: <breathing improved>
+
+
+No template for <You will be going back to your facility to focus on controlling your pain and shortness of breath>
+No template for <Trazodone 50mg every night to help you sleep. You can take this in addition to your nighttime dose of oxycodone>
+No template for <Levoquin 750mg by mouth once per day for 4 more days (last day [**4-8**])>

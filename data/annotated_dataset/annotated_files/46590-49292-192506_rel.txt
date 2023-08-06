@@ -1,0 +1,17 @@
+Medical Issues
+Symptoms include <shortness of breath>;
+Symptoms <shortness of breath> caused by Disease <pneumonia > 
+Complication <rash > caused by <IV antibiotics> 
+Complication <blood count was noted to be low > caused by <chronic anemia> 
+
+Tests
+Tests include <echocardiogram >;
+Test results of <echocardiogram>: <showed good pump function >;
+
+Treatments
+Medicine <IV antibiotics > to treat <pneumonia>
+<IV antibiotics >  Results: [no explicit item]
+
+No template for <This has been treated with IV antibiotics and you will continue a full 7 day course, through [**2167-11-25**]. >
+No template for <Your blood count was noted to be low after admission, but is stable, and likely represents a chronic anemia which can be addressed further with your PCP who is aware >
+No template for <Your lasix dose was halved to 20mg daily. >

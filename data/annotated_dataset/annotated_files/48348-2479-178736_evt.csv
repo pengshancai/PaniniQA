@@ -1,0 +1,24 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|dangerously high blood pressure| Medical Issues - Disease|125|156
+1|medications| Treatments - Medicine name|180|191
+2|improved| Treatments - Result of the treatment|199|208
+3|Social Work| Medical Issues - Complication developed in the hospital|275|287
+4|Visiting Nurse Assistant| Aftercare instructions - Upcoming Schedules - Treatment|309|334
+5|help you with your medications| Aftercare instructions - Upcoming Schedules - Treatment|342|372
+6|blood pressure monitoring| Aftercare instructions - Upcoming Schedules - Test|377|402
+7|follow up with your Primary Care Physician| Aftercare instructions - Upcoming Schedules - PCP appointment|491|533
+8|Hydralazine| Medicine instructions - Medicine stopped|648|659
+9|Metoprolol| Medicine instructions - Medicine stopped|680|690
+10|Diovan (Valsartan)| Medicine instructions - Medicine stopped|711|729
+11|Carvedilol| Medicine instructions - Medicine started|744|754
+12|12.5 mg by mouth TWICE daily| Aftercare instructions - patient needs to do - Medication|755|783
+13|Cozaar (Losartan)| Medicine instructions - Medicine started|798|815
+14|100 mg by mouth ONCE daily| Aftercare instructions - patient needs to do - Medication|815|842
+15|Lasix (Furosemide)| Medicine instructions - Medicine continued|860|878
+16|20 mg TWICE daily| Aftercare instructions - patient needs to do - Medication|879|896
+17|Isosorbide Mononitrate (Extended Release)| Medicine instructions - Medicine continued|898|939
+18|90 mg ONCE daily| Aftercare instructions - patient needs to do - Medication|940|956
+19|Spironolactone| Medicine instructions - Medicine continued|962|977
+20|25 mg ONCE daily| Aftercare instructions - patient needs to do - Medication|977|993
+21|weigh yourself every morning| Aftercare instructions - patient needs to do - Other|1003|1031
+22|if weight goes up more than 3 lbs| Aftercare instructions - patient needs to do - Other|1057|1090

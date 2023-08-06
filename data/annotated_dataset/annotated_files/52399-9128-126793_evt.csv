@@ -1,0 +1,10 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|difficulty breathing| Medical Issues - Symptom|94|114
+1|low oxygen level| Tests - Test result|73|89
+2|COPD exacerbation| Medical Issues - Disease|151|168
+3|pneumonia| Medical Issues - Disease|173|182
+4|steroids| Treatments - Medicine name|229|237
+5|breathing treatments| Treatments - Procedure name|239|259
+6|antibiotics| Treatments - Medicine name|265|276
+7|It is very important that you try to stop smoking, it is the best thing you can do for your health| Aftercare instructions - patient needs to do - Other|430|528
+8|you were able to leave the ICU| Treatments - Result of the treatment|282|312

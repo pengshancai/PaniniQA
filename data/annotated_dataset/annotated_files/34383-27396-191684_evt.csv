@@ -1,0 +1,8 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|manic episode| Medical Issues - Disease|71|84
+1|lethargic| Medical Issues - Symptom|109|118
+2|evaluated for possible drug overdose| Tests - Test name|156|192
+3|negative| Tests - Test result|205|213
+4|Please continue to take all of your medications as prescribed by the psychiatry team| Medicine instructions - Medicine continued|217|301
+5|a number of changes have been made| Medicine instructions - Medicine changed|330|364
+6|Please return to the hospital if you experience fevers, chills, loss of consciousness, shortness of breath or chest pain| Aftercare instructions - Emergency instruction|368|488

@@ -1,0 +1,19 @@
+Medical Issues
+Symptoms include <trouble breathing>;
+Symptoms <trouble breathing> caused by Disease [no explicit item]
+
+Tests
+Test results of <{blood pressure measurement}>: <high blood pressure >;
+
+Treatments
+Medicine <lasix > to treat <trouble breathing>
+<lasix> Results: < improved >;<helped remove extra fluid from your lungs >
+Medicine < ciprofloxacin > to treat <urinary infection>
+< ciprofloxacin >  Results: [no explicit item]
+
+
+No template for <Please take all medications as prescribed and go to all follow up [**Name (NI) 4314**]. >
+No template for <Increased hydralazine to four times daily. >
+No template for <lisinopril >
+No template for <Lowered your furosemide (lasix) to 20mg daily. >
+No template for < If you experience fevers, trouble breathing, chest pain, abdominal pain, or any other concerning symptoms, please seek medical attention immediately. >

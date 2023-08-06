@@ -1,0 +1,13 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|respiratory failure| Medical Issues - Symptom|102|121
+1|intubation| Treatments - Procedure name|136|146
+2|pneumonia| Medical Issues - Disease|217|226
+3|exacerbation of your severe COPD| Medical Issues - Disease|234|266
+4|antibiotics| Treatments - Medicine name|290|301
+5|steroids| Treatments - Medicine name|307|315
+6|improved| Treatments - Result of the treatment|320|328
+7|respiratory therapy| Treatments - Procedure name|682|701
+8|INCREASE amlodipine to 10 mg by mouth daily| Medicine instructions - Medicine changed|759|802
+9|furosemide (lasix) 60 mg by mouth daily| Medicine instructions - Medicine continued|814|853
+10|lisinopril 40 mg by mouth daily| Medicine instructions - Medicine continued|865|896
+11|leg swelling| Medical Issues - Symptom|560|572

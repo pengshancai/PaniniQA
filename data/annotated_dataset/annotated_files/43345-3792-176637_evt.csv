@@ -1,0 +1,18 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|several firings of your ICD device| Medical Issues - Symptom|105|139
+1|ablation in the cath lab| Treatments - Procedure name|157|182
+2|prevent future events| Treatments - Treatment goal|191|212
+3|low blood pressures| Medical Issues - Complication developed in the hospital|227|246
+4|required medications and fluids| Medical Issues - Complication developed in the hospital|266|297
+5|The doses of your heart medications were changed| Aftercare instructions - patient needs to do - Medication|330|378
+6|you will need to follow up with your cardiologist in the next 5-7 days| Aftercare instructions - Upcoming Schedules - Specialist appointment|383|453
+7|amiodarone| Medicine instructions - Medicine changed|476|486
+8|digoxin| Medicine instructions - Medicine changed|520|527
+9|metoprolol| Medicine instructions - Medicine changed|553|563
+10|spirnolactone| Medicine instructions - Medicine continued|609|622
+11|Torsimide| Medicine instructions - Medicine changed|649|658
+12|Mexiletine| Medicine instructions - Medicine started|697|707
+13|Asprin| Medicine instructions - Medicine continued|751|757
+14|Lisinopril| Medicine instructions - Medicine continued|783|793
+15|Pradaxa| Medicine instructions - Medicine continued|819|826
+16|Addtionally please weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more than 3 lbs.| Aftercare instructions - patient needs to do - Other|851|958

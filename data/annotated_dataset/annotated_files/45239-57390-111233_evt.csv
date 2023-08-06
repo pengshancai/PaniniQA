@@ -1,0 +1,13 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|right ankle pain| Medical Issues - Symptom|101|117
+1|hypotension| Medical Issues - Symptom|122|133
+2|cellulitis| Medical Issues - Disease|203|213
+3|full course of antibiotics| Treatments - Medicine name|239|265
+4|fluid overloaded| Medical Issues - Symptom|293|309
+5|shortness of breath| Medical Issues - Symptom|318|337
+6|congestive heart failure| Medical Issues - Disease|358|382
+7|diuretics (water pill)| Treatments - Medicine name|418|440
+8|The extra fluid was removed| Treatments - Result of the treatment|384|411
+9|Due to the progressive worsening of your congestive heart failure, you were started on a medication called Milrinone, which is given into your vein using your PICC Line.| Treatments - Medicine name|442|612
+10|Your symptoms improved and swelling decreased.| Treatments - Result of the treatment|612|659
+11|We have made appointments for you with cardiologist who will follow your response to the Milrinone, see appointment information below.| Aftercare instructions - Upcoming Schedules - Specialist appointment|659|793

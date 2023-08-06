@@ -1,0 +1,16 @@
+
+Treatments
+Procedure <chemotherapy > to treat <no explicit item>
+<chemotherapy >  Results: <You tolerated the chemotherapy well>
+Medicine <chemotherapy > to treat <no explicit item>
+<chemotherapy >  Results: <You tolerated the chemotherapy well>
+Medicine <concentrated saline administration > to treat <no explicit item>
+<concentrated saline administration >  Results: <your sodium levels remained at your baseline > 
+<You tolerated the chemotherapy well  >  Results: <no explicit item>
+<your sodium levels remained at your baseline >  Results: <no explicit item>
+
+No template for <Be sure to continue to restrict your fluid intake to 1 liter a day. In addition try to eat salty foods. >
+No template for <Lasix was started to help keep your sodium level normal >
+No template for <Enalapril was decreased to 5mg twice a day >
+No template for < Clotrimazole as needed for mouth pain >
+No template for <You should start cipro as directed on Saturday [**6-3**] when your 5-FU chemo pump is stopped >

@@ -1,0 +1,14 @@
+Medical Issues
+Symptoms include <shortness of breath>;
+Symptoms <shortness of breath> caused by Disease <pneumonia > <Maybe>
+
+Treatments
+Procedure <intubation > to treat <pneumonia>
+<intubation >  Results: <You have slowly recovered {you slowly recovered} >
+<intubation > Results: <You have slowly recovered {you slowly recovered} >
+
+No template for <You should stop your home Pulmicort >
+No template for < You should stop your home Coumadin >
+No template for <You should stop your home simvastatin >
+No template for <You should stop your home metoprolol >
+No template for <You should decrease your home clonazepam dose to 0.25mg three times daily >

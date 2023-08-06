@@ -1,0 +1,20 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|concern for your mental status| Medical Issues - Symptom|66|96
+1|stroke| Medical Issues - Disease|226|232
+2|intubated| Treatments - Procedure name|380|389
+3|not breathing well| Medical Issues - Symptom|444|462
+4|respiratory status improved| Treatments - Result of the treatment|469|496
+5|once the breathing tube was removed you did very well breathing on your own| Treatments - Result of the treatment|502|577
+6|mental status also improved| Medical Issues - Symptom|584|611
+7|you were at your normal level of function by discharge| Treatments - Result of the treatment|620|674
+8|Please use your oxygen at home as usual and your CPAP machine at night| Aftercare instructions - patient needs to do - Other|676|746
+9|community-acquired pneumonia| Medical Issues - Disease|789|817
+10|IV antibiotics| Treatments - Medicine name|846|860
+11|oral antibiotics| Medicine instructions - Medicine started|891|907
+12|You will need to continue these for one week| Medicine instructions - Medicine continued|909|953
+13|You should re-start all of your home medications| Medicine instructions - Medicine continued|957|1005
+14|Levaquin| Treatments - Medicine name|1054|1062
+15|You should have your liver function enzymes re-checked as an outpatient| Aftercare instructions - Upcoming Schedules - Test|1090|1161
+16|they were slightly elevated in the hospital| Tests - Test result|1166|1209
+17|stop using marijuana| Aftercare instructions - patient needs to do - Other|1238|1258
+18|It is also important that you keep your appointment for a sleep study| Aftercare instructions - Upcoming Schedules - Test|1262|1331

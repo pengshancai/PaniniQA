@@ -1,0 +1,11 @@
+Medical Issues
+Symptoms include <fast heart rate>;<difficulty breathing>;
+
+Treatments
+Procedure <three session of hemodialysis> to treat [no explicit item]
+<three session of hemodialysis>  Results: [no explicit item]
+
+No template for <restarted on you home medications>
+No template for <Please do not use cocaine anymore as this is very hazardous to your health>
+No template for <Please inquire at your hemodialysis center about outpatient cocaine abuse rehabilitation to help you quit>
+No template for <Please take your medications as prescribed and keep your outpatient appointments>

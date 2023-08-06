@@ -1,0 +1,14 @@
+Medical Issues
+Symptoms [no explicit item] caused by Disease <rectal cancer>
+Complication <you developed a fast heart rate and shortness of breath > caused by <surgery>
+
+Treatments
+Procedure <surgery > to treat <rectal cancer>
+<surgery >  Results: <Your surgery went well>
+
+
+No template for <you were recommended to go to rehab to regain your strength >
+No template for <diltiazem - we have decreased your dose from 180mg PO daily to 120mg PO daily >
+No template for < metoprolol - this medication had been dosed twice daily. We have changed this to be 200mg once a day >
+No template for < aspirin - this is a medication to help prevent blood clots >
+No template for <we have started tylenol for treatment of your post-operative pain >

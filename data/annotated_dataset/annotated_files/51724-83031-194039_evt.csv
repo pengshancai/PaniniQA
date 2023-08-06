@@ -1,0 +1,9 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|blood pressure was extremely high| Tests - Test result|83|116
+1|nitroglycerin drip| Treatments - Medicine name|136|154
+2|You were quickly weaned off the drip and transferred to the regular floor with vast improvement in your blood pressure| Treatments - Result of the treatment|168|286
+3|nausea| Medical Issues - Symptom|420|426
+4|vomiting| Medical Issues - Symptom|431|439
+5|inability to take your meds| Medical Issues - Symptom|455|482
+6|You should follow up with Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 4539**] as you have already arranged in order to figure out why you keep having these episodes| Aftercare instructions - Upcoming Schedules - PCP appointment|484|670
+7|You should also follow up with Dr. [**Last Name (STitle) 107139**] in the next couple of weeks| Aftercare instructions - Upcoming Schedules - PCP appointment|672|766

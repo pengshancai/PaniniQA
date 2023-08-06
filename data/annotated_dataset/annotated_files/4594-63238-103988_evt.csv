@@ -1,0 +1,20 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|abdominal pain| Medical Issues - Symptom|168|182
+1|acute liver failure from chronic overuse of tylenol| Medical Issues - Disease|196|247
+2|medications| Treatments - Medicine name|361|372
+3|you improved| Treatments - Result of the treatment|377|389
+4|urinary tract infection| Medical Issues - Disease|419|442
+5|antibiotics| Treatments - Medicine name|462|473
+6|treatment| Treatments - Medicine name|501|510
+7|herpes labialis (cold sores)| Medical Issues - Disease|515|543
+8|Please continue to see your outpatient therapist, and consider seeing a Psychiatrist in the future for your anxiety.| Aftercare instructions - Upcoming Schedules - Specialist appointment|545|661
+9|Also, it is important that you keep all of your follow up appointments after discharge.| Aftercare instructions - Upcoming Schedules - Specialist appointment|662|749
+10|We are also giving you a short course of pain medications that are safe to take during your liver injury.| Aftercare instructions - patient needs to do - Medication|752|857
+11|You will need to follow up with your Primary Care Physician and [**Name9 (PRE) 1194**] Specialist to figure out the best regimen for yout to continu on to treat your chronic neck pain.| Aftercare instructions - Upcoming Schedules - Specialist appointment|858|1042
+12|We are making the following changes to your outpatient medication regimen: -Please STOP all products containing acetaminophen (tylenol, eccedrin, percocet) until you follow up with Dr. [**Last Name (STitle) 497**].| Medicine instructions - Medicine stopped|1045|1259
+13|Please read all of the labels of your over the counter medications to ensure they do not contain acetaminophen.| Aftercare instructions - patient needs to do - Medication|1260|1371
+14|-Please START Famotidine twice daily| Medicine instructions - Medicine started|1372|1408
+15|-Please START Valtrex twice daily until [**2132-12-20**]| Medicine instructions - Medicine started|1409|1465
+16|-Please take Tramadol every 4 hours as needed for pain| Medicine instructions - Medicine started|1466|1520
+17|-Please take Oxycodone 5 mg every 6 hours as needed for pain (please note that this medication can be sedating as well as cause constipation)| Medicine instructions - Medicine started|1521|1662
+18|- You may also take colace (a stool softener to prevent constipation)| Aftercare instructions - patient needs to do - Medication|1663|1732

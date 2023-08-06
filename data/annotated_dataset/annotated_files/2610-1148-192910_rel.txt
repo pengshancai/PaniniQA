@@ -1,0 +1,14 @@
+Medical Issues
+Symptoms include <ascites >;<leg swelling >;
+Symptoms {ascites} {leg swelling} caused by Disease <infection in your abdomen> 
+Disease <pain > 
+Disease <encephalopathy > 
+
+Treatments
+Medicine <lasix 40mg daily and spironolactone 100mg daily > to treat {ascites} {leg swelling}
+
+Aftercare instructions
+If encounter {develop fevers, chills, or worsening abdominal pain} do <seek medical attention >
+
+No template for <you will need to complete a 14-day course of levofloxacin for this, and afterwards you will need to be on a medicine called norfloxacin daily to prevent further infections >
+No template for <hospice >

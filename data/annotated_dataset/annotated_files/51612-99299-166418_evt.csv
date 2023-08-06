@@ -1,0 +1,10 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|sepsis| Medical Issues - Disease|77|83
+1|urinary tract infection| Medical Issues - Disease|91|114
+2|IV fluids| Treatments - Procedure name|143|152
+3|antibiotics| Treatments - Medicine name|157|168
+4|given your poor state of health it was decided to make you comfort measures only| Medical Issues - Complication developed in the hospital|177|257
+5|All of your medicines were stopped| Medicine instructions - Medicine stopped|321|355
+6|You are being discharged back to your extended care facility| Aftercare instructions - Upcoming Schedules - Treatment|259|319
+7|OxycoDONE-Acetaminophen Elixir [**4-27**] mL PO/NG Q2H:PRN pain| Medicine instructions - Medicine started|384|447
+8|Acetaminophen 650 mg PR Q4H:PRN pain, agitation| Medicine instructions - Medicine started|451|498

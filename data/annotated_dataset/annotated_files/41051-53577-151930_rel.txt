@@ -1,0 +1,31 @@
+Medical Issues
+Symptoms include <extensive bleeding into your belly>;
+Symptoms <extensive bleeding into your belly> caused by Disease <liver cancer >
+
+Treatments
+Procedure <You required 6 blood transfusions, 2 at [**Hospital3 7571**]and 4 here > to treat [No explicit item]
+<You required 6 blood transfusions, 2 at [**Hospital3 7571**]and 4 here >  Results: [No explicit item]
+Medicine < GLYBURIDE 5 MG DAILY  > to treat [No explicit item]
+< GLYBURIDE 5 MG DAILY  >  Results: [No explicit item]
+Medicine <AMLODIPINE 10 MG DAILY (two 5mg tablets) > to treat [No explicit item]
+<AMLODIPINE 10 MG DAILY (two 5mg tablets) >  Results: [No explicit item]
+Medicine <LABETOLOL 200 MG THREE TIMES DAILY (8 HOUR INTERVALS) > to treat [No explicit item]
+<LABETOLOL 200 MG THREE TIMES DAILY (8 HOUR INTERVALS) >  Results: [No explicit item]
+Medicine <ONDANSETRON 8 mg (two 4mg tablets) every 8 hours as needed for nausea > to treat <nausea>
+<ONDANSETRON 8 mg (two 4mg tablets) every 8 hours as needed for nausea >  Results: [No explicit item]
+Medicine <COMPAZINE, one 10 mg Tablet every 6 hours as needed for nausea > to treat <nausea>
+<COMPAZINE, one 10 mg Tablet every 6 hours as needed for nausea >  Results: [No explicit item]
+Medicine <LORAZEPAM, [**11-24**]-to-one 1 mg tablet every 6 hours as needed for nausea > to treat <nausea>
+<LORAZEPAM, [**11-24**]-to-one 1 mg tablet every 6 hours as needed for nausea >  Results: [No explicit item]
+Medicine <MORPHINE SULFATE SOLUTION, 5 mg every 4 hours as needed for pain > to treat <pain>
+<MORPHINE SULFATE SOLUTION, 5 mg every 4 hours as needed for pain >  Results: [No explicit item]
+Medicine <TYLENOL, one 500 mg Tablet every 6 hours as needed for pain > to treat <pain>
+<TYLENOL, one 500 mg Tablet every 6 hours as needed for pain >  Results: [No explicit item]
+Medicine <ATROPINE 1 % Drops, 2 drops every 4 hours as needed for secretions > to treat <secretions>
+<ATROPINE 1 % Drops, 2 drops every 4 hours as needed for secretions >  Results: [No explicit item]
+Medicine <LAXATIVES (COLACE, SENNA, MIRALAX AND SUPPOSITORIES), use as-needed for constipation > to treat <constipation>
+<LAXATIVES (COLACE, SENNA, MIRALAX AND SUPPOSITORIES), use as-needed for constipation >  Results: [No explicit item]
+Medicine <colace and senna daily to prevent constipation > to treat <constipation>
+<colace and senna daily to prevent constipation >  Results: [No explicit item]
+
+No template for <We made several changes to your medications to help control your symptoms at home &amp; minimize other medications >

@@ -1,0 +1,15 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|short of breath| Medical Issues - Symptom|186|201
+1|blood pressure was high| Medical Issues - Symptom|222|245
+2|fluid backing up into your lungs| Medical Issues - Symptom|263|295
+3|intravenous medications| Treatments - Medicine name|352|375
+4|to fix your blood pressure| Treatments - Treatment goal|376|402
+5|BiPAP| Treatments - Procedure name|407|412
+6|breathing| Treatments - Treatment goal|422|431
+7|Your blood pressures came down nicely and we were able to get the fluid off of your lungs with extra diuretics. You began to feel better and are now ready to go home.| Treatments - Result of the treatment|433|599
+8|We think the cause of this episode was eating too much salt and missing a dose of your medication. It is extremetly important to take all of your medications as prescribed and to adhere to a low salt diet.| Aftercare instructions - patient needs to do - Diet|600|805
+10|Also, you should weigh yourself every morning, and call your doctor if your weight goes up more than 3 lbs in 1 day or 5 pounds in 3 days.| Aftercare instructions - patient needs to do - Other|806|944
+11|Please get your blood drawn on Thursday to check your electrolytes on the increased lasix.| Aftercare instructions - Upcoming Schedules - Test|945|1035
+12|Medications started: Pravastatin 40mg daily (restart this medicine)| Medicine instructions - Medicine started|1079|1146
+13|Medications changed: Increase lasix to 40mg daily (Two 20mg tabs)| Medicine instructions - Medicine changed|1147|1212
+14|Follow-up needed for: 1. Blood pressure 2. INR check 3. Weight and respiratory status| Aftercare instructions - Upcoming Schedules - Test|1213|1298

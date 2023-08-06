@@ -1,0 +1,11 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|seizure| Medical Issues - Symptom|97|104
+1|difficulty breathing| Medical Issues - Symptom|163|183
+2|breathing tube| Treatments - Procedure name|199|213
+3|urinary tract infection| Medical Issues - Disease|326|349
+4|antibiotics| Treatments - Medicine name|372|383
+5|Your blood and spinal fluid were found to not be infected| Tests - Test result|385|442
+6|stroke| Medical Issues - Disease|580|586
+7|You should take your home medications as described in this discharge document and keep your outpatient appointments.| Aftercare instructions - patient needs to do - Medication|588|704
+8|You should take your home medications as described in this discharge document and keep your outpatient appointments.| Aftercare instructions - Upcoming Schedules - Specialist appointment|588|705
+9|The following changes have been made to your medications: 1.) Keppra 1000mg by mouth twice daily 2.) Ampicillin 500mg by mouth every six hours| Medicine instructions - Medicine changed|705|847

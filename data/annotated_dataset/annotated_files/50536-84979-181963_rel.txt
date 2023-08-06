@@ -1,0 +1,29 @@
+Medical Issues
+Symptoms include <confusion>;
+Complication <low oxygen levels > caused by <COPD>;<lung cancer> 
+
+
+Tests
+Test results of [no explicit item]: <damage to your liver and kidneys >;
+Test results of <{pulse oximetry}>: <low oxygen levels >;
+
+Treatments
+Medicine <medication to help remove fluid from your lungs > to treat [no explicit item]
+<medication to help remove fluid from your lungs >  Results: <breathing improved a little>
+
+
+No template for < coumadin >
+No template for <supplemental Oxygen 2-4 L NC >
+No template for <DO NOT SMOKE CIGARETTES while using supplemental oxygen, this could cause fire or explosion >
+No template for < lasix 40 mg by mouth daily >
+No template for <gabapentin >
+No template for <baclofen  >
+No template for < Decrease dose of Morphine SR from 60 mg daily to 45 mg daily >
+No template for <albuterol nebulizer treatment every 6 hours  >
+No template for <atrovent nebulizer treatment every 6 hours >
+No template for <nicotine patch daily >
+No template for < bisacodyl 10 mg by mouth daily as needed for constipation >
+No template for <miralax 17 g by mouth daily as needed for constipation >
+No template for <oxycodone 5 mg tabs, take 1-2 tabs every 6 hours as neede for pain >
+No template for <DO NOT TAKE BOTH OXYCODONE AND DILAUDID >
+No template for <This medication causes sedation. Do not drive while taking this medication >

@@ -1,0 +1,9 @@
+Medical Issues
+Symptoms include <seizusres>;
+Symptoms {seizures} caused by Disease <overdose of seroquel, trazadone, and ultram >
+Complication <brief fever > caused by <irritation of your lung after the extubation> <Maybe>
+
+Treatments
+<intubated >  Results: <stabilized>
+
+No template for < >

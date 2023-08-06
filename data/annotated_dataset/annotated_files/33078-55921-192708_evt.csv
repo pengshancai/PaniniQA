@@ -1,0 +1,10 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|fluid in your lungs| Medical Issues - Disease|145|164
+1|bleeding| Medical Issues - Complication developed in the hospital|232|240
+2|a procedure to remove fluid| Treatments - Procedure name|180|208
+3|blood products| Treatments - Medicine name|312|326
+4|catheter in your chest| Treatments - Procedure name|338|360
+5|improved and are breathing well on room air| Treatments - Result of the treatment|441|485
+6|Please follow the medications prescribed below.| Aftercare instructions - patient needs to do - Medication|487|535
+7|Please follow up with the appointments below.| Aftercare instructions - Upcoming Schedules - Specialist appointment|535|581
+8|Please call your PCP or go to the ED if you experience chest pain, palpitations, shortness of breath, nausea, vomiting, fevers, chills, or other concerning symptoms.| Aftercare instructions - Emergency instruction|581|746

@@ -1,0 +1,20 @@
+Medical Issues
+Symptoms include <difficulty breathing>;
+Symptoms <difficulty breathing> caused by Disease <chronic lung disease > 
+
+Treatments
+Procedure <BiPAP > to treat <chronic lung disease >
+<BiPAP >  Results: <you improved>
+Medicine <IV lasix > to treat <chronic lung disease >
+<IV lasix >  Results: <you improved>
+Medicine <steroids > to treat <chronic lung disease >
+<steroids >  Results: <you improved>
+
+Aftercare instructions
+If encounter <any shortness of breath, dropping oxygen saturation, chest pain or tightness, wheezing, fevers, chills, productive cough, or any other concerning symptoms> do <please seek medical attention or come to the ER immediately.>
+
+No template for <Please be sure to use your home oxygen to keep your oxygen saturation over 90%. >
+No template for <Also, continue your BiPAP every night. >
+No template for <Please go to all follow up appointments and take all medications as prescribed. >
+No template for <Please go to all follow up appointments and take all medications as prescribed. >
+No template for <We have lowered you lasix dose as it was causing your chloride (an electrolyte) level to be low. >

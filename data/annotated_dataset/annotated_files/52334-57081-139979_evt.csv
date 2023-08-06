@@ -1,0 +1,9 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|hypoxia| Medical Issues - Symptom|90|97
+1|concern for low blood pressure on presentation| Medical Issues - Complication developed in the hospital|131|177
+2|confusion| Medical Issues - Symptom|184|193
+3|consequence of medications (levofloxacin and oxycodone) in the setting of acute renal failure due to dehydration| Medical Issues - Disease|209|321
+4|no evidence of pneumonia| Tests - Test result|332|356
+5|chest XR| Tests - Test name|367|375
+6|more consistent with chronic pleural disease| Tests - Test result|389|433
+7|will need outpatient follow up including a pulmonology appointment and chest CT| Aftercare instructions - Upcoming Schedules - Specialist appointment|440|519

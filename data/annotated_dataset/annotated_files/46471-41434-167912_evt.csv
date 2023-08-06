@@ -1,0 +1,18 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|swelling in your legs| Medical Issues - Symptom|102|123
+1|shortness of breath| Medical Issues - Symptom|128|147
+2|heart failure| Medical Issues - Disease|176|189
+3|cardiac catheterization| Treatments - Procedure name|193|216
+4|did not reveal any signficant disease in the coronary arteries of your heart| Treatments - Result of the treatment|235|311
+5|Your heart failure may have been due to alcohol or a viral infection. It is very important that you do not drink alcohol again.| Aftercare instructions - patient needs to do - Diet|313|440
+6|** BECAUSE OF THE SEVERITY OF YOUR ILLNESS AND THE NEW MEDICATIONS THAT YOU WERE STARTED ON, IT IS VERY IMPORTANT THAT YOU FOLLOW-UP VERY CLOSELY WITH YOUR NEW PRIMARY CARE DOCTOR AND CARDIOLOGIST, DR. [**Last Name (STitle) **]. ** . If you cannot keep your follow-up appointments, please call your doctors to [**Name5 (PTitle) **]-schedule.| Aftercare instructions - Upcoming Schedules - PCP appointment|443|784
+8|Weigh yourself every morning, [**Name8 (MD) 138**] MD (Dr. [**Last Name (STitle) **] if your weight goes up more than 2 lbs.| Aftercare instructions - patient needs to do - Other|787|911
+9|You will also need to have labs checked once a week for the next few weeks until your medication regimen is more stable. Please go to the nearest outpatient lab on [**6-16**] and [**6-23**]. There are several outpatient labs at [**Hospital1 **], which is close to your home.| Aftercare instructions - Upcoming Schedules - Test|914|1188
+10|The following changes have been made to your medications: . START taking these medications: 1. START taking Furosemide (Lasix) 40 mg by mouth daily. This medication is a diuretic and will help keep your legs from swelling. As above, if you notice increased swelling of your legs or you gain weight (more than 2 lbs), please call your Cardiologist.| Medicine instructions - Medicine started|1191|1538
+12|2. START taking Metoprolol succinate 100 mg by mouth once a day.| Medicine instructions - Medicine started|1539|1603
+13|3. START taking Lisinopril 10 mg by mouth daily.| Medicine instructions - Medicine started|1604|1652
+14|4. START taking Aspirin 81 mg by mouth daily.| Medicine instructions - Medicine started|1653|1698
+15|STOP taking these medications: 1. STOP taking Hydrochlorothiazide 25 mg by mouth daily.| Medicine instructions - Medicine stopped|1701|1788
+16|2. STOP taking Amlodipine 5 mg by mouth daily.| Medicine instructions - Medicine stopped|1789|1835
+17|3. STOP taking Atenolol 25 mg by mouth twice a day.| Medicine instructions - Medicine stopped|1836|1887
+18|No other changes were made to your medications and you should continue taking other medications as previously prescribed.| Medicine instructions - Medicine continued|1890|2011

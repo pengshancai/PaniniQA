@@ -1,0 +1,8 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|TIPS placement| Treatments - Procedure name|63|77
+1|blood pressure was very low| Medical Issues - Complication developed in the hospital|104|131
+2|worsening of your kidney function| Medical Issues - Disease|195|228
+3|medications| Treatments - Medicine name|253|264
+4|improved| Treatments - Result of the treatment|239|247
+5|You were started on three new medications: - Lasix and spironolactone are diuretics which you have been on before. - Midodrine is a medication to keep your blood pressure up.| Medicine instructions - Medicine started|268|442
+6|If you develop fevers&gt;101, severe abdominal pain, nausea, or vomiting, or other symptoms that are concerning to you you should go to the nearest emergency room. .| Aftercare instructions - Emergency instruction|445|610

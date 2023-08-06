@@ -1,0 +1,38 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|right sided weakness| Medical Issues - Symptom|63|83
+1|stroke| Medical Issues - Disease|168|174
+2|surgery| Treatments - Procedure name|194|201
+3|diarrhea| Medical Issues - Symptom|245|253
+4|infection called Clostridium Difficile| Medical Issues - Disease|287|325
+5|antibiotics| Treatments - Procedure name|353|364
+6|improvement of your diarrhea| Treatments - Result of the treatment|370|398
+7|repair the damaged artery| Treatments - Result of the treatment|205|230
+8|abdomen was distended| Medical Issues - Symptom|405|426
+9|ultrasound| Tests - Test name|435|445
+10|showed your TIPS was occluded| Tests - Test result|446|475
+11|revision of your TIPS| Treatments - Procedure name|504|525
+12|successful| Treatments - Result of the treatment|493|503
+13|open the occlusion| Treatments - Treatment goal|529|547
+14|You will need a repeat ultrasound of your liver in 10 days on [**2117-6-12**] to reassess the liver.| Aftercare instructions - Upcoming Schedules - Test|549|649
+15|3 liters of fluid removed from your abdomen| Treatments - Procedure name|663|706
+16|improvement of your breathing| Treatments - Result of the treatment|712|741
+17|flare of your emphysema| Medical Issues - Complication developed in the hospital|770|793
+18|slow prednisone taper| Treatments - Medicine name|820|841
+19|breathing treatments| Treatments - Procedure name|846|866
+20|rapid heart rate in the setting of having low oxygen levels while eating| Medical Issues - Complication developed in the hospital|889|961
+21|started on a medication| Treatments - Medicine name|976|999
+22|supplemental oxygen level increased| Treatments - Procedure name|1013|1048
+23|- Flagyl duration was extended, last dose on [**2117-6-30**] - Vancomycin duration was extended, last dose on [**2117-6-30**]| Medicine instructions - Medicine continued|1165|1290
+24|- Digoxin was started for heart rate| Medicine instructions - Medicine started|1291|1327
+25|- Ipratropium nebulization breathing treatments were started| Medicine instructions - Medicine started|1328|1388
+26|- Xopenex nebulization breathing treatments were started| Medicine instructions - Medicine started|1389|1445
+27|- Prednisone was started, to be decreased according to your taper| Medicine instructions - Medicine continued|1446|1511
+28|- Aspirin was started| Medicine instructions - Medicine started|1512|1533
+29|- Atorvastatin was started| Medicine instructions - Medicine started|1534|1560
+30|- Tramadol was started for pain, to be titrated down as tolerated| Medicine instructions - Medicine started|1561|1626
+31|- Tylenol was started as needed for pain| Medicine instructions - Medicine started|1627|1667
+32|- Maalox was started as needed| Medicine instructions - Medicine started|1668|1698
+33|- Calcium and Vitamin D supplements were started| Medicine instructions - Medicine started|1699|1748
+34|Heparin subcutaneous shots were started| Medicine instructions - Medicine started|1750|1789
+35|Tramadol was started to be used as needed for pain| Medicine instructions - Medicine started|1792|1842
+36|Percocet was stopped| Medicine instructions - Medicine stopped|1845|1865

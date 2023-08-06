@@ -1,0 +1,11 @@
+Medical Issues
+Symptoms include <stridor>;<stridor >;
+Symptoms <CHANGE HERE Symptom name> caused by Disease <tracheal stenosis >
+Symptoms <CHANGE HERE Symptom name> caused by Disease <myasthenia >
+
+Treatments
+Procedure <balloon open this stenosis > to treat <tracheal stenosis>
+<balloon open this stenosis >  Results: [No explicit item]
+
+No template for <we will need to discontinue your prednisone as this medication interferes with wound healing >
+No template for < >

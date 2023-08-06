@@ -1,0 +1,12 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|Please go to the Emergency Department at [**Hospital1 18**] if you experience bleeding, shortness of breath, bloody bowel movements, chest pain, lightheadedness, palpitations, or any other concerning symptom.| Aftercare instructions - Emergency instruction|25|234
+1|anemia| Medical Issues - Disease|284|290
+2|gastrointestinal tract bleed| Medical Issues - Disease|297|325
+3|enteroscopy| Tests - Test name|392|403
+4|no evidence seen of a bleeding site| Tests - Test result|349|384
+5|red blood cells / hematocrit values| Tests - Test name|414|449
+6|remained stable (around 30).| Tests - Test result|455|483
+7|bloody bowel movement| Medical Issues - Symptom|494|515
+8|Please continue to take all medications as prescribed.| Aftercare instructions - patient needs to do - Medication|608|663
+9|Also, you should take an additional medication, pantoprazole, once a day as prescribed, which should help suppress gastrointestinal acid.| Medicine instructions - Medicine started|663|800
+10|| |663|800

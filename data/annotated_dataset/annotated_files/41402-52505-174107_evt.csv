@@ -1,0 +1,8 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|bleeding in your GI tract| Medical Issues - Symptom|175|200
+1|you had large veins in your esophagus called varices| Medical Issues - Symptom|252|304
+2|START nadolol 20 mg daily| Treatments - Medicine name|485|510
+3|START ciprofloxacin 500 mg daily for 4 days. When you complete the 4 day course, you will take 250 mg daily thereafter| Treatments - Medicine name|514|632
+4|START protonix 40 mg [**Hospital1 **]| Treatments - Medicine name|637|675
+5|START sucralfate 1 mg by mouth four times a day for 2 weeks| Treatments - Medicine name|678|737
+6|INCREASE lactulose - 2 - 3 doses per day, titrate to 2 - 3 bowel movements per day| Treatments - Medicine name|741|823

@@ -1,0 +1,13 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|fractured your spine| Medical Issues - Symptom|75|95
+1|injured your spinal cord| Medical Issues - Symptom|100|124
+2|tracheostomy| Treatments - Procedure name|154|166
+3|feeding tube| Treatments - Procedure name|171|183
+4|pneumonia| Medical Issues - Complication developed in the hospital|206|215
+5|antibiotics| Treatments - Medicine name|275|286
+6|worsening function of your kidney function| Medical Issues - Complication developed in the hospital|315|357
+7|lasix| Treatments - Medicine name|436|441
+8|You will stay on lasix 120 mg twice daily for that reason.| Medicine instructions - Medicine continued|495|553
+9|slow heart rates| Medical Issues - Symptom|572|588
+10|We did keep you on coumadin (with heparin IV while your coumadin level was not as high as it should be)| Medicine instructions - Medicine continued|725|828
+11|Attached is a list of your medications that you will receive at rehab. There were many changes.| Aftercare instructions - patient needs to do - Medication|830|925

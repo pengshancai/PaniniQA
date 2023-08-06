@@ -1,0 +1,14 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|altered mental status| Medical Issues - Symptom|69|90
+1|shortness of breath| Medical Issues - Symptom|95|114
+2|pneumonia| Medical Issues - Disease|141|150
+3|heart failure exacerbation| Medical Issues - Disease|185|211
+4|antibiotics| Treatments - Medicine name|229|240
+5|medication to help remove the extra fluid| Treatments - Medicine name|282|323
+6|Your symptoms improved and you were discharged to a rehab facility.| Treatments - Result of the treatment|325|392
+7|1. We increased Tamsulosin (Flomax) to 0.8 mg instead of 0.4 mg| Medicine instructions - Medicine changed|867|930
+8|2. We increased Metoprolol to 25 mg twice daily instad of 12.5 mg twice daily| Medicine instructions - Medicine changed|931|1008
+9|3. We have held your furosemide (Lasix) for now; this can be restarted as needed at your rehab.| Medicine instructions - Medicine stopped|1009|1104
+10|3. We have held your furosemide (Lasix) for now; this can be restarted as needed at your rehab.| Aftercare instructions - patient needs to do - Medication|1009|1104
+11|4. We decreased your allopurinol to 150 mg daily instead of 400 mg daily until your kidney function improves| Medicine instructions - Medicine changed|1105|1213
+12|5. We stopped your scopalamine patch| Medicine instructions - Medicine stopped|1214|1250

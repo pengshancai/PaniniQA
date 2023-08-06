@@ -1,0 +1,17 @@
+Medical Issues
+Symptoms include <chest pain>;< bleeding at the site in your left groin >;
+Symptoms <chest pain> caused by Disease <occlusion in the grafts done from your previous CABG > 
+Symptoms < bleeding at the site in your left groin> caused by Disease <aneurysm found in one of the left femoral arteries > 
+
+Tests
+Tests include <cardiac catheterization >;
+Test results of <cardiac catheterization>: <showed some occlusion in the grafts done from your previous CABG >;
+
+Treatments
+Procedure <Stents > to treat <occlusion in the grafts done from your previous CABG>
+
+Aftercare instructions
+If encounter <worsening chest pain, shortness of breath, nausea, vomiting, lightheadedness, or any other concerning symptoms> do < please call your doctor or return to the ED >
+
+No template for <You were continued on your home medications except isosorbide which you do not need anymore. >
+No template for <we added colesevelam for cholesterol >

@@ -1,0 +1,20 @@
+Medical Issues
+Symptoms include <arm and chest pain>;<low blood pressure >;
+Symptoms [No explicit item] caused by Disease <infection > {blood pressure Maybe}
+Symptoms [No explicit item] caused by Disease <cortisol levels were found to be low > [No explicit item]
+Symptoms [No explicit item] caused by Disease <gout > [No explicit item]
+
+Treatments
+Medicine <IV medications > to treat {keep your blood pressure up}
+<IV medications >  Results: [No explicit item]
+<keep your blood pressure up >  Results: [No explicit item]
+Medicine <colchicine > to treat {Gout}
+<colchicine >  Results: [No explicit item]
+Medicine <allopurinol > to treat {Gout}
+<allopurinol >  Results: [No explicit item]
+
+No template for <prednisone >
+No template for <allopurinol >
+No template for <Flonase >
+No template for <Coumadin >
+No template for <prednisone >

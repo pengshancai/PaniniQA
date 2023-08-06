@@ -1,0 +1,30 @@
+Medical Issues
+Symptoms [no explicit item] caused by Disease <pneumonia> 
+Complication <Calcium Pyrophosphate Deposition (CPPD) Disease > caused by [no explicit item]
+Complication <urinary tract infection > caused by [no explicit item]
+
+Tests
+Tests include <CXR >;
+Test results of <CXR>: <Your pneumonia appears improved >;
+Test goal of [no explicit item]: <C. diff >;
+Test results of [no explicit item]: <negative >;
+
+Treatments
+Procedure <supplemental oxygen > to treat <pneumonia>
+<supplemental oxygen >  Results: {improved}
+Medicine <antibiotics > to treat <pneumonia>
+<antibiotics >  Results: {improved}
+Procedure <nasogastric tube > to treat {aspiration risk}
+<nasogastric tube >  Results: [no explicit item]
+Medicine <anti-inflammatory > to treat <Calcium Pyrophosphate Deposition (CPPD) Disease>
+<anti-inflammatory >  Results: <your disease appears improved >
+Medicine <anti-fungal > to treat <urinary tract infection>
+<anti-fungal >  Results: [no explicit item]
+
+Aftercare instructions
+If encounter <fever, chills, joint pain, shortness of breath, markedly altered mental status, or chest pain> do <Please come back to the Emergency Room >
+
+No template for <Please make sure you take all of the medications we have listed >
+No template for <we have made changes to your medications, we have stopped lasix and allopurinol. >
+No template for <Please discuss with your PCP regarding starting Colchicine 0.6mg PO BID for maintenance of CPPD remission. >
+No template for <Please keep the appointment listed below with your pulmonologist to follow up on your pneumonia. >

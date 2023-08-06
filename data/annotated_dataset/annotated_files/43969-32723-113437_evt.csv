@@ -1,0 +1,15 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|change in mental status| Medical Issues - Symptom|80|103
+1|low blood pressure| Medical Issues - Symptom|105|123
+2|vomitting| Medical Issues - Symptom|129|138
+3|developed a high fever| Medical Issues - Symptom|149|171
+4|trouble breathing| Medical Issues - Symptom|176|193
+5|Pneumonia| Medical Issues - Disease|358|367
+6|did not reveal any bacteria or fungus.| Tests - Test result|472|510
+7|It is important that you take all of your medications as prescribed and also to follow the instructions of the therapists at rehabilitation.| Aftercare instructions - patient needs to do - Medication|627|767
+8|A new antibiotic called Zosyn was started. You will need to complete a ten day course of this medication.| Medicine instructions - Medicine started|770|875
+9|Your Rifamoin was continued as was your Vancomycin (but at a lower dose).| Medicine instructions - Medicine continued|876|949
+10|Your Bactrim was discontinued.| Medicine instructions - Medicine stopped|950|980
+11|Please let your care givers know if you have any of the following: changes in mental status, fever or shaking chills, uncontrolled vomiting, any blood or "coffee grounds" in any vomit, chest pain/pressure, trouble breathing, pain in your throat or abdomen, increased difficulty walking, feel dizzy or light-headed, blood in your stools, black stools, pain not adequately controled by medications or other health-related concerns.| Aftercare instructions - patient needs to do - Other|983|1422
+12|Please make and keep all of your follow-up apointments.| Aftercare instructions - Upcoming Schedules - Specialist appointment|1425|1480
+13|You should follow-up with your Primary Care Provider when you are discharged from the rehabilitation setting.| Aftercare instructions - Upcoming Schedules - PCP appointment|1481|1590

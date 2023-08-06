@@ -1,0 +1,19 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|fever| Medical Issues - Symptom|106|111
+1|low blood pressure after your ERCP procedure| Medical Issues - Complication developed in the hospital|116|160
+2|antibiotics| Treatments - Medicine name|286|297
+3|fluid| Treatments - Procedure name|302|307
+4|to help maintain your blood pressure| Treatments - Treatment goal|308|344
+5|oxygen levels were low| Medical Issues - Complication developed in the hospital|545|567
+6|may have been extra fluid in your lungs| Medical Issues - Complication developed in the hospital|729|768
+7|extra fluid in your lungs, therefore that was removed with medication| Treatments - Procedure name|743|812
+8|you still had low oxygen levels afterwards| Treatments - Result of the treatment|822|864
+9|lung disease| Medical Issues - Disease|891|903
+10|it is VERY important that you and everyone else in your household quit smoking| Aftercare instructions - patient needs to do - Other|954|1032
+11|ciprofloxacin 500 mg Tablet Twice daily. Last dose in evening on [**2134-12-9**]| Medicine instructions - Medicine started|1157|1237
+12|metronidazole 500 mg Tablet Three times daily. Last dose in evening on [**2134-12-9**]| Medicine instructions - Medicine started|1246|1332
+13|You should continue taking all of your other medications as you were previously| Aftercare instructions - patient needs to do - Medication|1333|1412
+14|You will need to see your primary care doctor soon for further evaluation of your lung disease| Aftercare instructions - Upcoming Schedules - PCP appointment|1414|1508
+15|You also will need further evaluation for your low blood counts| Aftercare instructions - Upcoming Schedules - Test|1510|1573
+16|You did well and were able to leave the ICU| Treatments - Result of the treatment|346|389
+17|infection| Medical Issues - Disease|210|219

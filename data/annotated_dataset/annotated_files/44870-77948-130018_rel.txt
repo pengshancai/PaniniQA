@@ -1,0 +1,27 @@
+Medical Issues
+Symptoms include <blood pressure was very low >;<hypotension >;<irregular heart rhythm >;
+Symptoms <blood pressure was very low >;<hypotension > caused by Disease <failure to thrive> 
+Symptoms <hypotension> caused by Disease <extreme dehydration > 
+Complication <atrial fibrillation > caused by [no explicit item]
+Complication <developed an urinary tract infection > caused by [no explicit item]
+Complication <lung infection > caused by [no explicit item]
+
+Treatments
+Medicine <vasopressors > to treat <hypotension>
+<vasopressors >  Results: <blood pressure improved>
+Medicine <antibiotics > to treat <urinary tract infection>; <lung infection>
+<antibiotics >  Results: <CHANGE HERE Treatment Result>
+Procedure <PEG (feeding) tube > to treat <failure to thrive>
+<PEG (feeding) tube >  Results: [no explicit item]
+
+Aftercare instructions
+If encounter <fevers, chills, lightheadedness or dizziness, abdominal pain, diarrhea, cough, chest pain, difficultly urinating, or any other worrisome symptoms> do <please call your doctor or go to the emergency room>
+
+No template for <Have your blood drawn on Tuesday, [**12-27**] to measure your digoxin level >
+No template for <Fax this result to Dr. [**Last Name (STitle) **] at [**Telephone/Fax (1) **] (office phone [**Telephone/Fax (1) **]) and obtain recommendation from him regarding dosage changes of this medication. >
+No template for <Midodrine was added for your blood pressure >
+No template for <Sotolal was discontinued >
+No template for <replaced with amiodarone and digoxin >
+No template for <Depakote and Trilepal >
+No template for <valproic acid >
+No template for <Please follow up with your doctors as detailed below. >

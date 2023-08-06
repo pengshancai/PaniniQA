@@ -1,0 +1,13 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|alcohol withdrawal| Medical Issues - Disease|80|98
+1|seizure| Medical Issues - Symptom|67|74
+2|You had a breathing tube in place for one day.| Treatments - Procedure name|100|146
+3|Your symptoms improved quickly and you had no evidence of withdrawal symptoms for almost 72 hours| Treatments - Result of the treatment|147|244
+4|You were started on 5 mg norvasc for your blood pressure| Treatments - Medicine name|248|304
+5|enlargement of the liver| Medical Issues - Symptom|542|566
+6|cirrhosis| Medical Issues - Disease|656|665
+7|Please refrain from drinking, as it has already affected your health| Aftercare instructions - patient needs to do - Other|772|840
+8|Start folate 1 mg daily| Treatments - Medicine name|930|953
+9|Start thiamine 100 mg daily| Treatments - Medicine name|957|984
+10|Start multivitamin daily| Treatments - Medicine name|988|1012
+11|Start Norvasc 5 mg daily| Treatments - Medicine name|1016|1040

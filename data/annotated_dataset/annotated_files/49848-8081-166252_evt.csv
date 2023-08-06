@@ -1,0 +1,24 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|shortness of breath| Medical Issues - Symptom|64|83
+1|worsening renal failure| Medical Issues - Disease|102|125
+2|congestive heart failure| Medical Issues - Disease|130|154
+3|hemodialysis| Treatments - Procedure name|179|191
+4|diuretic medication| Treatments - Procedure name|196|215
+5|Please record your weight daily and contact your physician if your weight increases by more than 3 pounds.| Aftercare instructions - patient needs to do - Other|217|323
+6|Please adhere to a diet containing less 2 grams of sodium, 2 grams of potassium, and 1 gram of phosphorus daily.| Aftercare instructions - patient needs to do - Diet|324|436
+7|Please adhere to a 2 liter daily fluid restriction.| Aftercare instructions - patient needs to do - Diet|437|488
+8|colonoscopy| Tests - Test name|499|510
+9|arteriovenous malformation (AVM) in the large intestine| Tests - Test result|527|582
+10|argon thermal therapy| Treatments - Procedure name|606|627
+11|Upper endoscopy| Tests - Test name|629|644
+12|multiple non-bleeding erosions in the stomach and small intestine| Tests - Test result|651|717
+13|Please call [**Telephone/Fax (1) 13545**] or [**Telephone/Fax (1) 463**] to schedule an outpatient capsule endoscopy study at your earliest convenience.| Aftercare instructions - patient needs to do - Other|719|871
+14|Sirolimus was changed to a similar medication tacrolimus 0.5 mg twice daily.| Medicine instructions - Medicine changed|926|1002
+15|Lasix was increased, but at discharge was back at 80 mg twice daily.| Medicine instructions - Medicine changed|1006|1075
+16|Isosorbide mononitrate (Imdur) was increased to 60 mg daily.| Medicine instructions - Medicine changed|1078|1139
+17|Amlodipine (Norvasc)| Medicine instructions - Medicine stopped|1142|1162
+18|Hydralazine| Medicine instructions - Medicine stopped|1184|1195
+19|Pregabalin (Lyrica) was decreased to 75 mg twice daily.| Medicine instructions - Medicine changed|1217|1272
+20|Temazepam (Restoril) was replaced with Mirtazapine (Remeron)| Medicine instructions - Medicine changed|1276|1336
+21|Pantoprazole (Protonix) was increased to 40 mg twice daily.| Medicine instructions - Medicine changed|1341|1400
+22|Please call your physician or return to the Emergency Department if you experience fever, chills, sweats, dizziness, lightheadedness, chest pain, palpitations, cough, wheezing, shortness of breath, abdominal pain, vomiting, diarrhea, bloody or dark stools, or difficulty with urination.| Aftercare instructions - patient needs to do - Other|1401|1687

@@ -1,0 +1,16 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|fractures to your face| Medical Issues - Symptom|132|155
+1|upper extremity fractures| Medical Issues - Symptom|157|182
+2|repair of right distal radius fracture and left hand fracture| Treatments - Procedure name|237|298
+3|repair of facial fractures| Treatments - Procedure name|352|378
+4|Take the prescribed medications as directed| Aftercare instructions - patient needs to do - Medication|816|859
+5|Do not forcefully spit for several days.| Aftercare instructions - patient needs to do - Other|864|904
+6|Do not smoke for several days| Aftercare instructions - patient needs to do - Other|908|937
+7|Do not use straws for several days| Aftercare instructions - patient needs to do - Other|942|976
+8|Do not forcefully blow your nose for at least 2 weeks| Aftercare instructions - patient needs to do - Other|981|1034
+9|Eat only soft foods for several days, always trying to chew on the opposite side of your mouth| Aftercare instructions - patient needs to do - Diet|1231|1325
+10|Do not rinse vigorously for several days. GENTLE salt water swishes may be used| Aftercare instructions - patient needs to do - Other|1330|1409
+11|decreased sensation fingers| Medical Issues - Symptom|1773|1800
+12|inability to move fingers| Medical Issues - Symptom|1802|1827
+13|increased pain| Medical Issues - Symptom|1829|1843
+14|swelling in fingers| Medical Issues - Symptom|1845|1864

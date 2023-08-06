@@ -1,0 +1,18 @@
+Medical Issues
+Symptoms include <clotted fistula>;
+Symptoms [no explicit item] caused by Disease <urinary tract infection > 
+
+Treatments
+Procedure <emergently dialysed > to treat <high serum potassium>
+<emergently dialysed >  Results: [no explicit item]
+[no explicit item] Results: <The clot in the fistula could not be removed so the surgeons converted it to a graft. >; <The graft will be ready for use in about 6 weeks. >; <In the meantime, you have a temporary line in the neck that can be used for dialysis. >
+Medicine <antibiotic > to treat <urinary tract infection>
+<antibiotic >  Results: [no explicit item]
+
+Aftercare instructions
+If encounter <worsening pain, redness and heat at the surgical sites (arm and neck), or if you have fever, chills, nausea, vomiting, abdominal pain, diarrhea, pain on urination, or any other concerning symptoms> do <please call your primary care physician or return to the emergency room>
+
+No template for <You do not need to continue this medication at home. >
+No template for <You will be given a prescription for Percocet to help with pain. >
+No template for <Please resume taking all of your other medications as usual. >
+No template for <You should use oxygen at all times to help you with breathing. >

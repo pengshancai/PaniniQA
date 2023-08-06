@@ -1,0 +1,7 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|pain in your left hip| Medical Issues - Symptom|162|183
+1|difficulty walking| Medical Issues - Symptom|188|206
+2|hyponatremia| Medical Issues - Complication developed in the hospital|288|300
+3|5 radiation treatments to your left shoulder tumor| Treatments - Procedure name|528|578
+4|Also, you started your first chemotherapy dose on Tuesday, [**2129-10-18**]| Treatments - Procedure name|682|757
+5|| Aftercare instructions - Emergency instruction|759|1247

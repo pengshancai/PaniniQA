@@ -1,0 +1,12 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|stroke on the Right side of your brain| Medical Issues - Disease|54|93
+1|bad reaction to the MRI contrast dye| Medical Issues - Complication developed in the hospital|182|218
+2|chest x ray| Tests - Test name|305|316
+3|normal| Tests - Test result|321|327
+4|cholesterol was found to be high| Medical Issues - Disease|334|366
+5|You were started on Simvastatin for your cholesterol| Medicine instructions - Medicine started|419|472
+6|started on Aspirin for further stroke prevention| Medicine instructions - Medicine started|481|529
+7|cardiac echo of the heart| Tests - Test name|533|558
+8|demonstrated a hole in between two [**Doctor Last Name 1754**] of the heart| Tests - Test result|574|649
+9|A hypercoagability work up was started will in patient. This will need to be followed by your primary care physician.| Aftercare instructions - Upcoming Schedules - PCP appointment|651|769
+10|You are to follow up with surgery with Dr. [**Last Name (STitle) 914**]| Aftercare instructions - Upcoming Schedules - Specialist appointment|808|879

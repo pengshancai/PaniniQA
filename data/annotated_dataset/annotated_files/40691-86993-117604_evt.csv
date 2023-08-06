@@ -1,0 +1,9 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|fever| Medical Issues - Symptom|173|178
+1|vancomycin| Treatments - Medicine name|474|484
+2|ertapenem| Treatments - Medicine name|489|498
+3|prednisone| Treatments - Medicine name|828|838
+4|drug reaction| Medical Issues - Disease|459|472
+5|the plastic surgeons who felt the wound on your right hand were healing well and were not concerned for worsening infections| Treatments - Result of the treatment|592|716
+6|morbiliform rash| Medical Issues - Symptom|152|168
+7|anti-bioitics| Treatments - Medicine name|550|563

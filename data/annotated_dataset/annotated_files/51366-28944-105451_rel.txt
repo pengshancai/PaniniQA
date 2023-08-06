@@ -1,0 +1,9 @@
+Medical Issues
+Symptoms include <headache>;<vision changes>;
+Symptoms <headache>;<vision changes> caused by Disease <PRES syndrome>
+
+No template for <Please continue to monitor your blood pressure at home as you have been doing, keep a copy and bring to clinic visits>
+No template for <Call your doctor at [**Telephone/Fax (1) 673**] if BP routinely goes high (above 180 for the systolic pressure), if you have dizziness or headaches>
+No template for <Please continue your normal dialysis schedule>
+No template for <Continue food, fluid and medication recommendations per your kidney doctors>
+No template for <Do not drive if taking narcotic pain medication>

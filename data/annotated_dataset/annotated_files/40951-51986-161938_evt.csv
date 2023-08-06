@@ -1,0 +1,13 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|pulmonary vein ablation| Treatments - Procedure name|71|94
+1|bleeding around your heart| Medical Issues - Symptom|174|200
+2|you were started on a medication called diltiazem| Treatments - Medicine name|271|320
+3|ablation of your heart| Treatments - Procedure name|375|397
+4|permanant pacemaker| Treatments - Procedure name|414|433
+5|The cardiology office will call you with a date and time and instructions in the next week.| Aftercare instructions - Upcoming Schedules - Specialist appointment|435|527
+6|We STOPPED Verapamil| Medicine instructions - Medicine stopped|755|776
+7|Digoxin| Medicine instructions - Medicine stopped|781|788
+8|We STARTED Diltiazem long acting| Treatments - Medicine name|789|822
+9|We CHANGED Coumadin to 2 mg per day, you should have your INR checked on Wednesday| Medicine instructions - Medicine changed|847|929
+10|WE started a low dose of Atenolol to slow your heart rate| Treatments - Medicine name|945|1002
+11|swelling in your legs| Medical Issues - Symptom|1066|1088

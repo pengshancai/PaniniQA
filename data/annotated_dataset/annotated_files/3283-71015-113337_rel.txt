@@ -1,0 +1,16 @@
+Medical Issues
+Symptoms include <bleeding in your stool>;
+
+Tests
+Tests include <endoscopy >;
+Test goal of <endoscopy>: <to look at the source of bleeding >;
+Test results of <endoscopy>: <ulcer was found in your duodenum >;
+
+Aftercare instructions
+If encounter <any new blood from your rectum> do < notify your doctor of come to the emergency department immediately. >
+
+No template for <We stopped your aspirin because of your bleeding.  >
+No template for < increased your metoprolol to 75 mg twice a day. >
+No template for <We are giving you two antibiotics: clarithromycin and amoxicillin. It is important to take these for two weeks. These are treating an infection which may have caused your ulcer to form. >
+No template for <Please stop your simvastatin (cholesterol medicine) for two weeks. You can restart this after you are finished with the antibiotics.  >
+No template for <We started pantoprazole 40 mg twice a day. It is very important to continue to take this until you discuss it with your GI physician. >

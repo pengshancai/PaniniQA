@@ -1,0 +1,18 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|black tarry stools| Medical Issues - Symptom|70|88
+1|decreased hematocrit| Medical Issues - Symptom|95|115
+2|chronic GI bleeding| Medical Issues - Disease|130|149
+3|received 2 units of blood| Treatments - Procedure name|155|181
+4|increase your hematocrit| Treatments - Treatment goal|200|224
+5|nasogastric lavage| Tests - Test name|228|246
+6|colonoscopy| Treatments - Procedure name|281|292
+7|upper endoscopy (EGD)| Treatments - Procedure name|297|318
+8|divericulosis| Medical Issues - Disease|399|412
+9|endoscopy| Treatments - Procedure name|659|668
+10|verapamil| Medicine instructions - Medicine continued|712|721
+11|follow up with your PCP| Aftercare instructions - Upcoming Schedules - PCP appointment|894|918
+12|GI doctors| Aftercare instructions - Upcoming Schedules - Specialist appointment|953|963
+13|endoscopy| Treatments - Procedure name|1000|1009
+14|control heart rate| Treatments - Treatment goal|1053|1071
+15|further evaluate for the bleeding| Treatments - Treatment goal|672|705
+16|verapamil| Treatments - Medicine name|1040|1049

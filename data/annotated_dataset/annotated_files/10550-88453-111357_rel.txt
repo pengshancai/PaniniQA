@@ -1,0 +1,19 @@
+Medical Issues
+Symptoms include <vomiting blood>;
+Symptoms <vomiting blood> caused by Disease <hiatal hernia > 
+
+Tests
+Tests include <endoscopy >;
+Test results of <endoscopy >: <dark bleeding and poor blood flow to the esophagus >;
+Test results of <endoscopy >: <mass-like object in your stomach >;
+Test implications of <endoscopy >: <may represent a compression of the stomach by a hiatal hernia >; 
+Test implications of <endoscopy >: <part of the stomach is extending up into the chest through the diaphragm >;
+
+No template for <you will need to have another endoscopy prior to this procedure as an outpatient >
+No template for <START PANTOPRAZOLE 40mg twice a day until instructed to stop >
+No template for <START SUCRALFATE 1 gram four times a day until instructed to stop >
+No template for <START SUCRALFATE 1 gram four times a day until instructed to stop. Do not take at the same time as your pantoprazole, as it will decrease its effectiveness >
+No template for <START SUCRALFATE 1 gram four times a day until instructed to stop. Do not take at the same time as your pantoprazole, as it will decrease its effectiveness. Try to take it 1-2 hours apart. >
+No template for <STOP ASPIRIN and all other &quot;non steroidal anti-inflammatory drugs&quot; like ibuprofen and naproxen. >
+No template for <Please continue all other medications as previously prescribed. >
+No template for <you will eventually need surgical repair >

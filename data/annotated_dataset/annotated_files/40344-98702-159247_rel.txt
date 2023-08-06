@@ -1,0 +1,22 @@
+Medical Issues
+Symptoms include <difficulty breathing>;
+Symptoms <difficulty breathing> caused by Disease <healthcare-associated pneumonia >
+Symptoms <difficulty breathing> caused by Disease <pneumonia >
+
+Tests
+Test implications of <CHANGE HERE Test name>: <urine cultures were negative, but we had received a report that they were positive at [**Hospital3 **] >
+Treatments
+Procedure <breathing tube, also known as intubation > to treat [No explicit item]
+<breathing tube, also known as intubation >  Results: [No explicit item]
+Medicine <You will need to continue taking antibiotics through [**2107-10-17**] > to treat <healthcare-associated pneumonia>
+<You will need to continue taking antibiotics through [**2107-10-17**] >  Results: [No explicit item]
+Medicine <We restarted your coumadin at a higher dose because your INR was too low.  > to treat <low INR>
+<We restarted your coumadin at a higher dose because your INR was too low.  >  Results: [No explicit item]
+Medicine <STARTED cefepime (last dose on [**10-17**])  > to treat [No explicit item]
+<STARTED cefepime (last dose on [**10-17**])  >  Results: [No explicit item]
+Medicine <STARTED vancomycin (last dose on [**10-17**]) > to treat [No explicit item]
+<STARTED vancomycin (last dose on [**10-17**]) >  Results: [No explicit item]
+Medicine <STARTED Heparin Flush (10 units/ml) 2 mL IV PRN line flush PICC 6. > to treat [No explicit item]
+<STARTED Heparin Flush (10 units/ml) 2 mL IV PRN line flush PICC 6. >  Results: [No explicit item]
+
+No template for <INCREASED warfarin dose to 5mg (adjust as necessary based on INR)  >

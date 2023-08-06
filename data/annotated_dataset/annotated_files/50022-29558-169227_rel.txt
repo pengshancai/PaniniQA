@@ -1,0 +1,22 @@
+Medical Issues
+Symptoms include <unresponsiveness during hemodialysis>;
+Complication <unresponsiveness during hemodialysis> caused by <drop in your blood pressure secondary to fluid being taken off quickly> 
+
+Tests
+Test results of <[no explicit item]: <growth on one of your heart valves >;
+Test goal of <{blood culture}>;<{blood. test}>: <signs of infection in your blood >;
+Test results of <{blood culture}>;<{blood. test}>: <nothing made us think you had a true infection >;
+
+No template for <Quinapril >
+No template for <Amitryptiline >
+No template for <Oxycodone >
+No template for <Vit D >
+No template for <lisinopril >
+No template for <please do not restart these medications when you are discharged, until discussing with your primary care physician. >
+No template for <NPH insulin >
+No template for <Use only sliding scale for glucose control, until discussion with your primary care physician >
+No template for <Levothyroxine was increased to 50mcg per day, continue at this dose >
+No template for <Nystatin was added for thrush, use as needed >
+No template for <Flagyl was added for C. Diff colitis, please continue to take by mouth three times a day until [**2109-9-6**].  >
+No template for < If you experience any change in your mental status, neurological symptoms, chest pain, shortness of breath or any other worrisome symptom please seek medical attention >
+No template for <Please keep all your medical appointments >

@@ -1,0 +1,9 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|nausea| Medical Issues - Symptom|64|70
+1|vomiting| Medical Issues - Symptom|75|83
+2|Diabetic Ketoacidosis| Medical Issues - Disease|108|129
+3|medication| Treatments - Medicine name|197|207
+4|blood sugar was controlled| Treatments - Result of the treatment|162|188
+5|Your nausea and vomiting resolved| Treatments - Result of the treatment|302|335
+6|biliary drains| Treatments - Procedure name|392|406
+7|| Medicine instructions - Medicine changed|495|633

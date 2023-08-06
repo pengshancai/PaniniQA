@@ -1,0 +1,8 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|infection of your dialysis catheter| Medical Issues - Disease|74|109
+1|catheter was removed and a new one was placed| Treatments - Procedure name|116|161
+2|endocarditis| Medical Issues - Disease|229|241
+3|vancomycin| Treatments - Medicine name|270|280
+4|You should be treated with vancomycin for this problem for a total of 6 weeks; your dialysis facility should coordinate this.| Medicine instructions - Medicine started|243|368
+5|If you have any fevers, chills, redness or pain around your line, nausea, vomiting, chest pain, or any other concerns, then please see your doctor or go to the ED.| Aftercare instructions - Emergency instruction|369|532
+6|we have changed your Lantus dose from 6U to 4U daily.| Medicine instructions - Medicine changed|572|625

@@ -1,0 +1,25 @@
+Medical Issues
+Symptoms include <acting unresponsive>;
+Complication <You were still not interacting well and had some low-grade temperatures. > caused by <infection Maybe>
+Complication <sodium levels in your blood were a little elevated > caused by [no explicit item]
+
+Tests
+Tests include <urine sample >;
+Test results of <urine sample>: <infection >;
+
+Treatments
+Procedure <admitted to the intensive care unit > to treat <acting unresponsive Maybe>
+<admitted to the intensive care unit >  Results: [no explicit item]
+Medicine < antibiotics > to treat <infection>
+< antibiotics >  Results: <stabilized>
+Procedure <removed your foley catheter > to treat <infection>
+<removed your foley catheter >  Results: [no explicit item]
+Procedure <pulled out the tube that was placed through your nose into your stomach to help feed you > to treat [no explicit item]
+<pulled out the tube that was placed through your nose into your stomach to help feed you >  Results: <You started to eat more and you remained without a fever >
+<giving you more water> Results: <improved >
+
+
+No template for <It is VERY important that you hydrate yourself properly and drink plenty of water and other fluids.  >
+No template for <Lorazepam 0.5 mg by mouth twice daily >
+No template for <Glyburide 5 mg by mouth once daily >
+No template for <Quetiapine >

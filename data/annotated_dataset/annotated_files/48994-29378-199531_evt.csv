@@ -1,0 +1,18 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|acting unresponsive| Medical Issues - Symptom|233|252
+1|admitted to the intensive care unit| Treatments - Procedure name|272|307
+2|You were still not interacting well and had some low grade temperatures.| Medical Issues - Complication developed in the hospital|309|381
+3|urine sample| Tests - Test name|394|406
+4|infection| Tests - Test result|438|447
+5|antibiotics| Treatments - Medicine name|506|518
+6|removed your foley catheter| Treatments - Procedure name|623|650
+7|pulled out the tube that was placed through your nose into your stomach to help feed you| Treatments - Procedure name|655|743
+8|You started to eat more and you remained without a fever| Treatments - Result of the treatment|745|801
+9|sodium levels in your blood were a little elevated| Medical Issues - Complication developed in the hospital|808|858
+10|giving you more water| Treatments - Medicine name|875|897
+11|improved| Treatments - Result of the treatment|904|913
+12|It is VERY important that you hydrate youself properly and drink plenty of water and other fluids.| Aftercare instructions - patient needs to do - Diet|915|1014
+13|Lorazepam 0.5 mg by mouth twice daily| Medicine instructions - Medicine started|1071|1108
+14|Glyburide 5 mg by mouth once daily| Medicine instructions - Medicine started|1115|1149
+15|Quetiapine| Medicine instructions - Medicine stopped|1162|1172
+16|stabilized| Treatments - Result of the treatment|534|544

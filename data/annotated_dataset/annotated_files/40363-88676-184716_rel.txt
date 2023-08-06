@@ -1,0 +1,10 @@
+
+Treatments
+Procedure <your old hemodialysis catheter.> to treat <blood stream infection>
+<your old hemodialysis catheter.>  Results: [No explicit item]
+Medicine <receive antibiotic intravenously at dialysis for two weeks > to treat [No explicit item]
+<receive antibiotic intravenously at dialysis for two weeks >  Results: [No explicit item]
+Medicine <We STARTED you on vancomycin to be dosed at each dialysis appointment for 2 weeks > to treat [No explicit item]
+<We STARTED you on vancomycin to be dosed at each dialysis appointment for 2 weeks >  Results: [No explicit item]
+
+No template for <We INCREASED yout tylenol to 1000mg every 8 hours >

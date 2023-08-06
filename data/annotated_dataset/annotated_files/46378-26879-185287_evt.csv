@@ -1,0 +1,13 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|acute decompensation of your kidney function| Medical Issues - Symptom|75|119
+1|You underwent a variety of procedures to determine why this happened. You were seen by the nephrology team as well.| Treatments - Procedure name|121|236
+2|You were also seen by the [**Last Name (un) **] doctors who have helped to adjust your insulin regimen as you have been taken off of oral diabetes medications for now.| Treatments - Procedure name|237|404
+3|You have improved a great deal since your admission.| Treatments - Result of the treatment|405|457
+4|insulin regimen| Treatments - Medicine name|324|339
+5|You will need to take all medications as instructed.| Aftercare instructions - patient needs to do - Medication|457|510
+6|Do not take your lisinopril, cyclosporin, or metformin.| Medicine instructions - Medicine stopped|511|566
+7|Continue taking your home dose of citalopram| Medicine instructions - Medicine continued|567|611
+8|You will need to check your blood sugars 4 times a day - 30 min before breakfast, lunch, dinner, and just before bed.| Aftercare instructions - Upcoming Schedules - Test|613|730
+9|You will need to give yourself insulin at this time as well. The amount you give will be according to the sliding scale the [**Last Name (un) **] team has made for you. You will also need to give yourself an evening dose of the long acting insulin. It is very important that you record all of your blood sugars and bring this log to your appointment with Dr. [**Last Name (STitle) **] on [**Last Name (STitle) 766**].| Aftercare instructions - patient needs to do - Medication|731|1148
+10|You will need to keep all of your follow-up appointments.| Aftercare instructions - Upcoming Schedules - Specialist appointment|1149|1206
+11|Please call your primary doctor or return to the ED if you experience any of the following: T&gt;101.5, chills, nausea, vomiting, chest pain, shortness of breath, abdominal pain, lack of urination, extremely elevated blood sugars, change in mental status, or any other concern.| Aftercare instructions - Emergency instruction|1207|1484

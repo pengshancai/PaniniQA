@@ -1,0 +1,15 @@
+Medical Issues
+Symptoms include <chest pain>;<cough >;<2 small blood clots in your lungs >;
+Symptoms <chest pain>;<cough > caused by Disease <right-sided pneumonia > 
+Symptoms <2 small blood clots in your lungs > caused by Disease <atrial fibrillation > <Maybe>
+Symptoms [no explicit item] caused by Disease <cellulitis of your leg > 
+
+Treatments
+Medicine <antibiotics > to treat <right-sided pneumonia>; <cellulitis of your leg > 
+<antibiotics >  Results: [no explicit item]
+
+Aftercare instructions
+If encounter <fevers, worsening shortness of breath, chest pain, worsening of your leg wounds or other concerning symptoms> do <please seek medical attention >
+
+No template for <You were started on new medications for your heart and your infections. >
+No template for <Please keep your follow up appointments. >

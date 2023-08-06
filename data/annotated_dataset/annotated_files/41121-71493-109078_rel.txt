@@ -1,0 +1,14 @@
+Medical Issues
+Symptoms include <your blood pressure was very high>;
+
+Tests
+Tests include <We also scanned your head to make sure you did not have a bleed >;
+Test implications of <scan of the head>: <which was negative >;
+
+Treatments
+Procedure <you needed supplemental oxygen after your radio-frequency ablation > to treat [No explicit item]
+<you needed supplemental oxygen after your radio-frequency ablation >  Results: [No explicit item]
+Medicine <We gave you some pain medications to treat your abdominal pain > to treat <abdominal pain>
+<We gave you some pain medications to treat your abdominal pain >  Results: [No explicit item]
+
+No template for <Oxycodone 2.5 mg by mouth every 4 hours as needed for pain for 1 week >

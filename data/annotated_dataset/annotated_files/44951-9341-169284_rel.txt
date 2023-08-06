@@ -1,0 +1,13 @@
+Medical Issues
+Symptoms include <difficulty swallowing after the eating>;
+
+Tests
+Tests include <upper endoscopy >;
+Test results of <upper endoscopy>: <food stuck in your esophagus >;
+Test results of <upper endoscopy>: <They were able to remove some of the food and push some of it into your esophagus >;
+
+No template for <They would like to see you in 1 month in their office. Please call [**Telephone/Fax (1) 682**] to schedule an appointment with Dr. [**First Name8 (NamePattern2) 1158**] [**Last Name (NamePattern1) 679**]. >
+No template for <Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more than 3 lbs. >
+No template for <STARTED Protonix 40mg twice a day >
+No template for <STOPPED Ranitidine >
+No template for <No other changes were made to your medications. >

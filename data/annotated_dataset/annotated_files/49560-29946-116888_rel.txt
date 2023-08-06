@@ -1,0 +1,28 @@
+Medical Issues
+Symptoms include <difficult to breathe >;
+Symptoms <difficult to breathe > caused by Disease <exacerbation of your heart failure>
+
+Tests
+Tests include <bloodwork >;<urine studies >;<{chest x-ray}>;
+Test results of <{chest x-ray}>: <fluid in your lungs >;
+Test results of <bloodwork >;<urine studies >: <signs of urinary infection >;
+
+Treatments
+Procedure <diuresis of this fluid as well as a thoracentesis (drainage of the fluid around your lung) > to treat <exacerbation of your heart failure>
+<diuresis of this fluid as well as a thoracentesis (drainage of the fluid around your lung) >  Results: <breathing improved >;<your heart was able to pump more efficiently and your kidneys showed signs of better perfusion >
+
+Medicine <7-day course of Augmentin and started on oral Vancomycin simultaneously to prevent C Diff diarrhea > to treat <signs of urinary infection >
+<7-day course of Augmentin and started on oral Vancomycin simultaneously to prevent C Diff diarrhea >  Results: [no explicit item]
+
+No template for <Start Augmentin >
+No template for <Start Vancomycin >
+No template for <Start Lasix at 80mg twice a day >
+No template for <Start Aspirin 81mg daily >
+No template for <Start Vitamin D >
+No template for < Start Oxycontin >
+No template for < Start Tylenol >
+No template for <Stop Lyrica  >
+No template for <Stop Percocet  >
+No template for <Change oxycodone dose  >
+No template for <Please weigh yourself every morning, [**Name8 (MD) 138**] MD if weight &gt; 3 lbs, adhere to 2 gm sodium diet, and restrict your fluid intake to 1L per day.  >
+No template for < If you have worsening shortness of breath, chest pain, lightheadedness or any other concerning symptoms please call your doctor or return to the hospital.  >

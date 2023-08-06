@@ -1,0 +1,13 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|low blood pressure| Medical Issues - Symptom|78|96
+1|abnormal heart rhythm| Medical Issues - Disease|139|160
+2|previous heart attack| Medical Issues - Disease|167|188
+3|cardiac catheterization| Tests - Test name|212|235
+4|evaulation of the blood vessels that supply your heart| Tests - Test implication|246|300
+5|Please continue to take all medications as directed upon leaving the hospital.| Aftercare instructions - patient needs to do - Medication|422|500
+6|Plavix 75mg daily - please continue to take for at least one month.| Medicine instructions - Medicine started|571|639
+7|Lisinopril 2.5mg daily - please do not take on mornings of dialysis.| Medicine instructions - Medicine started|642|710
+8|Atorvastatin 40mg daily| Medicine instructions - Medicine started|714|738
+9|Toprol 37.5mg [**Hospital1 **]| Medicine instructions - Medicine started|741|771
+10|| Aftercare instructions - Emergency instruction|774|904
+11|coronary artery disease| Medical Issues - Disease|329|352

@@ -1,0 +1,21 @@
+Medical Issues
+Symptoms include <bleeding from your rectum>;
+
+Tests
+Tests include <upper GI endoscopy >;<colonoscopy >;
+Test results of <colonoscopy>: <AVM (arterio-venous malformation) >;
+Test results of <upper GI endoscopy>: <no source of bleeding >;
+
+Treatments
+Procedure <blood products to replace lost blood > to treat <bleeding from your rectum>
+<blood products to replace lost blood >  Results: [no explicit item]
+Procedure <cauterized during endoscopy > to treat <AVM (arterio-venous malformation)>
+<cauterized during endoscopy >  Results: [no explicit item]
+
+No template for <colchicine >
+No template for <allopurinol >
+No template for <Please continue to take all of your other medications >
+No template for <Please keep all your outpatient appointments. >
+No template for <Call a doctor or 911 if you have dark tarry stools, blood in your stool, chest pain, shortness of breath, lightheadedness, fever, or any other concerning symptom. >
+No template for <weigh yourself every morning >
+No template for <adhere to 2 gm sodium diet >

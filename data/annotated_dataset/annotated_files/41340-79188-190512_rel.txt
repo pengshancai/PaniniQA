@@ -1,0 +1,28 @@
+Medical Issues
+Symptoms include <difficulty breathing>;<your heart was not able to pump blood effectively >;<difficulty with your breathing >;<COPD exacerbation >;<high blood pressure (hypertension) >;
+Symptoms <difficulty breathing> caused by Disease <pneumnia >
+Symptoms <COPD exacerbation> caused by Disease <chronic obstructive pulmonary disease (COPD) >
+Symptoms <difficulty with your breathing> caused by Disease <pneumonia >
+
+Treatments
+Procedure <You will need pulmonary function tests and an echo of your heart as an outpatient > to treat [No explicit item]
+<You will need pulmonary function tests and an echo of your heart as an outpatient >  Results: [No explicit item]
+Procedure <you undergo a repeat CT scan of the chest in [**7-6**] months to check for change in the nodules > to treat [No explicit item]
+<you undergo a repeat CT scan of the chest in [**7-6**] months to check for change in the nodules >  Results: [No explicit item]
+Procedure <acapella device to help your breathing > to treat <difficulty breathing>
+<acapella device to help your breathing >  Results: [No explicit item]
+Medicine <START prednisone taper: - take 20 mg (2 tablets) for 2 days > to treat [No explicit item]
+<START prednisone taper: - take 20 mg (2 tablets) for 2 days >  Results: [No explicit item]
+Medicine <START spiriva daily (this treats your COPD) START aspirin 325 mg daily > to treat <COPD>
+<START spiriva daily (this treats your COPD) START aspirin 325 mg daily >  Results: [No explicit item]
+Medicine <START lisinopril 20 mg daily (this treats your high blood pressure) > to treat <high blood pressure>
+<START lisinopril 20 mg daily (this treats your high blood pressure) >  Results: [No explicit item]
+Medicine <START dilitiazem 360 mg daily (this treats your high blood pressure) > to treat <high blood pressure>
+<START dilitiazem 360 mg daily (this treats your high blood pressure) >  Results: [No explicit item]
+Medicine <START chlorthalidone 15 mg daily (this treats your high blood pressure) > to treat <high blood pressure>
+<START chlorthalidone 15 mg daily (this treats your high blood pressure) >  Results: [No explicit item]
+Medicine <START simvastatin 40 mg daily (this treats your cholesterol) > to treat <cholesterol>
+<START simvastatin 40 mg daily (this treats your cholesterol) >  Results: [No explicit item]
+Medicine < > to treat <cholesterol>
+< >  Results: [No explicit item]
+

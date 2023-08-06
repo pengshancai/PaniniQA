@@ -1,0 +1,16 @@
+Medical Issues
+Symptoms <CHANGE HERE Symptom name> caused by Disease <cluster of seizures>
+Treatments
+Medicine <high Ativan doses neede to control your seizures > to treat <cluster of seizures>
+<high Ativan doses neede to control your seizures >  Results: [No explicit item]
+Procedure <You were intubated without complications and extubated and then monitored on the floor > to treat [No explicit item]
+<You were intubated without complications and extubated and then monitored on the floor >  Results: [No explicit item]
+Medicine <You were started on Zonisamide > to treat [No explicit item]
+<You were started on Zonisamide >  Results: [No explicit item]
+Medicine <week of Ativan (which will be tapered) > to treat [No explicit item]
+<week of Ativan (which will be tapered) >  Results: [No explicit item]
+Medicine <Ativan taper - as scheduled over the next week > to treat [No explicit item]
+<Ativan taper - as scheduled over the next week >  Results: [No explicit item]
+Medicine <Starting Zonegran > to treat [No explicit item]
+<Starting Zonegran >  Results: [No explicit item]
+

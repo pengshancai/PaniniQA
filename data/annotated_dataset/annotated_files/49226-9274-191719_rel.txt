@@ -1,0 +1,19 @@
+Medical Issues
+Symptoms include <bleeding from your gastrointestinal tract>;
+
+Tests
+Tests include <EGD >;
+Test results of <EGD>: <inflammation in your esophagus and stomach >;
+
+Tests include <{blood test}>
+Test results of <{blood test}>: <Your Coumadin level (INR) was high >;
+
+Treatments
+Medicine <Coumadin was temporarily stopped on admission and you were given heparin to thin your blood while your Coumadin level (INR) increased again. > to treat [no explicit item]
+
+
+No template for <You will need to continue this medication until your INR is therapeutic.  >
+No template for <You were also given a medication called Valium used in alcohol withdrawal. >
+No template for <thiamine >
+No template for <Bactrim for a urinary tract infection, you will need to finish a 7 day course of this medication >
+No template for <INCREASED protonix to twice daily dosing >

@@ -1,0 +1,12 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|difficulty breathing| Medical Issues - Symptom|376|396
+1|breathing tube, also known as intubation| Treatments - Procedure name|413|453
+2|healthcare-associated pneumonia| Medical Issues - Disease|512|543
+3|You will need to continue taking antibiotics through [**2107-10-17**]| Treatments - Medicine name|623|692
+4|urine cultures were negative, but we had received a report that they were positive at [**Hospital3 **]| Tests - Test implication|701|803
+5|pneumonia| Medical Issues - Disease|874|883
+6|We restarted your coumadin at a higher dose because your INR was too low.| Treatments - Medicine name|888|962
+7|STARTED cefepime (last dose on [**10-17**])| Treatments - Medicine name|1168|1212
+8|STARTED vancomycin (last dose on [**10-17**])| Treatments - Medicine name|1212|1257
+9|INCREASED warfarin dose to 5mg (adjust as necessary based on INR)| Medicine instructions - Medicine changed|1258|1324
+10|STARTED Heparin Flush (10 units/ml) 2 mL IV PRN line flush PICC 6.| Treatments - Medicine name|1324|1390

@@ -1,0 +1,16 @@
+Medical Issues
+Symptoms include <heart is in a slow rhythm >;
+
+Treatments
+Procedure <required intubation following the procedure but you were successfully extubated> to treat [No explicit item]
+<required intubation following the procedure but you were successfully extubated>  Results: [No explicit item]
+Medicine <START aspirin every day to keep the valve working well  > to treat <valve>
+<START aspirin every day to keep the valve working well  >  Results: [No explicit item]
+Medicine <START Plavix every day to keep the valve working well, do not stop taking this medicine unless > to treat <valve>
+<START Plavix every day to keep the valve working well, do not stop taking this medicine unless >  Results: [No explicit item]
+Medicine <START ampicillin to treat a urinary tract infection > to treat <urinary tract infection>
+<START ampicillin to treat a urinary tract infection >  Results: [No explicit item]
+Medicine <START pyridium for three days to treat bladder pain because of the infection > to treat <infection>
+<START pyridium for three days to treat bladder pain because of the infection >  Results: [No explicit item]
+
+No template for <STOP taking metoprolol, diphenhydramine, and spironolactone >

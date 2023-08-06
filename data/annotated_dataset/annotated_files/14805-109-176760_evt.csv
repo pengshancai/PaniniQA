@@ -1,0 +1,13 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|hypertensive urgency| Medical Issues - Disease|63|83
+1|IV medications| Treatments - Medicine name|98|112
+2|Your usual oral blood pressure medications were continued| Treatments - Medicine name|153|210
+3|your blood pressure remained well-controlled| Treatments - Result of the treatment|215|259
+4|infection at your prior IV site on your left hand| Medical Issues - Disease|286|336
+5|IV vancomycin| Treatments - Medicine name|361|375
+6|You will need 7 days more of antibiotics which will be given with dialysis.| Aftercare instructions - patient needs to do - Medication|376|453
+7|Please resume your usual dialysis schedule. Your last dialysis was [**1-23**].| Aftercare instructions - Upcoming Schedules - Treatment|453|532
+8|Please continue to take your medications as prescribed.| Medicine instructions - Medicine continued|532|587
+9|You should hold your coumadin today. You can resume this on wednesday at your normal dose.| Medicine instructions - Medicine stopped|588|679
+10|You should have your INR checked at dialyis as usual on thursday.| Aftercare instructions - Upcoming Schedules - Test|679|744
+11|If you develop any of the following concerning symptoms, please call your PCP or go to the ED: fevers, chills, chest pains, shortness of breath, nausea, vomiting, or headaches.| Aftercare instructions - Emergency instruction|747|923

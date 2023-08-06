@@ -1,0 +1,17 @@
+Medical Issues
+Symptoms include <shortness of breath>;<weight gain >;
+Symptoms <shortness of breath>;<weight gain > caused by Disease <heart failure > <CHANGE HERE Maybe>
+Complication <became confused > caused by <Resperidone> <Maybe>
+
+Tests
+Tests include <lab tests >;<chest x-rays >;<ECHO (ultrasound) of your heart  >;
+Test results of <lab tests >;<chest x-rays >;<ECHO (ultrasound) of your heart  >: <found that your symptoms were due to a worsening of your heart failure >;
+
+No template for <Please continue to take your home medications >
+No template for <We have made the following changes: - CHANGED warfarin. Hold it on [**2155-6-26**], then start 2mg daily.  >
+No template for <- INCREASED furosemide to 80mg by mouth twice daily  >
+No template for <- DECREASED sertraline to 50mg by mouth daily >
+No template for <- STOPPED risperidone >
+No template for <- STARTED metoprolol tartrate 12.5mg by mouth twice daily  >
+No template for <Please follow up with your primary care doctor in the next 2 weeks.  >
+No template for <Weigh yourself every morning and call your doctor if your weight goes up more than 3 lbs. >

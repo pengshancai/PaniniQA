@@ -1,0 +1,16 @@
+Medical Issues
+Symptoms include <malaise>;<dysuria >;
+Symptoms <malaise><dysuria > caused by Disease <bacterial urinary tract infection >
+Complication <wheezing and shortness of breath > caused by <ATG> 
+
+Treatments
+Medicine <IV antibiotics > to treat <bacterial urinary tract infection>
+<IV antibiotics >  Results: <your condition improved significantly.>
+Medicine <ATG > to treat <aplastic anemia>
+
+Aftercare instructions
+If encounter <worsening shortness of breath, wheezing, fever, chills, pain with urination, lightheadedness, dizziness> do <please call the on-call oncology fellow or visit the emergency room. >
+
+No template for <You will need to follow up with your oncologist as an outpatient in regards to further plans. >
+No template for <You were noted to have high blood pressure, so amlodipine, a blood pressure medication, was started.  >
+No template for <Change cyclosporine to 50 mg twice a day (2 pills) >

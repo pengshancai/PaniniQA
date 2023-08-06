@@ -1,0 +1,16 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|throat pain| Medical Issues - Symptom|127|139
+1|pneumonia| Medical Issues - Disease|285|294
+2|fungal infection in your mouth and upper throat| Medical Issues - Disease|313|360
+3|liquid medications| Treatments - Medicine name|221|239
+4|Try to avoid hard, solid foods or sharp foods like crackers or chips that could cause you more pain in your throat| Aftercare instructions - patient needs to do - Diet|515|629
+5|Added: Fluconazole (for 11 days)| Medicine instructions - Medicine started|644|676
+6|Levaquin (for one more day)| Medicine instructions - Medicine started|678|705
+7|Carafate| Medicine instructions - Medicine started|707|715
+8|miralax| Medicine instructions - Medicine started|717|724
+9|Magic Mouthwash| Medicine instructions - Medicine started|726|741
+10|fragmin injections| Medicine instructions - Medicine started|743|761
+11|coumadin| Treatments - Procedure name|763|771
+12|Take the fragmin injections only until the coumadin clinic tells you to do so| Medicine instructions - Medicine started|773|850
+13|Changed: Oxycodone (now liquid)| Medicine instructions - Medicine changed|947|979
+14|| Medicine instructions - Medicine stopped|979|999

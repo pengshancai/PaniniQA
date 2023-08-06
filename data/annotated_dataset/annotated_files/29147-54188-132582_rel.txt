@@ -1,0 +1,16 @@
+
+Tests
+Tests include <speech and swallow consult >;
+Test results of <speech and swallow consult >: <unable to pass >;
+
+Treatments
+Procedure <VAC dressing > to treat <bowel perforation>
+Procedure <drains in your abdomen > to treat <bowel perforation>
+Procedure <ileostomy > to treat <bowel perforation>
+
+No template for <You have a new ileostomy and it is important that the output is monitored. >
+No template for <You have a new ileostomy and it is important that the output is monitored. The output should be between 500cc-1500cc daily. >
+No template for <It is important that you are monitored for signs and symptoms of dehydration and symptoms of constipation. >
+No template for <You will need to be reevaluated by the speech and swallow team at the rehab hospital. >
+No template for <You have tolerated the valve that allows you to talk well and should continue to use this. >
+No template for <You will be sent to rehab to recieve very important care and help you recover. >

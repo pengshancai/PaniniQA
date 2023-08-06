@@ -1,0 +1,13 @@
+Medical Issues
+Symptoms include <atrial fibrilation >;
+Symptoms <atrial fibrilation> caused by Disease <pneumonia> 
+
+Treatments
+Medicine <antibiotics > to treat <pneumonia>
+<antibiotics >  Results: <slowly able to decrease the amount of oxygen you needed>
+
+No template for <Please start taking cefpodoxime for 6 more days >
+No template for <Please change your Advair to 500-50, 1 puff twice a day >
+No template for <Please stop taking Vicodin for now. As you might remember, you were confused for a few days in the ICU. You appeared comfortable without this medication. >
+No template for <You may take guaifenasin as needed for cough >
+No template for < >

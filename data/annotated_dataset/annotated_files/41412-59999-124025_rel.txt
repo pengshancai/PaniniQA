@@ -1,0 +1,10 @@
+Medical Issues
+Symptoms include <mental status changes>;<worsening of shortness and acute renal failure >;<lethargic >;
+Symptoms [No explicit item] caused by Disease <empyema >
+
+Treatments
+Medicine <Patient continued on a fentanyl patch for pain > to treat <pain>
+<Patient continued on a fentanyl patch for pain >  Results: [No explicit item]
+Procedure <had daily drainage of pleural fluid > to treat [No explicit item]
+<had daily drainage of pleural fluid >  Results: [No explicit item]
+

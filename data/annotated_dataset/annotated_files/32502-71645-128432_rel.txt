@@ -1,0 +1,14 @@
+Medical Issues
+Symptoms include <difficulty swallowing>;<swelling at the throat >;<fever >;
+Symptoms <difficulty swallowing> <swelling at the throat > <fever > caused by Disease <laryngitis >
+
+Treatments
+Medicine <2 antibiotics, an antibacterial and an antifungal > to treat <laryngitis>
+<2 antibiotics, an antibacterial and an antifungal >  Results: {symptoms improved}
+
+Aftercare instructions
+If encounter <throat swelling, or difficulty breathing or swallowing, or high fevers, or pain with swallowing> do <call your physician or return to the hospital. >
+
+No template for < For this infection, you were started on 2 antibiotics, an antibacterial and an antifungal. >
+No template for <START fluconazole for 11 days (an antibiotic) >
+No template for <START augmentin for 11 days (an antibiotic) >

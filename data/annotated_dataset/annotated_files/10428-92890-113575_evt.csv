@@ -1,0 +1,14 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|Baclofen overdose| Medical Issues - Disease|66|83
+1|intubated| Treatments - Procedure name|191|200
+2|airway protection| Treatments - Result of the treatment|205|222
+3|you had 2 seizures| Medical Issues - Complication developed in the hospital|325|344
+4|you were started on Dilantin| Treatments - Medicine name|355|384
+5|placed on cEEG| Tests - Test name|388|402
+6|seizures and the subsequent delusions| Medical Issues - Symptom|408|445
+7|likely due to withdrawal from Baclofen| Medical Issues - Disease|467|505
+8|restarted on your home dose Baclofen| Medicine instructions - Medicine started|527|563
+9|Dilantin has also been stopped| Medicine instructions - Medicine stopped|569|599
+10|you would benefit from rehab given that you were bedbound for 1 week| Aftercare instructions - Upcoming Schedules - Specialist appointment|875|943
+11|restarted you on your home Effexor| Medicine instructions - Medicine started|978|1012
+12|With regards to your MS, you were continued on your home dose of Cellcept| Medicine instructions - Medicine continued|1150|1223

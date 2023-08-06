@@ -1,0 +1,8 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|low blood pressure| Medical Issues - Disease|63|81
+1|holding of your meds| Treatments - Medicine name|177|197
+2|several liters of IV fluids| Treatments - Medicine name|202|229
+3|blood pressure returned to acceptable levels| Treatments - Result of the treatment|235|279
+4|We successfully restarted your home carvedilol.| Medicine instructions - Medicine started|281|329
+5|You should NOT take your: Furosemide Spironolactone lisinopril Terazosin until you discuss with Dr. [**Last Name (STitle) 74485**] at the causeway VA| Medicine instructions - Medicine stopped|387|536
+6|Please return to your local ED if you have fever greater 101, chest pain, SOB, DOE, or worsening of baseline dizziness with walking.| Aftercare instructions - Emergency instruction|537|669

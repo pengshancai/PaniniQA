@@ -1,0 +1,13 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|vomiting blood| Medical Issues - Symptom|63|77
+1|alcohol withdrawal| Medical Issues - Disease|82|100
+2|You were treated with medication to protect your stomach from acid| Medicine instructions - Medicine started|293|359
+3|diazepam (valium)| Medicine instructions - Medicine started|365|382
+4|Regarding your alcohol use and depression, psychiatry was consulted and they recommend inpatient psychiatric management| Aftercare instructions - Upcoming Schedules - Specialist appointment|616|735
+5|STARTED thiamine| Treatments - Medicine name|797|813
+6|folate| Treatments - Medicine name|815|821
+7|multivitamin| Treatments - Medicine name|827|839
+8|STARTED neosporin ointment to your lip| Treatments - Medicine name|840|878
+9|STARTED pantoprazole| Treatments - Medicine name|879|899
+10|| Treatments - Medicine name|921|970
+11|alcohol gastritis| Medical Issues - Disease|904|921

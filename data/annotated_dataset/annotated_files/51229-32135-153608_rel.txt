@@ -1,0 +1,9 @@
+Medical Issues
+Symptoms include <build up of fluid around the lungs and in the legs>;
+Symptoms <build up of fluid around the lungs and in the legs> caused by Disease <worsening congestive heart failure> 
+
+No template for <Please weigh yourself every morning and call your physician should your weight increase by greater than 3 lbs >
+No template for <Please adhere to a 2 gram per day sodium diet and a 1 L daily fluid restriction >
+No template for <Your dose of lasix (furosemide) was increased >
+No template for <Please continue taking your other medications as prescribed >
+No template for <Please continue to refrain from smoking. Information was given to you on admission regarding smoking cessation and preventing relapses >

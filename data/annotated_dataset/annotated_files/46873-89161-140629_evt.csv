@@ -1,0 +1,11 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|pulmonary vein isolation| Treatments - Procedure name|35|59
+1|atrial fibrillation| Medical Issues - Disease|69|88
+2|low blood pressure| Medical Issues - Complication developed in the hospital|114|132
+3|Dofetalide| Treatments - Medicine name|307|317
+4|to keep you in a regular rhythm| Treatments - Treatment goal|318|349
+5|You will take Dofetalide twice daily and will use a Heart monitor at home to send information back to Dr.[**Name (NI) 1565**] office.| Aftercare instructions - patient needs to do - Medication|452|585
+6|Medication changes: 1. Decrease Atenolol to 50 mg daily| Medicine instructions - Medicine changed|588|643
+7|2. Decrease Diovan to 80 mg daily - Take [**11-26**] of a 160mg pill daily| Medicine instructions - Medicine changed|644|718
+8|3. Start Nitroglycerin as needed for chest pain as directed| Medicine instructions - Medicine started|719|779
+9|Weigh yourself every morning, call Dr. [**Last Name (STitle) **] if weight goes up more than 3 lbs in 1 day or 5 pounds in 3 days.| Aftercare instructions - patient needs to do - Other|779|909

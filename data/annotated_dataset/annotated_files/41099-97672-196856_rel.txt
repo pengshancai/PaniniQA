@@ -1,0 +1,18 @@
+Medical Issues
+Symptoms include <dangerously high blood pressures>;<high blood pressure >;<hypertension >;<stroke >;<heart attack >;
+Symptoms [No explicit item]caused by Disease <heart attack >
+
+Treatments
+Medicine <We gave you IV medications to reduce your blood pressure > to treat <high blood pressure>
+<We gave you IV medications to reduce your blood pressure >  Results: [No explicit item]
+Medicine <START: lisinopril 40mg, take once a day at bedtime > to treat [No explicit item]
+<START: lisinopril 40mg, take once a day at bedtime >  Results: [No explicit item]
+Medicine <carvedilol 50mg, take twice a day  > to treat [No explicit item]
+<carvedilol 50mg, take twice a day  >  Results: [No explicit item]
+Medicine <Furosemide 80mg, take once a day > to treat [No explicit item]
+<Furosemide 80mg, take once a day >  Results: [No explicit item]
+Medicine <Ferrous Sulfate (Iron) 325 mg once a day > to treat [No explicit item]
+<Ferrous Sulfate (Iron) 325 mg once a day >  Results: [No explicit item]
+
+No template for <Isosorbide Mononitrate (Imdur) ER 60 mg take once a day >
+No template for <STOP: Metoprolol Amlodipine >

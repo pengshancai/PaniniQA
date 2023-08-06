@@ -1,0 +1,15 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|difficulty breathing| Medical Issues - Symptom|145|165
+1|low oxygen| Medical Issues - Symptom|167|177
+2|low blood pressure| Medical Issues - Symptom|183|201
+3|pneumonia| Medical Issues - Disease|226|235
+4|antibiotics| Treatments - Medicine name|307|318
+5|IV fluids| Treatments - Medicine name|340|349
+6|dehydrated| Medical Issues - Symptom|367|377
+7|mechanical ventilation through your trach| Treatments - Procedure name|450|491
+8|to help rest you as well as to keep your oxygen level appropriate| Treatments - Treatment goal|492|557
+9|Throughout your stay, your oxygen level improved and you were able to be kept off the ventilator for long periods of time| Treatments - Result of the treatment|559|680
+10|The following changes were made to your medications: - Continue Cefpodoxime 200mg by mouth twice a day through [**2162-4-14**]| Medicine instructions - Medicine continued|682|808
+11|- Continue Prednisone according to the following taper: 40mg until [**4-17**] 30mg until [**4-22**] 20mg until [**4-27**] 10mg until [**5-2**]| Medicine instructions - Medicine continued|809|951
+12|- Use ipratropium and albuterol neublizers as needed for shortness of breath, and wheezing Please take all medications as prescribed.| Aftercare instructions - patient needs to do - Medication|952|1085
+13|Please follow-up at your appointments below.| Aftercare instructions - Upcoming Schedules - Specialist appointment|1086|1130

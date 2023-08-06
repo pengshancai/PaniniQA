@@ -1,0 +1,12 @@
+Medical Issues
+Symptoms include <falling backwards>;
+
+Tests
+Tests include <CT scan of your head and torso in the ED >;
+
+Treatments
+Medicine <gabapentin > to treat <muscle spasm>
+<gabapentin >  Results: [No explicit item]
+Medicine <ibuprofen > to treat <muscle spasm>
+<ibuprofen >  Results: [No explicit item]
+

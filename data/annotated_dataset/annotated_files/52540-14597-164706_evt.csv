@@ -1,0 +1,12 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|intoxication| Medical Issues - Symptom|63|75
+1|inability to walk| Medical Issues - Symptom|96|113
+2|x-rays of your feet| Tests - Test name|123|142
+3|no fractures| Tests - Test result|154|166
+4|You should continue to walk with crutches until you are able to bear weight on your feet| Aftercare instructions - patient needs to do - Other|168|256
+5|MRI| Tests - Test name|278|281
+6|seizures| Medical Issues - Symptom|299|307
+7|damage to your brain that could be from heavy alcohol consumption| Tests - Test implication|325|390
+8|You have an appointment at the [**Hospital Ward Name 23**] Building for primary care with Dr. [**First Name8 (NamePattern2) **] [**Name (STitle) **] on [**2201-8-17**] at 2:30| Aftercare instructions - Upcoming Schedules - PCP appointment|604|779
+9|You will be given information about detoxification programs that you can go to if you would like to quit drinking| Aftercare instructions - patient needs to do - Other|392|505
+10|If you develop increasing foot pain, fevers, inability to eat or drink water, or other worrisome symptoms, you should seek immediate medical attention| Aftercare instructions - Emergency instruction|874|1024

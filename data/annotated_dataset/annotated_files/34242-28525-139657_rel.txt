@@ -1,0 +1,8 @@
+Aftercare instructions
+If encounter <fever, chills, sweats, chest pain, shortness of breath, or other concerning symptoms> do <please seek immediate medical attention. >
+
+No template for <You will be discharged on a 2 week course of antibiotics >
+No template for <Levofloxacin 250mg PO Q24H (day [**3-30**]) stop date of [**2114-8-4**] >
+No template for <Flagyl 500 mg PO TID (day [**3-30**]) stop date of [**2114-8-4**] >
+No template for <It is very important that you take all of your medications as prescribed.  >
+No template for <It is very important that you make all of your doctor&#x27;s appointments.  >

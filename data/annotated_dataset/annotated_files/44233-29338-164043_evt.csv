@@ -1,0 +1,19 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|persistent low grade fevers| Medical Issues - Symptom|63|90
+1|hypotension| Medical Issues - Symptom|95|106
+2|sacral ulcer| Medical Issues - Disease|208|220
+3|You were continued on vanc/zosyn, and a third antibiotic, ciprofloxacin was added to your regimen to cover for stool organisms.| Treatments - Medicine name|266|393
+4|IV pressors| Treatments - Medicine name|469|480
+5|cortisol stimulation test| Tests - Test name|529|554
+6|adrenal insufficiency| Tests - Test result|581|602
+7|started on high dose hydrocortisone| Tests - Test implication|615|650
+8|You were transitioned to oral prednisone which should be tapered slowly over 2 weeks as your blood pressure tolerates| Treatments - Medicine name|736|853
+9|You should follow up with your PCP and have [**Name Initial (PRE) **] repeat cortisol stim test in 2 weeks.| Aftercare instructions - Upcoming Schedules - PCP appointment|855|962
+10|You completed a 10 day course of antibiotics which ended [**6-16**] and remained afebrile.| Treatments - Medicine name|963|1053
+11|You received hemodialysis according to your normal schedule| Treatments - Procedure name|1056|1115
+12|Please continue to take your medications as prescribed.| Medicine instructions - Medicine continued|1119|1174
+13|Continue to go to your regularly scheduled dialysis sessions.| Aftercare instructions - Upcoming Schedules - Treatment|1175|1236
+14|Please follow wound care instructions to maintain the area of your ulcer clean and dry.| Aftercare instructions - Upcoming Schedules - Specialist appointment|1237|1324
+15|Your CPAP settings were gradually weaned to [**5-17**]| Treatments - Procedure name|1325|1379
+16|You may benefit from a trial of trach mask.| Aftercare instructions - patient needs to do - Other|1381|1424
+17|If you develop fever or any other concerning symptoms, please call your doctor or come to the hospital.| Aftercare instructions - Emergency instruction|1427|1530

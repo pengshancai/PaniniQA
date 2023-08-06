@@ -1,0 +1,7 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|severe narrowing in your throat| Medical Issues - Symptom|64|95
+1|Your symptoms improved with steroids and antibiotics| Treatments - Result of the treatment|180|232
+2|found to have normal swallowing function without the need for a special diet| Tests - Test result|405|481
+3|You will continue antibiotics until [**8-7**]| Medicine instructions - Medicine continued|483|528
+4|low platelet counts| Medical Issues - Symptom|558|577
+5|This will need to be evaluated further by your primary care doctor.| Aftercare instructions - Upcoming Schedules - PCP appointment|579|646

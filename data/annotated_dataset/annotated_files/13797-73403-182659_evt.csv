@@ -1,0 +1,6 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|low heart rates| Medical Issues - Symptom|125|141
+1|STOP taking your digoxin| Medicine instructions - Medicine stopped|432|456
+2|Please STOP taking your metoprolol| Medicine instructions - Medicine stopped|458|493
+3|Please DECREASE your aspirin to 81mg because you are already on a lifelong blood thinner enoxaparin (lovenox)| Medicine instructions - Medicine changed|496|605
+4|Please STOP your captopril for now until, but it may be restarted soon at the Rehab center or by your primary care physician when your blood pressure can tolerate it| Medicine instructions - Medicine stopped|608|773

@@ -1,0 +1,13 @@
+Medical Issues
+Symptoms include <pain in your left hip>;<difficulty walking >;
+Complication <hyponatremia > caused by [no explicit item]
+
+Treatments
+Procedure <5 radiation treatments to your left shoulder tumor > to treat [no explicit item]
+<5 radiation treatments to your left shoulder tumor >  Results: < You do not need further radiation therapy and do not need to follow-up with the radiation oncologist>
+Procedure <Also, you started your first chemotherapy dose on Tuesday, [**2129-10-18**] > to treat [no explicit item]
+<Also, you started your first chemotherapy dose on Tuesday, [**2129-10-18**] >  Results: [no explicit item]
+
+Aftercare instructions
+If encounter <Fever, chills, nausea, vomiting, diarrhea, blood in your stool or darker than normal bowel movements, worsening fatigue, pallor, numbness/tingling, difficulty moving or confusion, chest pain, trouble breathing, abdominal pain, new rash, new bleeding, new bruising, swelling in part of your body, or other symptoms that concern you> do <please come to the Emergency Department or call your doctor immediately at [**Telephone/Fax (1) 22**] >
+

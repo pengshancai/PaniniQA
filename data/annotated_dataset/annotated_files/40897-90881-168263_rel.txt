@@ -1,0 +1,9 @@
+Medical Issues
+Symptoms include <bleeding in your brain>;<fracture of your 12th thoracic vertebra >;
+
+Treatments
+Procedure <You will need to wear a brace called a TLSO brace > to treat <fracture of your 12th thoracic vertebra>
+<You will need to wear a brace called a TLSO brace >  Results: [No explicit item]
+<CHANGE HERE Procedure name / Medicine name> Results: <stabalize the vertebral fracture >
+
+No template for <If you sleep with the head of the bed flat then you may omit the brace BUT put it on BEFORE you get out of bed >

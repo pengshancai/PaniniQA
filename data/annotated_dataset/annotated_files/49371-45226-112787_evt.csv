@@ -1,0 +1,10 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|anemia| Tests - Test result|64|70
+1|dark stools| Medical Issues - Symptom|97|108
+2|concerned that you might be bleeding from your gastrointestinal tract| Tests - Test goal|118|187
+3|blood transfusions| Treatments - Procedure name|202|220
+4|blood counts improved| Treatments - Result of the treatment|230|251
+5|endoscopy| Tests - Test name|273|282
+6|did not show any explanation for your low blood counts and no evidence of bleeding| Tests - Test result|289|371
+7|It is very important you follow up tomorrow for a repeat check of your blood counts.| Aftercare instructions - patient needs to do - Other|372|457
+8|continue to take all of your other medications as prescribed.| Aftercare instructions - patient needs to do - Medication|531|593

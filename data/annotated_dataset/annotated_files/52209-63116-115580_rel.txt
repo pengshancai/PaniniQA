@@ -1,0 +1,10 @@
+Medical Issues
+Symptoms include <lethargy>;<low blood pressure >;<rapid heart rate >;
+Complication <tunneled dialysis line > caused by [no explicit item]
+
+Tests
+Test results of <{blood culture}>: <bacteria in your blood >;
+
+No template for <BEGIN TAKING IV vancomycin at dialysis (last day [**2103-2-7**])>
+No template for <INCREASE FREQUENCY of digoxin to 4 days per week (M/W/F/[**Doctor First Name **])>
+No template for <Please follow up with your doctors as recommended below>

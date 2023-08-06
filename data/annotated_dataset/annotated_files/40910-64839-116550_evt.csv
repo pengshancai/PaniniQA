@@ -1,0 +1,18 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|severe liver laceration| Medical Issues - Symptom|133|156
+1|lung laceration| Medical Issues - Symptom|170|185
+2|bruising and rib fractures| Medical Issues - Symptom|191|217
+3|blood count| Tests - Test name|226|238
+4|abdominal pain| Medical Issues - Symptom|378|392
+5|fluid which has collected in your abdomen| Medical Issues - Symptom|411|452
+6|right rib fractures 8 and 10| Medical Issues - Symptom|505|534
+7|severe pain| Medical Issues - Symptom|550|561
+8|You should take your pain medication as directed to stay ahead of the pain otherwise you won't be able to take deep breaths| Aftercare instructions - patient needs to do - Medication|636|764
+9|Pneumonia| Medical Issues - Disease|853|862
+10|use your incentive spirometer 4 times every hour while awake| Treatments - Procedure name|939|999
+11|non steroidal antiinflammatory drugs are very effective in controlling pain ( ie, Ibuprofen, Motrin, Advil, Aleve, Naprosyn)| Treatments - Medicine name|1547|1671
+12|acute shortness of breath| Medical Issues - Symptom|1801|1826
+13|increased pain or crackling sensation around your ribs ( crepitus )| Medical Issues - Symptom|1828|1895
+14|increased abdominal pain| Medical Issues - Symptom|1897|1921
+15|dizziness| Medical Issues - Symptom|1923|1932
+16|increased fatigue| Medical Issues - Symptom|1934|1951

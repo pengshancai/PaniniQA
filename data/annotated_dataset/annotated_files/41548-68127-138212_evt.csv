@@ -1,0 +1,8 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|chest pain| Medical Issues - Symptom|112|122
+1|fevers| Medical Issues - Symptom|137|143
+2|viral upper respiratory infection| Medical Issues - Disease|169|202
+3|You underwent a cardiac cath| Treatments - Procedure name|250|278
+4|blockages to blood flow| Treatments - Result of the treatment|335|358
+5|You had stents put in the arteries of your heart to open them up| Treatments - Procedure name|360|425
+6|We decreased your aspirin to a baby aspirin (81mg a day)| Medicine instructions - Medicine changed|496|552

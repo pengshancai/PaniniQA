@@ -1,0 +1,19 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|dehydration| Medical Issues - Symptom|70|81
+1|diarrhea| Medical Issues - Symptom|83|91
+2|mucositis| Medical Issues - Symptom|135|144
+3|IV fluids| Treatments - Medicine name|159|168
+4|TPN| Treatments - Medicine name|181|184
+5|antibiotics| Treatments - Medicine name|256|267
+6|bloodstream infection| Medical Issues - Disease|274|295
+7|pneumonia| Medical Issues - Disease|302|311
+8|We also started enoxaparin (Lovenox), a blood thinner, due to a blood clot found in your arm veins.| Medicine instructions - Medicine started|313|412
+9|enoxaparin| Treatments - Medicine name|329|339
+10|blood clot found in your arm veins| Medical Issues - Disease|377|411
+11|chemotherapy| Treatments - Medicine name|461|473
+12|white blood cells recovered| Treatments - Result of the treatment|423|450
+13|mucositis continued to improve| Treatments - Result of the treatment|480|510
+14|We changed your ranitidine to pantopraxole.| Medicine instructions - Medicine changed|512|555
+15|Please take all medications as prescribed| Aftercare instructions - patient needs to do - Medication|556|598
+16|go to all follow up appointments| Aftercare instructions - Upcoming Schedules - Specialist appointment|602|634
+17|If you experience fevers, chills, vomiting, diarrhea, abdominal pain, worsening mouth/throat pain, bloody stools, or any other concerning symptoms, please seek medical attention or come to the ER immediately.| Aftercare instructions - Emergency instruction|635|844

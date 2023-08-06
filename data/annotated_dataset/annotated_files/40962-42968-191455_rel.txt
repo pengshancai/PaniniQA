@@ -1,0 +1,16 @@
+Medical Issues
+Symptoms include <right sided weakness  >;<speech difficulties >;
+Symptoms [No explicit item] caused by Disease <stroke>
+Symptoms [No explicit item] caused by Disease <watershed strokes (strokes between major artery territories) on the left hemisphere and a small stroke in the right hemisphere >
+
+Tests
+Tests include <you had an MRI of your head as well as studies to help identify the cause of the stroke >;< Echocardiogram of your heart >;
+
+Treatments
+Medicine <You received a medication called tPA > to treat [No explicit item]
+<You received a medication called tPA >  Results: [No explicit item]
+<tPA> Results: <There were some improvements noted after receiving this medication >
+
+No template for <your medication was switched to Aspirin >
+No template for <you were also started on a medication called Coumadin >
+No template for <you were started on a medication called Fluoxetine. >

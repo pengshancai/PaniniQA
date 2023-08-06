@@ -1,0 +1,10 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|speech difficulties| Medical Issues - Symptom|101|120
+1|worsening of your right sided weakness| Medical Issues - Symptom|125|163
+2|stroke| Medical Issues - Disease|197|203
+3|We increased your lisinopril to 5mg daily.| Medicine instructions - Medicine changed|359|401
+4|2. We started a medication called labetalol for atrial fibrillation.| Medicine instructions - Medicine started|402|470
+5|3. We have stopped your aspirin| Medicine instructions - Medicine stopped|471|502
+6|Please continue your tizanidine, gabapentin, and labetalol at your regular doses.| Medicine instructions - Medicine continued|504|585
+7|You have an MRI that is tentatively scheduled for [**2168-12-2**] prior to your appointment with Dr. [**First Name (STitle) **] to evaluate the area of the bleed.| Aftercare instructions - Upcoming Schedules - Test|586|748
+8|Radiology will contact you with the specific time and date| Aftercare instructions - Upcoming Schedules - Specialist appointment|749|807

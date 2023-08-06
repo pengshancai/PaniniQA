@@ -1,0 +1,16 @@
+Medical Issues
+Symptoms include <shortness of breath>;<cough >;
+Symptoms {CHANGE HERE Symptom name} caused by Disease <pneumonia > {<shortness of breath>;<cough>}
+Symptoms {CHANGE HERE Symptom name} caused by Disease <urinary tract infection > {<asymptomatic>}
+
+Tests
+Test results of {urine test}: <bacteria in your urine >;
+
+No template for <antibiotics >
+No template for <please take for the entire course even if you are feeling better >
+No template for <cefpodoxime >
+No template for <oxycodone >
+No template for <200mg by mouth every 12 hours for 2 more days  >
+No template for <azithromycin >
+No template for <250mg by mouth daily for 1 more day >
+No template for <200mg by mouth every 12 hours for 2 more days  >

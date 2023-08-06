@@ -1,0 +1,13 @@
+Medical Issues
+Symptoms include <skull and sinus fractures>;<injuries to your upper and lower extremities >;<lower extremity injuries >;<lower extremity injuries >;< increased swelling >;
+
+Treatments
+Procedure <exploratory surgery of your abdomen > to treat [No explicit item]
+<exploratory surgery of your abdomen >  Results: [No explicit item]
+Procedure <tracheostomy tube placed  > to treat <the secretions from your lungs because you were unable to clear them on your own>
+<tracheostomy tube placed  >  Results: <CHANGE HERE Treatment Result>
+<CHANGE HERE Procedure name / Medicine name> Results: <help clear the secretions from your lungs because you were unable to clear them on your own >
+Procedure <you had a feeding tube placed through which you received additional supplements > to treat <maintain nutritional status>
+<you had a feeding tube placed through which you received additional supplements >  Results: [No explicit item]
+
+No template for <You are now preparing for discharge to a rehabilitation facility where you can further regain your strength. >

@@ -1,0 +1,22 @@
+Medical Issues
+Symptoms include <swelling in your legs>;<shortness of breath >;
+Symptoms <swelling in your legs>;<shortness of breath > caused by Disease <heart failure >
+
+Treatments
+Procedure <cardiac catheterization > to treat <heart failure>
+<cardiac catheterization >  Results: <did not reveal any signficant disease in the coronary arteries of your heart >
+
+No template for <Your heart failure may have been due to alcohol or a viral infection. It is very important that you do not drink alcohol again. >
+No template for <** BECAUSE OF THE SEVERITY OF YOUR ILLNESS AND THE NEW MEDICATIONS THAT YOU WERE STARTED ON, IT IS VERY IMPORTANT THAT YOU FOLLOW-UP VERY CLOSELY WITH YOUR NEW PRIMARY CARE DOCTOR AND CARDIOLOGIST, DR. [**Last Name (STitle) **]. ** . If you cannot keep your follow-up appointments, please call your doctors to [**Name5 (PTitle) **]-schedule. >
+No template for <** BECAUSE OF THE SEVERITY OF YOUR ILLNESS AND THE NEW MEDICATIONS THAT YOU WERE STARTED ON, IT IS VERY IMPORTANT THAT YOU FOLLOW-UP VERY CLOSELY WITH YOUR NEW PRIMARY CARE DOCTOR AND CARDIOLOGIST, DR. [**Last Name (STitle) **]. ** . If you cannot keep your follow-up appointments, please call your doctors to [**Name5 (PTitle) **]-schedule. >
+No template for <Weigh yourself every morning, [**Name8 (MD) 138**] MD (Dr. [**Last Name (STitle) **] if your weight goes up more than 2 lbs. >
+No template for <You will also need to have labs checked once a week for the next few weeks until your medication regimen is more stable. Please go to the nearest outpatient lab on [**6-16**] and [**6-23**]. There are several outpatient labs at [**Hospital1 **], which is close to your home. >
+No template for <The following changes have been made to your medications: . START taking these medications: 1. START taking Furosemide (Lasix) 40 mg by mouth daily. This medication is a diuretic and will help keep your legs from swelling. As above, if you notice increased swelling of your legs or you gain weight (more than 2 lbs), please call your Cardiologist. >
+No template for <The following changes have been made to your medications: . START taking these medications: 1. START taking Furosemide (Lasix) 40 mg by mouth daily. This medication is a diuretic and will help keep your legs from swelling. As above, if you notice increased swelling of your legs or you gain weight (more than 2 lbs), please call your Cardiologist. >
+No template for <2. START taking Metoprolol succinate 100 mg by mouth once a day. >
+No template for <3. START taking Lisinopril 10 mg by mouth daily. >
+No template for <4. START taking Aspirin 81 mg by mouth daily. >
+No template for <STOP taking these medications: 1. STOP taking Hydrochlorothiazide 25 mg by mouth daily. >
+No template for <2. STOP taking Amlodipine 5 mg by mouth daily. >
+No template for <3. STOP taking Atenolol 25 mg by mouth twice a day. >
+No template for <No other changes were made to your medications and you should continue taking other medications as previously prescribed. >

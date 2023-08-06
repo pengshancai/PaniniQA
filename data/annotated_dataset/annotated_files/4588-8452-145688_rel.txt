@@ -1,0 +1,20 @@
+Medical Issues
+Symptoms [no explicit item] caused by Disease <infection in your L foot> 
+Symptoms [no explicit item] caused by Disease <shock > 
+
+Treatments
+Procedure <breathing tube > to treat <shock>
+<breathing tube >  Results: [no explicit item]
+Medicine <medicine to support your blood pressure > to treat <shock>
+<medicine to support your blood pressure >  Results: [no explicit item]
+Medicine <antibiotics > to treat <infection in your L foot>
+<antibiotics >  Results: <You improved with antibiotics and no longer required these supports >
+
+Aftercare instructions
+If encounter <fever or chills, chest pain, difficulty breathing, severe pain, redness or swelling in your foot> do <Please return to the ED or call your doctor>
+
+No template for <Please follow-up with Dr. [**First Name (STitle) **] your PCP [**Name9 (PRE) 1639**] to check your electrolytes as your potassium was low today >
+No template for <Please follow-up with Dr. [**First Name (STitle) **] your PCP [**Name9 (PRE) 1639**] to check your electrolytes as your potassium was low today >
+No template for <Please resume your home peritoneal dialysis schedule of 4 daily cycles every 6 hours with 1.5% dextrose for 3 cycles and 1 cycle with 2.5% dextrose. >
+No template for <The following medications were added to your regimen: 1. Keflex, an antibiotic, please take this for 6 days  >
+No template for <2. Increase simvastatin to 80mg daily >

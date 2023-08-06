@@ -1,0 +1,15 @@
+Medical Issues
+Symptoms include <multiple injuries >;
+Symptoms {multiple injuries} caused by Disease <motorcycle crash> [No explicit item]
+Symptoms [No explicit item] caused by Disease <pelvic fracture > [No explicit item]
+
+Treatments
+Procedure <catheter > to treat {bladder injury}
+<catheter >  Results: {No explicit item}
+<bladder is fully healed >  Results:[No explicit item]
+
+No template for <non weight bear on your lower extremities >
+No template for <transfer with a slide board >
+No template for <eat >
+No template for <stay hydrated >
+No template for <followed as an outpatient >

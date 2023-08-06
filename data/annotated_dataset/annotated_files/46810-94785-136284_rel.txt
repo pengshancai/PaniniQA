@@ -1,0 +1,13 @@
+
+Treatments
+Procedure <carotid stent placement> to treat [no explicit item]
+<carotid stent placement> Results: <without any complications >
+Medicine <medications to maintain your blood pressure at a safe level > to treat [no explicit item]
+<medications to maintain your blood pressure at a safe level >  Results: [no explicit item]
+
+No template for <START pantoprazole 40 mg by mouth twice daily instead of omeprazole (Prilosec) >
+No template for <START clopidogrel (Plavix) 75 mg by mouth daily >
+No template for <STOP amlodipine until you are instructed to restart it by your PCP or cardiologist >
+No template for <STOP losartan until you are instructed to restart it by your PCP or cardiologist >
+No template for <STOP diltiazem until you are instructed to restart it by your PCP or cardiologist >
+No template for <STOP amlodipine until you are instructed to restart it by your PCP or cardiologist STOP losartan until you are instructed to restart it by your PCP or cardiologist STOP diltiazem until you are instructed to restart it by your PCP or cardiologist >

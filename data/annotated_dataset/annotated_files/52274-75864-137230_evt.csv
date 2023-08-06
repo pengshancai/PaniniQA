@@ -1,0 +1,17 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|taking too many of your prescription medications| Medical Issues - Symptom|71|119
+1|imaging tests| Tests - Test name|159|172
+2|to make sure there wasn't any trauma to your brain| Tests - Test goal|178|233
+3|normal| Tests - Test result|246|252
+4|fluid| Treatments - Procedure name|355|360
+5|to help your kidney function which improved during admission| Treatments - Treatment goal|361|421
+6|You were given medications to help with symptoms from the medication that you took| Treatments - Medicine name|254|336
+7|lab values were stable| Tests - Test result|541|563
+8|kidney function| Tests - Test name|573|589
+9|better than baseline| Tests - Test result|594|614
+10|dizziness| Medical Issues - Symptom|629|638
+11|unsteadiness| Medical Issues - Symptom|643|655
+12|You were followed by psychiatry as an inpatient| Treatments - Procedure name|934|981
+13|they felt you were not in immediate danger of commiting suicide| Treatments - Result of the treatment|987|1050
+14|it is very important for you to continue at the partial hospital program ([**Hospital **] Hospital HRI)| Aftercare instructions - patient needs to do - Other|1056|1159
+15|Please discuss this further with your PCP at your appointment next Tuesday| Aftercare instructions - Upcoming Schedules - PCP appointment|1263|1337

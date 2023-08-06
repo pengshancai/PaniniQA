@@ -1,0 +1,24 @@
+Medical Issues
+Complication <retroperitoneal bleed > caused by <atrial flutter ablation> 
+Complication <small heart attack > caused by <atrial flutter ablation> 
+
+Treatments
+Procedure <atrial flutter ablation> to treat [no explicit item]
+<atrial flutter ablation>  Results: [no explicit item]
+Procedure <blood products > to treat <retroperitoneal bleed>
+<blood products >  Results: <stabilized bleeding>
+
+Aftercare instructions
+If encounter <worsening symptoms> do <Please seek medical attention>
+
+No template for <- START amiodarone to control your heart rate >
+No template for <- Decrease warfarin to 3mg daily >
+No template for <- Decrease metoprolol succinate to 100 mg daily >
+No template for <- START lipitor (Atorvastatin) to help prevent heart attacks and help the current heart attack heal >
+No template for <- START amiodarone to help prevent further episodes of unstable rhythm >
+No template for <- START aspirin to help prevent heart attacks and help the current heart attack heal >
+No template for <- START lidocaine patches for pain control  >
+No template for <- START oxycodone as needed for pain control  >
+No template for <- START senna as needed for constipation >
+No template for <- START colace for bowel control >
+No template for <- START tylenol as needed for pain >

@@ -1,0 +1,14 @@
+Medical Issues
+Symptoms <low blood pressure> caused by Disease <infection > 
+
+Tests
+Test results of <{blood pressure measurement}>: <low blood pressure>;
+
+Treatments
+Procedure <fluids > to treat <low blood pressure>
+<fluids >  Results: [no explicit item]
+Medicine <antibiotics > to treat <infection>
+<antibiotics >  Results: [no explicit item]
+
+No template for <followup on [**2135-8-8**] with Dr. [**Last Name (STitle) 17751**] >
+No template for <You will be discharged with two types of antibiotics which you will complete at home on [**2135-8-11**] >

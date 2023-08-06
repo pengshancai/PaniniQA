@@ -1,0 +1,8 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|chest pain| Medical Issues - Symptom|211|221
+1|heart cathetherization| Tests - Test name|287|308
+2|a catheter was passed through your groin and into your heart to investigate whether your chest pain was due to a heart blockage| Tests - Test goal|315|442
+3|found a blockage in an artery and was able to open it with 2 metal wire stents| Tests - Test result|478|556
+4|You should follow-up with your primary care physician in one week| Aftercare instructions - Upcoming Schedules - PCP appointment|809|874
+5|You should also follow-up with your cardiologist Dr. [**Last Name (STitle) 105236**] at [**Hospital3 417**] within one month| Aftercare instructions - Upcoming Schedules - Specialist appointment|876|1000
+6|it is very important that you take a medication that we started while you were in the hospital called Plavix| Medicine instructions - Medicine started|659|767

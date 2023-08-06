@@ -1,0 +1,12 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|heart was beating very fast| Medical Issues - Disease|200|227
+1|blood pressure was low| Medical Issues - Symptom|237|259
+2|amiodarone| Treatments - Medicine name|311|321
+3|ablation procedure| Treatments - Procedure name|339|357
+4|You tolerated the procedure well| Treatments - Result of the treatment|416|448
+5|dialysis| Treatments - Procedure name|480|488
+6|to remove extra fluid that was causing swelling in your arms and legs| Treatments - Treatment goal|511|580
+7|platelet count dropped| Medical Issues - Complication developed in the hospital|587|609
+8|You will follow up with Dr. [**Last Name (STitle) **] next week and will need to get your platelet count followed regularly.| Aftercare instructions - Upcoming Schedules - Specialist appointment|691|816
+9|Change metoprolol to tartrate and increase the dose to 50 mg three times a day to lower your heart rate| Medicine instructions - Medicine changed|874|977
+10|| Medicine instructions - Medicine started|980|1055

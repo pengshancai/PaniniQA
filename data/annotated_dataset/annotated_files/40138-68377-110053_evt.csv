@@ -1,0 +1,8 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|liver and kidneys to fail| Medical Issues - Symptom|191|216
+1|You required dialysis to filter your blood| Treatments - Procedure name|218|261
+2|pneumonia| Medical Issues - Disease|426|435
+3|UTI| Medical Issues - Disease|442|445
+4|infection in your colon| Medical Issues - Disease|473|496
+5|STARTED Flagyl for 14 days| Treatments - Medicine name|729|756
+6|Ranitidine to prevent GI pain and formation of ulcers| Treatments - Medicine name|764|817

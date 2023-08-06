@@ -1,0 +1,22 @@
+Medical Issues
+Symptoms include <fever>;<low blood pressure >;
+Symptoms {<fever>;<low blood pressure> Symptom name} caused by Disease <infection > <{bacterial (Klebsiella) blood infection}>
+
+Tests
+Tests include <CT scan of your abdomen and pelvis >;<MRCP >;
+Test results of {blood pressure Test name}: <low blood pressure >;
+Test results of {blood test Test name}: < bacteria (Klebsiella) >;
+Test results of {<CT scan of your abdomen and pelvis >;<MRCP >Test name}: <failed to show a source of your infection >;
+
+Treatments
+Medicine <antibiotics > to treat {bacterial (Klebsiella) blood infectionDisease}
+<antibiotics >  Results: { cleared from your bloodstream Result}
+<cleared from your bloodstream >  Results: {CHANGE HERE Treatment Result}
+<14 days of antibiotics >  Results: {CHANGE HERE Treatment Result}
+
+No template for <follow up with your outpatient providers >
+No template for <Ampicillin/Sulbactam >
+No template for <every 6 hours via PICC line for 8 more days  >
+No template for <warfarin (coumadin)  >
+No template for <until your INR check tomorrow morning >
+No template for <continue to take all of your other home medications as prescribed >

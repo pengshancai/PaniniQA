@@ -1,0 +1,7 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|low blood pressure| Tests - Test result|122|140
+1|pain in your chest| Medical Issues - Symptom|145|163
+2|taking more pain medication than you are prescribed| Medical Issues - Symptom|209|260
+3|if your pain becomes difficult to control please contact your pain specialist; adjusting your own pain medications can be life threatening.| Aftercare instructions - patient needs to do - Other|277|416
+4|pneumonia| Medical Issues - Disease|501|510
+5|continue to take Ibuprofen or Alleve as needed, being careful not to exceed the recommended daily dose.| Aftercare instructions - patient needs to do - Medication|637|740

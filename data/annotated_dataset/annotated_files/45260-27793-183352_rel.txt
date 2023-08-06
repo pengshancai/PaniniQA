@@ -1,0 +1,14 @@
+Medical Issues
+Symptoms include <flare of angioedema>;
+Symptoms <flare of angioedema> caused by Disease <angioedema > 
+
+Treatments
+Medicine <steroids > to treat <angioedema>
+<steroids >  Results: [no explicit item]
+Medicine <antihistamines > to treat <angioedema>
+<antihistamines >  Results: [no explicit item]
+
+Aftercare instructions
+If encounter <tongue swelling, difficulty breathing, hoarse voice, fevers/chills, nausea/vomiting, or any other concerning symptoms> do <please call your primary care physician or return to the emergency room>
+
+No template for <Please take Prednisone 40 mg on Thursday, [**6-23**], then take 5 mg every other daily as usual. In case of another flare of angioedema, you may take 60 mg of Prednisone once daily for up to three days and also take Benadryl. You will want to formulate a plan for any future flares with your allergy doctor. >

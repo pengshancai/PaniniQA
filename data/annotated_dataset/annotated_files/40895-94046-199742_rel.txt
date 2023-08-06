@@ -1,0 +1,14 @@
+Medical Issues
+Symptoms include <worsening diarrhea>;<pancreas not producing enough enzymes to help you break down food >;<bleeding from blood vessels inside of your esophagus >;<blood pressures became very low >;
+Symptoms <worsening diarrhea> caused by Disease <C. diff >
+
+Tests
+Tests include < blood tests >;
+Test implications of <blood tests>: <you were Cdiff negative >
+
+No template for <It is VERY important that you not drink alcohol and that you do not take more than 2 grams (2,000 milligrams) of Tylenol daily >
+No template for <STOP oral vancomycin >
+No template for <START Creon tablets three times a day with meals  >
+No template for <START ciprofloxacin 500 mg twice a day for one more day >
+No template for <START metronidazole 500 mg three times a day for one more day  >
+No template for <please START probiotic colon support one pill daily by mouth  >

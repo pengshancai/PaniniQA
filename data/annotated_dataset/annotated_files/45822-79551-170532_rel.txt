@@ -1,0 +1,19 @@
+Medical Issues
+Symptoms include <difficulty breathing>;
+Symptoms <difficulty breathing> caused by Disease <pneumonia > 
+Symptoms <difficulty breathing> caused by Disease <pleural effusion > 
+Symptoms <difficulty breathing> caused by Disease <cancer > <Maybe>
+
+Tests
+Tests include <CT scan >;
+Test results of <CT scan>: <cancer was likely from your lungs >;
+
+Treatments
+Medicine <antibiotics > to treat <pneumonia>
+<antibiotics >  Results: [no explicit item]
+Procedure <PICC line > to treat <pneumonia>
+<PICC line >  Results: [no explicit item]
+Procedure <drained the fluid from around your lungs > to treat <pleural effusion>
+<drained the fluid from around your lungs > Results: <we found cells of cancer >
+
+No template for <The following changes were made to your medications: hospice care medication list included in this discharge packet. >

@@ -1,0 +1,12 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|ringing in your ears| Medical Issues - Symptom|425|446
+1|dizziness| Medical Issues - Symptom|448|457
+2|nausea| Medical Issues - Symptom|459|465
+3|vomiting| Medical Issues - Symptom|467|475
+4|confusion| Medical Issues - Symptom|481|490
+5|accidental aspirin overdose| Medical Issues - Disease|198|225
+6|fluids| Treatments - Medicine name|550|557
+7|treatment to counteract the effects of the aspirin in your blood| Treatments - Medicine name|562|626
+8|We strongly recommend that you continue attending either day treatment at [**Hospital1 1680**] HRI, or that you arrange for day treatment at another program, Crossroads Day Program, which the staff at [**Hospital1 1680**] would be happy to refer you to.| Aftercare instructions - patient needs to do - Other|1055|1309
+9|You were discharged on the same medications that you were taking before admission.| Medicine instructions - Medicine continued|1309|1391
+10|medically stabilized| Treatments - Result of the treatment|714|734

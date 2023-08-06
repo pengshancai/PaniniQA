@@ -1,0 +1,23 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|exacerbation of your heart failure| Medical Issues - Disease|67|101
+1|fluid in your lungs| Tests - Test result|121|140
+2|difficult to breathe| Medical Issues - Symptom|156|176
+3|diuresis of this fluid as well as a thoracentesis (drainage of the fluid around your lung)| Treatments - Procedure name|206|296
+4|breathing improved| Treatments - Result of the treatment|182|200
+5|your heart was able to pump more efficiently and your kidneys showed signs of better perfusion| Treatments - Result of the treatment|331|425
+6|bloodwork| Tests - Test name|451|460
+7|urine studies| Tests - Test name|465|478
+8|signs of urinary infection| Tests - Test result|486|512
+9|7 day course of Augmentin and started on oral Vancomycin simultaneously to prevent C Diff diarrhea| Treatments - Medicine name|533|631
+10|Start Augmentin| Medicine instructions - Medicine started|687|702
+11|Start Vancomycin| Medicine instructions - Medicine started|706|722
+12|Start Lasix at 80mg twice a day| Medicine instructions - Medicine started|726|757
+13|Start Aspirin 81mg daily| Medicine instructions - Medicine started|761|785
+14|Start Vitamin D| Medicine instructions - Medicine started|789|804
+15|Start Oxycontin| Medicine instructions - Medicine started|807|823
+16|Start Tylenol| Medicine instructions - Medicine started|826|840
+17|Stop Lyrica| Medicine instructions - Medicine stopped|844|856
+18|Stop Percocet| Medicine instructions - Medicine stopped|859|873
+19|Change oxycodone dose| Medicine instructions - Medicine changed|877|899
+20|Please weigh yourself every morning, [**Name8 (MD) 138**] MD if weight &gt; 3 lbs, adhere to 2 gm sodium diet, and restrict your fluid intake to 1L per day.| Aftercare instructions - patient needs to do - Diet|899|1056
+21|If you have worsening shortness of breath, chest pain, lightheadedness or any other concerning symptoms please call your doctor or return to the hospital.| Aftercare instructions - patient needs to do - Other|1055|1211

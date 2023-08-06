@@ -1,0 +1,7 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|shortness of breath| Medical Issues - Symptom|203|222
+1|low blood pressures| Medical Issues - Symptom|245|264
+2|dialysis| Treatments - Procedure name|272|280
+3|ultrasound to look for complications of your HIV| Treatments - Procedure name|480|529
+4|lymphoma| Medical Issues - Disease|539|547
+5|increase SEVELAMER to 4000 mg three times daily, with meals| Treatments - Medicine name|719|778

@@ -1,0 +1,18 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|nausea| Medical Issues - Symptom|87|93
+1|bleeding from your PEG tube| Medical Issues - Symptom|98|125
+2|upper endoscopy| Tests - Test name|210|225
+3|esophagitis and a tear at your esophagus-stomach junction| Tests - Test result|239|296
+4|high white blood cell count| Tests - Test result|350|377
+5|lightheadedness when standing| Medical Issues - Symptom|379|408
+6|abdominal pain| Medical Issues - Symptom|413|427
+7|antibiotics| Treatments - Medicine name|517|528
+8|stool softeners| Treatments - Medicine name|542|557
+9|intravenous fluids| Treatments - Procedure name|562|580
+10|good effect| Treatments - Result of the treatment|586|597
+11|augmentin| Medicine instructions - Medicine started|662|671
+12|seroquel| Medicine instructions - Medicine started|684|692
+13|pantoprazole| Medicine instructions - Medicine started|705|717
+14|lorazepam| Medicine instructions - Medicine stopped|737|746
+15|metoprolol| Medicine instructions - Medicine stopped|747|758
+16|nystatin| Medicine instructions - Medicine stopped|764|772

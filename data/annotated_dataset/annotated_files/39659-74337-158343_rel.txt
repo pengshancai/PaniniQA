@@ -1,0 +1,22 @@
+Medical Issues
+Symptoms {No explicit item} caused by Disease <diverticulitis> [No explicit item]
+Symptoms {No explicit item} caused by Disease <pneumonia > [No explicit item]
+Symptoms {No explicit item} caused by Disease <urinary tract infection > [No explicit item]
+
+Treatments
+<remove part of your colon >  Results: [No explicit item]
+Procedure <colostomy > to treat [No explicit item]
+<colostomy >  Results: {remove part of your colon}
+<will pass air and stool thru it >  Results: [No explicit item]
+Medicine <antibiotics > to treat {pneumonia; urinary tract infection}
+<antibiotics >  Results: [No explicit item]
+Medicine <Coumadin > to treat [No explicit item]
+<Coumadin >  Results: [No explicit item]
+<keep your lungs inflated >  Results: [No explicit item]
+Procedure <colostomy > to treat [No explicit item]
+<colostomy >  Results: {remove part of your colon}
+Medicine <antibiotic > to treat {pneumonia; urinary tract infection}
+<antibiotic >  Results: [No explicit item]
+
+No template for <rehab >
+No template for <urology clinic >

@@ -1,0 +1,12 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|decrease oxygen levels in your blood| Tests - Test result|83|119
+1|pneumonia| Medical Issues - Disease|146|155
+2|urinary tract infection| Medical Issues - Disease|200|223
+3|IV antibiotics| Treatments - Medicine name|247|261
+4|platelet count| Tests - Test name|364|378
+5|low| Tests - Test result|399|403
+6|You were taken off heparin and omeprazole| Medicine instructions - Medicine stopped|422|463
+7|You should refrain from using Oxycodone in the future| Aftercare instructions - patient needs to do - Medication|702|755
+8|decreased levels of potassium and phosphorous| Tests - Test result|802|847
+9|You should have your labs checked with your primary care physician in one week| Aftercare instructions - patient needs to do - Other|849|927
+10|confusion| Medical Issues - Symptom|573|582

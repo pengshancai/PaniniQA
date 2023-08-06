@@ -1,0 +1,12 @@
+
+Treatments
+Procedure <TIPS revised {TIPS revision procedure}> to treat <no explicit item>
+<TIPS revised {TIPS revision procedure}>  Results: <no explicit item>
+Procedure <fluid taken out of your abdomen {fluid was removed from your abdomen} > to treat <no explicit item>
+<fluid taken out of your abdomen {fluid was removed from your abdomen} >  Results: <no explicit item>
+
+Aftercare instructions
+If encounter <chest pain or shortnes of breath, increasing abdominal girth, fevers and chills, or other symptoms that are concerning to you> do <call your doctor or return to the hospital>
+
+No template for <spironolactone, lasix, levaquin, and potassium were stopped >
+No template for <Please have your labs checked next Monday, [**12-27**] with the attached prescription. >

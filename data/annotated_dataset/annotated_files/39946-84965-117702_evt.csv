@@ -1,0 +1,7 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|multiple injuries after falling| Medical Issues - Symptom|66|97
+1|cervical fracture| Medical Issues - Disease|112|130
+2|wear a soft collar for comfort| Treatments - Procedure name|157|187
+3|compresion fractures in the thoracic spine| Medical Issues - Disease|210|252
+4|You should NOT bend, twist or lift anything > 2 lbs for the next 6 weeks.| Aftercare instructions - patient needs to do - Other|254|330
+5|Do NOT drink any alcohol| Aftercare instructions - patient needs to do - Diet|386|410

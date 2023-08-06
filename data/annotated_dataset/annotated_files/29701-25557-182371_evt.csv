@@ -1,0 +1,7 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|Please weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more than 3 lbs.| Aftercare instructions - patient needs to do - Other|91|187
+1|Please take your medicines as prescribed| Aftercare instructions - patient needs to do - Medication|187|227
+2|keep your follow up appointments.| Aftercare instructions - Upcoming Schedules - Specialist appointment|232|265
+3|high blood pressure| Medical Issues - Disease|304|323
+4|Your valsartan dose was increased to 160 mg daily.| Medicine instructions - Medicine changed|385|436
+5|We also started a new medication for your heart and blood pressure. This is called carvedilol and it was started at 6.25 mg each day.| Medicine instructions - Medicine started|485|619

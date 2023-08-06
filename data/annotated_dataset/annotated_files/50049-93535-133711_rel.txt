@@ -1,0 +1,23 @@
+Medical Issues
+Symptoms include <high fevers>;<blood in your stool >;
+Symptoms <high fevers> caused by Disease <infection in the pubic area >
+
+Tests
+Tests include <kidney function >;
+Test implications of <{complete blood count}>: <anemic >; 
+Test implications of <kidney function>: < poor during your acute illness but currently is slightly increased from your baseline >; 
+
+Treatments
+Procedure <You had the area drained > to treat <infection in the pubic area>
+<You had the area drained >  Results: [no explicit item]
+Procedure <blood transfusion > to treat <{anemia}>
+<blood transfusion >  Results: [no explicit item]
+
+No template for <you will need to have frequent dressing changes to clean the wound and promote healing >
+No template for <The Pulmonary doctors have arranged some testing and a follow up appointment with them. See below >
+No template for <you will need to have a colonoscopy as an out patient >
+No template for <Keep off of your aspirin for now >
+No template for <Continue to eat well and stay hydrated >
+
+
+

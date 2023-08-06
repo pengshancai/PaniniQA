@@ -1,0 +1,16 @@
+Medical Issues
+Symptoms include <bleeding from your rectum>;
+
+Tests
+Tests include <colonoscopy >;<interventional radiology procedure >;
+Test results of <colonoscopy >;<interventional radiology procedure >: <which could not localize the sites of your bleeding >;
+
+Treatments
+Procedure <multiple blood transfusions > to treat [no explicit item]
+<multiple blood transfusions >  Results: [no explicit item]
+
+No template for <You should call your Cardiologist [**Last Name (LF) 766**], [**2161-5-18**] to discuss re-starting your Aspirin and Plavix. You should also set up an appointment with your cardiologist for follow-up. >
+No template for <While you were here, your home medications were changed. >
+No template for <You should CONTINUE taking: simvastatin 80mg daily allopurinol 100mg daily >
+No template for <You should STOP taking: Plavix Aspirin - UNTIL you discuss this with your cardiologist and PCP. >
+No template for <[**Name10 (NameIs) 357**] call them the day after discharge >

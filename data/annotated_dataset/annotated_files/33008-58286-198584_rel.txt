@@ -1,0 +1,14 @@
+Medical Issues
+Symptoms include <shortness of breath>;<cough >;
+Symptoms <shortness of breath> <cough > caused by Disease <COPD (emphysema) exacerbation >
+Symptoms <shortness of breath> <cough >  caused by Disease <pneumonia > 
+
+Treatments
+Medicine <antibiotics, nebulizers, oxygen, and steroids > to treat <COPD (emphysema) exacerbation> <pneumonia>
+Medicine < lisinopril was stopped and you were placed on a low potassium diet > to treat {elevated potassium levels} 
+
+No template for <You will need to complete a course of antibiotics at home.  >
+No template for <Your potassium levels were also elevated, so your lisinopril was stopped and you were placed on a low potassium diet.  >
+No template for <Levofloxacin daily x7 days total. >
+No template for <Trimethoprim-sulfamethoxazole (Bactrim) DS 1 tab every Monday, Wednesday, and Friday to prevent lung infections. >
+No template for <Stop lisinopril. >

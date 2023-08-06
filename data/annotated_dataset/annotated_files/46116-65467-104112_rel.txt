@@ -1,0 +1,16 @@
+Medical Issues
+Symptoms include <shortness of breath>;
+
+Treatments
+Procedure <machine helping you breathe > to treat <shortness of breath>
+<machine helping you breathe >  Results: [no explicit item]
+Medicine <antibiotics > to treat [no explicit item]
+<antibiotics >  Results: <you improved >
+Medicine <medications to remove excess fluid > to treat [no explicit item]
+<medications to remove excess fluid >  Results: <you improved >
+
+No template for <We are providing you with a prescription for an antibiotic to continue after discharge. >
+No template for <Your platelets were discovered to be very low during this admission. You will need to return for a follow up appointment tomorrow morning at 9 AM (detail below). You will need to have your platelets re-checked. >
+No template for <Your platelets were discovered to be very low during this admission. You will need to return for a follow up appointment tomorrow morning at 9 AM (detail below). You will need to have your platelets re-checked. >
+No template for <Please be very careful that you do not fall, as injurying yourself could be very dangerous because with low platelets your blood does not clot appropriately. >
+No template for < >

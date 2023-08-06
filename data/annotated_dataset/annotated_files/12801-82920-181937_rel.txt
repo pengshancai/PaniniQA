@@ -1,0 +1,20 @@
+Medical Issues
+Symptoms include <large clots in your lungs>;<your blood pressure was dangerously low >;
+Symptoms <large clots in your lungs> caused by Disease <being immobile after your hip surgery {immobilization post-hip surgery}> 
+
+Treatments
+<treatment> Results: <this resolved {your low blood pressure resolved} >
+Medicine <treatment > to treat <no explicit item>
+<treatment >  Results: <this resolved {your low blood pressure resolved}>
+Medicine < iv blood thinner  > to treat <large clots in your lungs>
+< iv blood thinner  >  Results: <no explicit item>
+Medicine <Coumadin > to treat <large clots in your lungs>
+<Coumadin >  Results: <no explicit item>
+Medicine <lovenox > to treat <large clots in your lungs>
+<lovenox >  Results: <no explicit item>
+
+No template for <You need to take the lovenox until your coumadin level is high enough (INR [**3-22**]) and this will take up to another week to get to.  >
+No template for <VNA will check your INR for the next week and send the results to Dr. [**First Name (STitle) **].  >
+No template for <Your atenolol was stopped beause your blood pressure was low. You should not take this medication when you go home, but Dr. [**First Name (STitle) **] may restart this when you see him. >
+No template for <you should stop taking your aspirin as you will be on the coumadin. Dr. [**First Name (STitle) **] may restart this once you are off the coumadin. >
+No template for <No other medication changes were made, you should continue all your home medications as previously directed. >

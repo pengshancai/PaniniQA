@@ -1,0 +1,10 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|headache| Medical Issues - Symptom|64|72
+1|vision changes| Medical Issues - Symptom|77|91
+2|PRES syndrome| Medical Issues - Disease|144|157
+3|Please continue to monitor your blood pressure at home as you have been doing, keep a copy and bring to clinic visits| Aftercare instructions - patient needs to do - Other|159|276
+4|Call your doctor at [**Telephone/Fax (1) 673**] if BP routinely goes high (above 180 for the systolic pressure), if you have dizziness or headaches| Aftercare instructions - patient needs to do - Other|278|425
+5|Please continue your normal dialysis schedule| Aftercare instructions - Upcoming Schedules - Treatment|427|472
+6|Continue food, fluid and medication recomendations per your kidney doctors| Aftercare instructions - patient needs to do - Diet|474|548
+7|Do not drive if taking narcotic pain medication| Aftercare instructions - patient needs to do - Medication|656|703
+8|| Aftercare instructions - patient needs to do - Other|704|755

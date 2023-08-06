@@ -1,0 +1,8 @@
+Treatments
+Medicine <IV fluids > to treat <low blood pressure>
+
+No template for <Please do your best to eat three meals a day when you go home. >
+No template for <Please STOP taking metoprolol XL 12.5 mg daily.  >
+No template for <Please STOP taking lisinopril 2.5 mg daily.  >
+No template for <Continue to STOP taking furosemide (Lasix) and HCTZ. >
+No template for < Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more than 3 lbs. >

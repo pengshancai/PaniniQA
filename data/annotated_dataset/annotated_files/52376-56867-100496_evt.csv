@@ -1,0 +1,18 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|fever| Medical Issues - Symptom|67|72
+1|fatigue| Medical Issues - Symptom|77|84
+2|pneumonia| Medical Issues - Disease|109|118
+3|pneumocystis (PCP)| Medical Issues - Disease|152|170
+4|difficulty breathing| Medical Issues - Symptom|186|206
+5|antibiotics| Treatments - Medicine name|325|336
+6|steroids| Treatments - Medicine name|341|349
+7|breathing improved| Treatments - Result of the treatment|273|291
+8|You should discuss with your oncologist whether or not you should continue with your steroids after you finish the prednisone and if you continue with the prednisone or dexamethasone you should take bactrim prophylaxis for PCP which is usually one tablet three times per week| Aftercare instructions - patient needs to do - Other|351|626
+9|Bactrim DS 2 tabs three times daily for a total of 21 days until [**12-14**]| Medicine instructions - Medicine started|689|765
+10|Prednisone 40 mg daily until [**12-3**], then 20 mg daily until [**12-14**]| Medicine instructions - Medicine started|772|848
+11|Dexamethasone| Medicine instructions - Medicine stopped|853|866
+12|STOP your current pain regimen of morphine and dilaudid| Medicine instructions - Medicine stopped|874|929
+13|MS Contin 45 mg twice a day (take one 30 mg tablet and one 15 mg tablet for a total of 45 mg)| Medicine instructions - Medicine started|967|1060
+14|Dilaudid 2 mg every 4-6 hrs as needed for pain| Medicine instructions - Medicine changed|1061|1107
+15|Please follow up with your oncologist and in pain clinic| Aftercare instructions - Upcoming Schedules - Specialist appointment|1109|1165
+16|Please continue all other home medications| Aftercare instructions - patient needs to do - Medication|1167|1209

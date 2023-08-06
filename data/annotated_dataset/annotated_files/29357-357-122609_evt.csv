@@ -1,0 +1,22 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|fever| Medical Issues - Symptom|63|68
+1|low blood pressure| Medical Issues - Symptom|70|88
+2|very high sodium level| Medical Issues - Symptom|96|118
+3|antibiotics| Treatments - Medicine name|152|163
+4|extensive testing| Tests - Test name|211|228
+5|No source of infection was discovered despite extensive testing| Tests - Test result|165|228
+6|IV fluids| Treatments - Medicine name|329|338
+7|Your blood pressure improved| Treatments - Result of the treatment|295|323
+8|Your sodium level also improved| Treatments - Result of the treatment|340|372
+9|continuous EEG monitoring| Tests - Test name|530|555
+10|did not show any evidence of seizure activity| Tests - Test result|561|606
+11|bleeding| Medical Issues - Symptom|621|629
+12|anti-acid medication| Treatments - Medicine name|769|789
+13|sacral decubitus ulcer| Medical Issues - Disease|849|871
+14|IV furosemide| Treatments - Medicine name|903|916
+15|edema| Medical Issues - Symptom|921|926
+16|PICC line| Treatments - Procedure name|952|961
+17|feeding tube| Treatments - Procedure name|976|988
+18|Please take all of your medications as prescribed| Aftercare instructions - patient needs to do - Medication|1055|1104
+19|Please attend all of your follow up appointments| Aftercare instructions - Upcoming Schedules - Specialist appointment|1106|1154
+20|If you experience low blood pressure, fever, blood in vomit or stool, seizure activity, change in mental status from your baseline, or other concerning symptoms, please call your doctor or go to the ER.| Aftercare instructions - Emergency instruction|1158|1360

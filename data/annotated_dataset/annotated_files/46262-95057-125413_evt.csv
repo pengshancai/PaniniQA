@@ -1,0 +1,13 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|clotted fistula| Medical Issues - Symptom|108|123
+1|emergently dialysed| Treatments - Procedure name|134|153
+2|The clot in the fistula could not be removed so the surgeons converted it to a graft.| Treatments - Result of the treatment|187|272
+3|The graft will be ready for use in about 6 weeks.| Treatments - Result of the treatment|273|322
+4|In the meantime, you have a temporary line in the neck that can be used for dialysis.| Treatments - Result of the treatment|323|408
+5|urinary tract infection| Medical Issues - Disease|441|464
+6|antibiotic| Treatments - Medicine name|489|499
+7|You do not need to continue this medication at home.| Medicine instructions - Medicine stopped|512|564
+8|You will be given a prescription for Percocet to help with pain.| Medicine instructions - Medicine started|567|631
+9|Please resume taking all of your other medications as usual.| Medicine instructions - Medicine continued|632|692
+10|You should use oxygen at all times to help you with breathing.| Aftercare instructions - patient needs to do - Other|693|755
+11|If you experience worsening pain, redness and heat at the surgical sites (arm and neck), or if you have fever, chills, nausea, vomiting, abdominal pain, diarrhea, pain on urination, or any other concerning symptoms, please call your primary care physician or return to the emergency room| Aftercare instructions - Emergency instruction|758|1045

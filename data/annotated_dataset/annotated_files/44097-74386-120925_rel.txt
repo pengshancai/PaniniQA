@@ -1,0 +1,15 @@
+Medical Issues
+Symptoms include <bleeding from ulcers in your GI tract>;
+Symptoms <bleeding from ulcers in your GI tract> caused by Disease <bacteria in your stomach > 
+
+No template for <You will need to take antibiotics for two weeks >
+No template for <We also started you on a medication to decrease the acid in your stomach. >
+No template for <Your blood pressure was low in the hospital so we stopped several of your blood pressure medicines. >
+No template for <Please follow up with your primary doctor and cardiologist as directed. >
+No template for <Please follow up with your primary doctor and cardiologist as directed. >
+No template for <-Please START amoxicillin 1000 mg twice daily for two weeks (last day [**2113-7-16**]) >
+No template for <-Please START clarithromycin 500 mg twice daily for two weeks (last day [**2113-7-16**]) >
+No template for <-Please START pantoprazole 40 mg twice for six weeks >
+No template for <-Please STOP simvastatin because this can interact with one of the antibiotics. >
+No template for <you should restart this after you finish antibiotics >
+No template for <-Please STOP Lisinopril, Imdur, verapamil, triamterene/hydrochlorothiazide until instructed to restart them.>

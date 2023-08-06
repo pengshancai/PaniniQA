@@ -1,0 +1,15 @@
+Medical Issues
+Symptoms include <altered conscioussness>;<right sided weakness >;<difficulty with speech >;<elevated sodium >;
+Symptoms <altered conscioussness> <right sided weakness > <difficulty with speech > caused by Disease <stroke  > 
+Symptoms <elevated sodium> caused by Disease <heart failure  > 
+
+Treatments
+Medicine <You required use of multiple medications for this. > to treat <heart failure >
+
+Aftercare instructions
+If encounter <any concerning symptoms> do <please contact the physician responsible for your care at this facility or go to the emergency room. >
+
+No template for <You were continued on aspirin for this. >
+No template for <Weigh yourself every morning >
+No template for < MD if weight goes up more than 3 lbs. >
+No template for <You were discharged to an acute care facility requiring for further care.  >

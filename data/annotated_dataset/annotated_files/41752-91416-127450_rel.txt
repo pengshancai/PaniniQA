@@ -1,0 +1,16 @@
+Medical Issues
+Symptoms include <shortness of breath>;<fatigue >;<passing out in your bathroom >;<large amount of fluid around your heart >;
+Symptoms <shortness of breath> caused by Disease <viral pericarditis >
+Symptoms [No explicit item] caused by Disease <thyroid problems >
+Symptoms [No explicit item] caused by Disease <autoimmune disease >
+Tests
+Tests include <You underwent a pericardiocentesis with drainage of the fluid and your symptoms improved dramatically >;<echocardiogram >;
+
+Treatments
+<pericardiocentesis> Results: <your symptoms improved dramatically >
+Medicine <we are giving you medications to prevent the fluid from re-accumulating > to treat <fluid re-accumulating>
+<we are giving you medications to prevent the fluid from re-accumulating >  Results: [No explicit item]
+Medicine <START Ibuprofen 200mg tabs 3 tabs by mouth as needed for pain (Please do not take more than 2400 grams daily, you can take less if you feel it is enough for your pain) > to treat <pain>
+<START Ibuprofen 200mg tabs 3 tabs by mouth as needed for pain (Please do not take more than 2400 grams daily, you can take less if you feel it is enough for your pain) >  Results: <pain>
+Medicine <START Colchicine 0.6mg by mouth twice daily (You will take this medication for at least 6 months to prevent the fluid around your heart from coming back) > to treat [No explicit item]
+<START Colchicine 0.6mg by mouth twice daily (You will take this medication for at least 6 months to prevent the fluid around your heart from coming back) >  Results: [No explicit item]

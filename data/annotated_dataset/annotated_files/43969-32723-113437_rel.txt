@@ -1,0 +1,12 @@
+Medical Issues
+Symptoms include <change in mental status>;<low blood pressure >;<vomitting >;<developed a high fever >;<trouble breathing >;
+Symptoms [no explicit item] caused by Disease <Pneumonia >
+Tests
+Test results of <aspiration of the fluid in your left knee>: <did not reveal any bacteria or fungus. >;
+No template for <It is important that you take all of your medications as prescribed and also to follow the instructions of the therapists at rehabilitation. >
+No template for <A new antibiotic called Zosyn was started. You will need to complete a ten day course of this medication. >
+No template for <Your Rifamoin was continued as was your Vancomycin (but at a lower dose). >
+No template for <Your Bactrim was discontinued. >
+No template for <Please let your care givers know if you have any of the following: changes in mental status, fever or shaking chills, uncontrolled vomiting, any blood or &quot;coffee grounds&quot; in any vomit, chest pain/pressure, trouble breathing, pain in your throat or abdomen, increased difficulty walking, feel dizzy or light-headed, blood in your stools, black stools, pain not adequately controled by medications or other health-related concerns. >
+No template for <Please make and keep all of your follow-up apointments. >
+No template for <You should follow-up with your Primary Care Provider when you are discharged from the rehabilitation setting. >

@@ -1,0 +1,13 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|lower back pain| Medical Issues - Symptom|117|132
+1|Imaging of the spine| Tests - Test name|134|154
+2|degenerative changes in the spine, and potentially cancer in the spine| Tests - Test result|164|234
+3|episode of slow breathing| Medical Issues - Complication developed in the hospital|310|335
+4|low blood sugars| Medical Issues - Complication developed in the hospital|348|364
+5|blood sugars| Tests - Test name|371|383
+6|normal| Tests - Test result|388|394
+7|pain is now well controlled| Treatments - Result of the treatment|405|432
+8|DECREASE your Lantus from 60 units daily to 20 units daily| Medicine instructions - Medicine changed|571|629
+9|OXYCONTIN(long acting Oxycodone)| Medicine instructions - Medicine stopped|650|683
+10|short-acting OXYCODONE 5-10mg every 4 hours as needed for pain| Medicine instructions - Medicine started|697|759
+11|Lorazepam| Medicine instructions - Medicine stopped|780|789

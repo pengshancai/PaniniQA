@@ -1,0 +1,10 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|fevers, cough and fluid surrounding your lungs| Medical Issues - Symptom|126|172
+1|pneumonia| Medical Issues - Disease|208|217
+2|antibiotics| Treatments - Medicine name|247|258
+3|drain the fluid around your lungs| Treatments - Procedure name|281|314
+4|help you breath easier| Treatments - Result of the treatment|318|340
+5|restarted Coumadin for you diagnosis of atrial fibrillation| Medicine instructions - Medicine started|354|413
+6|you will have to have your INR checked regularly| Aftercare instructions - Upcoming Schedules - Test|418|467
+7|START taking warfarin again, 3 mg daily| Medicine instructions - Medicine started|623|662
+8|START taking lisinopril 2.5 mg daily| Medicine instructions - Medicine started|663|699

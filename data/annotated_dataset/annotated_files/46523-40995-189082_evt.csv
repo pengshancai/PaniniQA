@@ -1,0 +1,8 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|bleeding in the left side of your brain| Medical Issues - Symptom|64|103
+1|uncontrolled hypertension| Medical Issues - Disease|143|168
+2|weakness of the right side of your body| Medical Issues - Symptom|182|221
+3|trouble with speech| Medical Issues - Symptom|231|250
+4|Please take all medications as prescribed. If you have concerns about the medications, please call your PCP before changing the doses| Aftercare instructions - patient needs to do - Medication|254|387
+5|Your home dose of metformin was 850mg Twice a day, this was decreased to 500mg twice a day as your blood sugar here was less than 200. Your dose may therefore need to be increased.| Medicine instructions - Medicine changed|389|569
+6|Please call your PCP or return to the emergency room if you experience any worsening in your symptoms or have other concerns.| Aftercare instructions - Emergency instruction|572|697

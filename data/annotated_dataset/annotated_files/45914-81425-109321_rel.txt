@@ -1,0 +1,16 @@
+Medical Issues
+Symptoms include <feeling unwell>;<rapid heart rate >;
+Complication <When you were on the floor, your port appeared malpositioned which required removal and replacement of your port. > caused by <port appeared malpositioned> <Maybe>
+
+Treatments
+Medicine <medication to help slow your heart rate > to treat <rapid heart rate>
+<medication to help slow your heart rate >  Results: [no explicit item]
+Procedure <TPN > to treat [no explicit item]
+<TPN >  Results: [no explicit item]
+Procedure <radiation > to treat [no explicit item]
+<radiation >  Results: [no explicit item]
+
+No template for <You will need to follow up with them as an outpatient >
+No template for <The following changes were made to your medications: -- STARTED Metoprolol SUCCINATE (Toprol) 100mg, take 2 and half tablets a day >
+No template for <-- STOPPED Metorolol TARTRATE (Lopressor)  >
+No template for <-- STARTED Roxicet 5/325mg, take 5-10mL every 4 to 6 hours as needed for pain. Do not exceed 40mL per day. -- >

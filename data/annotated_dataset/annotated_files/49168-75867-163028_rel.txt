@@ -1,0 +1,16 @@
+Medical Issues
+Symptoms include <confusion>;<intoxication from alcohol >;<fevers >;<swollen toe >;
+
+Tests
+Tests include <x-ray of your toe >
+Test results of <x-ray of your toe>: <no fracture or inflammation of the joint >;
+
+Treatments
+Procedure <IV antibiotics > to treat <fevers>
+<IV antibiotics >  Results: <fevers went away>
+Procedure <You were monitored for alcohol withdrawal> to treat <intoxication from alcohol > 
+<You were monitored for alcohol withdrawal> Results: <showing no symptoms of withdrawal at the time of discharge >
+
+
+No template for <Please take your medications as prescribed, especially the Dilantin which will help to prevent seizure.  >
+No template for < follow up appointment with your primary care doctor to review your medications and discuss this admission. >

@@ -1,0 +1,19 @@
+Medical Issues
+Symptoms include <trouble breathing>;<extra fluid in your lungs >;
+Symptoms <trouble breathing>;<extra fluid in your lungs > caused by Disease <pneumonia > 
+Symptoms [no explicit item] caused by Disease <worsening asthma > 
+Symptoms [no explicit item] caused by Disease <mild diastolic heart failure > 
+Symptoms <pneumonia> caused by Disease <bacteria in your blood stream > 
+
+Treatments
+Medicine <antibiotics > to treat <pneumonia>; <bloodstream infection>
+<antibiotics >  Results: <You are doing much better and will be discharged to Rehab to facilitate your improvement.>
+Medicine <steroids > to treat [no explicit item]
+<steroids >  Results: <You are doing much better and will be discharged to Rehab to facilitate your improvement.>
+Medicine <lasix > to treat [no explicit item]
+<lasix >  Results: <You are doing much better and will be discharged to Rehab to facilitate your improvement.>
+
+No template for <The following medication were started: Ceftriaxone 2gm intravenously for 24HRS for 5 days (total treatment 2 weeks). >
+No template for <Prednisone 10-30 mg per taper listed in medication list  >
+No template for <The following medications were changed: -Amlodipine 5 mg daily --&gt; increased to 10 mg Daily -Atenolol 50 mg daily --&gt; metoprolol 75mg by mouth Three times a day -Moexipril 15 mg [**Hospital1 **] --&gt; lisinopril 20 mg daily -Insulin dosing increased while on steroids . >
+No template for <Please take your other medications as prescribed >

@@ -1,0 +1,17 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|atrial flutter ablation| Treatments - Procedure name|119|142
+1|retroperitoneal bleed| Medical Issues - Complication developed in the hospital|206|227
+2|small heart attack| Medical Issues - Complication developed in the hospital|259|277
+3|blood products| Treatments - Procedure name|339|353
+4|- START amiodarone to control your heart rate| Medicine instructions - Medicine started|409|454
+5|- Decrease warfarin to 3mg daily| Medicine instructions - Medicine changed|455|487
+6|- Decrease metoprolol succinate to 100 mg daily| Medicine instructions - Medicine changed|488|535
+7|- START lipitor (Atorvastatin) to help prevent heart attacks and help the current heart attack heal| Medicine instructions - Medicine started|536|635
+8|- START amiodarone to help prevent further episodes of unstable rhythm| Medicine instructions - Medicine started|636|706
+9|- START aspirin to help prevent heart attacks and help the current heart attack heal| Medicine instructions - Medicine started|707|791
+10|- START lidocaine patches for pain control| Medicine instructions - Medicine started|792|835
+11|- START oxycodone as needed for pain control| Medicine instructions - Medicine started|835|880
+12|- START senna as needed for constipation| Medicine instructions - Medicine started|880|920
+13|- START colace for bowel control| Medicine instructions - Medicine started|921|953
+14|- START tylenol as needed for pain| Medicine instructions - Medicine started|954|988
+15|Please seek medical attention for worsening symptoms.| Aftercare instructions - Emergency instruction|989|1042

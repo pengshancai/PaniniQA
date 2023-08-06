@@ -1,0 +1,11 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|motorcycle crash| Medical Issues - Disease|72|89
+1|multiple injuries| Medical Issues - Symptom|101|118
+2|non weight bear on your lower extremities| Aftercare instructions - patient needs to do - Other|164|205
+3|pelvic fracture| Medical Issues - Disease|218|233
+4|transfer with a slide board| Aftercare instructions - patient needs to do - Other|244|271
+5|catheter| Treatments - Procedure name|414|422
+6|bladder is fully healed| Treatments - Treatment goal|448|471
+7|eat| Aftercare instructions - patient needs to do - Diet|487|490
+8|stay hydrated| Aftercare instructions - patient needs to do - Diet|500|513
+9|followed as an outpatient| Aftercare instructions - Upcoming Schedules - Specialist appointment|327|352

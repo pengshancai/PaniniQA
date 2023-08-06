@@ -1,0 +1,21 @@
+Medical Issues
+Symptoms include <throat pain>;
+Symptoms [No explicit item] caused by Disease <pneumonia >
+Symptoms [No explicit item] caused by Disease <fungal infection in your mouth and upper throat >
+
+Treatments
+Medicine <liquid medications > to treat [No explicit item]
+<liquid medications >  Results: [No explicit item]
+Procedure <coumadin > to treat [No explicit item]
+<coumadin >  Results: [No explicit item]
+
+No template for <Try to avoid hard, solid foods or sharp foods like crackers or chips that could cause you more pain in your throat >
+No template for <Added: Fluconazole (for 11 days) >
+No template for <Levaquin (for one more day) >
+No template for <Carafate >
+No template for <miralax >
+No template for <Magic Mouthwash >
+No template for <fragmin injections >
+No template for <Take the fragmin injections only until the coumadin clinic tells you to do so >
+No template for <Changed: Oxycodone (now liquid)  >
+No template for < >

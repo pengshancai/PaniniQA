@@ -1,0 +1,7 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|your blood pressure was very high| Medical Issues - Symptom|109|142
+1|you needed supplemental oxygen after your radio-frequency ablation| Treatments - Procedure name|147|213
+2|We gave you some pain medications to treat your abdominal pain| Treatments - Medicine name|296|358
+3|We also scanned your head to make sure you did not have a bleed| Tests - Test name|360|423
+4|which was negative| Tests - Test implication|425|443
+5|Oxycodone 2.5 mg by mouth every 4 hours as needed for pain for 1 week| Medicine instructions - Medicine started|469|538

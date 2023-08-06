@@ -1,0 +1,9 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|right head bleed| Medical Issues - Disease|76|92
+1|prolonged seizure| Medical Issues - Complication developed in the hospital|127|144
+2|new bleed on the left side of your brain| Medical Issues - Complication developed in the hospital|152|192
+3|pneumonia| Medical Issues - Disease|272|281
+4|antibiotics| Treatments - Medicine name|304|315
+5|Please ensure to take your medications as prescribed, multiple changes were made to your list.| Aftercare instructions - patient needs to do - Medication|421|515
+6|Please make sure to follow up with all of your appointments.| Aftercare instructions - Upcoming Schedules - PCP appointment|516|576
+7|Should you develop any new symptoms that are concerning to you, please call your physician, [**Name10 (NameIs) **] go to the nearest emergency room.| Aftercare instructions - Emergency instruction|577|726

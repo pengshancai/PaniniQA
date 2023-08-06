@@ -1,0 +1,10 @@
+Medical Issues
+Symptoms include <low blood pressure>;<altered mental status >;<chest pain >;<shortness of breath >;<headache >;<dizziness >;<lightheadedness >;<nausea >;<vomiting >;<diarrhea >;<pain with urination >;<blood in your stools >;<fevers >;<chills >;
+
+Treatments
+Procedure <You required mechanical ventilation  > to treat <low blood pressure>
+<You required mechanical ventilation  >  Results: <status improved within 24 hours>
+Medicine <Your Depakote dose was decreased to 1500 mg daily, please discuss this change with your PCP and psychiatrist. > to treat [No explicit item]
+<Your Depakote dose was decreased to 1500 mg daily, please discuss this change with your PCP and psychiatrist. >  Results: [No explicit item]
+
+No template for <It is very important that you stop using illicit drugs--these can be very detrimental to your health >

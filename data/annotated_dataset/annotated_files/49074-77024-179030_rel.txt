@@ -1,0 +1,18 @@
+Medical Issues
+Symptoms include <less interactive than your baseline >;
+
+Tests
+Test results of <{blood test}>: <sodium level was very high>;
+Test results of <{blood test}>: <infection >;
+Test results of <{urine test}>: <infection >;
+Test implications of <{blood test]>; <{urine test}>: <possibly in your lungs >; 
+
+Treatments
+Medicine <IV fluids > to treat <sodium level was very high>
+<IV fluids >  Results: <sodium level came back to normal >
+Medicine <IV antibiotics > to treat <infection>
+<IV antibiotics >  Results: [no explicit item]
+
+
+No template for <you were changed to oral antibiotics (ciprofloxacin) which you should continue taking as prescribed through [**10-22**] >
+No template for <You will be provided with prescriptions for pain as needed and a hospital bed will be delivered to your home. >

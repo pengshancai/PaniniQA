@@ -1,0 +1,20 @@
+Medical Issues
+Symptoms include <bilateral blood clots in your lungs>;<low oxygen levels >;
+Complication <confusion > caused by [no explicit item]
+Tests
+Tests include <CT scan >;<MRI >;<MRI of the head >;
+Test results of <CT scan>: <concerning lesion on your kidney >;
+Test results of <MRI>: <showed a hemorrhagic cyst (benign) >;
+Test results of <MRI of the head>: <small stroke lesions in your brain, but you did not clinically have symptoms from these very small lesions >;
+
+Treatments
+Procedure <breathing machine > to treat <low oxygen levels>
+<breathing machine >  Results: [no explicit item]
+Medicine <medicine to break-up the clots > to treat <bilateral blood clots in your lungs>
+<medicine to break-up the clots >  Results: <your breathing stabilized and you were then able to have the breathing tube safely removed >
+
+No template for <Please continue to take your regular home medications >
+No template for <START lovenox injections to prevent further blood clots until coumadin level is therapeutic >
+No template for <START coumadin to thin your blood and prevent further blood clots >
+No template for <Temporarily hold Triamterene-HCTZ (dyazide, a diuretic) until you follow-up with Dr. [**Last Name (STitle) **] >
+No template for <Temporarily hold Aspirin until you follow-up with Dr. [**Last Name (STitle) **] >

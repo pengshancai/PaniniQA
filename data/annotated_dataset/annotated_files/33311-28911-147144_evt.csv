@@ -1,0 +1,13 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|low blood count| Medical Issues - Symptom|66|81
+1|esophageal variceal bleeding| Medical Issues - Disease|111|139
+2|five units of packed red blood cells| Treatments - Medicine name|156|192
+3|esophagogastroduodenoscopy| Tests - Test name|215|241
+4|showed varices in your distal esophagus which were banded| Tests - Test result|248|305
+5|CONTINUE NADOLOL 20 mg by mouth once a day| Medicine instructions - Medicine continued|372|414
+6|CONTINUE THIAMINE 100 mg by mouth once a day| Medicine instructions - Medicine continued|415|459
+7|CONTINUE DIOVAN 160 mg by mouth once a day| Medicine instructions - Medicine continued|460|503
+8|INCREASE OMEPRAZOLE to 40 mg by mouth twice a day| Medicine instructions - Medicine changed|503|552
+9|START FOLIC ACID 1 mg by mouth once a day| Medicine instructions - Medicine started|553|594
+10|START FERROUS SULFATE 325 mg by mouth three times a day| Medicine instructions - Medicine started|595|650
+11|START SUCRALFATE 1 gm suspension four times a day for 10 days (End date: [**2120-5-13**])| Medicine instructions - Medicine started|651|741

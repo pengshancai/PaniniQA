@@ -1,0 +1,18 @@
+Medical Issues
+Symptoms [No explicit item] caused by Disease <large heart attack in the back side of your heart>
+Complication <low blood pressure > caused by [No explicit item]
+
+Treatments
+Procedure <Cardiac Catheterization procedure > to treat {heart attack}
+<Cardiac Catheterization procedure >  Results: {did very well}
+<stent placed in one of the arteries bringing blood to your heart >  Results: {did very well}
+
+Aftercare instructions
+If encounter {lightheadedness; dizziness; back or groin pain; any other concerning symptoms} do <If any of these occur, please call Dr [**Last Name (STitle) 171**] or return to the hospital immediately. >
+
+No template for <In order to keep this stent open you will be on several new medications and stop smoking. These interventions are critical as reobstructing your stent would be very dangerous. >
+No template for <Please review the attached list of medications and take everything as prescribed. >
+No template for <You will need for follow up with your primary doctor [**First Name (Titles) **] [**Last Name (Titles) 766**] to have your blood pressure and blood counts checked. >
+No template for <You will also need to see Dr [**Last Name (STitle) 171**] (cardiology) in 2 weeks as written below. >
+No template for <You can return to work in 1 week but be sure not to do any lifting. >
+No template for <After you see Dr [**Last Name (STitle) 171**], you can discuss gradually increasing your activity and exercise. >

@@ -1,0 +1,18 @@
+Medical Issues
+Symptoms include <facial weakness>;<nausea >;<emesis >;<unable to pass speech >;<swallow >;
+Symptoms {facial weakness; nausea; emesis} caused by Disease <right frontal intraparenchymal hemorrhage > [No explicit item]
+Symptoms [No explicit item] caused by Disease <aspiration pneumonitis > [No explicit item]
+
+Treatments
+Procedure <PEG tube > to treat {aspiration pneumonitis}
+<PEG tube >  Results: [No explicit item]
+Procedure <MRI with contrast > to treat {No explicit item}
+<MRI with contrast >  Results:[No explicit item]
+
+No template for <propranolol >
+No template for <propranolol >
+No template for <acute rehab  >
+No template for <Dilantin >
+No template for <amlodipine >
+No template for <Plavix 5 >
+No template for <aspirin >

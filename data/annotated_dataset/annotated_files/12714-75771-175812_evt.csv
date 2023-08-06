@@ -1,0 +1,9 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|fall| Medical Issues - Disease|166|170
+1|multiple bleeds in your brain and left eye| Medical Issues - Symptom|219|261
+2|It is recommended that you control your blood pressure with your outpatient pinolol.| Aftercare instructions - patient needs to do - Medication|263|347
+3|You should have regular (at least daily) blood pressure checks at your nursing facility. If your blood pressure is high, your doctor may want to change or increase the dose of your current medications.| Aftercare instructions - Upcoming Schedules - Test|347|549
+4|You were taking aspirin 81 mg daily before you came to the hospital. You should stop taking this medication for the time being. When your ophthomologist tells you it is safe to restart this medication, you may do so.| Medicine instructions - Medicine stopped|552|769
+5|you could not wake up| Medical Issues - Complication developed in the hospital|823|844
+6|In the future, you should avoid one medicine in particular which is called Haldol or haloperidol.| Aftercare instructions - patient needs to do - Medication|1011|1108
+7|You will START taking some eye drops.| Medicine instructions - Medicine started|1157|1194

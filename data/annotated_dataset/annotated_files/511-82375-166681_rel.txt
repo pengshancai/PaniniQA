@@ -1,0 +1,12 @@
+Medical Issues
+Symptoms include <headache>;<uncontrolled high blood pressure >;<decreased responsiveness>;
+Symptoms <headache>;<uncontrolled high blood pressure>;<decreased responsiveness> caused by Disease <ativan overuse>
+
+Tests
+Tests include <MRI brain>;
+Test results of <MRI brain>: <normal >;
+
+No template for <You were started on a blood pressure medication which should be continued after your discharge>
+No template for <Consult your primary care if you decide to breastfeed for further guidance with the medication>
+No template for <We recommend that you discuss with your Ob/Gyn about trying to obtain a visiting nurse for the newborn baby>
+No template for <Please keep your follow-up appointments>

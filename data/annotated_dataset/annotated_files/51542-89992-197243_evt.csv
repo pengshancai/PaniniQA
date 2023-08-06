@@ -1,0 +1,17 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|fever| Medical Issues - Symptom|63|68
+1|pneumonia| Medical Issues - Disease|76|85
+2|urinary tract infection| Medical Issues - Disease|92|115
+3|antibiotics| Treatments - Medicine name|137|148
+4|IVIG| Treatments - Procedure name|214|218
+5|to help fight the infections| Treatments - Treatment goal|247|275
+6|diarrhea| Medical Issues - Symptom|298|306
+7|Stool studies including C.Diff and cultures| Tests - Test name|308|351
+8|negative| Tests - Test result|357|365
+9|Imodium| Treatments - Medicine name|397|404
+10|Linezolide (antibiotic) to be continued until follow up with Dr. [**Last Name (STitle) 724**]| Aftercare instructions - patient needs to do - Medication|434|527
+11|Ciprofloxacin (antibiotic) to be continued until follow-up with Dr. [**Last Name (STitle) 724**]| Aftercare instructions - patient needs to do - Medication|532|628
+12|Continue scheduled nebulizer treatments for additional 4 days and then as needed| Aftercare instructions - Upcoming Schedules - Treatment|633|713
+13|Imodium 1 tab after each loose stool, up to 4 tabs a day| Medicine instructions - Medicine started|718|774
+14|Metamucil wafers 1 daily as needed for loose stools| Medicine instructions - Medicine started|779|830
+15|Metoprolol 12.5mg| Medicine instructions - Medicine started|835|852

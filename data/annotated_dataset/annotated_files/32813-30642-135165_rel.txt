@@ -1,0 +1,14 @@
+Medical Issues
+Symptoms include <weakness on your right side >;
+Symptoms <weakness on your right side> caused by Disease <stroke > 
+
+Tests
+Tests include <echocardgiogram >;< MRI >;
+Test results of <echocardgiogram>: <concerning for the development of a restrictive cardiomyopathy and possibly infiltrative disease >;
+Test results of <MRI>: <confirmed the stroke >;
+
+Treatments
+Procedure <diuresed > to treat <Decompensated Heart Failure>
+
+No template for < It is recommended that you continue care with your cardiologist at [**Hospital6 27369**], Dr. [**Last Name (STitle) **].  >
+No template for <after stopping you blood thinner (coumadin) >

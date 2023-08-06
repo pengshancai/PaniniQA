@@ -1,0 +1,21 @@
+Medical Issues
+Symptoms include <slow heart rate>;
+Complication <You had a small collection of blood around your heart because of a perforation during the pacemaker insertion, but it is now resolved. > caused by <pacemaker placement>
+Complication <You developed a drug rash to Keflex, therefore you should not take this antibiotic or any other cephalosporin or penicillin as you probably are allergic to them. > caused by <Keflex>
+
+Treatments
+Procedure <pacemaker > to treat <slow heart rate>
+<pacemaker >  Results: [no explicit item]
+Medicine <antibiotics > to treat [no explicit item]
+<antibiotics >  Results: [no explicit item]
+
+Aftercare instructions
+If encounter <weakness, fevers, trouble breathing, fainting, blood in your stools, increased coughing, vomiting or pain in your chest> do <Please call Dr. [**Last Name (STitle) 98155**] or Dr. [**Last Name (STitle) **]>
+
+No template for <Do not take a shower until after your check up at the device clinic on [**7-7**]. Please keep the dressing clean and dry. You may take a bath, but please keep the dressing dry. >
+No template for <Please avoid extreme movements with you left arm such as tucking your shirt in or reaching to lift something. Do not lift more than 5 pounds for one week. >
+No template for <You developed a drug rash to Keflex, therefore you should not take this antibiotic or any other cephalosporin or penicillin as you probably are allergic to them. >
+No template for <Please keep all of your follow-up appts. >
+No template for <Make sure you drink plenty of water or juice when you get home. >
+No template for < >
+No template for <Please call the device clinic if your chest area around the pacemaker becomes more sore or red. >

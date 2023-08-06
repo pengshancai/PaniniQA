@@ -1,0 +1,15 @@
+Medical Issues
+Symptoms include <fluid in your right lungs >;
+
+Treatments
+Procedure <TIPS procedure> to treat [No explicit item]
+<TIPS procedure>  Results: [No explicit item]
+Procedure <chest tube  > to treat {fluid in right lungs}
+<chest tube  >  Results: [No explicit item]
+Procedure <liver transplant > to treat [No explicit item]
+<liver transplant >  Results: [No explicit item]
+Procedure <feeding tube  > to treat {aid with your nutrition}
+<feeding tube  >  Results: [No explicit item]
+<aid with your nutrition >  Results: [No explicit item]
+
+No template for <workup will continue on an outpatient basis >

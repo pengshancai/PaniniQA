@@ -1,0 +1,31 @@
+Medical Issues
+Symptoms [No explicit item] caused by Disease <heart attack> 
+Symptoms [No explicit item] caused by Disease <kidney failure > 
+Symptoms [No explicit item] caused by Disease <anemia > 
+
+Treatments
+Procedure <two stents placed in your coronary arteries > to treat <heart attack>
+<two stents placed in your coronary arteries >  Results: [No explicit item]
+Procedure <started on dialysis > to treat <kidney failure>
+<started on dialysis >  Results: [No explicit item]
+Procedure <received 2 units of blood > to treat <anemia>
+<received 2 units of blood >  Results: [No explicit item]
+
+Aftercare instructions
+If encounter <If you experience chest pain or pressure, trouble breathing, fevers, chills, palpitations, lightheadedness, dizziness, or any other concerning symptoms> do <please seek medical attention or come to the ER immediately. >
+
+No template for <Please go to all follow up appointments and take all medications as prescribed. >
+No template for <Please go to all follow up appointments and take all medications as prescribed. >
+No template for <Increase aspirin to 325mg daily for one month, then you may resume the 81mg daily dose. >
+No template for <Take clopdiogrel daily for one month to prevent clots in your stents. >
+No template for <Decreased your isosorbide MONOnitrate to isosorbide DInitrate 30mg three times daily. >
+No template for <Decreased your carvedilol to 6.25mg twice daily. >
+No template for <Increased your calcium acetate (Phoslo) to 2 tabs three times daily. >
+No template for <Started sevelamer, which helps prevent phosphate from becoming too high. >
+No template for <Stopped your oral iron (you will get this at dialysis). >
+No template for <Started nephrocaps, a vitamin for patients with kidney damage.  >
+No template for <Started lisinopril, a blood pressure medicine that also helps the heart. >
+No template for <Changed omeprazole to pantoprazole, as this is less likely to interact with your heart medications. >
+No template for <Increased warfarin to 5mg daily as your blood test (INR) was not high enough on 2.5mg daily. >
+No template for <Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight &gt; 3 lbs. >
+No template for <Adhere to 2 gm sodium diet. >

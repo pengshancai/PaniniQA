@@ -1,0 +1,12 @@
+Medical Issues
+Symptoms include <shortness of breath>;<low blood pressures >;
+Symptoms [No explicit item] caused by Disease <lymphoma >
+
+Treatments
+Procedure <dialysis > to treat [No explicit item]
+<dialysis >  Results: [No explicit item]>
+Procedure <ultrasound to look for complications of your HIV  > to treat [No explicit item]
+<ultrasound to look for complications of your HIV  >  Results: [No explicit item]
+Medicine <increase SEVELAMER to 4000 mg three times daily, with meals > to treat [No explicit item]
+<increase SEVELAMER to 4000 mg three times daily, with meals >  Results: [No explicit item]
+

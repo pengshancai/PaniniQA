@@ -1,0 +1,13 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|fever| Medical Issues - Symptom|64|69
+1|low blood pressure| Medical Issues - Symptom|74|92
+2|lung collapse of the left lung| Medical Issues - Disease|117|147
+3|Part of the respiratory tree was dilated and stented| Treatments - Procedure name|149|201
+4|IV antibiotics| Treatments - Medicine name|223|237
+5|infection of the lung| Medical Issues - Disease|245|266
+6|You will need to continue taking the full course of antibiotics.| Aftercare instructions - patient needs to do - Medication|268|332
+7|You will require close follow up with your oncologist Dr. [**Last Name (STitle) 3274**].| Aftercare instructions - Upcoming Schedules - Specialist appointment|335|424
+8|You will also be seeing radiation oncology for treatment (see appt time / date below).| Aftercare instructions - Upcoming Schedules - Specialist appointment|424|510
+9|Lastly, you will have repeat bronchoscopy in 1 month w/ pulmonology.| Aftercare instructions - Upcoming Schedules - Specialist appointment|510|579
+10|You should continue to wear home oxygen until your follow up appointment with pulmonology.| Aftercare instructions - patient needs to do - Medication|582|672
+11|If you experience any of the following call your doctor or return for evaluation: fevers, chills, shortness of breath, cough, dizzyness, abdominal pain, dark black stool, cough productive with blood, chest pain / pressure, bloody stools.| Aftercare instructions - Emergency instruction|728|965

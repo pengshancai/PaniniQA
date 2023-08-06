@@ -1,0 +1,15 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|worsening shortness of breath| Medical Issues - Symptom|62|91
+1|CT scan of your chest| Tests - Test name|95|116
+2|did not show a clot in your lungs| Tests - Test result|117|150
+3|did show an increase in the size of the fluid collections around your lungs| Tests - Test result|156|231
+4|drained the fluid from your lungs| Treatments - Procedure name|291|325
+5|Lisinopril was started and then stopped due to low blood pressure - Captopril which is in the same class as lisinopril was started| Medicine instructions - Medicine started|462|592
+6|Your Metoprolol Succinate was switched to Metoprolol Tartrate 50 mg twice a day| Medicine instructions - Medicine changed|595|674
+7|Lasix 80 mg daily| Medicine instructions - Medicine started|678|695
+8|Please continue to have draining from your pleural catheters 3 times a week.| Aftercare instructions - Upcoming Schedules - Treatment|851|928
+9|You have a follow appointment with pulmonology on [**3-23**].| Aftercare instructions - Upcoming Schedules - Specialist appointment|976|1037
+10|You will have to have an xray before the appointment.| Aftercare instructions - Upcoming Schedules - Test|1038|1092
+11|Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight increases by more than 3 lbs.| Aftercare instructions - patient needs to do - Other|1127|1220
+12|Adhere to a 2 gram sodium diet.| Aftercare instructions - patient needs to do - Diet|1221|1252
+13|Please call your doctor for the following: increasing shortness of breath, chest pain, palpitations, dizziness, increased swelling, new or concerning symptoms.| Aftercare instructions - Emergency instruction|1253|1412

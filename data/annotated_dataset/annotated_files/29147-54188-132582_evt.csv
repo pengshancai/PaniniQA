@@ -1,0 +1,12 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|bowel perforation| Medical Issues - Disease|67|84
+1|VAC dressing| Treatments - Procedure name|266|278
+2|drains in your abdomen| Treatments - Procedure name|331|353
+3|You have a new ileostomy and it is important that the output is monitored. The output should be between 500cc-1500cc daily.| Aftercare instructions - patient needs to do - Other|435|558
+4|It is important that you are monitored for signs and symptoms of dehydration and symptoms of constipation.| Aftercare instructions - patient needs to do - Other|559|665
+5|tracheostomy tube| Treatments - Procedure name|677|694
+6|speech and swallow consult| Tests - Test name|896|922
+7|unable to pass| Tests - Test result|876|890
+8|You will need to be reevaluated by the speech and swallow team at the rehab hospital.| Aftercare instructions - Upcoming Schedules - Specialist appointment|924|1009
+9|You have tolerated the valve that allows you to talk well and should continue to use this.| Aftercare instructions - patient needs to do - Other|1010|1100
+10|You will be sent to rehab to recieve very important care and help you recover.| Aftercare instructions - Upcoming Schedules - Specialist appointment|1101|1179

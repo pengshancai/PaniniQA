@@ -1,0 +1,14 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|fever| Medical Issues - Symptom|64|69
+1|possible seizure| Medical Issues - Symptom|71|87
+2|high blood sugars| Tests - Test result|92|109
+3|intubation and admission to the ICU| Treatments - Procedure name|121|156
+4|pneumonia| Medical Issues - Disease|211|221
+5|antibiotics| Treatments - Medicine name|237|248
+6|You will need complete a few more days of antibiotics at rehab| Aftercare instructions - patient needs to do - Medication|259|321
+7|Your insulin regimen was changed to a long acting insulin called glargine to be taken at night| Medicine instructions - Medicine changed|325|419
+8|You are now on a medication called metoprolol instead of atenolol| Medicine instructions - Medicine changed|529|594
+9|You are also on a mew medication called amlodipine| Medicine instructions - Medicine started|596|646
+10|You should continue to take your other medications as directed| Aftercare instructions - patient needs to do - Medication|650|712
+11|You should keep your follow up appointments as detailed below| Aftercare instructions - Upcoming Schedules - PCP appointment|716|777
+12|If you experience difficulty breathing, chest pain, bleeding or other concerning symptoms please call your doctor or come to the emergency room.| Aftercare instructions - patient needs to do - Other|781|925

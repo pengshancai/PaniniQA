@@ -1,0 +1,17 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|fever| Medical Issues - Symptom|68|73
+1|low blood pressure| Tests - Test result|79|97
+2|bacteria (Klebsiella)| Tests - Test result|123|145
+3|antibiotics| Treatments - Medicine name|189|200
+4|cleared from your bloodstream| Treatments - Result of the treatment|222|251
+5|14 days of antibiotics| Treatments - Treatment goal|278|300
+6|infection| Medical Issues - Disease|315|324
+7|CT scan of your abdomen and pelvis| Tests - Test name|407|441
+8|MRCP| Tests - Test name|455|459
+9|failed to show a source of your infection| Tests - Test result|466|507
+10|follow up with your outpatient providers| Aftercare instructions - Upcoming Schedules - PCP appointment|520|560
+11|Ampicillin/Sulbactam| Medicine instructions - Medicine started|696|716
+12|every 6 hours via PICC line for 8 more days| Aftercare instructions - patient needs to do - Medication|717|761
+13|warfarin (coumadin)| Medicine instructions - Medicine stopped|766|786
+14|until your INR check tomorrow morning| Aftercare instructions - patient needs to do - Medication|786|823
+15|continue to take all of your other home medications as prescribed| Medicine instructions - Medicine continued|838|903

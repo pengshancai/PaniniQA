@@ -1,0 +1,14 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|abdominal pain| Medical Issues - Symptom|65|79
+1|stone obstructing your common bile duct| Medical Issues - Symptom|100|139
+2|ERCP| Treatments - Procedure name|173|177
+3|You will likely need to have surgery to remove your gallbladder.| Aftercare instructions - Upcoming Schedules - Treatment|205|269
+4|urinary tract infection| Medical Issues - Disease|302|325
+5|ingrown toenail| Medical Issues - Disease|394|409
+6|STARTED vitamin B12| Treatments - Medicine name|567|586
+7|thiamine| Treatments - Medicine name|588|601
+8|STARTED acetaminophen as needed| Treatments - Medicine name|618|649
+9|STARTED colace, senna & miralax as needed| Treatments - Medicine name|662|706
+10|treated with a 7-day course of cefpodoxime| Treatments - Medicine name|337|379
+11|pain| Medical Issues - Symptom|654|658
+12|constipation| Medical Issues - Symptom|711|723

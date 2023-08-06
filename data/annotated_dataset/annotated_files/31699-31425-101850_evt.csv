@@ -1,0 +1,19 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|bleeding from your liver and your spleen| Medical Issues - Symptom|113|153
+1|breathing tube| Treatments - Procedure name|215|229
+2|fluid surrounding your right lung| Medical Issues - Symptom|247|280
+3|chest tube| Medical Issues - Symptom|284|294
+4|tests| Tests - Test name|337|342
+5|possible gallbladder infection| Tests - Test result|361|391
+6|antibiotics| Treatments - Medicine name|429|440
+7|gallbladder infection| Medical Issues - Disease|370|391
+8|You should continue taking the antibiotic Levofloxacin until [**2127-10-4**]| Medicine instructions - Medicine continued|442|518
+9|You should see Dr. [**Last Name (STitle) **] in 2 weeks.| Aftercare instructions - Upcoming Schedules - Specialist appointment|520|576
+10|left ankle pain| Medical Issues - Symptom|660|675
+11|X-rays| Tests - Test name|677|683
+12|did not show any fracture| Tests - Test result|701|726
+13|You were given a boot for walking| Tests - Test implication|728|761
+14|You should follow-up with Dr. [**Last Name (STitle) 74470**] in 4 weeks.| Aftercare instructions - Upcoming Schedules - Specialist appointment|763|835
+15|You may take Tylenol for pain but do not exceed 2 grams (2000mg) per day.| Aftercare instructions - patient needs to do - Medication|836|909
+16|You may take Dilaudid (hydromorphone) for pain but it is important not to drive, drink alcohol or take sedative medications while taking Dilaudid. Dilaudid causes constipation- therefore it is important to take a stool softener (Colace) while taking Dilaudid.| Aftercare instructions - patient needs to do - Medication|910|1169
+17|Please call your doctor or return to the hospital for: * Fever (Temp > 101), chills * Abdominal pain * Nausea or vomiting * Chest pain * Shortness of breath * Worsening ankle pain * Any other symptoms that concern you| Aftercare instructions - Emergency instruction|1172|1389

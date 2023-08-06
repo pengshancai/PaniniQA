@@ -1,0 +1,23 @@
+Medical Issues
+Symptoms include <chest pain>;<rise in your cardiac enzymes >;<broken tooth >;
+Complication <left sided weakness > caused by [No explicit item]
+Complication <intubated > caused by [No explicit item]
+Complication <fast breathing > caused by [No explicit item]
+Complication <pulmonary embolism > caused by [No explicit item]
+Complication <significant fluctuation of your mental status > [No explicit item]
+Complication <tube in your stomach > caused by [No explicit item]
+Complication <Your diabetes was out of control > caused by [No explicit item]
+
+Treatments
+Medicine <nitro > to treat {chest pain}
+<nitro >  Results: [No explicit item]
+<remove a clot from your left cerebral artery >  Results: {removed clot}
+<removed >  Results: {removed clot}
+
+Aftercare instructions
+If encounter {[new weakness]; [numbness]; [tingling]; [visual change]; [loss of consciousness]; [chest pain]; [shortness of breath]; [lightheadedness]; [fainting]; [nausea]; [vomiting]; [any other concerns]} do <Please call your doctor or return to the hospital for any new weakness, numbness, tingling, visual changes, loss of consciousness, chest pain, shortness of breath, lightheadedness, fainting, nausea, vomiting or any other conerns. >
+If encounter {emergency} do <Call 911 if it is an emergency. >
+
+No template for <coumadin >
+No template for <Please stop smoking. >
+No template for <Information was given to you on admission regarding smoking cessation. >

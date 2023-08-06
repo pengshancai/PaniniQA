@@ -1,0 +1,12 @@
+Medical Issues
+Symptoms include <asthma axacerbation {asthma exacerbation}>;<atrial fibrillation >;<fast heart rate >;
+Symptoms {asthma exacerbation} <atrial fibrillation> <fast heart rate> caused by Disease <upper respiratory infection which is most likely viral > 
+
+
+Aftercare instructions
+If encounter <develop chest pain, shortness of breath, or any other concerning symptoms> do <please call your primary care doctor or go to the nearest Emergency Department. >
+
+No template for <Please continue to take the medications as written. >
+No template for <If you have problems taking your inhalers please call your doctor&#x27;s office. > {If you have problems taking your inhalers please call your doctor's office.}
+No template for <Your new medications include- Atrovent and Prednisone and saline nasal spray. >
+No template for <Please keep all of the follow up appointments. >

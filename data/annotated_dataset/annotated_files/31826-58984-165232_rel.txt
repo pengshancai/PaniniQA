@@ -1,0 +1,16 @@
+Medical Issues
+Symptoms include <abdominal pain>;
+Symptoms <abdominal pain> caused by Disease <ischemia (decreased blood supply) to your left colon >
+
+Tests
+Tests include <cardiac catheterization >;
+Test goal of <cardiac catheterization>: <to evaluate the arteries in your heart >;
+
+Treatments
+Procedure <resection of this part of your colon > to treat <ischemia (decreased blood supply) to your left colon >
+
+No template for <you have been started on aspirin, a beta blocker (blood pressure medication) and continued on your home ACE inhibitor (previously &quot;Benezapril&quot;).  >
+No template for <We did not resume your home hydrochlorothiazide (diuretic).  >
+No template for <We recommend that this be followed up by your primary care physician as well as cardiology. >
+No template for <We recommend that this be followed up by your primary care physician as well as cardiology. >
+No template for <You were evaluated by the Physical therapy team and being recommended for rehab after your hospital stay. >

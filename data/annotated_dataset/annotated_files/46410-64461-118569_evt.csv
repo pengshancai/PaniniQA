@@ -1,0 +1,17 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|nausea| Medical Issues - Symptom|63|69
+1|diarrhea| Medical Issues - Symptom|71|79
+2|acute episode of shortness of breath| Medical Issues - Symptom|87|123
+3|blood clot in the lungs| Medical Issues - Disease|164|187
+4|heparin therapy| Treatments - Medicine name|209|224
+5|CT imaging| Tests - Test name|233|243
+6|showed there was no concern for clot| Tests - Test result|244|280
+7|antibiotics| Treatments - Medicine name|314|325
+8|IV fluids| Treatments - Medicine name|330|339
+9|hydration and to treat any underlying infections.| Treatments - Treatment goal|344|393
+10|If you have a return of abdominal pain, not have bowel movements or having trouble eating please return to the ED.| Aftercare instructions - Emergency instruction|619|733
+11|Please make sure to follow up with your primary care doctor, Dr.[**Last Name (STitle) **], at your earliest convenience.| Aftercare instructions - Upcoming Schedules - PCP appointment|734|854
+12|If you experience any chest pain, shortness of breath, presistent palpitations, fevers, chills, worsening abdominal pain or nausea and vomiting please call your doctor| Aftercare instructions - Emergency instruction|855|1022
+13|Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight > 3 lbs.| Aftercare instructions - patient needs to do - Other|1023|1098
+14|Adhere to 2 gm sodium diet Fluid Restriction:| Aftercare instructions - patient needs to do - Diet|1099|1144
+15|nausea medications| Treatments - Medicine name|457|475

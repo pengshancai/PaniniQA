@@ -1,0 +1,24 @@
+Medical Issues
+Symptoms include <bleeding from your liver and your spleen>;<fluid surrounding your right lung >;<chest tube >;<left ankle pain >;
+Symptoms [no explicit item] caused by Disease <gallbladder infection >
+
+Tests
+Tests include <tests >;<X-rays >;
+Test results of <tests>: <possible gallbladder infection >;
+Test results of <X-rays>: <did not show any fracture >;
+Test implications of <X-rays>: <You were given a boot for walking >; 
+
+Treatments
+Procedure <breathing tube > to treat [no explicit item]
+<breathing tube >  Results: [no explicit item]
+Medicine <antibiotics > to treat <gallbladder infection>
+<antibiotics >  Results: [no explicit item]
+
+Aftercare instructions
+If encounter <Fever (Temp > 101), chills, Abdominal pain, Nausea or vomiting, Chest pain, Shortness of breath, Worsening ankle pain, Any other symptoms that concern you> do <Please call your doctor or return to the hospital >
+
+No template for <You should continue taking the antibiotic Levofloxacin until [**2127-10-4**] >
+No template for <You should see Dr. [**Last Name (STitle) **] in 2 weeks. >
+No template for <You should follow-up with Dr. [**Last Name (STitle) 74470**] in 4 weeks. >
+No template for <You may take Tylenol for pain but do not exceed 2 grams (2000mg) per day. >
+No template for <You may take Dilaudid (hydromorphone) for pain but it is important not to drive, drink alcohol or take sedative medications while taking Dilaudid. Dilaudid causes constipation- therefore it is important to take a stool softener (Colace) while taking Dilaudid. >

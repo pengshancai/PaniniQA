@@ -1,0 +1,15 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|bleeding from your rectum| Medical Issues - Symptom|99|124
+1|blood products to replace lost blood| Treatments - Procedure name|139|175
+2|upper GI endoscopy| Tests - Test name|193|211
+3|colonoscopy| Tests - Test name|273|284
+4|AVM (arterio-venous malformation)| Tests - Test result|378|411
+5|cauterized during endoscopy| Treatments - Procedure name|513|540
+6|colchicine| Medicine instructions - Medicine stopped|600|610
+7|allopurinol| Medicine instructions - Medicine continued|680|691
+8|Please continue to take all of your other medications| Medicine instructions - Medicine continued|717|770
+9|Please keep all your outpatient appointments.| Aftercare instructions - Upcoming Schedules - Specialist appointment|772|817
+10|Call a doctor or 911 if you have dark tarry stools, blood in your stool, chest pain, shortness of breath, lightheadedness, fever, or any other concerning symptom.| Aftercare instructions - patient needs to do - Other|818|980
+11|weigh yourself every morning| Aftercare instructions - patient needs to do - Other|1040|1068
+12|adhere to 2 gm sodium diet| Aftercare instructions - patient needs to do - Diet|1074|1100
+13|no source of bleeding| Tests - Test result|296|317

@@ -1,0 +1,14 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|shortness of breath| Medical Issues - Symptom|64|83
+1|stent in your trachea| Treatments - Procedure name|140|161
+2|cancer had invaded into the lung| Medical Issues - Disease|187|219
+3|multiple bronchoscopies| Treatments - Procedure name|328|352
+4|removal of tumor and mucus| Treatments - Treatment goal|357|383
+5|1 dose of palliative chemotherapy, and 5 sessions of palliative radition| Treatments - Medicine name|398|470
+6|to try to alleviate your symptoms| Treatments - Treatment goal|472|505
+7|infection of your stool which causes diarrhea| Medical Issues - Complication developed in the hospital|540|585
+8|antibiotics x 14 days| Treatments - Medicine name|609|630
+9|diarrhea improved| Treatments - Result of the treatment|640|657
+10|Please take all you medications as prescribed.| Aftercare instructions - patient needs to do - Medication|707|753
+11|Please keep all followup appointments.| Aftercare instructions - Upcoming Schedules - Specialist appointment|754|792
+12|If you experience any symptoms which concern you, please call the on [**Name8 (MD) 138**] RN, your doctor, or go to the ED.| Aftercare instructions - Emergency instruction|793|916

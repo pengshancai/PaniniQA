@@ -1,0 +1,23 @@
+Medical Issues
+Symptoms include <blood sugars were extremely high>;<confused >;
+Complication <You were still feeling unwell and we could not start you on your insulin regimen until you began to eat > caused by [no explicit item]
+
+Tests
+Test results of <{blood test}>: <blood sugars were extremely high>;
+
+Treatments
+Medicine <insulin > to treat <{hyperglycemia}>
+<insulin >  Results: <you were stable enough to be watched on the regular hospital floor >
+Medicine < intravenous fluids > to treat <{hyperglycemia}>
+< intravenous fluids >  Results: <you were stable enough to be watched on the regular hospital floor >
+Medicine <electrolytes > to treat <{hyperglycemia}>
+<electrolytes >  Results: <you were stable enough to be watched on the regular hospital floor >
+Procedure <you were transferred and we encouraged you to begin eating > to treat [no explicit item]
+Medicine <we started you on adjusted long-acting insulin doses > to treat <{diabetes}>
+<we started you on adjusted long-acting insulin doses >  Results: [no explicit item]
+
+
+
+No template for <encouraged you to follow-up with your doctors [**First Name8 (NamePattern2) **] [**Last Name (Titles) **] in a few days >
+No template for <We changed your long-acting insulin dose (Lantus) to 14 units in the morning and 18 units in the evening >
+No template for <If your blood sugars are too high or too low or you are feeling unwell, please call the [**Last Name (un) **] Diabetes Center. >

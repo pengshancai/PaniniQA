@@ -1,0 +1,17 @@
+Medical Issues
+Symptoms include <bleeding in your G-tube, likely from your stomach>;
+Complication <hematocrit dropped to the low 30s but remained stable > caused by [no explicit item]
+
+Treatments
+Medicine <IV medications > to treat [no explicit item]
+<IV medications >  Results: [no explicit item]
+Medicine <Your medications and tube-feeds are being restarted now > to treat [no explicit item]
+<Your medications and tube-feeds are being restarted now >  Results: [no explicit item]
+
+Aftercare instructions
+If encounter <further bleeding, fevers, chills, chest pain, shortness of breath, abdominal pain, bloody stools or black tarry stools> do <call your doctor or return to the Emergency Room>
+
+No template for <The following changes are being made to your medications: . 1. CHANGE Famotidine to Omeprazole 40mg [**Hospital1 **]. >
+No template for <1. HOLD Aspirin for 1 week before restarting. >
+No template for <2. HOLD Isosorbide mononitrate for 1-2 days before restarting, as tolerated by blood pressure >
+No template for <You should follow-up with your primary care physician. >

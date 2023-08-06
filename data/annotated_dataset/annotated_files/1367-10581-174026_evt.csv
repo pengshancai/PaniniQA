@@ -1,0 +1,7 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|low blood pressure| Medical Issues - Symptom|155|173
+1|recent change in your diuretic medication| Medical Issues - Disease|206|247
+2|decrease in your nutritional intake| Medical Issues - Disease|261|296
+3|It is very important that you continue to eat and drink on a daily basis while you are on a diurectic medication.| Aftercare instructions - patient needs to do - Diet|298|411
+4|STOP: [**Hospital1 8296**] Isosorbide Mononitrate Torsemide| Medicine instructions - Medicine stopped|441|500
+5|Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more than 3 lbs or decreases by more than 3 lbs.| Aftercare instructions - patient needs to do - Other|558|678

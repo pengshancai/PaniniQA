@@ -1,0 +1,14 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|high fevers| Medical Issues - Symptom|66|77
+1|infection in the pubic area| Medical Issues - Disease|85|112
+2|You had the area drained| Treatments - Procedure name|114|138
+3|you will need to have frequent dressing changes to clean the wound and promote healing| Aftercare instructions - patient needs to do - Other|169|255
+4|The Pulmonary doctors have arranged some testing and a follow up appointment with them. See below| Aftercare instructions - Upcoming Schedules - Specialist appointment|355|452
+5|anemic| Tests - Test result|466|472
+6|blood transfusion| Treatments - Procedure name|488|505
+7|blood in your stool| Medical Issues - Symptom|525|544
+8|you will need to have a colonoscopy as an out patient| Aftercare instructions - patient needs to do - Other|574|627
+9|Keep off of your aspirin for now| Medicine instructions - Medicine stopped|688|720
+10|kidney function| Tests - Test name|729|744
+11|poor during your acute illness but currently is slightly increased from your baseline| Tests - Test implication|748|834
+12|Continue to eat well and stay hydrated| Aftercare instructions - patient needs to do - Diet|837|875

@@ -1,0 +1,7 @@
+Medical Issues
+Symptoms include <shortness of breath >;<low platelets >;
+
+Treatments
+Medicine <you were treated with steroids > to treat <CHANGE HERE Disease>
+<you were treated with steroids >  Results: <CHANGE HERE Treatment Result>
+

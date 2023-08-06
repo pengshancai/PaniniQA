@@ -1,0 +1,17 @@
+Medical Issues
+Symptoms include <low blood pressure>;
+Symptoms <low blood pressure> caused by Disease <coronary artery disease > 
+
+Tests
+Tests include <cardiac catheterization >;
+Test implications of <cardiac catheterization>: {evaluation of the blood vessels that supply your heart }
+Test results of <cardiac catheterization>: <coronary artery disease >;
+
+Aftercare instructions
+If encounter <experience any sudden chest pain or shortness of breath> do <Please call your doctor or return to the emergency department >
+
+No template for <Please continue to take all medications as directed upon leaving the hospital. >
+No template for <Plavix 75mg daily - please continue to take for at least one month.  >
+No template for <Lisinopril 2.5mg daily - please do not take on mornings of dialysis. >
+No template for <Atorvastatin 40mg daily  >
+No template for <Toprol 37.5mg [**Hospital1 **] >

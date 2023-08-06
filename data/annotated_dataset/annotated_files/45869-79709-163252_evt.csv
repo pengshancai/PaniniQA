@@ -1,0 +1,26 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|becoming more lethargic| Medical Issues - Symptom|177|200
+1|serious infection in your blood caused by MRSA| Medical Issues - Disease|230|276
+2|ulcer on your left foot| Medical Issues - Disease|320|343
+3|fluid from your right hip| Tests - Test name|385|410
+4|didn't look infected| Tests - Test result|418|443
+5|scanned your AAA repair graft| Tests - Test name|454|483
+6|looked good as well| Tests - Test result|491|510
+7|ultrasound of your heart| Tests - Test name|531|555
+8|to evaluate if your had an infection of your heart valves| Tests - Test goal|556|613
+9|but we couldn't get a good picture| Tests - Test result|615|654
+10|As a result, we will treat you with 6 weeks of IV antibiotics| Treatments - Medicine name|656|717
+11|Additionally, we will have you follow up with the vascular surgeons to make sure you have enough blood flow to your left heel to fight the infection| Aftercare instructions - Upcoming Schedules - Specialist appointment|719|867
+12|atrial fibrillation.| Medical Issues - Disease|947|967
+13|We started you on a blood thinning medication called coumadin to help prevent a stroke| Medicine instructions - Medicine started|1067|1153
+14|We can control the rate of your heart with medicines, but you do have an increased risk of stroke.| Aftercare instructions - patient needs to do - Other|968|1066
+15|You will need to get your blood levels (INR) checked frequently while on coumadin.| Aftercare instructions - Upcoming Schedules - Test|1155|1237
+16|You should follow up with your cardiologist to follow this heart rhythm.| Aftercare instructions - Upcoming Schedules - Specialist appointment|1238|1310
+17|blood count was below the value recommended for someone with heart disease| Medical Issues - Symptom|1369|1443
+18|blood transfusion| Treatments - Procedure name|1462|1479
+19|declinced knowing the risks and benefits of a transfusion| Treatments - Result of the treatment|1491|1548
+20|Please note the following changes to your medications: START Vancomycin 1 g every day intravenously through [**9-5**].| Medicine instructions - Medicine started|1550|1668
+21|START Coumadin 2.5 mg daily and then as instructed by your doctor [**First Name (Titles) **] [**Last Name (Titles) 9766**] to 81mg daily| Medicine instructions - Medicine started|1669|1805
+22|INCREASE Metoprolol to 100mg daily| Medicine instructions - Medicine changed|1806|1840
+23|No other changes were made to your medications.| Aftercare instructions - patient needs to do - Medication|1841|1888
+24|Please attend the following appointments we have made for you.| Aftercare instructions - Upcoming Schedules - Specialist appointment|1889|1951

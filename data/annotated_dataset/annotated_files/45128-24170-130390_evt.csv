@@ -1,0 +1,16 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|palpitations| Medical Issues - Symptom|152|164
+1|pneumonia| Medical Issues - Disease|190|199
+2|intubation| Treatments - Procedure name|242|252
+3|intravenous antibiotics| Treatments - Medicine name|269|292
+4|you improved| Treatments - Result of the treatment|298|310
+5|medications to remove excess fluid from your body| Treatments - Medicine name|442|491
+6|Your breathing and leg swelling improved.| Treatments - Result of the treatment|493|534
+7|echocardiogram| Tests - Test name|586|600
+8|slight [**Hospital1 9140**] of your valve function| Tests - Test result|615|665
+9|you should follow up with your cardiologist| Aftercare instructions - Upcoming Schedules - Specialist appointment|672|715
+10|You are being discharged to a rehabilitative facility for continued care. There they will provide you with your medications, and additional physical therapy services to help you build strength.| Aftercare instructions - patient needs to do - Other|717|910
+11|You will need to follow up with your primary care physician after you leave rehab.| Aftercare instructions - Upcoming Schedules - PCP appointment|911|993
+12|We are discharging you on a higher dose of Furosemide for continued fluid removal. -Please INCREASE the FREQUENCY of Furosemide to 80 mg twice daily| Medicine instructions - Medicine changed|1060|1209
+13|You will be discharged to the rehab facility with nebulizers to help your breathing as your pneumonia resolves| Medicine instructions - Medicine started|1210|1320
+14|Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more than 3 lbs.| Aftercare instructions - patient needs to do - Other|1321|1409

@@ -1,0 +1,11 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|atrial fibrillation| Medical Issues - Disease|102|121
+1|fast heart rate| Medical Issues - Symptom|127|142
+2|amiodarone| Treatments - Medicine name|352|362
+3|metoprolol| Treatments - Medicine name|367|377
+4|Please continue these medications as prescribed| Aftercare instructions - patient needs to do - Medication|379|426
+5|START amiodarone 200 mg daily| Medicine instructions - Medicine started|567|596
+6|START metoprolol tartrate 12.5 mg twice a day| Medicine instructions - Medicine started|599|644
+7|Please seek medical attention for any concerns.| Aftercare instructions - Emergency instruction|647|694
+8|Please attend your follow-up appointments below.| Aftercare instructions - Upcoming Schedules - Specialist appointment|695|743
+9|Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more than 3 lbs.| Aftercare instructions - patient needs to do - Other|744|832

@@ -1,0 +1,23 @@
+Medical Issues
+Symptoms include < inflammatory cells in your urine >;
+Complication <gastrointestinal bleed> caused by <procedure to help cure an infection in your gallbladder>
+
+Tests
+Tests include <Urine culture >;
+Test results of <Urine culture >: <showed yeast >;
+
+Treatments
+Procedure <procedure to help cure an infection in your gallbladder > to treat <gallbladder infection>
+<procedure to help cure an infection in your gallbladder >  Results: <gastrointestinal bleed>
+Procedure <repeat procedure to stop the bleeding > to treat <gastrointestinal bleed>
+<repeat procedure to stop the bleeding >  Results: <abdominal pain resolved>
+Procedure <blood transfusions > to treat <gastrointestinal bleed>
+<blood transfusions >  Results: <Your blood counts remained stable.>
+Medicine <antibiotics > to treat <gallbladder infection>
+
+No template for <You were re-started on your home medications without complication.  >
+No template for <You should follow up with surgeons in [**Month (only) 958**] (as below) to discuss removing your gallbladder following infection.  >
+No template for <Please follow up with your doctor for a repeat urine culture within a week of discharge.  >
+No template for <STOP unasyn >
+No template for <DECREASE aspirin to 81 mg daily  >
+No template for <HOLD lantus, as your blood sugars have not been high during hospitalization >

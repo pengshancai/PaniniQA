@@ -1,0 +1,28 @@
+Medical Issues
+Symptoms include <confusion>;
+Symptoms <no explicit item> caused by Disease <subdural hematoma > 
+Symptoms <confusion> caused by Disease <hepatic encephalopathy > 
+Symptoms <no explicit item> caused by Disease <infection > 
+
+Tests
+Tests include <two CT scans of your head {two head CT scans} >;
+Test results of <two CT scans of your head {two head CT scans}>: <bleeding had stopped >;
+
+Treatments
+Procedure <TIPS reduction > to treat <hepatic encephalopathy>
+<TIPS reduction >  Results: <your encephalopathy improved >
+<TIPS reduction> Results: <your encephalopathy improved >
+Procedure <paracentesis > to treat <no explicit item>
+<paracentesis >  Results: <no explicit item>
+Medicine <antibiotics > to treat <infection>
+<antibiotics >  Results: <no explicit item>
+Procedure <repeat tap > to treat <no explicit item>
+<repeat tap >  Results: <removed about 3L of fluid >;<showed that the infection had resolved >
+<repeat tap > Results: <removed about 3L of fluid >
+<epeat tap > Results: <showed that the infection had resolved >
+
+No template for <Your were started on Keppra for seizure prophylaxis. >
+No template for <START: ciprofloxacin 500mg daily on [**2146-9-23**] to prevent recurrence of spontaneous bacterial peritonitis >
+No template for <START: keppra 500mg twice daily >
+No template for <DECREASE: spironolactone to 100mg daily >
+No template for <DECREASE: lasix to 40mg daily >

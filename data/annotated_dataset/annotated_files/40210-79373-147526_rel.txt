@@ -1,0 +1,14 @@
+Medical Issues
+Symptoms include <multiple orthopedic injuries>;<bladder injury >;
+
+Treatments
+Procedure <you have a catheter in place > to treat <bladder injury>
+<you have a catheter in place >  Results: [No explicit item]
+Procedure < you will hen needs a special xray of your bladder caled a cystogram to make sure there is no leakage present. > to treat [No explicit item]
+< you will hen needs a special xray of your bladder caled a cystogram to make sure there is no leakage present. >  Results: [No explicit item]
+Medicine <You were given an anit-seizure medication called Dilantin (Phenytoin) as prevention for seizure activity. > to treat <seizures>
+<You were given an anit-seizure medication called Dilantin (Phenytoin) as prevention for seizure activity. >  Results: [No explicit item]
+
+No template for <You were given a brace for your rght knee avulsion fracture which must be worn when out of bed at all times. >
+No template for <Wear the sling for comfort on your left arm and you may weight bear as tolerated on that arm but should avoid over the head motions as much as poosible because of your fracture. >
+No template for <If prescribed narcotics for pain please take a stool softener and laxative to prevent constipation. >

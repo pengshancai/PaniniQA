@@ -1,0 +1,16 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|digoxin toxicity| Medical Issues - Disease|69|85
+1|medicine that binds up all the digoxin in your system| Treatments - Medicine name|102|155
+2|improved significantly| Treatments - Result of the treatment|198|221
+3|severe abdominal pain| Medical Issues - Symptom|248|269
+4|You should not take your coumadin until instructed to do so by Dr. [**First Name (STitle) **]| Aftercare instructions - patient needs to do - Medication|620|713
+5|We will repeat you INR test on [**2179-8-3**].| Aftercare instructions - Upcoming Schedules - Specialist appointment|715|761
+6|We also discussed your care with Dr. [**Last Name (STitle) 1120**] and she said that you can skip the post-op appointment on [**2179-8-3**] and the wound ostomy care nurse will contact you when your next appointment is.| Aftercare instructions - Upcoming Schedules - Specialist appointment|909|1129
+7|It is very IMPORTANT that you remain well HYDRATED.| Aftercare instructions - patient needs to do - Diet|1129|1180
+8|Digoxin 0.25mcg| Medicine instructions - Medicine stopped|1274|1289
+9|Lisinopril 20mg by mouth Daily| Medicine instructions - Medicine stopped|1290|1320
+10|coumadin 4mg by mouth Daily| Medicine instructions - Medicine stopped|1321|1348
+11|Diltiazem ER 180mg by mouth Daily| Medicine instructions - Medicine changed|1422|1455
+12|Metoprolol tartrate 50mg by mouth twice a day| Medicine instructions - Medicine changed|1502|1547
+13|pain has been well controlled| Treatments - Result of the treatment|309|338
+14|oxycodone| Treatments - Medicine name|344|353

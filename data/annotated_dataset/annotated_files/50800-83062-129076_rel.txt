@@ -1,0 +1,27 @@
+Medical Issues
+Symptoms include <vomited blood>;<found unresponsive >;
+Complication <infection in your throat and also possibly your blood > caused by [no explicit item]
+Complication <gout flare > caused by [no explicit item]
+Complication <weakness and trouble swallowing> caused by [no explicit item]
+
+Treatments
+Procedure <ventilator  > to treat [no explicit item]
+<ventilator  >  Results: <taken off the ventilator >; <did very well breathing on your own>
+
+Medicine <antibiotics > to treat <infection in your throat and also possibly your blood>
+<antibiotics >  Results: [no explicit item]
+Medicine <steroids > to treat <gout flare>
+<steroids >  Results: [no explicit item]
+Procedure <feeding tube > to treat <weakness and trouble swallowing>
+<feeding tube >  Results: [no explicit item]
+
+No template for <You still need physical therapy to help you to continue to improve >
+No template for <Prednisone 10mg PO daily x 2days >
+No template for <Toprol XL 200mg daily >
+No template for <artificial tears to both eyes as needed for dry eyes >
+No template for <Lansoprazole 30mg daily >
+No template for <Lansoprazole 15mg daily >
+No template for < HCTZ >
+No template for <Flonase nasal spray daily >
+No template for < Ipratropium and Albuteral inhalers as needed for shortness of breath or wheezing >
+No template for <Please seek immediate medical attention if you expreience extreme weakness in your limbs, high fevers, chest pain, shortness of breath or any other concerning symptoms >

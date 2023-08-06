@@ -1,0 +1,16 @@
+Medical Issues
+Symptoms include <bleeding from your nose>;<excessive menstual bleeding >;<low platelets >;
+Symptoms <bleeding from your nose>;<excessive menstual bleeding> caused by Disease <very low platelets >  
+Complication <allergic reaction > caused by <platelet transfusion> 
+Symptoms <low platelets > caused by Disease <ITP > <Maybe>
+
+Treatments
+Procedure <platelet transfusion > to treat <very low platelets>
+<platelet transfusion >  Results: <no explicit item>
+Medicine <steroids > to treat <ITP>
+<steroids >  Results: <no explicit item>
+
+No template for <You need to come to the hospital on Tuesday [**2172-4-8**] to have your platelet count drawn.  >
+No template for <START Prednisone 80 mg daily. You should continue this regimen until your heme/onc follow-up appointment. At that time, you can discuss your prednisone regimen with your doctor. >
+No template for <START Iron 325 mg three times a day >
+No template for <START Pantoprazole 40 mg daily. You should continue to take this to protect your stomach while you are on steroids.  >

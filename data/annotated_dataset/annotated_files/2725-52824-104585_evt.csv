@@ -1,0 +1,11 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|swelling of your lips| Medical Issues - Symptom|64|85
+1|allergic reaction| Medical Issues - Disease|139|156
+2|You should stop taking both lisinopril and aspirin until you have allergy testing.| Aftercare instructions - patient needs to do - Medication|239|321
+3|You should also avoid chinese food and apples until you have allergy testing.| Aftercare instructions - patient needs to do - Diet|322|399
+4|Please continue all your other medications.| Aftercare instructions - patient needs to do - Medication|401|446
+5|We have added a week of prednisone and pepcid to treat the swelling.| Medicine instructions - Medicine started|446|514
+6|he prednisone will be tapered. Starting tomorrow, take 4 tabs daily for 2 days; then 2 tabs daily for 3 days; then 1 tab daily for 3 days and then stop.| Aftercare instructions - patient needs to do - Medication|516|668
+7|You can also take benadryl as needed for comfort| Aftercare instructions - patient needs to do - Medication|669|717
+8|Please also get an epipen from the pharmacy.| Aftercare instructions - Upcoming Schedules - Treatment|721|766
+9|Please return to the hospital for any shortness of breath, increased swelling, tongue swelling, feeling like your throat is closing up, or any other concerns.| Aftercare instructions - Emergency instruction|856|1015

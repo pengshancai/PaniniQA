@@ -1,0 +1,16 @@
+Medical Issues
+Symptoms include <weak>;<trouble breathing >;
+Complication <weak > caused by <radiation therapy> 
+Complication <not eating and drinking well > caused by <radiation therapy> 
+Symptoms <trouble breathing> caused by Disease <pneumonia > 
+
+No template for < started vancomycin and aztreonam antibiotics: final day abx [**8-1**] >
+No template for <increased prednisone, take 20mg through [**7-29**], then 15 mg through [**8-1**], then 10mg through [**8-3**], then continue 5mg  >
+No template for <changed albuterol and tiotropium to neb solutions >
+No template for <added benzonotate  >
+No template for <added sucralfate four times per day >
+No template for <added white petrolatum cream >
+No template for <added aspirin 81mg >
+No template for <added metoprolol tartrate 25mg three times per day >
+No template for <added lorazepam for anxiety as needed >
+No template for <added nystatin swish and swallow for 5 additional days after discharge >

@@ -1,0 +1,17 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|bleeding in your stomach from polyps| Tests - Test implication|63|99
+1|endoscopy (swallowed camera test)| Treatments - Procedure name|123|156
+2|IV anti-acid medication| Treatments - Medicine name|236|259
+3|carafate (protect the stomach)| Treatments - Medicine name|261|291
+4|blood products to boost blood clotting ability| Treatments - Procedure name|297|343
+5|stopped your coumadin| Medicine instructions - Medicine stopped|348|369
+6|leg ultrasound| Tests - Test name|534|549
+7|resolution of the blood clot in your leg| Tests - Test result|555|596
+8|We recommend hematocrit checks on Sunday and Monday, and this can be done 2x/week (Wed/Fri) next week.| Aftercare instructions - patient needs to do - Other|689|792
+9|Subsequently, hematocrit labs can be stopped and you can be followed clinically for any concern for bright red bleeding.| Aftercare instructions - patient needs to do - Other|792|912
+10|You missed your MRCP as scheduled by your primary care doctor due to your admission for your bleeding. Please discuss setting this up as an outpatient if your primary care doctor would like this completed.| Aftercare instructions - patient needs to do - Other|915|1120
+11|Carafate, mix tab w/ hot water to make a slurry and drink 4 times daily. This medicine protects your stomach after your procedure.| Medicine instructions - Medicine started|1186|1316
+12|Omeprazole 40 mg twice a day for acid control and to prevent ulcers from forming| Medicine instructions - Medicine started|1327|1407
+13|Coumadin| Medicine instructions - Medicine stopped|1418|1427
+14|Enoxaparin| Medicine instructions - Medicine stopped|1436|1447
+15|Please follow up with your doctors as stated below.| Aftercare instructions - patient needs to do - Other|1450|1502

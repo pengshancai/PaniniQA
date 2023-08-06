@@ -1,0 +1,16 @@
+Medical Issues
+Symptoms {CHANGE HERE Symptom name} caused by Disease <abnormal heart rhythm> <{arrhythmia Maybe}>
+Complication <difficulty breathing > caused by {procedure Reason} {CHANGE HERE Maybe}
+Complication <medications > caused by {CHANGE HERE Reason} {CHANGE HERE Maybe}
+Complication <sleep apnea > caused by {CHANGE HERE Reason} {CHANGE HERE Maybe}
+
+Treatments
+Procedure <procedure > to treat {arrhythmia Disease}
+<procedure >  Results: {improved Treatment Result}
+< improved >  Results: {CHANGE HERE Treatment Result}
+Procedure <breathing tube > to treat {difficulty breathing Disease}
+<breathing tube >  Results: {improved Treatment Result}
+< improved  >  Results: {CHANGE HERE Treatment Result}
+<breathing tube was removed >  Results: {CHANGE HERE Treatment Result}
+
+No template for < >

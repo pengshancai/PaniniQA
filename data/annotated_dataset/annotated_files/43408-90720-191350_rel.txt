@@ -1,0 +1,20 @@
+Medical Issues
+Symptoms include <increased back pain>;<blood pressure drop low when you stood up >;<low blood sodium (hyponatremia) >;<confused >;
+
+Tests
+Test results of {CHANGE HERE Test name}: <low blood sodium (hyponatremia) >;
+
+Treatments
+Medicine <concentrated sodium via an IV > to treat {low blood sodium}
+<concentrated sodium via an IV >  Results: [No explicit item]
+<improve the control of your BP when standing >  Results: [No explicit item]
+Medicine <Sodium Chloride tablets > to treat {low blood sodium}
+<Sodium Chloride tablets >  Results: [No explicit item]
+Medicine <Florinef > to treat {low blood sodium}
+<Florinef >  Results: [No explicit item]
+Medicine <waist-high compression stockings > to treat {low blood pressure}
+<waist-high compression stockings >  Results: [No explicit item]
+Medicine <abdominal binder > to treat {low blood pressure}
+<abdominal binder >  Results: [No explicit item]
+
+No template for < >

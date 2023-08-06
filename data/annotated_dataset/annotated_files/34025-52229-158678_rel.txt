@@ -1,0 +1,14 @@
+Medical Issues
+Symptoms include <sleepiness>;
+Symptoms <sleepiness> caused by Disease <subdural hematoma after falls weeks prior had expanded >
+
+Tests
+Tests include <imaging >;
+Test results of <imaging>: <appears that the bleeding has remained stable during your stay >;
+
+Aftercare instructions
+If encounter <any large increase in sleepiness, there is a chance more bleeding has occurred> do < and you should seek medical attention if so desired.  >
+
+No template for <If In [**4-14**] weeks you would like to see neurosurgery in clinic to determine if a smaller surgery, a Burr hole, would be appropriate to help remove the blood, please call the number listed below to make an appointment in their clinic. >
+No template for <Your nutrition has been of concern given that you take in very little food in. >
+No template for <Your nutrition has been of concern given that you take in very little food in. We hope that rehab continues to work on improving your nutrition during your stay. >

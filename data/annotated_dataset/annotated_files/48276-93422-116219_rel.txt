@@ -1,0 +1,22 @@
+Medical Issues
+Symptoms include <back and rib pain>;
+Symptoms <back and rib pain> caused by Disease <metastatic rectal cancer to the bones >
+Complication < rapid heart rate ( atrial fibrillation) > caused by <{surgery}>
+
+Tests
+Test results of <{imaging}>: <cord compression at the the level of T1 >;
+
+Treatments
+Procedure <neurosurgical decompression > to treat <cord compression at the level of T1>
+<neurosurgical decompression >  Results: <tolerated the surgery well>
+
+
+No template for <Fentanyl patch dose increased to 250 mcg >
+No template for <metoprolol succinate chanegd to metoprolol tartate 25 mg po tid  >
+No template for <Night time gabapentin increasd to 600 mg >
+No template for <Tylenol 650 mg four times dailyx7 days >
+No template for <lidocaine patch >
+No template for <Hydromprophone increased to 16mg as needed every 4 hrs >
+No template for <Docusate and senna as needed for constipation >
+No template for <You should keep the surgical incisional wound open to air, but cover during showers and then pat to dry.  >
+No template for <Do not take baths or swim until further instructed >

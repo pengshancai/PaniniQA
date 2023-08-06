@@ -1,0 +1,26 @@
+Medical Issues
+Symptoms include <abdominal pain>;
+Symptoms <abdominal pain> caused by Disease <acute liver failure from chronic overuse of tylenol > 
+Symptoms <abdominal pain> caused by Disease <urinary tract infection > <Maybe>
+Symptoms [no explicit item] caused by Disease <herpes labialis (cold sores) > 
+
+Treatments
+Medicine <medications > to treat <acute liver failure from chronic overuse of tylenol>
+<medications > Results: <you improved >
+Medicine <antibiotics > to treat <urinary tract infection>
+<antibiotics >  Results: [no explicit item]
+Medicine <treatment > to treat <herpes labialis (cold sores)>
+<treatment >  Results: [no explicit item]
+
+No template for <Please continue to see your outpatient therapist, and consider seeing a Psychiatrist in the future for your anxiety. >
+No template for <Also, it is important that you keep all of your follow up appointments after discharge. >
+No template for <We are also giving you a short course of pain medications that are safe to take during your liver injury. >
+No template for <You will need to follow up with your Primary Care Physician and [**Name9 (PRE) 1194**] Specialist to figure out the best regimen for yout to continu on to treat your chronic neck pain. >
+No template for <You will need to follow up with your Primary Care Physician and [**Name9 (PRE) 1194**] Specialist to figure out the best regimen for yout to continu on to treat your chronic neck pain. >
+No template for <We are making the following changes to your outpatient medication regimen: -Please STOP all products containing acetaminophen (tylenol, eccedrin, percocet) until you follow up with Dr. [**Last Name (STitle) 497**]. >
+No template for <Please read all of the labels of your over the counter medications to ensure they do not contain acetaminophen. >
+No template for <-Please START Famotidine twice daily >
+No template for <-Please START Valtrex twice daily until [**2132-12-20**] >
+No template for <-Please take Tramadol every 4 hours as needed for pain >
+No template for <-Please take Oxycodone 5 mg every 6 hours as needed for pain (please note that this medication can be sedating as well as cause constipation) >
+No template for <- You may also take colace (a stool softener to prevent constipation) >

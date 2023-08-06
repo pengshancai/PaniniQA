@@ -1,0 +1,36 @@
+Medical Issues
+Symptoms {CHANGE HERE Symptom name} caused by Disease <dangerously high blood pressure> {CHANGE HERE Maybe}
+Complication < Social Work > caused by {CHANGE HERE Reason} <{help with blood pressure and medication management Maybe}>
+Complication <Visiting Nurse Assistant  > caused by {CHANGE HERE Reason} <{scheduling help with blood pressure and medication management}>
+
+Tests
+
+Treatments
+Medicine <medications > to treat {high blood pressure Disease}
+<medications >  Results: {improved Treatment Result}
+
+Medical Instructions 
+
+Aftercare instructions <Visiting Nurse Assistant  > for  <help you with your medications > No template for <blood pressure monitoring >No template for 
+
+Aftercare complication <if weight goes up more than 3 lbs >
+
+No template for <Visiting Nurse Assistant  >
+No template for <blood pressure monitoring >
+No template for <blood pressure monitoring >
+No template for <follow up with your Primary Care Physician >
+No template for <Hydralazine >
+No template for <Metoprolol >
+No template for <Diovan (Valsartan) >
+No template for <Carvedilol >
+No template for <12.5 mg by mouth TWICE daily >
+No template for <Cozaar (Losartan) >
+No template for < 100 mg by mouth ONCE daily >
+No template for <Lasix (Furosemide) >
+No template for <20 mg TWICE daily >
+No template for <Isosorbide Mononitrate (Extended Release) >
+No template for <90 mg ONCE daily >
+No template for <Spironolactone  >
+No template for <25 mg ONCE daily >
+No template for <weigh yourself every morning >
+No template for <if weight goes up more than 3 lbs >

@@ -1,0 +1,9 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|shortness of breath| Medical Issues - Symptom|107|126
+1|fluid around your lung| Tests - Test result|150|172
+2|fluid was removed| Treatments - Procedure name|178|195
+3|breathing improved| Treatments - Result of the treatment|205|223
+4|You will be going back to your facility to focus on controlling your pain and shortness of breath| Aftercare instructions - Upcoming Schedules - Treatment|364|461
+5|Trazodone 50mg every night to help you sleep. You can take this in addition to your nighttime dose of oxycodone| Medicine instructions - Medicine started|537|648
+6|Levoquin 750mg by mouth once per day for 4 more days (last day [**4-8**])| Medicine instructions - Medicine started|650|723
+7|did not grow any bacteria| Tests - Test result|295|320

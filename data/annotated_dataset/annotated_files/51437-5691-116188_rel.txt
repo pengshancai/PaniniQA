@@ -1,0 +1,15 @@
+Medical Issues
+Symptoms include <shortness of{breath}>;
+Symptoms <shortness of{breath}> caused by Disease <Pulmonary Edema>
+Symptoms <Pulmonary Edema> caused by Disease <high blood pressure> 
+
+Tests
+Test results of <{complete blood count}>: <low blood counts (anemia)>;
+
+Treatments
+Medicine <lasix> to treat <Pulmonary Edema>
+<lasix>  Results: [no explicit item]
+
+No template for <Ferrous Sulfate 325mg by mouth daily (Iron)>
+No template for <Colace 100mg by mouth twice daily (Stool softener)>
+No template for <Please call your doctor or 911 if you feel short of [**Name (NI) 1440**], have chest pain or any other concerning symptom>

@@ -1,0 +1,13 @@
+Medical Issues
+Complication <acute interstitial nephritis > caused by <naficillin> 
+
+Treatments
+Medicine <antibiotics > to treat <infection of your old left port site>
+
+No template for <You were desensitized to naficillin in the ICU, but you developed a renal condition called acute interstitial nephritis so this antibiotic was discontinued. >
+No template for <You were desensitized to naficillin in the ICU, but you developed a renal condition called acute interstitial nephritis so this antibiotic was discontinued. >
+No template for <You were started on a different antibiotic called daptomycin.  >
+No template for <START Daptomycin 580 mg intravenous through your port once a day until [**11-5**]  >
+No template for <STOP Lisinopril (please discuss restarting this medication with your primary care physician in several weeks because your kidney function has not yet come back to normal)  >
+No template for <STOP Simvastatin >
+No template for <Please continue your other home medications. >

@@ -1,0 +1,22 @@
+Medical Issues
+Symptoms include <lower blood pressure and oxygen levels >;
+
+Treatments
+Medicine <required IV fluids > to treat <no explicit item>
+<required IV fluids >  Results: <no explicit item>
+Medicine <later we gave you furosemide, a medication to remove fluid > to treat <fluid in lungs>
+<later we gave you furosemide, a medication to remove fluid >  Results: <no explicit item>
+<fluid, as it has built up in the lungs >  Results: <no explicit item>
+<unable to dilate your esophagus >  Results: <no explicit item>
+Procedure <radiation oncologists feel you would benefit from radiation therapy once your nutritional status is better > to treat <no explicit item>
+<radiation oncologists feel you would benefit from radiation therapy once your nutritional status is better >  Results: <no explicit item>
+Procedure <feedings through a tube in your stomach > to treat <no explicit item>
+<feedings through a tube in your stomach >  Results: <no explicit item>
+<improve your nutrition >  Results: <no explicit item>
+
+Aftercare instructions
+If encounter <If you experience any fevers, chills, chest pain, shortness of breath, wheezing, lightheadedness, confusion, or any other symptoms, please seek medical attention or return to the ER immediately. >
+
+No template for <radiation oncologists feel you would benefit from radiation therapy >
+No template for <Please take all medications as prescribed >
+No template for <go to all follow up appointments >

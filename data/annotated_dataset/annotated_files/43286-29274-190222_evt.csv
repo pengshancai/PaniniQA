@@ -1,0 +1,17 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|difficulty breathing| Medical Issues - Symptom|70|90
+1|low oxygen saturations| Medical Issues - Symptom|95|117
+2|excess fluid on your lungs| Medical Issues - Symptom|142|168
+3|heart disease| Medical Issues - Disease|197|210
+4|levofloxacin| Treatments - Medicine name|245|257
+5|concern for infection| Treatments - Treatment goal|269|290
+6|intravenous Lasix| Treatments - Medicine name|314|331
+7|help eliminate this excess fluid| Treatments - Treatment goal|349|381
+8|going to the acute care unit of [**Hospital 100**] Rehab| Aftercare instructions - Upcoming Schedules - Specialist appointment|406|462
+9|Amlodipine| Medicine instructions - Medicine stopped|562|572
+10|famotidine| Medicine instructions - Medicine stopped|574|584
+11|Imdur| Medicine instructions - Medicine stopped|586|591
+12|Metolazone| Medicine instructions - Medicine stopped|597|607
+13|Coumadin| Medicine instructions - Medicine started|651|659
+14|metoprolol| Medicine instructions - Medicine continued|729|739
+15|If you experience worsening shortness of breath, chest pain, worsening abdominal pain, confusion, or if your condition worsens in any way you should seek immediate medical attention.| Aftercare instructions - patient needs to do - Other|770|952

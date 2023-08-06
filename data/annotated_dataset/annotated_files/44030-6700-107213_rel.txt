@@ -1,0 +1,14 @@
+Medical Issues
+Symptoms include <low blood pressures>;<fevers >;<infection >;<red blood cell count was low >;
+
+Tests
+Tests include <Cultures of your blood, sputum, and urine >;
+Test results of <Cultures of your blood, sputum, and urine>: <showed no evidence of infection or bacteria >;
+
+Treatments
+Medicine <fluid > to treat <low blood pressures>
+<fluid >  Results: <blood pressure responded>
+Medicine <antibiotics > to treat <infection>
+<antibiotics >  Results: [no explicit item]
+
+No template for <If your clinical status deteriorates, your mother should consult your PCP about whether [**Name Initial (PRE) **] transfer to the hospital would be appropriate. >

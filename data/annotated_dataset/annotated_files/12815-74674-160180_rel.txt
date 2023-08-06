@@ -1,0 +1,22 @@
+Medical Issues
+Symptoms include <shortness of breath>;<chest pain >;
+Symptoms <shortness of breath>;<chest pain > caused by Disease <exacerbation of your known heart failure {heart failure exacerbation} > 
+Symptoms <no explicit item> caused by Disease <ventricular tachycardia > 
+
+Treatments
+Medicine <furosemide > to treat <exacerbation of your known heart failure {heart failure exacerbation} >
+<furosemide >  Results: <no explicit item>
+Medicine <amiodarone > to treat <ventricular tachycardia >
+<amiodarone >  Results: <helps to prevent this rhythm from developing {helps to prevent ventricular tachycardia}>
+<amiodarone> Results: <helps to prevent this rhythm from developing {helps to prevent ventricular tachycardia} >
+
+Aftercare instructions
+If encounter <any concerning symptoms such as fevers, chills, continuous lightheadedness, chest pain that is unresponsive to three nitroglycerin tablets, or increased shortness of breath> do < seek medical care >
+
+No template for <You should also adhere to a low sodium diet (less than 2 grams of sodium daily). >
+No template for <You will stop taking sotalol  >
+No template for <You will increase your isosorbide dose to 90mg daily >
+No template for <Your metoprolol succinate dose will be 50mg daily >
+No template for <You will start taking furosemide 20mg daily at home >
+No template for <You will start taking amiodarone 400mg twice daily until [**10-31**], then 400mg daily until [**11-7**], then 200mg daily starting [**11-8**]  >
+No template for <You should follow-up with all of your outpatient medical appointments as listed below. >

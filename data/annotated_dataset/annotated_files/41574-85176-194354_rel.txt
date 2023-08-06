@@ -1,0 +1,23 @@
+Medical Issues
+Symptoms include <rib fractures >;<severe pain >;<secretions that pool in the lungs >;
+Symptoms <severe pain> caused by Disease <breaking your ribs>
+Symptoms [No explicit item] caused by Disease <Pneumonia >
+
+Treatments
+Medicine < You should take your pain medication as directed to stay ahead of the pain otherwise you won&#x27;t be able to take deep breaths > to treat <pain>
+< You should take your pain medication as directed to stay ahead of the pain otherwise you won&#x27;t be able to take deep breaths >  Results: <pain>
+Medicine <If your doctor allows, non steroidal antiinflammatory drugs are very effective in controlling pain > to treat <pain>
+<If your doctor allows, non steroidal antiinflammatory drugs are very effective in controlling pain >  Results: [No explicit item]
+Medicine <Ibuprofen > to treat <pain>
+<Ibuprofen >  Results: [No explicit item]
+Medicine <Motrin > to treat <pain>
+<Motrin >  Results: [No explicit item]
+Medicine <Advil > to treat <pain>
+<Advil >  Results: [No explicit item]
+Medicine <Aleve > to treat <pain>
+<Aleve >  Results: [No explicit item]
+Medicine <Naprosyn > to treat <pain>
+<Naprosyn >  Results: [No explicit item]
+
+No template for <You will be more comfortable if you use a cough pillow to hold against your chest and guard your rib cage while coughing and deep breathing >
+No template for <Symptomatic relief with ice packs or heating pads for short periods may ease the pain >

@@ -1,0 +1,13 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|bilateral groin pain| Medical Issues - Symptom|124|144
+1|vomitting| Medical Issues - Symptom|149|158
+2|reanl failure had worsened| Tests - Test result|188|214
+3|blood level of your Digoxin (a medicine to help regulate your heart beat) was too hig| Tests - Test result|223|308
+4|antibiotic for a urinary tract infection| Treatments - Medicine name|375|415
+5|DO NOT take any more Digoxin, Furosemide (Lasix) or Ramipril (Altace) until told differently by your MD; &| Medicine instructions - Medicine stopped|517|623
+6|2.) please complete the course of your antibiotic as has been prescribed. Continue your Clopidogrel (Plavix) and your Novalog 70/30 flex pen as directed (6 units every morning and 6 units at bedtime) as you were, before coming to the hospital.| Medicine instructions - Medicine continued|624|867
+7|We have also started a baby aspirin once a day (also to help thin your blood) and medicines (Colace and Senna) to help you have a bowel movement every day.| Medicine instructions - Medicine started|868|1023
+8|Another medicine called Gabapentin (Neurontin) has been started and is helping with the pain you were having in your legs.| Medicine instructions - Medicine started|1024|1146
+9|Please call your Primary Care Provider [**Name Initial (PRE) **]/or come to the Emergency Department if you experience any of the following: chest pain or pressure, very fast or irregular heart beat, palpitations, fainting, changes in mental status, nausea or vomitting, trouble breathing, abdominal or groin pain, blood in your stools or very dark/black stools, blockage of your suprapubic catheter, fever > 101 and/or shaking chills or any other health-related concerns.| Aftercare instructions - Emergency instruction|1149|1621
+10|Please make and keep all of your follow-up appointments.| Aftercare instructions - Upcoming Schedules - Specialist appointment|1624|1680
+11|urinary tract infection| Medical Issues - Disease|392|415

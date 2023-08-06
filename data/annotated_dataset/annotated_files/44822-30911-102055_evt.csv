@@ -1,0 +1,11 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|severe chest pain| Medical Issues - Symptom|83|100
+1|low blood count of 21| Medical Issues - Symptom|127|148
+2|transfused a total of 5 units PRBC| Treatments - Procedure name|214|248
+3|You were seen by the gastroenterologists who think that you are losing blood in your GI tract. You did not have a colonoscopy or endoscopy because of the severity of your heart disease. At this time the gastroenterologists felt that it would be risky to do either of these procedures. You will likely continue to require occasional blood transfusions to treat the blood loss becausing having a low blood count will cause you to have more chest pain. You were discharged to rehab to help work on your strength.| Aftercare instructions - patient needs to do - Other|276|785
+4|1)You were changed to Flomax to treat your prostatic hypertrophy. This is a better medication given your other medical conditions.| Medicine instructions - Medicine started|799|929
+5|Please stop taking your terazosin| Medicine instructions - Medicine stopped|930|963
+6|2) Your dose of allopurinol was reduced to be more appropriate for your age and kidney function| Medicine instructions - Medicine changed|965|1060
+7|3) None of your other medications were changed| Medicine instructions - Medicine continued|1062|1108
+8|Please follow up as below.| Aftercare instructions - Upcoming Schedules - Specialist appointment|1110|1137
+9|Please call your doctor or return to the hospital if you experience any concerning symptoms including chest pain that is wore or different than your usual angina, light headedness, fainting, low blood pressure, difficulty breathing, evidence of blood loss or any other worrisome symptoms.| Aftercare instructions - Emergency instruction|1137|1425

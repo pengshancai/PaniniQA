@@ -1,0 +1,10 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|shortness of| Medical Issues - Symptom|95|107
+1|Pulmonary Edema| Medical Issues - Disease|142|157
+2|high blood pressure| Medical Issues - Disease|222|241
+3|lasix| Treatments - Medicine name|261|266
+4|take off excess fluid| Treatments - Treatment goal|270|291
+5|low blood counts (anemia)| Tests - Test result|351|376
+6|Ferrous Sulfate 325mg by mouth daily (Iron)| Medicine instructions - Medicine started|378|421
+7|Colace 100mg by mouth twice daily (Stool softener)| Medicine instructions - Medicine started|422|472
+8|Please call your doctor or 911 if you feel short of [**Name (NI) 1440**], have chest pain or any other concerning symptom| Aftercare instructions - patient needs to do - Other|473|594

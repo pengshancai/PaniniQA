@@ -1,0 +1,18 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|chest pain| Medical Issues - Symptom|187|197
+1|several tests and images| Tests - Test name|205|229
+2|your pain was caused by a pneumonia (an infection of the lung)| Tests - Test result|254|316
+3|pneumonia| Medical Issues - Disease|280|289
+4|antibiotics| Treatments - Medicine name|340|351
+5|You will need to continue to take antibiotics by mouth for 7 days. Even if you feel better, please take your antibiotics until they are done.| Medicine instructions - Medicine continued|372|513
+6|You will need to continue to take antibiotics by mouth for 7 days. Even if you feel better, please take your antibiotics until they are done.| Aftercare instructions - patient needs to do - Medication|372|513
+7|You also have a medication, Dilaudid, to help you if you have any chest pain. You may take one every four hours if you are having pain. Please do not take extra of this medication| Medicine instructions - Medicine started|514|693
+8|You also have a medication, Dilaudid, to help you if you have any chest pain. You may take one every four hours if you are having pain. Please do not take extra of this medication| Aftercare instructions - patient needs to do - Medication|514|693
+9|You also have a medication, Dilaudid, to help you if you have any chest pain. You may take one every four hours if you are having pain. Please do not take extra of this medication; please do not operate heavy machinery, such as a car, when taking this medication.| Medicine instructions - Medicine started|514|777
+10|You also have a medication, Dilaudid, to help you if you have any chest pain. You may take one every four hours if you are having pain. Please do not take extra of this medication; please do not operate heavy machinery, such as a car, when taking this medication.| Aftercare instructions - patient needs to do - Medication|514|777
+11|START azithromycin (antibiotics) for seven more days.| Medicine instructions - Medicine started|780|833
+12|START cefpodoxime (antibiotics) for seven more days.| Medicine instructions - Medicine started|834|886
+13|Take Dilaudid as directed for pain.| Aftercare instructions - patient needs to do - Medication|887|922
+14|You had some high potassium readings during your last day of admission. We would like you to go to the [**Hospital **] clinic, where you see Dr. [**Last Name (STitle) 11616**], on Monday to have this level checked.| Aftercare instructions - Upcoming Schedules - Test|925|1139
+15|Also, limit foods that are high in potassium, such as bananas, potatoes, and yogurt, for a few days.| Aftercare instructions - patient needs to do - Diet|1140|1240
+16|In four weeks, you will also have to follow up with Dr. [**Last Name (STitle) 11616**] for another chest X-ray.| Aftercare instructions - Upcoming Schedules - Test|1243|1354

@@ -1,0 +1,27 @@
+Medical Issues
+Symptoms include <very short of breath>;<very fast heart rate >;
+Symptoms <very fast heart rate> caused by Disease <atrial tachycardia >
+Symptoms <atrial tachycardia> caused by Disease <acute congestive heart failure > 
+Complication <hypertension > caused by [no explicit item]
+
+Treatments
+Procedure <aggressive dialysis > to treat <acute congestive heart failure>
+<aggressive dialysis >  Results: [no explicit item]
+Medicine <nitroglycerin drip > to treat <acute congestive heart failure>
+<nitroglycerin drip >  Results: [no explicit item]
+Procedure <ablated your AV node > to treat <atrial fibrillation>
+<ablated your AV node >  Results: [no explicit item]
+Procedure <pacemaker > to treat <atrial fibrillation>
+<pacemaker >  Results: [no explicit item]
+
+Aftercare instructions
+If encounter <increased shortness of breath, chest pain, nausea, excessive fatigue, chills, fevers, swelling of your legs or feet, or difficulty lying flat> do <Please return to the ED or your healthcare provider immediately>
+
+No template for <1. We discontinued your amiodarone 200 mg daily >
+No template for <2. We started you on tylenol, extra strength, for pain at the pacer site. >
+No template for <Please take all medications as prescribed. >
+No template for <Please check your INR tomorrow, [**7-17**] and call results to Dr. [**Last Name (STitle) 1911**], office: [**Telephone/Fax (1) 98045**], secretary [**Doctor First Name **] >
+No template for <Please keep all previously scheduled appointments. >
+No template for <Please adhere to a low-sodium (2 gm/day), low protein, low-fluid (1200 cc) diet, of which information was given to you on discharge. >
+No template for <Please weight yourself daily in the morning before breakfast and call Dr. [**Last Name (STitle) **] if you have a weight gain of more than 3 pounds in 1 day or 6 pounds in 3 days. >
+No template for <No lifting more than 5 pounds for six weeks. Avoid extreme movements of your right arm such as reaching for objects or tucking your shirt in. Please refer to the booklet we gave you on discharge regarding post pacemaker care. No showers for one week. >

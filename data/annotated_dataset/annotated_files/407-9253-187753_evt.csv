@@ -1,0 +1,10 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|bleeding from your lungs| Medical Issues - Symptom|78|102
+1|bronchoscopy| Treatments - Procedure name|120|132
+2|Nystatin swish and swallow for some thrush| Treatments - Medicine name|301|343
+3|Please schedule a follow-up appointment with your primary care physician within the next few weeks.| Aftercare instructions - Upcoming Schedules - PCP appointment|409|508
+4|fevers| Medical Issues - Symptom|533|539
+5|chills| Medical Issues - Symptom|541|547
+6|chest pain| Medical Issues - Symptom|549|559
+7|shortness of breath| Medical Issues - Symptom|561|580
+8|dizziness| Medical Issues - Symptom|582|591

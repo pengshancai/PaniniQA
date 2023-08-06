@@ -1,0 +1,12 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|increased back pain| Medical Issues - Symptom|72|91
+1|blood pressure drop low when you stood up| Medical Issues - Symptom|113|154
+2|low blood sodium (hyponatremia)| Medical Issues - Symptom|203|234
+3|confused| Medical Issues - Symptom|244|252
+4|concentrated sodium via an IV| Treatments - Medicine name|318|347
+5|improve the control of your BP when standing| Treatments - Treatment goal|510|554
+6|Sodium Chloride tablets| Treatments - Medicine name|556|579
+7|Florinef| Treatments - Medicine name|584|592
+8|waist-high compression stockings| Treatments - Medicine name|595|627
+9|abdominal binder| Treatments - Medicine name|637|653
+10|| Aftercare instructions - patient needs to do - Diet|678|727

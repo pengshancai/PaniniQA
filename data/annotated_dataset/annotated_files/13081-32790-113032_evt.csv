@@ -1,0 +1,7 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|pneumonia (lung infection)| Medical Issues - Disease|64|90
+1|machine helped you breath| Treatments - Procedure name|122|147
+2|antibiotics| Treatments - Medicine name|167|178
+3|medicines| Treatments - Medicine name|289|298
+4|helped with this fluid balance| Treatments - Result of the treatment|305|335
+5|Please call your doctor or return to the emergeny department for any of the following - documented fevers, shaking chills - nausea with vomiting - chestpain, increasing shortness of breath - any other new symptoms which concern you| Aftercare instructions - Emergency instruction|337|568

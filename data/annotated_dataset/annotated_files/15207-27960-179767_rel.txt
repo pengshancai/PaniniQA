@@ -1,0 +1,21 @@
+Medical Issues
+Symptoms include <throat swelling>;<anemic {anemia} >;
+Symptoms <throat swelling> caused by Disease <exacerbation of your chronic angioedema > 
+Symptoms <anemic {anemia} > caused by Disease <iron deficient {iron deficiency}> 
+
+Treatments
+Medicine <steroids > to treat <exacerbation of your chronic angioedema >
+<steroids >  Results: <You improved quickly >;<were never in any respiratory compromise {did not experience respiratory compromise}>
+Procedure <close airway monitoring > to treat <exacerbation of your chronic angioedema>
+<close airway monitoring >  Results: <You improved quickly >;<were never in any respiratory compromise {did not experience respiratory compromise}>
+<steroids>;<close airway monitoring> Results: <You improved quickly >
+<steroids>;<close airway monitoring> Results: <were never in any respiratory compromise {did not experience respiratory compromise} >
+
+Aftercare instructions
+If encounter <any further shortness of breath, facial or mouth swelling, or any symptoms which disturb you> do <call your doctor, consider using an epipen, or go to the ER>
+
+No template for <You are being prescribed iron pills >
+No template for <You are also being given prescriptions for stool softeners since iron can make you constipated. >
+No template for <Please note that you will be discharged with a prescription for a steroid taper. >
+No template for <It is very important that you take these, as well as all of your previous medications, as prescribed. >
+No template for <Please keep all of your outpatient appointments. >

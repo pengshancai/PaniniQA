@@ -1,0 +1,11 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|atrial fibrillation| Medical Issues - Disease|96|115
+1|Metoprolol XL 200 mg daily| Medicine instructions - Medicine started|424|450
+2|Atenolol| Medicine instructions - Medicine started|456|464
+3|Warfarin (Coumadin) 5 mg daily| Medicine instructions - Medicine started|471|501
+4|Your VNA needs to draw INR (blood thinning level) on Monday and forward the result to Dr.[**Last Name (STitle) **]| Aftercare instructions - Upcoming Schedules - Test|529|643
+5|If you experience any chest pain, worsening shortness of breath, dizziness or other concerning symptoms, please return to the hospital or call your PCP| Aftercare instructions - patient needs to do - Other|703|854
+6|to slow your heart rate down| Treatments - Treatment goal|141|169
+7|to prevent blood clots from forming in your heart| Treatments - Treatment goal|187|236
+8|medication| Treatments - Medicine name|176|186
+9|you did well| Treatments - Result of the treatment|278|291

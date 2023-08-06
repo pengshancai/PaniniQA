@@ -1,0 +1,13 @@
+Medical Issues
+Symptoms include <delirium (confusion) >;
+Symptoms [No explicit item] caused by Disease <heart attack>
+
+Treatments
+Medicine <START Aspirin 325mg daily to prevent blood clots > to treat <prevent blood clots>
+<START Aspirin 325mg daily to prevent blood clots >  Results: [No explicit item]
+
+No template for <STOP Hydrochlorothiazide >
+No template for <DECREASE Warfarin to 3mg daily and adjust your dose as instructed by your doctor >
+No template for <INCREASE Lipitor to 80mg daily to lower your cholesterol >
+No template for <INCREASE Metoprolol Succinate to 150mg daily to slow your heart rate >
+No template for <START lisinopril 2.5mg daily >

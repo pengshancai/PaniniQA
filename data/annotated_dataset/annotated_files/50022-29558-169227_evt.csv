@@ -1,0 +1,19 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|unresponsiveness during hemodialysis| Medical Issues - Symptom|83|119
+1|drop in your blood pressure secondary to fluid being taken off quickly| Medical Issues - Complication developed in the hospital|153|223
+2|growth on one of your heart valves| Tests - Test result|273|307
+3|signs of infection in your blood| Tests - Test goal|324|356
+4|nothing made us think you had a true infection| Tests - Test result|362|408
+5|Quinapril| Medicine instructions - Medicine stopped|469|478
+6|Amitryptiline| Medicine instructions - Medicine stopped|480|493
+7|Oxycodone| Medicine instructions - Medicine stopped|495|504
+8|Vit D| Medicine instructions - Medicine stopped|506|511
+9|lisinopril| Medicine instructions - Medicine stopped|513|523
+10|please do not restart these medications when you are discharged, until discussing with your primary care physician.| Aftercare instructions - patient needs to do - Medication|525|640
+11|NPH insulin| Medicine instructions - Medicine stopped|643|654
+12|Use only sliding scale for glucose control, until discussion with your primary care physician| Aftercare instructions - patient needs to do - Medication|744|837
+13|Levothyroxine was increased to 50mcg per day, continue at this dose| Medicine instructions - Medicine changed|841|908
+14|Nystatin was added for thrush, use as needed| Medicine instructions - Medicine started|912|956
+15|Flagyl was added for C. Diff colitis, please continue to take by mouth three times a day until [**2109-9-6**].| Medicine instructions - Medicine started|960|1071
+16|If you experience any change in your mental status, neurological symptoms, chest pain, shortness of breath or any other worrisome symptom please seek medical attention| Aftercare instructions - patient needs to do - Other|1072|1240
+17|Please keep all your medical appointments| Aftercare instructions - Upcoming Schedules - Specialist appointment|1242|1283

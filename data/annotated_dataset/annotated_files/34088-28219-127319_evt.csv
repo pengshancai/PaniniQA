@@ -1,0 +1,8 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|elective carotid stent| Treatments - Procedure name|50|72
+1|You tolerated the procedure without significant complications| Treatments - Result of the treatment|74|135
+2|You were briefly on medications to increase your blood pressure.| Medicine instructions - Medicine started|225|290
+3|Please take all of your medications as prescribed.| Aftercare instructions - patient needs to do - Medication|292|343
+4|Please note that you were taken off your Toprol XL, Norvasc, and Zestril.| Medicine instructions - Medicine stopped|343|416
+5|Please note that you were taken off your Toprol XL, Norvasc, and Zestril. Please do *NOT* restart these medications unless instructed by your cardiologist or Dr. [**First Name (STitle) **]| Aftercare instructions - patient needs to do - Medication|343|531
+6|If you experience lightheadedness, weakness or numbness of your arms or legs, neck pain, fever, or other concerning symptoms, please call your doctor or go to the ER.| Aftercare instructions - Emergency instruction|535|701

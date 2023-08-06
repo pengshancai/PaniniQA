@@ -1,0 +1,6 @@
+Medical Issues
+Symptoms include <chest pain >;<pressure >;<squeezing or tightness >;<shortness of breath >;<wheeze >;<dry mouth >;<rapid heartbeat >;<feeling dizzy >;<faint >;<You see blood or dark/black material when you vomit or have a bowel movement >;
+Symptoms [No explicit item] caused by Disease <small subdural hematoma (bleeding around the brain)> 
+Symptoms [No explicit item] caused by Disease <a small skull fracture > 
+Symptoms [No explicit item] caused by Disease <a scapular fracture >
+

@@ -1,0 +1,9 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|high blood pressure| Medical Issues - Symptom|64|83
+1|headache| Medical Issues - Symptom|88|96
+2|MRI| Tests - Test name|137|140
+3|showed that there was some swelling in your brain| Tests - Test result|141|190
+4|renal failure| Medical Issues - Disease|254|267
+5|You should be seen by your nephrologist on Monday, [**3-9**] at your previously scheduled appointment.| Aftercare instructions - Upcoming Schedules - Specialist appointment|284|387
+6|You should return to the hospital or see your PCP for any worsening headaches, vision changes, chest pain, shortness of breath, abdominal pain, fevers > 101, chills, night sweats, or any other symptoms that concern you.| Aftercare instructions - Emergency instruction|513|735
+7|You should avoid salty foods and try to stay hydrated to protect your kidneys.| Aftercare instructions - patient needs to do - Diet|736|814

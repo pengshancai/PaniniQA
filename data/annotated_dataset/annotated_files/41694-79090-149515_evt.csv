@@ -1,0 +1,8 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|skull fracture| Medical Issues - Disease|123|137
+1|bruising on your brain| Medical Issues - Symptom|139|161
+2|injury to your left eye| Medical Issues - Disease|166|189
+3|rib fractures| Medical Issues - Disease|194|207
+4|you were on a respirator and required frequent neurologic checks| Tests - Test name|245|309
+5|ou are tolerating a regular diet| Aftercare instructions - patient needs to do - Diet|356|388
+6|working with Physical Therapy and Occupational Therapy and your memory is gradually getting better| Aftercare instructions - Upcoming Schedules - Specialist appointment|390|488

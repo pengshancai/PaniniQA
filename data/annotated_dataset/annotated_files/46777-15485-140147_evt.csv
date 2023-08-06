@@ -1,0 +1,8 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|DKA| Medical Issues - Disease|150|153
+1|c. diff infection| Medical Issues - Disease|179|196
+2|insulin dri| Treatments - Medicine name|220|231
+3|You glucose was well-controlled on transfer, and you were back on your home insulin regimen on discharge.| Treatments - Result of the treatment|330|435
+4|Your medications were not changed| Medicine instructions - Medicine continued|436|469
+5|Please continue your outpatient insulin regimen, and follow up at the [**Hospital **] clinic tomorrow. You have an appointment.| Aftercare instructions - Upcoming Schedules - Specialist appointment|471|598
+6|Please also continue flagyl for c. diff infection.| Medicine instructions - Medicine continued|599|649

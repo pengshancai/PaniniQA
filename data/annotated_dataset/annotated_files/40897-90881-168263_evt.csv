@@ -1,0 +1,7 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|bleeding in your brain| Medical Issues - Symptom|108|130
+1|bruising of your pancreas| Medical Issues - Symptom|132|157
+2|fracture of your 12th thoracic vertebra| Medical Issues - Symptom|165|204
+3|You will need to wear a brace called a TLSO brace| Treatments - Procedure name|393|442
+4|stabalize the vertebral fracture| Treatments - Result of the treatment|468|500
+5|If you sleep with the head of the bed flat then you may omit the brace BUT put it on BEFORE you get out of bed| Aftercare instructions - patient needs to do - Other|590|700

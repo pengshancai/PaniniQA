@@ -1,0 +1,19 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|pneumonia| Medical Issues - Disease|106|115
+1|supplemental oxygen| Treatments - Procedure name|132|151
+2|antibiotics| Treatments - Medicine name|169|180
+3|CXR| Tests - Test name|226|229
+4|Your pneumonia appears improved| Tests - Test result|182|213
+5|nasogastric tube| Treatments - Procedure name|312|328
+6|Calcium Pyrophosphate Deposition (CPPD) Disease| Medical Issues - Complication developed in the hospital|423|470
+7|anti-inflammatory| Treatments - Medicine name|519|536
+8|your disease appears improved| Treatments - Result of the treatment|558|587
+9|urinary tract infection| Medical Issues - Complication developed in the hospital|605|628
+10|anti-fungal| Treatments - Medicine name|654|665
+11|C. diff| Tests - Test goal|687|694
+12|negative| Tests - Test result|706|714
+13|Please make sure you take all of the medications we have listed| Aftercare instructions - patient needs to do - Medication|718|781
+14|we have made changes to your medications, we have stopped lasix and allopurinol.| Medicine instructions - Medicine stopped|785|865
+15|Please discuss with your PCP regarding starting Colchicine 0.6mg PO BID for maintenance of CPPD remission.| Aftercare instructions - Upcoming Schedules - PCP appointment|870|976
+16|Please keep the appointment listed below with your pulmonologist to follow up on your pneumonia.| Aftercare instructions - Upcoming Schedules - Specialist appointment|979|1075
+17|Please come back to the Emergency Room if you have fever, chills, joint pain, shortness of breath, markedly altered mental status, or chest pain.| Aftercare instructions - Emergency instruction|1078|1223

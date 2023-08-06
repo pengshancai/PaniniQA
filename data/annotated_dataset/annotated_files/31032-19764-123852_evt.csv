@@ -1,0 +1,14 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|low heart rate| Medical Issues - Symptom|79|93
+1|low blood pressure| Medical Issues - Symptom|98|116
+2|acute kidney failure| Medical Issues - Disease|135|156
+3|intravenous medications| Treatments - Medicine name|230|253
+4|to keep your blood pressure up| Treatments - Treatment goal|254|284
+5|dialysis| Treatments - Procedure name|323|331
+6|Your heart rate and blood pressure have recovered to within normal limits.| Treatments - Result of the treatment|364|438
+7|kidney function slowly improved| Treatments - Result of the treatment|443|476
+8|You were seen by physical therapy who felt that you needed home physical therapy to facilitate your recovery.| Aftercare instructions - Upcoming Schedules - Specialist appointment|530|640
+9|Please call your primary doctor or return to the ED with fever, chills, chest pain, shortness of breath, nausea/vomiting, spontaneous bleeding or any other concerning symptoms.| Aftercare instructions - Emergency instruction|643|819
+10|Please take all your medications as directed.| Aftercare instructions - patient needs to do - Medication|822|867
+11|Please keep your follow up appointments as below.| Aftercare instructions - Upcoming Schedules - Specialist appointment|870|919
+12|| Aftercare instructions - patient needs to do - Other|920|991

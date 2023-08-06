@@ -1,0 +1,27 @@
+Medical Issues
+Symptoms include <retaining a lot of extra fluid>;<worsening knee pain >;
+Symptoms <retaining a lot of extra fluid> caused by Disease <heart failure > 
+Complication <gout attack > caused by [no explicit item]
+
+Tests
+Tests include <examine the fluid in your knee >;
+Test results of <examine the fluid in your knee>: <We found you developed a gout attack and gave you steroids both in your knee and by mouth to help with the pain >;
+
+Treatments
+Medicine <medications to increase the squeezing power of your heart and to force more fluid out in your urine > to treat <heart failure>
+<medications to increase the squeezing power of your heart and to force more fluid out in your urine > Results: <You responded well and we were successful in getting 15-20 pounds of fluid off. >
+Medicine <steroids > to treat <gout attack>
+<steroids >  Results: [no explicit item]
+
+No template for <Start Oxycontin 20mg tab twice daily >
+No template for <Start Prednisone 5mg tabs as directed to slowly decrease the dose >
+No template for <Increase NPH insullin and sliding scale insulin to control your blood sugars >
+No template for <Start metolazone to decrease your swelling. >
+No template for <No other changes were made to your medications. >
+No template for <In the future, you will need to keep a very close eye on your medications, diet, and weight. >
+No template for <In the future, you will need to keep a very close eye on your medications, diet, and weight. >
+No template for <In the future, you will need to keep a very close eye on your medications, diet, and weight. >
+No template for <Weigh yourself every morning, and call your doctor if weight goes up more than 3 lbs in 1 day or 5 pounds in 3 days. >
+No template for <Also, you need to keep a strict low salt diet which will help reduce the amount of fluid your body retains. >
+No template for <Make sure that you keep all of the follow-up appointments listed below. >
+No template for <Bring your medications to each appointment so your doctors [**Name5 (PTitle) **] update their records and adjust doses as needed. >

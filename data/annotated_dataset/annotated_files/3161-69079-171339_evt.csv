@@ -1,0 +1,19 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|gastrointestinal bleed| Medical Issues - Complication developed in the hospital|97|119
+1|procedure to help cure an infection in your gallbladder| Treatments - Procedure name|132|187
+2|repeat procedure to stop the bleeding| Treatments - Procedure name|205|242
+3|blood transfusions| Treatments - Procedure name|259|277
+4|Your blood counts remained stable.| Treatments - Result of the treatment|279|313
+5|abdominal pain resolved| Treatments - Result of the treatment|346|369
+6|gallbladder infection| Medical Issues - Disease|380|401
+7|antibiotics| Treatments - Medicine name|418|429
+8|You were re-started on your home medications without complication.| Medicine instructions - Medicine started|431|498
+9|You should follow up with surgeons in [**Month (only) 958**] (as below) to discuss removing your gallbladder following infection.| Aftercare instructions - Upcoming Schedules - Specialist appointment|498|628
+10|inflammatory cells in your urine| Medical Issues - Symptom|673|706
+11|Urine culture| Tests - Test name|708|721
+12|showed yeast| Tests - Test result|722|734
+13|supra-pubic catheter was changed| Treatments - Procedure name|741|773
+14|Please follow up with your doctor for a repeat urine culture within a week of discharge.| Aftercare instructions - Upcoming Schedules - Specialist appointment|775|864
+15|STOP unasyn| Medicine instructions - Medicine stopped|900|911
+16|DECREASE aspirin to 81 mg daily| Medicine instructions - Medicine changed|912|944
+17|HOLD lantus, as your blood sugars have not been high during hospitalization| Medicine instructions - Medicine stopped|944|1019

@@ -1,0 +1,13 @@
+Medical Issues
+Symptoms include <lethargic >;
+Symptoms <lethargic> caused by Disease <manic episode> 
+
+Tests
+Tests include <evaluated for possible drug overdose >;
+Test results of <drug test>: <negative >;
+
+Aftercare instructions
+If encounter <fevers, chills, loss of consciousness, shortness of breath or chest pain> do <return to the hospital>
+
+No template for <Please continue to take all of your medications as prescribed by the psychiatry team >
+No template for <a number of changes have been made >

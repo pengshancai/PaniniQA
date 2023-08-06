@@ -1,0 +1,10 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|infection in your abdomen| Medical Issues - Disease|67|92
+1|you will need to complete a 14-day course of levofloxacin for this, and afterwards you will need to be on a medicine called norfloxacin daily to prevent further infections| Aftercare instructions - patient needs to do - Medication|94|265
+2|seek medical attention if you develop fevers, chills, or worsening abdominal pain| Aftercare instructions - Emergency instruction|278|359
+3|ascites| Medical Issues - Symptom|437|444
+4|leg swelling| Medical Issues - Symptom|449|461
+5|lasix 40mg daily and spironolactone 100mg daily| Treatments - Medicine name|485|532
+6|hospice| Aftercare instructions - Upcoming Schedules - Specialist appointment|560|567
+7|pain| Medical Issues - Disease|640|644
+8|encephalopathy| Medical Issues - Disease|646|660

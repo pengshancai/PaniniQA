@@ -1,0 +1,11 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|rectal cancer| Medical Issues - Disease|81|94
+1|surgery| Treatments - Procedure name|101|108
+2|you developed a fast heart rate and shortness of breath| Medical Issues - Complication developed in the hospital|140|195
+3|you were recommended to go to rehab to regain your strength| Aftercare instructions - patient needs to do - Other|292|351
+4|diltiazem - we have decreased your dose from 180mg PO daily to 120mg PO daily| Medicine instructions - Medicine changed|406|483
+5|metoprolol - this medication had been dosed twice daily. We have changed this to be 200mg once a day| Medicine instructions - Medicine changed|485|586
+6|aspirin - this is a medication to help prevent blood clots| Medicine instructions - Medicine started|589|648
+7|we have started tylenol for treatment of your post-operative pain| Medicine instructions - Medicine started|661|726
+8|| Aftercare instructions - patient needs to do - Other|728|919
+9|Your surgery went well| Treatments - Result of the treatment|96|118

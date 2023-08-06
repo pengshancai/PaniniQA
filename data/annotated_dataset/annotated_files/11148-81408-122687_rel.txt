@@ -1,0 +1,15 @@
+Medical Issues
+Symptoms include <right leg weakness>;<elevated blood pressure >;<cholesterol {elevated cholesterol} >;
+Symptoms <no explicit item> caused by Disease <aneurysm found on your brain {brain aneurysm} > 
+Symptoms <right leg weakness> caused by Disease <small stroke > 
+Symptoms <no explicit item> caused by Disease <small abnormality on one of your heart valves {heart valve abnormality} > 
+Symptoms <no explicit item> caused by Disease <irregular heart rhythm > 
+
+Aftercare instructions
+If encounter <any new symptoms or have any concerns> do <call your doctor or seek immediate medical attention>
+
+No template for <we have started you on two new medications: Lisinopril: 5mg daily (for blood pressure control) Atorvastatin: 40mg daily (for cholesterol control) >
+No template for <you should take the medication Plavix, which is a blood thinner, to prevent future strokes >
+No template for <This wlll need to be followed by your cardiologist. >
+No template for <In addition, we recommend that you follow-up with your PCP and the Neurology stroke clinic.  >
+No template for <In addition, we recommend that you follow-up with your PCP and the Neurology stroke clinic.  >

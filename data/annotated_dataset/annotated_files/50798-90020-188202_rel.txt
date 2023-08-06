@@ -1,0 +1,19 @@
+Medical Issues
+Symptoms include <shortness of breath>;<trouble swallowing >;<vocal cord dysfunction >;
+
+Treatments
+Procedure <tracheostomy > to treat <shortness of breath>
+<tracheostomy >  Results: [no explicit item]
+Procedure <feeding tube into your stomach through your nose > to treat <trouble swallowing>
+<feeding tube into your stomach through your nose >  Results: [no explicit item]
+
+No template for <You will follow-up with the neurologists regarding these issues >
+No template for <Spiriva >
+No template for <pantoprazole >
+No template for <ipratroprium >
+No template for <advair >
+No template for <lansoprazole >
+No template for <coalesce >
+No template for <biscodyl  >
+No template for <senna >
+No template for <INCREASED Citalopram from 10 mg to 20 mg po daily >

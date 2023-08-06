@@ -1,0 +1,18 @@
+Medical Issues
+Symptoms include <lower intestinal bleeding>;<hematocrit (blood count) was low >;
+Symptoms <lower intestinal bleeding> <hematocrit (blood count) was low> caused by Disease <diverticula > 
+
+Tests
+Tests include <colonoscopy >;
+Test results of <colonoscopy>: <showed some continued diverticulosis.  >;
+
+Treatments
+Medicine <gave you 4 units of blood > to treat <hematocrit (blood count) was low>
+<gave you 4 units of blood >  Results: {hematocrit stabilized}
+
+Aftercare instructions
+If encounter <rectal bleeding, abdominal pain, nausea/vomiting, fevers/chills, chest pain, trouble breathing or any other symptoms that concern you> do < please call your doctor or go to the emergency room. >
+
+No template for <You should eat a diet high in fiber.  >
+No template for <Please restart your home medications. >
+No template for <Follow up with your PCP as scheduled below. >

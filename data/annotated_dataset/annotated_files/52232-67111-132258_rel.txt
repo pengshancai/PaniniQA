@@ -1,0 +1,16 @@
+Medical Issues
+Symptoms [no explicit item] caused by Disease <pneumonia> 
+
+Tests
+Test results of <{blood test}>: <blood sugars were elevated >;
+
+Treatments
+Medicine <antibiotics > to treat <pneumonia>
+<antibiotics >  Results: <You improved>
+Medicine <lasix > to treat <pneumonia>
+<lasix >  Results: <You improved>
+
+
+No template for <You should follow-up with your PCP about this>
+No template for <You should be seen in the next week by your PCP>
+No template for <No changes were made to your medications. You should continue to take them as prescribed>

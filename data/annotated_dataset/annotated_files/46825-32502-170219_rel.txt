@@ -1,0 +1,17 @@
+Medical Issues
+Symptoms include <seizure>;<difficulty breathing >;
+Symptoms <stroke> caused by Disease <urinary tract infection > <Maybe>
+Symptoms [no explicit item] caused by Disease <stroke > 
+
+Tests
+Test results of [no explicit item]: <Your blood and spinal fluid were found to not be infected >;
+
+Treatments
+Procedure <breathing tube > to treat <difficulty breathing>
+<breathing tube >  Results: [no explicit item]
+Medicine <antibiotics > to treat <urinary tract infection>
+<antibiotics >  Results: [no explicit item]
+
+No template for <You should take your home medications as described in this discharge document and keep your outpatient appointments. >
+No template for <You should take your home medications as described in this discharge document and keep your outpatient appointments.  >
+No template for <The following changes have been made to your medications: 1.) Keppra 1000mg by mouth twice daily 2.) Ampicillin 500mg by mouth every six hours >

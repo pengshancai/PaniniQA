@@ -1,0 +1,10 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|pneumonia| Medical Issues - Disease|161|170
+1|antibiotics| Treatments - Medicine name|192|203
+2|slowly able to decrease the amount of oxygen you needed| Treatments - Result of the treatment|213|268
+3|atrial fibrilation| Medical Issues - Symptom|311|329
+4|Please start taking cefpodoxime for 6 more days| Medicine instructions - Medicine started|489|536
+5|Please change your Advair to 500-50, 1 puff twice a day| Medicine instructions - Medicine changed|539|594
+6|Please stop taking Vicodin for now. As you might remember, you were confused for a few days in the ICU. You appeared comfortable without this medication.| Medicine instructions - Medicine stopped|597|750
+7|You may take guaifenasin as needed for cough| Medicine instructions - Medicine started|753|797
+8|| Medicine instructions - Medicine started|800|877

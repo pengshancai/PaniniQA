@@ -1,0 +1,7 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|pneumonia| Medical Issues - Disease|135|144
+1|colon infection| Medical Issues - Disease|148|163
+2|seizures| Medical Issues - Disease|165|173
+3|urinary tract infection| Medical Issues - Disease|181|204
+4|You were evaluated by physical therapy, who felt you would benefit by going to a rehab center for more strength building.| Aftercare instructions - Upcoming Schedules - Specialist appointment|290|412
+5|We have made some changes to your medication regimen, which are listed in detail in your discharge packet.| Medicine instructions - Medicine changed|415|522

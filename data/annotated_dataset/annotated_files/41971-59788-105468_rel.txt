@@ -1,0 +1,10 @@
+Medical Issues
+Symptoms include <left sided weakness >;<left sided visual field deficit >;
+Symptoms <left sided weakness>;<left sided visual field deficit> caused by Disease <acute stroke>
+
+Treatments
+Medicine <He was started on IV heparin and initially did well, until approximately five-six days later when his neurological examination deteriorated and required the mechanical retrieval of an expanding intracranial clot > to treat <intracranial clot>
+<He was started on IV heparin and initially did well, until approximately five-six days later when his neurological examination deteriorated and required the mechanical retrieval of an expanding intracranial clot >  Results: <intracranial clot>
+Medicine <He was placed on an IV morphine drip initially and transitioned to scheduled doses of sublingual morphine for comfort > to treat <comfort>
+<He was placed on an IV morphine drip initially and transitioned to scheduled doses of sublingual morphine for comfort >  Results: [No explicit item]
+

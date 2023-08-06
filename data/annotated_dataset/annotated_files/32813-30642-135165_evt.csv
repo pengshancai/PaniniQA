@@ -1,0 +1,13 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|Decompensated Heart Failure| Medical Issues - Disease|70|97
+1|atrial fibrillation with rapid ventricular response| Medical Issues - Disease|102|153
+2|diuresed| Treatments - Procedure name|164|172
+3|heart rate was controlled| Treatments - Result of the treatment|182|207
+4|It is recommended that you continue care with your cardiologist at [**Hospital6 27369**], Dr. [**Last Name (STitle) **].| Aftercare instructions - Upcoming Schedules - Specialist appointment|313|435
+5|echocardgiogram| Tests - Test name|462|477
+6|concerning for the development of a restrictive cardiomyopathy and possibly infiltrative disease| Tests - Test result|512|608
+7|weakness on your right side| Medical Issues - Symptom|643|670
+8|MRI| Tests - Test name|814|818
+9|confirmed the stroke| Tests - Test result|825|845
+10|after stopping you blood thinner (coumadin)| Medicine instructions - Medicine stopped|685|728
+11|stroke| Medical Issues - Disease|839|845

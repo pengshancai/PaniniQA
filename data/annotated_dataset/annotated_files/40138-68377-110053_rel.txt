@@ -1,0 +1,14 @@
+Medical Issues
+Symptoms include <liver and kidneys to fail>;
+Symptoms [No explicit item] caused by Disease <pneumonia >
+Symptoms [No explicit item] caused by Disease <UTI > 
+Symptoms [No explicit item] caused by Disease <infection in your colon >
+
+Treatments
+Procedure <You required dialysis to filter your blood  > to treat <kidney failure>
+<You required dialysis to filter your blood  >  Results: <kidney recovery>
+Medicine <STARTED Flagyl for 14 days  > to treat <infection in your colon>
+<STARTED Flagyl for 14 days  >  Results: [No explicit item]
+Medicine <Ranitidine to prevent GI pain and formation of ulcers > to treat <GI pain and formation of ulcers>
+<Ranitidine to prevent GI pain and formation of ulcers >  Results: [No explicit item]
+

@@ -1,0 +1,10 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|increased seizure frequency| Medical Issues - Symptom|64|91
+1|intubated| Treatments - Procedure name|202|211
+2|receiving multiple doses of medication to stop the seizures| Treatments - Medicine name|218|277
+3|Trileptal was discontinued| Medicine instructions - Medicine stopped|355|381
+4|Depakote dose was increased to 1000 mg| Medicine instructions - Medicine changed|386|424
+5|A new anti-seizure medication, called Vimpat was also started. You are currently on a dose of 100 mg| Medicine instructions - Medicine started|495|595
+6|elevation in your cardiac enzymes| Tests - Test result|651|684
+7|Echocardiogram of your heart| Tests - Test name|760|788
+8|normal| Tests - Test result|811|817

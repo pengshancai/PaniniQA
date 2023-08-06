@@ -1,0 +1,32 @@
+Medical Issues
+Symptoms include <concern for your mental status>;<not breathing well >;<mental status also improved >;
+Symptoms <concern for your mental status> caused by Disease <stroke > <Maybe>
+Symptoms <CHANGE HERE Symptom name> caused by Disease <community-acquired pneumonia > <CHANGE HERE Maybe>
+
+Tests
+Test results of <CHANGE HERE Test name>: <they were slightly elevated in the hospital >;
+
+Treatments
+Procedure <intubated > to treat <CHANGE HERE Disease>
+<intubated >  Results: <CHANGE HERE Treatment Result>
+<CHANGE HERE Procedure name / Medicine name> Results: <respiratory status improved >
+<CHANGE HERE Procedure name / Medicine name> Results: <once the breathing tube was removed you did very well breathing on your own >
+<CHANGE HERE Procedure name / Medicine name> Results: <you were at your normal level of function by discharge >
+Medicine <IV antibiotics > to treat <CHANGE HERE Disease>
+<IV antibiotics >  Results: <CHANGE HERE Treatment Result>
+Medicine <oral antibiotics > to treat <CHANGE HERE Disease>
+<oral antibiotics >  Results: <CHANGE HERE Treatment Result>
+Medicine <Levaquin > to treat <CHANGE HERE Disease>
+<Levaquin >  Results: <CHANGE HERE Treatment Result>
+
+Aftercare instructions
+If encounter <CHANGE HERE Situation> do <oral antibiotics >
+
+No template for <Please use your oxygen at home as usual and your CPAP machine at night >
+No template for <Please use your oxygen at home as usual and your CPAP machine at night >
+No template for <You will need to continue these for one week >
+No template for <You should re-start all of your home medications >
+No template for <oral antibiotics >
+No template for <You should have your liver function enzymes re-checked as an outpatient >
+No template for <stop using marijuana >
+No template for <It is also important that you keep your appointment for a sleep study >

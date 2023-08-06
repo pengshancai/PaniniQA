@@ -1,0 +1,17 @@
+Medical Issues
+Symptoms include <nausea>;<vomiting >;<abdominal pain >;
+
+Tests
+Tests include <CT of the abdomen>;<Paracentesis>;
+Test results of <CT of the abdomen>: <did not show a blockage, but did show extensive metastatic stomach cancer>;
+Test results of <Paracentesis>: <no bacteria grew in culture>;
+Test results of <Paracentesis>: <white blood cells in the fluid>;
+Test implications of <Paracentesis>: <reflect an infection>; 
+
+No template for <If the nausea and vomiting recur, you may need a feeding tube placed>
+No template for <Cefpodoxime 2x a day for one day>
+No template for <Docusate 100mg 2x a day>
+No template for <Metoclopramide (Reglan) 4x a day>
+No template for <Increase omeprazole (Prilosec) to 2x a day>
+No template for <Acetaminophen (Tylenol) 325-650mg every 6 hours as needed for pain>
+No template for <Oxycodone 5-10mg as needed for pain>

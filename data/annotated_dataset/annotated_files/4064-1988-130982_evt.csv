@@ -1,0 +1,15 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|bacterial infection| Medical Issues - Disease|68|88
+1|hypertension| Medical Issues - Symptom|167|179
+2|You were treated with antibiotics| Treatments - Medicine name|336|369
+3|clot in your right internal jugular vein| Medical Issues - Symptom|434|474
+4|heparin drip| Treatments - Medicine name|532|544
+5|You were transitioned from heparin to coumadin prior to discharge to prevent further development of clots| Medicine instructions - Medicine changed|781|886
+6|Please follow up with your regular hemodialysis doctor, Dr. [**First Name (STitle) 805**], for your renal disease management, dosing of your antibiotics, and management of your coumadin by checking your INR blood test.| Aftercare instructions - Upcoming Schedules - Specialist appointment|890|1108
+7|CPAP machine| Treatments - Procedure name|1137|1149
+8|shortness of breath| Medical Issues - Symptom|1512|1531
+9|chest pain| Medical Issues - Symptom|1533|1543
+10|further swelling of your face/neck/upper extremities| Medical Issues - Symptom|1545|1597
+11|redness or pus of your catheter site| Medical Issues - Symptom|1599|1635
+12|fevers| Medical Issues - Symptom|1637|1643
+13|suicidal ideation| Medical Issues - Symptom|1645|1662

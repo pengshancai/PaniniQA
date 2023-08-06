@@ -1,0 +1,16 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|difficulty with vision| Medical Issues - Symptom|70|92
+1|HA| Medical Issues - Symptom|94|96
+2|sensory changes| Medical Issues - Symptom|101|116
+3|bleed in your brainstem| Medical Issues - Disease|143|166
+4|poorly controlled blood pressure| Medical Issues - Disease|217|249
+5|blood pressure medications| Treatments - Medicine name|273|299
+6|aspirin| Medicine instructions - Medicine stopped|309|316
+7|plavix| Medicine instructions - Medicine stopped|321|327
+8|insulin| Medicine instructions - Medicine started|365|372
+9|Metformin| Medicine instructions - Medicine started|392|401
+10|atenolol was increased to 75mg daily| Medicine instructions - Medicine changed|655|691
+11|you were started on Insulin, 15U of lantus at night and sliding scale| Medicine instructions - Medicine started|694|763
+12|Please make all follow up appointments| Aftercare instructions - Upcoming Schedules - Specialist appointment|1022|1061
+13|please take all medications as prescribed| Aftercare instructions - patient needs to do - Medication|1063|1104
+14|You can restart aspirin in one week| Aftercare instructions - patient needs to do - Medication|482|517

@@ -1,0 +1,21 @@
+Medical Issues
+Symptoms include <taking too many of your prescription medications>;<dizziness>;<unsteadiness>;
+
+Tests
+Tests include <imaging tests>;< kidney function>;
+Test goal of <imaging tests>: to make sure there wasn&#x27;t any trauma to your brain>;
+Test results of <imaging tests: <normal>;
+Test results of <{labs}>: <lab values were stable>;
+Test results of <kidney function>: <better than baseline>;
+
+Treatments
+Procedure <fluid> to treat <taking too many of your prescription medications>
+<fluid >  Results: [no explicit]
+Medicine <You were given medications to help with symptoms from the medication that you took> to treat <taking too many of your prescription medications>
+<You were given medications to help with symptoms from the medication that you took>  Results: [no explicit]
+Procedure <You were followed by psychiatry as an inpatient > to treat <taking too many of your prescription medications>
+<You were followed by psychiatry as an inpatient>  Results: <they felt you were not in immediate danger of commiting suicide>
+
+
+No template for <it is very important for you to continue at the partial hospital program ([**Hospital **] Hospital HRI) >
+No template for <Please discuss this further with your PCP at your appointment next Tuesday >

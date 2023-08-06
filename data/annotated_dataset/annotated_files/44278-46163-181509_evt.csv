@@ -1,0 +1,19 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|weakness| Medical Issues - Symptom|86|94
+1|stroke| Medical Issues - Disease|120|126
+2|heparin| Treatments - Medicine name|307|314
+3|coumadin| Treatments - Medicine name|319|327
+4|thin your blood| Treatments - Result of the treatment|331|346
+5|You will continue to take coumadin for 2 months and then will restart aspirin.| Medicine instructions - Medicine continued|348|426
+6|You will have a follow-up appointment with Dr. [**First Name (STitle) **] in 2 months.| Aftercare instructions - Upcoming Schedules - Specialist appointment|427|513
+7|Please note the following changes to your medications: START: - coumadin (take for a total of 2 months, you will need your INR blood level checked regularly while on this medication)| Medicine instructions - Medicine started|514|696
+8|benadryl/sarna lotion for itch| Medicine instructions - Medicine started|699|729
+9|artificial tears for dry eyes| Medicine instructions - Medicine started|732|761
+10|Capsaicin cream for pain over knee| Medicine instructions - Medicine started|764|798
+11|Percocet for back/knee pain| Medicine instructions - Medicine started|801|828
+12|Rosuvastatin for high cholesterol| Medicine instructions - Medicine started|831|864
+13|Clobetasol ointment 0.5% to affected areas (NOT on face, skin folds, arm pits or inner thighs)| Medicine instructions - Medicine started|867|961
+14|Hydrocortisone cream to affected areas on face, skin folds and arm pits, inner thighs| Medicine instructions - Medicine started|964|1050
+15|INCREASE: - amlodipine 5mg --> 10mg daily| Medicine instructions - Medicine changed|1050|1094
+16|STOP: - aspirin (you will restart this medication in 2 months after stopping coumadin)| Medicine instructions - Medicine stopped|1095|1181
+17|| Medicine instructions - Medicine started|1101|1182

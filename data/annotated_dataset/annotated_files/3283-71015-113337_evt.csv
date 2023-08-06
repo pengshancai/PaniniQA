@@ -1,0 +1,11 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|bleeding in your stool| Medical Issues - Symptom|64|86
+1|endoscopy| Tests - Test name|118|127
+2|to look at the source of bleeding| Tests - Test goal|128|161
+3|ulcer was found in your duodenum| Tests - Test result|166|198
+4|It is very important that if you notice any new blood from your rectum to notify your doctor of come to the emergency department immediately.| Aftercare instructions - Emergency instruction|303|444
+5|We stopped your aspirin because of your bleeding.| Medicine instructions - Medicine stopped|490|540
+6|increased your metoprolol to 75 mg twice a day.| Medicine instructions - Medicine changed|627|675
+7|We are giving you two antibiotics: clarithromycin and amoxicillin. It is important to take these for two weeks. These are treating an infection which may have caused your ulcer to form.| Medicine instructions - Medicine started|676|861
+8|Please stop your simvastatin (cholesterol medicine) for two weeks. You can restart this after you are finished with the antibiotics.| Medicine instructions - Medicine stopped|862|995
+9|We started pantoprazole 40 mg twice a day. It is very important to continue to take this until you discuss it with your GI physician.| Medicine instructions - Medicine started|995|1128

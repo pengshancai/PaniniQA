@@ -1,0 +1,8 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|cluster of seizures| Medical Issues - Disease|75|94
+1|high Ativan doses neede to control your seizures| Treatments - Medicine name|137|185
+2|You were intubated without complications and extubated and then monitored on the floor| Treatments - Procedure name|187|273
+3|You were started on Zonisamide| Treatments - Medicine name|275|305
+4|week of Ativan (which will be tapered)| Treatments - Medicine name|312|350
+5|Ativan taper - as scheduled over the next week| Treatments - Medicine name|475|521
+6|Starting Zonegran| Treatments - Medicine name|525|542

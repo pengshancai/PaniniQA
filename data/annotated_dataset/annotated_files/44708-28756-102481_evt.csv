@@ -1,0 +1,10 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|chest pain| Medical Issues - Symptom|64|74
+1|blood pressure was very high| Medical Issues - Symptom|81|109
+2|started on several medications to improve your blood pressure. These medications are: Norvasc 5mg daily Lisinopril 40mg daily Hydrochlorothiazide 25mg daily Atenolol 25mg daily| Treatments - Medicine name|123|299
+3|You should also continue to take aspirin daily. .| Medicine instructions - Medicine continued|300|349
+4|Please follow up with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] at [**Hospital1 **] Community Health Center. Your appointment is scheduled for [**2114-3-28**] at 3pm.| Aftercare instructions - Upcoming Schedules - Specialist appointment|350|545
+5|You are also scheduled to follow up with [**First Name4 (NamePattern1) 698**] [**Last Name (NamePattern1) 13469**] NP on [**2114-2-21**] at 1pm.| Aftercare instructions - Upcoming Schedules - Specialist appointment|545|690
+6|Please call [**Telephone/Fax (1) 3581**] with any questions.| Aftercare instructions - patient needs to do - Other|690|750
+7|You will need to stop on the [**Location (un) 453**] of Adult Medicine on the day of your appointment to fill out paperwork for [**Hospital1 **].| Aftercare instructions - patient needs to do - Other|751|896
+8|Please contact your doctor or return to the emergency room if you develop worrisome symptoms such as chest pain, shortness of breath, lightheadedness or begin to feel uwell.| Aftercare instructions - Emergency instruction|899|1072

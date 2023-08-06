@@ -1,0 +1,7 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|mental status changes| Medical Issues - Symptom|46|67
+1|worsening of shortness and acute renal failure| Medical Issues - Symptom|69|115
+2|empyema| Medical Issues - Disease|193|200
+3|Patient continued on a fentanyl patch for pain| Treatments - Medicine name|354|400
+4|had daily drainage of pleural fluid| Treatments - Procedure name|405|440
+5|lethargic| Medical Issues - Symptom|509|518

@@ -1,0 +1,13 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|trouble breathing| Medical Issues - Symptom|33|50
+1|echocardiogram| Tests - Test name|58|72
+2|heart function was very poor| Tests - Test result|90|118
+3|milrinone| Medicine instructions - Medicine started|165|174
+4|Weigh yourself every morning, call Dr. [**First Name (STitle) 437**] if weight goes up more than 3 pounds in 1 day or 5 pounds in 3 days| Aftercare instructions - patient needs to do - Other|229|365
+5|to help your heart pump better| Treatments - Treatment goal|437|467
+6|DECREASE valsartan to 120 mg daily| Medicine instructions - Medicine changed|471|505
+7|furosemide| Medicine instructions - Medicine stopped|521|531
+8|take torsemide if you notice your weight is increasing| Medicine instructions - Medicine started|533|587
+9|carvedilol| Medicine instructions - Medicine stopped|603|613
+10|metoprolol| Medicine instructions - Medicine started|620|630
+11|to lower your heart rate and help your heart pump better| Treatments - Treatment goal|639|695

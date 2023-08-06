@@ -1,0 +1,15 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|throat swelling| Medical Issues - Symptom|63|78
+1|exacerbation of your chronic angioedema| Medical Issues - Disease|93|132
+2|steroids| Treatments - Medicine name|154|162
+3|close airway monitoring| Treatments - Procedure name|195|218
+4|You improved quickly| Treatments - Result of the treatment|288|308
+5|were never in any respiratory compromise| Treatments - Result of the treatment|313|353
+6|iron deficient| Medical Issues - Disease|386|400
+7|anemic| Medical Issues - Symptom|441|447
+8|You are being prescribed iron pills| Aftercare instructions - patient needs to do - Medication|449|484
+9|You are also being given prescriptions for stool softeners since iron can make you constipated.| Aftercare instructions - patient needs to do - Medication|486|581
+10|Please note that you will be discharged with a prescription for a steroid taper.| Aftercare instructions - patient needs to do - Medication|582|662
+11|It is very important that you take these, as well as all of your previous medications, as prescribed.| Aftercare instructions - patient needs to do - Medication|663|764
+12|Please keep all of your outpatient appointments.| Aftercare instructions - patient needs to do - Other|765|813
+13|If you experience any further shortness of breath, facial or mouth swelling, or any symptoms which disturb you, please call your doctor, consider using an epipen, or go to the ER.| Aftercare instructions - Emergency instruction|814|993

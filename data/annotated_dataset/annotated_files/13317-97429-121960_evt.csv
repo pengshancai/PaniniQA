@@ -1,0 +1,15 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|open right colectomy| Treatments - Procedure name|74|94
+1|obstructing ascending cecal colon cancer| Medical Issues - Disease|99|139
+2|You have tolerated the abdominal surgery well| Treatments - Result of the treatment|141|186
+3|you are passing gas| Treatments - Result of the treatment|188|207
+4|you have had bowel movements| Treatments - Result of the treatment|213|241
+5|you had some extra fluid collect in your lungs| Medical Issues - Complication developed in the hospital|258|304
+6|respiratory difficulties| Medical Issues - Symptom|383|407
+7|medications| Treatments - Medicine name|473|484
+8|remove this fluid| Treatments - Treatment goal|488|505
+9|inhaled respiratory medications| Treatments - Medicine name|544|576
+10|You also were started on inhaled respiratory medications, which you are to continue taking at home.| Medicine instructions - Medicine continued|520|619
+11|urinary tract infection| Medical Issues - Disease|648|671
+12|antibiotics| Treatments - Medicine name|677|688
+13|You were started on metoprolol for treatment of atrial fibrillation.| Medicine instructions - Medicine started|690|758

@@ -1,0 +1,7 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|passed out| Medical Issues - Symptom|106|116
+1|heart was beating too slow| Medical Issues - Disease|130|156
+2|pacemaker| Treatments - Procedure name|173|182
+3|Please take your medications as prescribed.| Aftercare instructions - patient needs to do - Medication|237|281
+4|Your INR will need to be followed by Dr. [**First Name (STitle) 5936**].| Aftercare instructions - Upcoming Schedules - Specialist appointment|385|458
+5|Please call your doctor or return to the hospital if you experience chest pain, shortness of breath, fever, or any other concerning symptoms.| Aftercare instructions - Emergency instruction|499|640

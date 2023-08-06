@@ -1,0 +1,22 @@
+Medical Issues
+Symptoms include <broke your left hip>;<shortness of breath >;
+
+Treatments
+Procedure <surgically corrected your fracture > to treat <broken left hip>
+<surgically corrected your fracture >  Results: <you have been recovering nicely from that procedure >
+Medicine <Tylenol > to treat <pain>
+<Tylenol >  Results: <Your pain has been controlled >
+Procedure <positive-pressure ventilation. > to treat <shortness of breath>
+<positive-pressure ventilation. >  Results: <breathing well just with room air>
+Medicine <Lasix > to treat <excess lung fluid>
+<Lasix >  Results: <breathing well just with room air>
+
+No template for <The orthopedic surgeons request that your staples be removed in 2 weeks, and have recommendations for physical therapy while you are at your rehabilitation facility. You have an appointment to see an orthopedic doctor for follow-up on [**8-18**], and will need to get Xrays prior to that appointment (see below). >
+No template for <The orthopedic surgeons request that your staples be removed in 2 weeks, and have recommendations for physical therapy while you are at your rehabilitation facility. You have an appointment to see an orthopedic doctor for follow-up on [**8-18**], and will need to get Xrays prior to that appointment (see below). >
+No template for <There have been several changes to your medications during this hospitalization. You rehab facility should follow the medication list provided for you at discharge. >
+No template for <START Calcium and Vitamin D supplements. >
+No template for <START Tylenol 1000mg every 6 hours as needed for pain. DO NOT take more than 4g (4000mg) of this medication in a 24-hour period, because you can seriously harm your liver. >
+No template for <START Tramadol as needed for pain >
+No template for <START Lovenox injections to prevent blood clot formation >
+No template for <We increased your lantus dose to 23 units in the morning and increased your insulin sliding scale to get better glucose control >
+No template for <We also started colace, senna, and bisacodyl to prevent constipation as well as albuterol as needed for shortness of breath >

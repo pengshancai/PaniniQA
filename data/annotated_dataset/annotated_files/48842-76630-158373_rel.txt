@@ -1,0 +1,43 @@
+Medical Issues
+Symptoms include <nausea>;< abdominal pain >;< retroperitoneal bleed >;
+Complication <blood pressure and blood levels were dropping quickly > caused by <retroperitoneal bleed>
+Complication <You lost a tremendous amount of blood into this space  > caused by <retroperitoneal bleed>
+Complication <You also developed a pulmonary embolus which is a blood clot in your lungs > caused by [no explicit item]
+Symptoms <nausea>;< abdominal pain >;< retroperitoneal bleed > caused by Disease <retroperitoneal hematoma > 
+
+Tests
+Tests include <CT scan >;
+Test results of <CT scan>: <retroperitoneal hematoma >;
+Test results of <CT scan>: <thyroid nodules >;
+
+Treatments
+Procedure < interventional radiology procedure > to treat <retroperitoneal bleed>
+< interventional radiology procedure >  Results:  <was able to isolate and stop the blood vessel that was bleeding into your retroperitoneal space >
+Procedure <several blood product transfusions > to treat <CHANGE HERE Disease>
+<several blood product transfusions >  Results: <blood levels have remained stable for several days >
+Procedure <briefly intubated on a ventilator to protect your airway > to treat [no explicit item]
+
+
+No template for <You will need to be on Lovenox which is a blood thinner to prevent further clots from happening >
+No template for <need to be followed up as an outpatient >
+No template for <You will also need a repeat CT scan of your abdomen in a month to re-evaluate the size of your retroperitoneal hematoma >
+No template for < Excedrin >
+No template for <Sudafed >
+No template for < Topamax >
+No template for <Vicodin >
+No template for <Carisoprodol >
+No template for <Diclofenac >
+No template for <atenolol  >
+No template for < folic acid >
+No template for <pantoprazole >
+No template for <metoprolol succinate >
+No template for <docusate/senna/miralax/Dulcolax as needed for constipation >
+No template for <simethicone as needed for gas >
+No template for <lisinopril >
+No template for <oxycodone as needed for pain >
+No template for < Lovenox >
+No template for < ranitidine >
+No template for <Maalox/lidocaine as needed for abdominal discomfort >
+No template for < ondansetron ODT as needed for nausea >
+No template for < benzonatate/Delsym/guaifenesin with codeine as needed for cough >
+No template for <Flonase for nasal congestion >

@@ -1,0 +1,18 @@
+Medical Issues
+Symptoms include <fast heart rate >;
+Symptoms <fast heart rate> caused by Disease <atrial fibrillation>
+
+Treatments
+Medicine <amiodarone > to treat <atrial fibrillation>
+<amiodarone >  Results: <Your heart rate was controlled>
+Medicine <metoprolol > to treat <atrial fibrillation>
+<metoprolol >  Results: <Your heart rate was controlled>
+
+Aftercare instructions
+If encounter <for any concerns> do <Please seek medical attention>
+
+No template for <Please continue these medications as prescribed >
+No template for <START amiodarone 200 mg daily >
+No template for <START metoprolol tartrate 12.5 mg twice a day >
+No template for <Please attend your follow-up appointments below. >
+No template for <Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more than 3 lbs. >

@@ -1,0 +1,20 @@
+Medical Issues
+Symptoms include <irritation from the bile leak from your surgery >;<mental status changes >;<blood pressures were elevated >;
+Symptoms [No explicit item] caused by Disease <abdominal infection>
+Symptoms [No explicit item] caused by Disease <Infectious diarrheal disease >
+Symptoms [No explicit item] caused by Disease <kidney injury  >
+Symptoms [No explicit item] caused by Disease <colitis >
+Symptoms [No explicit item]caused by Disease <pneumonia >
+Symptoms <blood pressures were elevated> caused by Disease <hypertension >
+
+Treatments
+Medicine <we have been treating with IV antibiotics which will be continued at home for three days > to treat <pneumonia>
+<we have been treating with IV antibiotics which will be continued at home for three days >  Results: [No explicit item]
+Medicine <START amlodipine 5mg by mouth every day > to treat [No explicit item]
+<START amlodipine 5mg by mouth every day >  Results: <CHANGE HERE Treatment Result>
+Medicine <START Vancomycin 1 gram intravenous every other day > to treat [No explicit item]
+<START Vancomycin 1 gram intravenous every other day >  Results: [No explicit item]
+Medicine <START cefepime 2g intravenous every 24 hours > to treat [No explicit item]
+<START cefepime 2g intravenous every 24 hours >  Results: [No explicit item]
+
+No template for <You will be going home with a mid-line IV and a visiting nurse will come to administer medications and will remove the line. >

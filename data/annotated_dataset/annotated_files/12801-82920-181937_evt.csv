@@ -1,0 +1,14 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|large clots in your lungs| Medical Issues - Symptom|87|112
+1|being immobile after your hip surgery| Medical Issues - Disease|134|171
+2|your blood pressure was dangerously low| Medical Issues - Symptom|236|275
+3|this resolved| Treatments - Result of the treatment|280|293
+4|treatment| Treatments - Medicine name|299|308
+5|iv blood thinner| Treatments - Medicine name|341|359
+6|Coumadin| Treatments - Medicine name|414|422
+7|lovenox| Treatments - Medicine name|466|473
+8|You need to take the lovenox until your coumadin level is high enough (INR [**3-22**]) and this will take up to another week to get to.| Aftercare instructions - patient needs to do - Medication|475|611
+9|VNA will check your INR for the next week and send the results to Dr. [**First Name (STitle) **].| Aftercare instructions - Upcoming Schedules - Test|728|826
+10|Your atenolol was stopped beause your blood pressure was low. You should not take this medication when you go home, but Dr. [**First Name (STitle) **] may restart this when you see him.| Medicine instructions - Medicine stopped|933|1118
+11|you should stop taking your aspirin as you will be on the coumadin. Dr. [**First Name (STitle) **] may restart this once you are off the coumadin.| Medicine instructions - Medicine stopped|1128|1274
+12|No other medication changes were made, you should continue all your home medications as previously directed.| Medicine instructions - Medicine continued|1275|1383

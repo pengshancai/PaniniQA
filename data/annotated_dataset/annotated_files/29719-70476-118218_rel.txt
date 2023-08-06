@@ -1,0 +1,17 @@
+Medical Issues
+Symptoms include <altered mental status>;<shortness of breath >;
+Symptoms <shortness of breath> caused by Disease <pneumonia > 
+Symptoms <shortness of breath> caused by Disease <heart failure exacerbation >
+
+Treatments
+Medicine <antibiotics > to treat <pneumonia>
+<antibiotics >  Results: <Your symptoms improved and you were discharged to a rehab facility. >
+Medicine <medication to help remove the extra fluid > to treat <heart failure exacerbation>
+<medication to help remove the extra fluid >  Results: <Your symptoms improved and you were discharged to a rehab facility. >
+
+No template for <1. We increased Tamsulosin (Flomax) to 0.8 mg instead of 0.4 mg >
+No template for <2. We increased Metoprolol to 25 mg twice daily instad of 12.5 mg twice daily >
+No template for <3. We have held your furosemide (Lasix) for now; this can be restarted as needed at your rehab. >
+No template for <3. We have held your furosemide (Lasix) for now; this can be restarted as needed at your rehab. >
+No template for <5. We stopped your scopalamine patch >
+No template for <4. We decreased your allopurinol to 150 mg daily instead of 400 mg daily until your kidney function improves >

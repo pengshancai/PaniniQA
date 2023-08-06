@@ -1,0 +1,11 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|acute liver injury| Medical Issues - Symptom|120|138
+1|ingestion of substances including acetaminophen (Tylenol)| Medical Issues - Disease|166|223
+2|medications| Treatments - Medicine name|247|259
+3|help try and prevent further damage to your liver| Treatments - Treatment goal|262|311
+4|You slowly improved| Treatments - Result of the treatment|313|332
+5|It is very important not to drink any alcohol.| Aftercare instructions - patient needs to do - Diet|365|412
+6|You should not use any acetaminophen containing products until your doctor tells you your liver tests have returned to [**Location 213**].| Aftercare instructions - patient needs to do - Medication|412|551
+7|STOP venlafaxine| Medicine instructions - Medicine stopped|1020|1036
+8|We are starting you on oxycodone to help control your pain. You may take one tablet (5 mg) every eight hours. Take a total of three tablets of oxycodone (5 mg) on both Saturday and Sunday. Take two tablets on both Monday and Tuesday. Take one tablet on both Wednesday and Thursday. Never take more than one tablet at a time. Separate each tablet by eight hours. Do not drive or perform any activity that requires mental alertness while taking this medication. If you are feeling well, you can take less tablets.| Medicine instructions - Medicine started|1041|1552
+9|We gave you a prescription for docusate and senna. These will help you move your bowels while on narcotic pain medications. You do not need to take these if you are moving your bowels regularly.| Medicine instructions - Medicine started|1556|1750

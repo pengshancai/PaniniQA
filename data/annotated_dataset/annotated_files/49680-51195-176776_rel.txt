@@ -1,0 +1,22 @@
+Medical Issues
+Symptoms include <hard time breathing>;
+Complication <our speech and swallow specialists saw you twice, and both times felt that it was unsafe for you to continue to eat foods by mouth, because of the risk of aspiration. > caused by [no explicit item]
+
+Tests
+Test results of [no explicit item]: <pneumonia >;
+
+Treatments
+Procedure <tube placed down your throat > to treat <hard time breathing>
+<tube placed down your throat >  Results: [no explicit item]
+Procedure < placed a needle near your lungs to help take off some fluid which had accumulated there.  > to treat <hard time breathing>
+< placed a needle near your lungs to help take off some fluid which had accumulated there.  >  Results: <We also were able to take the tube out of your throat, and you breathed well on your own.>
+
+<antibiotics >  Results: <pneumonia>
+<antibiotic> Results: <you got better >
+Procedure <we placed a &quot;PEG&quot; tube, which helps give you nutrition directly to your stomach. > to treat [no explicit item]
+<we placed a &quot;PEG&quot; tube, which helps give you nutrition directly to your stomach. >  Results: [no explicit item]
+
+No template for <START Furosemide 40 mg Daily (continue to take this until your body swelling improves) >
+No template for <START heparin 5000 U subcutaneously every eight (8) hours >
+No template for <STOP Gabapentin 300 mg at night (you did not require this medication while in the hospital) >
+No template for <We did not make any other changes to your home medications, so please continue to take them as you normally have been. >

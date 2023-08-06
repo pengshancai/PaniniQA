@@ -1,0 +1,17 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|difficulty breathing| Medical Issues - Symptom|100|120
+1|heart failure| Medical Issues - Disease|126|139
+2|atrial fibrillation| Medical Issues - Disease|179|198
+3|metoprolol| Treatments - Medicine name|263|273
+4|heart rate was better controlled| Treatments - Result of the treatment|205|237
+5|coumadin| Treatments - Medicine name|323|331
+6|to prevent strokes| Treatments - Treatment goal|332|350
+7|The blood thinner requires frequent monitoring of a blood test called the INR to make sure that levels are therapeutic. You will be going to a rehab facility where you will have close monitoring.| Aftercare instructions - Upcoming Schedules - Test|352|547
+8|You also had the fluid in your lungs drained| Treatments - Procedure name|548|592
+9|help your breathing| Treatments - Treatment goal|596|615
+10|We made the following changes to your medications: -START ferrous sulfate 325mg daily| Medicine instructions - Medicine started|619|704
+11|-START pantoprazole 40mg daily| Medicine instructions - Medicine started|705|735
+12|-START metoprolol 25mg three times a day| Medicine instructions - Medicine started|736|776
+13|-START coumadin 2mg daily| Medicine instructions - Medicine started|777|802
+14|-DECREASE aspirin from 325mg to 81mg daily| Medicine instructions - Medicine changed|803|845
+15|-STOP mirtazapine 15mg at night| Medicine instructions - Medicine stopped|846|877

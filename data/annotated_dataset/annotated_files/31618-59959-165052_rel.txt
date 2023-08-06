@@ -1,0 +1,15 @@
+Medical Issues
+Symptoms include <fevers>;<headache >;<myalgias >;<melena >;
+Symptoms <fevers>;<headache >;<myalgias >;<melena > caused by Disease <malaria infection > 
+
+Tests
+Tests include <malaria fingerstick test >;< blood tests >;<EGD >;
+Test results of <malaria fingerstick test>: <positive >;
+
+Aftercare instructions
+If encounter <any new or concerning symptoms, in particular, fever, severe headache, nausea or vomiting, confusion, black or bloody stool or vomitus, difficulty tolerating your medications or any other worrisome symptoms> do <Please call your doctor or return to the emergency room >
+
+No template for <You are being given prescriptions for the following NEW medications: ** Quinine sulfate, 648 mg, TID for a total of 3 days (first dose was night of [**2170-10-12**]) - Please take one dose this afternoon, one dose this evening, one dose tomorrow morning, and one dose tomorrow afternoon. This will complete a three day course of TID treatment  >
+No template for <You are being given prescriptions for the following NEW medications: ** Quinine sulfate, 648 mg, TID for a total of 3 days (first dose was night of [**2170-10-12**]) - Please take one dose this afternoon, one dose this evening, one dose tomorrow morning, and one dose tomorrow afternoon. This will complete a three day course of TID treatment  >
+No template for <** Clindamycin tabs,300 mg, TID X 1 week -- Please take two tablets by mouth (for total dose of 600 mg), three times per day for 7 days >
+No template for <** Clindamycin tabs,300 mg, TID X 1 week -- Please take two tablets by mouth (for total dose of 600 mg), three times per day for 7 days >

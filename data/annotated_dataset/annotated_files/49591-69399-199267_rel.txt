@@ -1,0 +1,20 @@
+Medical Issues
+Complication < Unfortunately this &quot;trauma line&quot; was placed in your right femoral artery and not the vein as intended.> caused by <During your bleeding a large IV was needed to be placed in your leg in order to transfuse your blood as quickly as possible and keep your blood pressure up.>
+
+Tests
+Tests include <biopsy in your small intestine>;
+Test results of <biopsy in your small intestine>: <massive bleeding>;
+
+Treatments
+Procedure <transfused 4 units of red blood cells > to treat <massive bleeding>
+<transfused 4 units of red blood cells >  Results: <tolerated this procedure well >
+Procedure <had the bleeding artery embolized by our interventional radiologists > to treat <massive bleeding>
+<had the bleeding artery embolized by our interventional radiologists >  Results: <tolerated this procedure well >;<no signs of further bleeding for 2 days afterwards>
+
+Procedure <You were seen by our vascular surgeons who removed the line > to treat <Unfortunately this &quot;trauma line&quot; was placed in your right femoral artery and not the vein as intended.>
+<You were seen by our vascular surgeons who removed the line >  Results: <our vascular surgeons who removed the line and felt comfortable that it had healed properly >
+
+
+No template for <Over the next few days you should avoid any heavy lifting or long distance walking to ensure the leg heals properly.  >
+No template for < If you develop any bleeding in your leg, your neck or in your stool please call your doctor immediately.  >
+No template for <You will need to have a blood count checked in a week&#x27;s time to ensure that there is no further bleeding.  >

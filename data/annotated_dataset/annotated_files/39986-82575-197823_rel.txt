@@ -1,0 +1,23 @@
+Medical Issues
+Symptoms include <respiratory distress>;
+Symptoms <respiratory distress> caused by Disease <pneumonia > 
+Symptoms [No explicit item] caused by Disease <urinary tract infection >
+
+Treatments
+Procedure <tracheostomy was removed > to treat [No explicit item]
+<tracheostomy was removed >  Results: [No explicit item]
+Medicine <You were treated with antibiotics > to treat <pneumonia>
+<You were treated with antibiotics >  Results: [No explicit item]
+Medicine <START Vancomycin 1250 mg intravenous every 12 hours for one more day > to treat [No explicit item]
+<START Vancomycin 1250 mg intravenous every 12 hours for one more day >  Results: [No explicit item]
+Medicine <START CeftriaXONE 1 gm intravenous once a day for one more day  > to treat [No explicit item]
+<START CeftriaXONE 1 gm intravenous once a day for one more day  >  Results: [No explicit item]
+Medicine <START Glargine 10 units once a day irected by sliding scale insulin  > to treat [No explicit item]
+<START Glargine 10 units once a day irected by sliding scale insulin  >  Results: [No explicit item]
+Medicine <START Docusate twice a day > to treat [No explicit item]
+<START Docusate twice a day >  Results: [No explicit item]
+
+No template for <STOP Amaryl START Glargine 10 units once a day  >
+No template for <STOP Novolin STOP hydromorphone >
+No template for <STOP milk of magnesia  >
+No template for <STOP Hyocyamine  >

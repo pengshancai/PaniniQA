@@ -1,0 +1,20 @@
+Medical Issues
+Symptoms include <ascending numbness>;<lower extremity weakness >;<a large lesion was also found in your spinal cord >;<inflammation >;
+Symptoms [No explicit item] caused by Disease <bronchiolitis obliterans with organizing pneumonia (BOOP) >
+Symptoms <ascending numbness>;<lower extremity weakness > caused by Disease <autoimmune process causing a myelitis (inflammation of your spinal cord) >
+Symptoms [No explicit item] caused by Disease <urinary tract infection >
+
+Treatments
+Procedure <lung biopsy > to treat [No explicit item]
+<lung biopsy >  Results: [No explicit item]
+Procedure <Sjogrens antibodies were positive > to treat [No explicit item]
+<Sjogrens antibodies were positive >  Results: [No explicit item]
+Medicine <You were treated with steroids and plasmapheresis > to treat <inflammation>
+<You were treated with steroids and plasmapheresis >  Results: <decreased inflammation>
+Procedure <repeat spinal tap and blood markers > to treat [No explicit item]
+<repeat spinal tap and blood markers >  Results: <decreased inflammation>
+Medicine <You will also need to continue linezolid for the next 10 days > to treat <urinary tract infection>
+<You will also need to continue linezolid for the next 10 days >  Results: [No explicit item]
+
+No template for <You will need to continue aggressive physical therapy >
+No template for <Rehab facility and will need to continue oral steroids for the next 2-3 months to treat both your spinal cord process and your BOOP >

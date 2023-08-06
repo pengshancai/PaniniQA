@@ -1,0 +1,32 @@
+Medical Issues
+Symptoms include <persistent low grade fevers>;<hypotension >;
+Symptoms <persistent low grade fevers>;<hypotension > caused by Disease <sacral ulcer > <Maybe>
+Complication <required IV pressors > caused by [no explicit item]
+
+Tests
+Tests include <cortisol stimulation test >;
+Test results of <cortisol stimulation test>: <adrenal insufficiency >;
+Test implications of <cortisol stimulation test>: <started on high dose hydrocortisone >; 
+
+Treatments
+Medicine <You were continued on vanc/zosyn, and a third antibiotic, ciprofloxacin was added to your regimen to cover for stool organisms. > to treat <infection>
+<You were continued on vanc/zosyn, and a third antibiotic, ciprofloxacin was added to your regimen to cover for stool organisms. >  Results: <remained afebrile throughout your stay in the hospital>
+Medicine <IV pressors > to treat [no explicit item]
+<IV pressors >  Results: [no explicit item]
+Medicine <You were transitioned to oral prednisone which should be tapered slowly over 2 weeks as your blood pressure tolerates > to treat <infection>
+<You were transitioned to oral prednisone which should be tapered slowly over 2 weeks as your blood pressure tolerates >  Results: <adrenal insufficiency>
+Medicine <You completed a 10 day course of antibiotics which ended [**6-16**] and remained afebrile. > to treat <infection>
+<You completed a 10 day course of antibiotics which ended [**6-16**] and remained afebrile. >  Results: <remained afebrile>
+Procedure <You received hemodialysis according to your normal schedule > to treat [no explicit item]
+<You received hemodialysis according to your normal schedule >  Results: [no explicit item]
+Procedure <Your CPAP settings were gradually weaned to [**5-17**] > to treat [no explicit item]
+<Your CPAP settings were gradually weaned to [**5-17**] >  Results: [no explicit item]
+
+Aftercare instructions
+If encounter <fever or any other concerning symptoms> do <please call your doctor or come to the hospital. >
+
+No template for <You should follow up with your PCP and have [**Name Initial (PRE) **] repeat cortisol stim test in 2 weeks. >
+No template for <Please continue to take your medications as prescribed. >
+No template for <Continue to go to your regularly scheduled dialysis sessions. >
+No template for <Please follow wound care instructions to maintain the area of your ulcer clean and dry. >
+No template for <You may benefit from a trial of trach mask. >

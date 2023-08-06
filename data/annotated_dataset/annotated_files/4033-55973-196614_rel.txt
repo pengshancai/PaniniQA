@@ -1,0 +1,13 @@
+Medical Issues
+Symptoms include <low blood pressures>;<low blood counts >;<heart strain  >;
+
+Treatments
+Procedure <You improved after some fluid was removed with dialysis. > to treat [No explicit item]
+<You improved after some fluid was removed with dialysis. >  Results: [No explicit item]
+Medicine <Increase your tacrolimus > to treat [No explicit item]
+<Increase your tacrolimus >  Results: [No explicit item]
+Medicine <Start taking Vitamin B12 > to treat [No explicit item]
+<Start taking Vitamin B12 >  Results: [No explicit item]
+
+No template for <Please Weigh yourself every morning >
+No template for <Your warfarin dose was changed  >

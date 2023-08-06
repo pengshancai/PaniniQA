@@ -1,0 +1,11 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|shortness of breath after a blood transfusion| Medical Issues - Symptom|64|109
+1|V/Q scan| Tests - Test name|218|226
+2|pulmonary embolism| Tests - Test result|259|277
+3|lovenox (60mcg per day). You will need to continue this for at least 6 months| Medicine instructions - Medicine started|363|440
+4|Please discuss this with your primary care doctor| Aftercare instructions - patient needs to do - Medication|442|491
+5|3 units of blood| Treatments - Procedure name|517|533
+6|Please continue to have your blood checked and have transfusions as needed as an outpatient| Aftercare instructions - patient needs to do - Other|563|654
+7|urinary tract infection| Medical Issues - Disease|685|708
+8|3 days of bactrim| Medicine instructions - Medicine started|723|740
+9|Please return to the hospital for worsening shortness of breath, difficulty breathing, chest pain, fevers, or chills| Aftercare instructions - patient needs to do - Other|742|858

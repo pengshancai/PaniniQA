@@ -1,0 +1,23 @@
+Medical Issues
+Symptoms include <belly pain>;<chest pain >;<palpitations >;
+Symptoms <chest pain> <palpitations> caused by Disease <atrial fibrillation >
+Symptoms <belly pain> caused by Disease <gall stone in your gallbladder > 
+
+Tests
+Tests include <ultrasound >;
+Test goal of <ultrasound>: <to evaluate your abdominal pain >;
+Test results of <ultrasound>: <gall stone in your gallbladder and some dilation of your bile ducts >;
+
+Treatments
+Medicine <diltiazem > to treat <atrial fibrillation >
+Medicine <antibiotics > to treat <pneumonia>
+Medicine <tapering dose of prednisone > to treat <pneumonia> <asthma flare>
+
+Aftercare instructions
+If encounter <any concerning symptoms including chest pain, difficulty breathing, palpitations or rapid heart rate> do < Please call your doctor or return to the emergency department. >
+
+No template for <You were treated with a medication called diltiazem >
+No template for <continued on your amiodarone >
+No template for <You were also started on a blood thinner, coumadin, to decrease your risk of complications from atrial fibrillation such as stroke. >
+No template for <Your amlodipine was stopped.  >
+No template for <You should follow up with the gastroenterologists as an outpatient. >

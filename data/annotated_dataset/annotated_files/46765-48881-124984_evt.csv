@@ -1,0 +1,12 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|heart attack| Medical Issues - Disease|131|143
+1|cardiac catheterization| Treatments - Procedure name|155|178
+2|stent was placed| Treatments - Result of the treatment|185|201
+3|It is very important that you do not stop ANY of your medications until you speak with your cardiologist.| Aftercare instructions - patient needs to do - Medication|203|308
+5|Medication changes: DECREASE enalapril to 5mg daily (for blood pressure) STOP hydrochlorothiazine (for blood pressure)| Medicine instructions - Medicine changed|309|427
+6|STOP hydrochlorothiazine (for blood pressure)| Medicine instructions - Medicine stopped|382|427
+7|STOP simvastatin (this has been replaced by another cholesterol med)| Medicine instructions - Medicine stopped|428|496
+8|START atorvastatin 80mg daily (for cholesterol)| Medicine instructions - Medicine started|497|544
+9|START clopidogrel 75mg daily (blood thinner) DO NOT STOP WITHOUT DISCUSSING WITH YOUR CARDIOLOGIST| Medicine instructions - Medicine started|545|643
+10|| Medicine instructions - Medicine started|644|716
+11|DO NOT STOP WITHOUT DISCUSSING WITH YOUR CARDIOLOGIST| Aftercare instructions - patient needs to do - Medication|590|643

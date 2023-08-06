@@ -1,0 +1,17 @@
+Medical Issues
+Symptoms include <difficulty producing clear and fluent speech >;<abnormal blood vessel/vascular malformations >;<vasculitis >;
+Symptoms {difficulty producing clear and fluent speech} caused by Disease <brain hemorrhage> [No explicit item]
+Symptoms {No explicit item} caused by Disease <hemorrhage > [No explicit item]
+Symptoms {No explicit item} caused by Disease <chronic clot  > [No explicit item]
+
+Tests
+Tests include <ultrasounds >;
+
+Treatments
+Procedure <conventional brain angiogram > to treat {look for structural causes of your bleeding}
+<conventional brain angiogram >  Results: [No explicit item]
+<look for structural causes of your bleeding >  Results: [No explicit item]
+
+No template for <blood thinning medication >
+No template for <prednisone >
+No template for <appointment to follow up >

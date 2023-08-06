@@ -1,0 +1,9 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|confusion| Medical Issues - Symptom|157|166
+1|pneumonia| Medical Issues - Disease|239|248
+2|enlarged prostate| Medical Issues - Disease|441|458
+3|foley catheter| Treatments - Procedure name|491|505
+4|STARTED flomax| Treatments - Medicine name|752|766
+5|STARTED metoprolol| Treatments - Medicine name|769|787
+6|STOPPED atenolol| Medicine instructions - Medicine stopped|790|807
+7|STOPPED enalapril| Medicine instructions - Medicine stopped|809|826

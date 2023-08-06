@@ -1,0 +1,15 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|SOB| Medical Issues - Symptom|66|69
+1|pericardial effusion| Medical Issues - Disease|118|138
+2|in your lungs| Medical Issues - Disease|151|164
+3|drained| Treatments - Procedure name|177|184
+4|metastatic breast cancer| Medical Issues - Disease|339|363
+5|chemotherapy| Treatments - Medicine name|388|400
+6|The fluid in these was found to be malignant and consistent with metastatic breast cancer, so you were started on chemotherapy to control this, which is called Taxol and you will receive this weekly on 3 weeks and then have one week off.| Medicine instructions - Medicine started|274|511
+7|Taxol| Treatments - Medicine name|434|440
+8|atrial fibrillation| Medical Issues - Complication developed in the hospital|588|607
+9|DVT (clot) in your upper extremity| Medical Issues - Complication developed in the hospital|669|703
+10|blood thinner| Treatments - Medicine name|737|750
+11|UTI| Medical Issues - Complication developed in the hospital|757|761
+12|antibiotics| Treatments - Medicine name|794|805
+13|While you were in the hospital you also developed an abnormal heart rhythm (atrial fibrillation) and have been started on medications for this, as well as a DVT (clot) in your upper extremity) for which you were started on a blood thinner and a UTI that was treated for 7 days with antibiotics.| Medicine instructions - Medicine started|512|806

@@ -1,0 +1,8 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|short of breath| Medical Issues - Symptom|141|156
+1|Chest X-ray| Tests - Test name|196|207
+2|CT scan| Tests - Test name|212|219
+3|showed a mass that has caused collapse of part of your left lung| Tests - Test implication|233|297
+4|you can see interventional radiology as an outpatient to get a tissue sample (biopsy) of the mass.| Aftercare instructions - Upcoming Schedules - Specialist appointment|350|448
+5|You can then be seen in the thoracic oncology clinic where they can make a final diagnosis and decide what treatment options are available| Aftercare instructions - Upcoming Schedules - Specialist appointment|449|587
+6|severe shortness of breath| Medical Issues - Symptom|743|769

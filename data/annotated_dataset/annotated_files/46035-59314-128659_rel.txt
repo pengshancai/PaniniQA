@@ -1,0 +1,19 @@
+Medical Issues
+Symptoms [no explicit item] caused by Disease <pneumonia> 
+Symptoms [no explicit item] caused by Disease <anemia > 
+
+Treatments
+Medicine <antibiotic > to treat <pneumonia>
+<antibiotic >  Results: [no explicit item]
+Procedure <five red blood cell transfusions > to treat <anemia>
+<five red blood cell transfusions >  Results: [no explicit item]
+
+Aftercare instructions
+If encounter <fevers, worsening shortness of breath, worsening cough, chest pain, or orther concerning symptoms> do <Please call your physician or return to the hospital >
+
+No template for <You will also need further evaluation of your anemia as an outpatient. >
+No template for <Please take the antibiotic levofloxacin for the next 6 days. It is important that you take all of it, even if you are feeling better, to get over your pneumonia. >
+No template for <You were also given a prescription for an inhaler to help with shortness of breath and wheezing. >
+No template for < You were also given a prescription for Zolpidem to help you sleep at night. >
+No template for <Please do not drive if you take this medication. >
+No template for <Please follow-up with the providers outlined below. >

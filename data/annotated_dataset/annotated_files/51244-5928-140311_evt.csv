@@ -1,0 +1,10 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|shortness of breath| Medical Issues - Symptom|159|178
+1|wheezing| Medical Issues - Symptom|183|191
+2|exacerbation of your asthma| Medical Issues - Disease|213|240
+3|prednisone and inhalers| Treatments - Medicine name|429|452
+4|You responded well| Treatments - Result of the treatment|407|425
+5|Take prednisone 60mg once a day through [**9-11**], take prednisone 40mg once a day through [**9-14**], take prednisone 20mg once a day through [**9-16**], take prednisone 10mg once a day through [**9-18**]| Medicine instructions - Medicine started|510|716
+6|Advair 250/50 twice a day| Medicine instructions - Medicine started|727|752
+7|Albuterol nebulizer every 4-6 hours as needed| Medicine instructions - Medicine started|756|802
+8|Please keep all of your follow-up appointments| Aftercare instructions - Upcoming Schedules - Specialist appointment|853|899

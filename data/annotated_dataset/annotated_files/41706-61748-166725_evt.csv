@@ -1,0 +1,10 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|subdural hematoma| Medical Issues - Disease|137|154
+1|hemorrhage into the brain| Medical Issues - Disease|156|181
+2|subarachnoid hemorrhage| Medical Issues - Disease|186|209
+3|skull fracture| Medical Issues - Disease|232|246
+4|cat scan of your body to assess for other injury| Tests - Test name|317|365
+5|Incedentally found was a lung mass in the left upper lobe with masses in spleen and thyroid| Tests - Test result|367|458
+6|pancreatitis| Medical Issues - Disease|488|500
+7|fever| Medical Issues - Symptom|510|515
+8|aspiration pneumonia| Medical Issues - Disease|521|541

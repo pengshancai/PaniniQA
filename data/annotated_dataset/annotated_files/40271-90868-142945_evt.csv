@@ -1,0 +1,20 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|breast mass| Medical Issues - Symptom|101|112
+1|low back pain| Medical Issues - Symptom|117|130
+2|biopsy| Treatments - Procedure name|134|140
+3|breast cancer| Medical Issues - Disease|189|202
+4|Two surgeries were performed on your lower back| Treatments - Procedure name|204|251
+5|Start taking Tylenol 1000 mg by mouth every eight hours for pain| Treatments - Medicine name|679|743
+6|Start taking Dexamethasone 4 mg by mouth every six hours| Treatments - Medicine name|748|804
+7|Start taking Pantoprazole 40 mg by mouth daily| Treatments - Medicine name|809|855
+8|Start taking Lorazepam 1 mg by mouth at night for sleep| Treatments - Medicine name|860|915
+9|Start taking Lorazepam 0.5 mg by mouth every four hours as needed for anxiety.| Treatments - Medicine name|920|998
+10|Start taking Polyethylene glycol 17 g by mouth daily as needed for constipation| Treatments - Medicine name|1002|1081
+11|Start taking Lovenox 40 mg subcutaneous injection daily| Treatments - Medicine name|1086|1141
+12|Stop taking Vicodin that you were taking prior to admission. Your new pain medications are detailed above.| Medicine instructions - Medicine stopped|1522|1629
+13|Stop taking Bactrim. You completed your course of antibiotics for your urinary tract infection while in the hospital.| Medicine instructions - Medicine stopped|1633|1750
+14|Start taking Senna 8.6 mg. Take one tablet twice a day.| Treatments - Medicine name|1146|1202
+15|Start taking Docusate sodium 100 mg. Take one tablet twice a day.| Treatments - Medicine name|1205|1271
+16|Start taking Ondansetron 4 mg by mouth every eight hours as needed for nausea.| Treatments - Medicine name|1275|1353
+17|Start taking Hydromorphone 1-2 mg intravenously every three hours as needed for breakthrough pain| Treatments - Medicine name|1358|1455
+18|Start taking MS Contin 90 mg by mouth every eight hours| Treatments - Medicine name|1461|1516

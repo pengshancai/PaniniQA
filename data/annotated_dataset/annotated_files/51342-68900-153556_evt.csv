@@ -1,0 +1,14 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|blood in your urine| Medical Issues - Symptom|64|83
+1|lightheaded| Medical Issues - Symptom|96|107
+2|sepsis (a severe infection) from your urinary tract| Medical Issues - Disease|174|225
+3|antibiotics| Treatments - Medicine name|361|372
+4|Your foley catheter should also remain in place until your follow up appointment with Dr. [**Last Name (STitle) 3748**]| Aftercare instructions - patient needs to do - Other|431|550
+5|you should continue to have your INR checked regularly| Aftercare instructions - Upcoming Schedules - Test|639|693
+6|extra fluid outside of your lungs| Tests - Test result|706|739
+7|Lasix| Treatments - Medicine name|755|760
+8|good effect| Treatments - Result of the treatment|766|777
+9|Continue Cipro 750mg daily for 6 more days| Medicine instructions - Medicine continued|803|845
+10|Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more than 3 lbs| Aftercare instructions - patient needs to do - Other|941|1028
+11|Please take all of your medications as prescribed| Aftercare instructions - patient needs to do - Medication|848|897
+12|follow up with the appointments below| Aftercare instructions - Upcoming Schedules - Specialist appointment|901|939

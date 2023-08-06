@@ -1,0 +1,10 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|seizure| Medical Issues - Symptom|72|79
+1|urinary tract infection| Medical Issues - Disease|106|129
+2|You were seen by neurology who did not recommend changes to your depakote but who would like to see you in clinic in follow up.| Aftercare instructions - Upcoming Schedules - Specialist appointment|177|304
+3|We have added an antibiotic for a 7 days (cefpodoxime).| Medicine instructions - Medicine started|305|360
+4|You should discuss with your doctors [**First Name (Titles) 3380**] [**Last Name (Titles) 96355**] [**Name5 (PTitle) 96356**] 1 gram twice a day once you complete the cefpodoxime to prevent recurrent UTIs in the future.| Aftercare instructions - patient needs to do - Medication|361|581
+5|low oxygen levels occasionally| Medical Issues - Symptom|604|634
+6|chest x ray| Tests - Test name|638|649
+7|normal| Tests - Test result|654|660
+8|This may be due to atelectesis vs a small amount of aspiration during your seizure.| Tests - Test implication|662|745

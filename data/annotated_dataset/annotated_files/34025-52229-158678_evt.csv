@@ -1,0 +1,9 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|sleepiness| Medical Issues - Symptom|133|143
+1|subdural hematoma after falls weeks prior had expanded| Medical Issues - Disease|182|236
+2|If In [**4-14**] weeks you would like to see neurosurgery in clinic to determine if a smaller surgery, a Burr hole, would be appropriate to help remove the blood, please call the number listed below to make an appointment in their clinic.| Aftercare instructions - Upcoming Schedules - Specialist appointment|337|575
+3|imaging| Tests - Test name|579|586
+4|appears that the bleeding has remained stable during your stay| Tests - Test result|591|653
+5|It there is any large increase in sleepiness, there is a chance more bleeding has occurred and you should seek medical attention if so desired.| Aftercare instructions - Emergency instruction|655|799
+6|Your nutrition has been of concern given that you take in very little food in.| Aftercare instructions - patient needs to do - Diet|982|1060
+7|Your nutrition has been of concern given that you take in very little food in. We hope that rehab continues to work on improving your nutrition during your stay.| Aftercare instructions - patient needs to do - Diet|982|1143

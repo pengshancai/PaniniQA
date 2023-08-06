@@ -1,0 +1,14 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|shortness of breath| Medical Issues - Symptom|64|84
+1|chest pain| Medical Issues - Symptom|88|98
+2|fluid around your heart| Medical Issues - Symptom|108|131
+3|fluid around your heart which was relieved with a drain| Treatments - Result of the treatment|108|163
+4|heart blockage| Medical Issues - Disease|192|206
+5|you had a stent placed| Treatments - Procedure name|210|232
+6|lymphoma| Medical Issues - Disease|258|266
+7|so received treatment with chemotherapy| Treatments - Procedure name|267|306
+8|fever| Medical Issues - Symptom|361|366
+9|chills| Medical Issues - Symptom|370|376
+10|shortness of breath| Medical Issues - Symptom|443|462
+11|chest pain| Medical Issues - Symptom|464|474
+12|syncope| Medical Issues - Symptom|479|486

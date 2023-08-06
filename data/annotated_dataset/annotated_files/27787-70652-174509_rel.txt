@@ -1,0 +1,15 @@
+Medical Issues
+Symptoms include <chest discomfort>;<low blood pressure >;
+Symptoms <chest discomfort> caused by Disease <GERD  > <Most likely>
+
+Treatments
+Procedure <withheld your medications and gave you fluids > to treat <low blood pressure>
+<withheld your medications and gave you fluids >  Results: <blood pressure normalized >
+
+Aftercare instructions
+If encounter <a fever of greater than 101, shortness of breath or chest pain> do <Please contact the hospital or your doctor. >
+
+No template for <It is recommended that you follow up with your cardiologist to confirm this. >
+No template for <Famotidine was added to your home medications and is to be taken twice a day.  >
+No template for <The rest of your home medications can be continued as outpatient.  >
+No template for <Please keep your scheduled appointments or contact the provider [**Name9 (PRE) 67751**] you need to reschedule. >

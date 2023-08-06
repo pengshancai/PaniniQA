@@ -1,0 +1,21 @@
+Medical Issues
+Symptoms include <abnormal, fast heart rhythm>;<fluid in your lungs >;
+Symptoms <abnormal, fast heart rhythm>;<fluid in your lungs > caused by Disease <atrial fibrillation > 
+
+Treatments
+Procedure <shock (cardioversion) > to treat <atrial fibrillation>
+<shock (cardioversion) >  Results: <put your heart back into a normal rhythm>
+
+Aftercare instructions
+If encounter <shortness of breath, palpitations, chest pain, leg swelling or any other symptoms that concern you> do <Please return to the hospital>
+
+No template for < It is recommended that you take a blood thinner for the rest of your life due to the risk of you heart returning to this abnormal rhythm and a risk of stroke from this abnormal rhythm. At a minimum, it is essential that you take a blood thinner for the next 30 days. We have decided to prescribe Dabigatran which is a blood thinner that does not require monitoring. You should take this medication twice a day for the next 30 days. If you do not take it, you have a risk of having a stroke. >
+No template for <We recommend that you take a full dose Aspirin 325mg daily after you stop the Dabigatran. >
+No template for <Dabigatran 75mg by mouth twice a day for 30 days >
+No template for <to prevent a stroke Lasix/Furosemide 40mg by mouth daily for at least 14 days >
+No template for <to remove extra fluid that makes you short of breath Metoprolol 25mg by mounth once a day >
+No template for <to control your heart rate Please start a full dose aspirin (325mg per day) after you complete Dabigatran >
+No template for <We recommend that you see a cardiologist in 6 weeks. The phone number for cardiology here is ([**Telephone/Fax (1) 2037**]. >
+No template for <Please see your new primary care doctor as detailed below. >
+No template for <Please weigh yourself everyday and call your doctor if your weight goes up more than 6lbs. >
+No template for <Please limit your salt intake to less than 2gram per day to prevent heart failure symptoms. >

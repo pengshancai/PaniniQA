@@ -1,0 +1,9 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|heart attack| Medical Issues - Disease|109|121
+1|delirium (confusion)| Medical Issues - Symptom|198|218
+2|STOP Hydrochlorothiazide| Medicine instructions - Medicine stopped|314|338
+3|DECREASE Warfarin to 3mg daily and adjust your dose as instructed by your doctor| Medicine instructions - Medicine changed|341|421
+4|INCREASE Lipitor to 80mg daily to lower your cholesterol| Medicine instructions - Medicine changed|424|480
+5|START Aspirin 325mg daily to prevent blood clots| Treatments - Medicine name|483|531
+6|INCREASE Metoprolol Succinate to 150mg daily to slow your heart rate| Medicine instructions - Medicine changed|534|602
+7|START lisinopril 2.5mg daily| Medicine instructions - Medicine started|605|633

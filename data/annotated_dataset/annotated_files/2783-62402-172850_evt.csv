@@ -1,0 +1,14 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|Lower extremity edema| Medical Issues - Symptom|62|83
+1|multiple myeloma| Medical Issues - Disease|156|172
+2|amyloidosis| Medical Issues - Disease|174|185
+3|kidney failure| Medical Issues - Disease|187|202
+4|neprhotic syndrome| Medical Issues - Disease|206|224
+5|hypotension| Medical Issues - Symptom|271|282
+6|altered mental status| Medical Issues - Symptom|287|308
+7|gastrointestinal bleeding| Medical Issues - Symptom|324|349
+8|fluids| Treatments - Medicine name|414|420
+9|Your hypotension, GI bleeding, and mental status improved| Treatments - Result of the treatment|351|408
+10|chemotherapy| Treatments - Medicine name|436|449
+11|ineffective and we are unable to cure your cancer| Treatments - Result of the treatment|497|546
+12|Please contact the hospice team for any symtpoms you are experiencing such as pain, shortness of breath, nausea, diarrhea, fever, headache, or any other worrsisome symptoms.| Aftercare instructions - Emergency instruction|971|1144

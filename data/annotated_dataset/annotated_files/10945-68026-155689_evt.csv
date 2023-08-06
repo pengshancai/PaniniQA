@@ -1,0 +1,11 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|gastrointestinal bleeding| Medical Issues - Symptom|77|102
+1|Upper endoscopy| Tests - Test name|104|119
+2|some erosions in the stomach which were not actively bleeding| Tests - Test result|140|201
+3|Please have a complete blood count drawn during the week of [**6-4**], [**2159**]| Aftercare instructions - Upcoming Schedules - Test|265|346
+4|1) Omeprazole 40mg by mouth twice daily| Medicine instructions - Medicine changed|560|599
+5|Iron supplements were started twice daily| Medicine instructions - Medicine started|602|644
+6|These may cause constipation for which we have prescribed stool softeners| Medicine instructions - Medicine started|646|719
+7|Calcium and vitamin D supplements were recommended. Please take these at a separate time from your iron pills.| Medicine instructions - Medicine started|724|834
+8|blood counts| Tests - Test name|208|220
+9|remained stable| Tests - Test result|248|263

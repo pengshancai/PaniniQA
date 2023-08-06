@@ -1,0 +1,15 @@
+Medical Issues
+Symptoms include <fever>;<low blood pressure >;<low oxygen content in your blood >;
+Symptoms <fever> <low blood pressure > <low oxygen content in your blood > caused by Disease <recurrent pneumonia >
+
+Treatments
+Medicine <antibiotics > to treat <recurrent pneumonia>
+Medicine <intravenous fluids > to treat <recurrent pneumonia>
+Medicine <oxygen > to treat <recurrent pneumonia>
+
+Aftercare instructions
+If encounter <fevers, chills, nausea, vomiting, severe coughing, shortness of breath, chest pain, or any other worrisome symptoms> do < please call your primary care physician or return to the emergency room. >
+
+No template for <Please continue to use oxygen at home, via nasal cannula on [**2-8**] L of oxygen during the day, and via face mask on 40% during the night.  >
+No template for <Please complete the 7 day course of antibiotics as instructed.  >
+No template for < Please complete the 7 day course of antibiotics as instructed. The last day of your antibiotics (Zosyn) is [**7-6**].  >

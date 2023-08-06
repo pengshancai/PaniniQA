@@ -1,0 +1,18 @@
+Medical Issues
+Symptoms include <right sided weakness>;<difficulty speaking >;<high blood pressure >;
+Symptoms <right sided weakness>;<difficulty speaking >;<high blood pressure > caused by Disease <bleeding in the left side of your brain > 
+
+Tests
+Tests include <MRI of your brain >;
+Test results of <MRI of your brain>: <left thalamic and intraventricular hemorrhages (bleeds) in your brain >;
+
+Aftercare instructions
+If encounter <any of the below listed danger signs> do <please call your doctor or go to the nearest Emergency Department. >
+
+No template for <We made the following changes to your medications: - Your aspirin 81mg qd was held and will continue to be held until [**2137-2-26**] >
+No template for <You should also be started on heparin SQ 5000U TID starting [**2137-2-20**] >
+No template for <- Please also avoid NSAIDs (such as ibuprofen and aleve) to help prevent further bleeding. In case of pain, you could try tylenol >
+No template for <We recommend pneumoboots for deep vein thrombosis prophylaxis. >
+No template for <You will be discharged to [**Hospital3 **] [**Location (un) 86**] for rehabilitation services and further treatment. >
+No template for < You will need to followup with Dr. [**Last Name (STitle) **] at the appointment shown below. >
+No template for <Also, please call registration at [**Telephone/Fax (1) 10676**] to update your insurance information and current PCP. >

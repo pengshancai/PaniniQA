@@ -1,0 +1,23 @@
+Medical Issues
+Symptoms include <coughing up blood>;<small amount of blood in your urine >;<eye and mild inflammation in your right >;< inflammation of the blood vessels >;
+Symptoms <coughing up blood> caused by Disease <wegener >
+Symptoms [No explicit item] caused by Disease <granulomatosis >
+
+Tests
+Tests include <A blood study was performed showing that you have a marker called anti-neutrophil cytoplasmic antibody (ANCA). >;
+
+Treatments
+Medicine <For this you were started on steroids and rituxan. > to treat <inflammation of the blood vessels>
+<For this you were started on steroids and rituxan. >  Results: [No explicit item]
+Medicine <START: -Prednisone, which suppresses the immune system and the inflammation of your Wegener&#x27;s > to treat <Wegener>
+<START: -Prednisone, which suppresses the immune system and the inflammation of your Wegener&#x27;s >  Results: [No explicit item]
+Medicine <Bactrim to prevent infection while on Prednisone > to treat <infection>
+<Bactrim to prevent infection while on Prednisone >  Results: [No explicit item]
+Medicine <Vitamin D to prevent to prevent bone problems on Prednisone > to treat <bone problems>
+<Vitamin D to prevent to prevent bone problems on Prednisone >  Results: [No explicit item]
+Medicine <Calcium to prevent bone problems on Prednisone > to treat <bone problems>
+<Calcium to prevent bone problems on Prednisone >  Results: [No explicit item]
+Medicine <Cough syrup as needed for cough > to treat <cough>
+<Cough syrup as needed for cough >  Results: [No explicit item]
+
+No template for <You will need long term followup with a rheumatologist to help you manage this disorder. >

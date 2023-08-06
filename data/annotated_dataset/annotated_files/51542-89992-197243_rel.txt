@@ -1,0 +1,23 @@
+Medical Issues
+Symptoms include <fever>;<urinary tract infection>;<diarrhea>;
+Symptoms <fever> caused by Disease <pneumonia>
+Symptoms <fever> caused by Disease <urinary tract infection>
+
+Tests
+Tests include <Stool studies including C.Diff and cultures>;
+Test results of <Stool studies including C.Diff and cultures>: <negative>;
+
+Treatments
+Medicine <antibiotics> to treat <pneumonia>;<urinary tract infection>
+<antibiotics>  Results: [no explicit item]
+Procedure <IVIG> to treat <pneumonia>;<urinary tract infection>
+<IVIG>  Results: [no explicit item]
+Medicine <Imodium > to treat <diarrhea>
+<Imodium>  Results: [no explicit item]
+
+No template for <Linezolide (antibiotic) to be continued until follow up with Dr. [**Last Name (STitle) 724**]>
+No template for <Ciprofloxacin (antibiotic) to be continued until follow-up with Dr. [**Last Name (STitle) 724**]>
+No template for <Continue scheduled nebulizer treatments for additional 4 days and then as needed>
+No template for <Imodium 1 tab after each loose stool, up to 4 tabs a day>
+No template for <Metamucil wafers 1 daily as needed for loose stools>
+No template for <Metoprolol 12.5mg>

@@ -1,0 +1,21 @@
+Medical Issues
+Symptoms include <seizures and the subsequent delusions >;
+Symptoms <no explicit item> caused by Disease <Baclofen overdose> 
+Complication < you had 2 seizures > caused by <no explicit item> 
+Symptoms <seizures and the subsequent delusions> caused by Disease <likely due to withdrawal from Baclofen > 
+
+Tests
+Tests include <placed on cEEG >;
+
+Treatments
+Procedure <intubated > to treat <Baclofen overdose>
+<intubated >  Results: <airway protection>
+<airway protection >  Results: <no explicit item>
+Medicine <you were started on Dilantin  > to treat <2 seizures>
+<you were started on Dilantin  >  Results: <no explicit item>
+
+No template for <restarted on your home dose Baclofen >
+No template for <Dilantin has also been stopped >
+No template for <you would benefit from rehab given that you were bedbound for 1 week >
+No template for <restarted you on your home Effexor >
+No template for <With regards to your MS, you were continued on your home dose of Cellcept >

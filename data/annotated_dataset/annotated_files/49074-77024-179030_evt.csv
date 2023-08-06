@@ -1,0 +1,10 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|sodium level was very high| Tests - Test result|109|135
+1|less interactive than your baseline| Medical Issues - Symptom|149|184
+2|IV fluids| Treatments - Medicine name|208|217
+3|sodium level came back to normal| Treatments - Result of the treatment|227|259
+4|infection| Tests - Test result|292|301
+5|possibly in your lungs| Tests - Test implication|327|349
+6|IV antibiotics| Treatments - Medicine name|381|395
+7|you were changed to oral antibiotics (ciprofloxacin) which you should continue taking as prescribed through [**10-22**]| Aftercare instructions - patient needs to do - Medication|400|519
+8|You will be provided with prescriptions for pain as needed and a hospital bed will be delivered to your home.| Aftercare instructions - Upcoming Schedules - Treatment|690|799

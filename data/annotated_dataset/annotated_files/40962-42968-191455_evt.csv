@@ -1,0 +1,12 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|stroke| Medical Issues - Disease|66|72
+1|right sided weakness| Medical Issues - Symptom|98|119
+2|speech difficulties| Medical Issues - Symptom|123|142
+3|You received a medication called tPA| Treatments - Medicine name|144|180
+4|There were some improvements noted after receiving this medication| Treatments - Result of the treatment|269|335
+5|you had an MRI of your head as well as studies to help identify the cause of the stroke| Tests - Test name|360|447
+6|Echocardiogram of your heart| Tests - Test name|461|490
+7|watershed strokes (strokes between major artery territories) on the left hemisphere and a small stroke in the right hemisphere| Medical Issues - Disease|521|647
+8|your medication was switched to Aspirin| Medicine instructions - Medicine changed|862|901
+9|you were also started on a medication called Coumadin| Medicine instructions - Medicine started|906|959
+10|you were started on a medication called Fluoxetine.| Medicine instructions - Medicine started|989|1040

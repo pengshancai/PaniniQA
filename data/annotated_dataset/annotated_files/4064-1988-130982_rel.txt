@@ -1,0 +1,14 @@
+Medical Issues
+Symptoms include <hypertension >;<clot in your right internal jugular vein >;<shortness of breath >;<chest pain >;<further swelling of your face/neck/upper extremities >;<redness or pus of your catheter site >;<fevers >;<suicidal ideation >;
+Symptoms [No explicit item] caused by Disease <bacterial infection>
+
+Treatments
+Medicine <You were treated with antibiotics > to treat <bacterial infection>
+<You were treated with antibiotics >  Results: [No explicit item]
+Medicine <heparin drip > to treat <clot in your right internal jugular vein>
+<heparin drip >  Results: [No explicit item]
+Procedure <CPAP machine > to treat <suspected sleep apnea>
+<CPAP machine >  Results: [No explicit item]
+
+No template for <You were transitioned from heparin to coumadin prior to discharge to prevent further development of clots >
+No template for <Please follow up with your regular hemodialysis doctor, Dr. [**First Name (STitle) 805**], for your renal disease management, dosing of your antibiotics, and management of your coumadin by checking your INR blood test. >

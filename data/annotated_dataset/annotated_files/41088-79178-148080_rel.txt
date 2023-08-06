@@ -1,0 +1,13 @@
+Medical Issues
+Symptoms include <difficulty with breathing >;
+Symptoms <CHANGE HERE Symptom name> caused by Disease <pneumonia>
+Symptoms <CHANGE HERE Symptom name> caused by Disease <MRSA >
+
+Treatments
+Procedure <you required help from a breathing machine > to treat <pneumonia>
+<you required help from a breathing machine >  Results: [No explicit item]>
+Medicine <You are going to require a very long course of antibiotics to help treat this > to treat <pneumonia>
+<You are going to require a very long course of antibiotics to help treat this >  Results: [No explicit item]
+Procedure <a breathing tube placed at the base of your neck to help you breath > to treat [No explicit item]
+<a breathing tube placed at the base of your neck to help you breath >  Results: [No explicit item]
+

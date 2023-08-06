@@ -1,0 +1,16 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|back and rib pain| Medical Issues - Symptom|63|80
+1|metastatic rectal cancer to the bones| Medical Issues - Disease|88|125
+2|cord compression at the the level of T1| Tests - Test result|149|188
+3|neurosurgical decompression| Treatments - Procedure name|203|230
+4|rapid heart rate ( atrial fibrillation)| Medical Issues - Complication developed in the hospital|287|327
+5|You should keep the surgical incisional wound open to air, but cover during showers and then pat to dry.| Aftercare instructions - patient needs to do - Other|429|534
+6|Do not take baths or swim until further instructed| Aftercare instructions - patient needs to do - Other|534|584
+7|Fentanyl patch dose increased to 250 mcg| Medicine instructions - Medicine changed|647|687
+8|metoprolol succinate chanegd to metoprolol tartate 25 mg po tid| Medicine instructions - Medicine changed|690|754
+9|Night time gabapentin increasd to 600 mg| Medicine instructions - Medicine changed|756|796
+10|Tylenol 650 mg four times dailyx7 days| Medicine instructions - Medicine started|799|837
+11|lidocaine patch| Medicine instructions - Medicine started|840|855
+12|Hydromprophone increased to 16mg as needed every 4 hrs| Medicine instructions - Medicine changed|858|912
+13|Docusate and senna as needed for constipation| Medicine instructions - Medicine started|917|962
+14|tolerated the surgery well| Treatments - Result of the treatment|236|262

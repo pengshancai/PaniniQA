@@ -1,0 +1,18 @@
+Medical Issues
+Symptoms include <fractured your spine>;<injured your spinal cord >;<slow heart rates >;
+Complication <pneumonia > caused by [no explicit item]
+Complication <worsening function of your kidney function > caused by [no explicit item]
+
+Treatments
+Procedure <tracheostomy > to treat <[no explicit item]
+<tracheostomy >  Results: [no explicit item]
+Procedure <feeding tube > to treat [no explicit item]
+<feeding tube >  Results: [no explicit item]
+Medicine <antibiotics > to treat <pneumonia>
+<antibiotics >  Results: [no explicit item]
+Medicine <lasix > to treat <worsening function of your kidney function>
+<lasix >  Results: {no explicit item]
+
+No template for <You will stay on lasix 120 mg twice daily for that reason. >
+No template for <We did keep you on coumadin (with heparin IV while your coumadin level was not as high as it should be) >
+No template for <Attached is a list of your medications that you will receive at rehab. There were many changes. >

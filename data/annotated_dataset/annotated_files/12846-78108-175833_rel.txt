@@ -1,0 +1,22 @@
+Medical Issues
+Symptoms include <rectal bleeding>;
+Symptoms <rectal bleeding> caused by Disease <diverticular bleed > 
+Complication <severe constipation > caused by <ileus> 
+
+Treatments
+Medicine <15 units of red blood cells  > to treat <diverticular bleed >
+<15 units of red blood cells  >  Results: <no explicit item>
+Procedure <embolized the vessel causing the bleed {blood vessel embolization} > to treat <diverticular bleed >
+<embolized the vessel causing the bleed {blood vessel embolization} >  Results: <no explicit item>
+Procedure <bowel rest > to treat <severe constipation>
+<bowel rest >  Results: <Your symptoms improved >;<you started having bowel movements >;<you tolerated a normal diet >
+Procedure <nasogastric tube > to treat <severe constipation>
+<nasogastric tube >  Results: <Your symptoms improved >;<you started having bowel movements >;<you tolerated a normal diet >
+<bowel rest >;<nasogastric tube > Results: <Your symptoms improved >
+<bowel rest >;<nasogastric tube > Results: <you started having bowel movements >
+<bowel rest >;<nasogastric tube > Results: <you tolerated a normal diet >
+
+No template for <Please STOP your imdur until seeing your cardiologist or primary care physician >
+No template for <Please REDUCE your lisinopril to 5mg until you see your primary care physician >
+No template for <When you have abdominal pain, take tyelenol first. If that does not relieve your symptoms you make take a percocet (please do not drink or drive while taking this medication as it can make you sleepy). >
+No template for <You may take ambien as needed for sleep >

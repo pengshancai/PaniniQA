@@ -1,0 +1,17 @@
+Medical Issues
+Symptoms include <fever>;<low blood pressure >;
+Symptoms <low blood pressure> caused by Disease <lung collapse of the left lung > 
+Symptoms <fever> caused by Disease <infection of the lung > 
+
+Treatments
+Procedure <Part of the respiratory tree was dilated and stented > to treat <lung collapse of the left lung>
+Medicine <IV antibiotics > to treat <infection of the lung >
+
+Aftercare instructions
+If encounter <fevers, chills, shortness of breath, cough, dizzyness, abdominal pain, dark black stool, cough productive with blood, chest pain / pressure, bloody stools> do <call your doctor or return for evaluation: . >
+
+No template for <You will need to continue taking the full course of antibiotics. >
+No template for <You will require close follow up with your oncologist Dr. [**Last Name (STitle) 3274**].  >
+No template for <You will also be seeing radiation oncology for treatment (see appt time / date below). >
+No template for < Lastly, you will have repeat bronchoscopy in 1 month w/ pulmonology. >
+No template for <You should continue to wear home oxygen until your follow up appointment with pulmonology. >

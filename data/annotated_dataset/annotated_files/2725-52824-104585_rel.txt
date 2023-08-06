@@ -1,0 +1,14 @@
+Medical Issues
+Symptoms include <swelling of your lips>;
+Symptoms <swelling of your lips> caused by Disease <allergic reaction > 
+
+Aftercare instructions
+If encounter <any shortness of breath, increased swelling, tongue swelling, feeling like your throat is closing up, or any other concerns> do < Please return to the hospital>
+
+No template for <You should stop taking both lisinopril and aspirin until you have allergy testing. >
+No template for <You should also avoid chinese food and apples until you have allergy testing. >
+No template for < Please continue all your other medications.  >
+No template for <We have added a week of prednisone and pepcid to treat the swelling. >
+No template for <he prednisone will be tapered. Starting tomorrow, take 4 tabs daily for 2 days; then 2 tabs daily for 3 days; then 1 tab daily for 3 days and then stop. >
+No template for <You can also take benadryl as needed for comfort >
+No template for <Please also get an epipen from the pharmacy.  >

@@ -1,0 +1,19 @@
+Medical Issues
+Symptoms include <severe abdominal pain >;
+Symptoms <severe abdominal pain> caused by Disease <{surgery}> 
+
+Treatments
+Medicine <medicine that binds up all the digoxin in your system > to treat <digoxin toxicity>
+<medicine that binds up all the digoxin in your system >  Results: < improved significantly>
+Medicine <oxycodone > to treat <severe abdominal pain>
+<oxycodone >  Results: <pain has been well controlled>
+
+No template for <You should not take your coumadin until instructed to do so by Dr. [**First Name (STitle) **] >
+No template for <We will repeat you INR test on [**2179-8-3**]. >
+No template for <We also discussed your care with Dr. [**Last Name (STitle) 1120**] and she said that you can skip the post-op appointment on [**2179-8-3**] and the wound ostomy care nurse will contact you when your next appointment is.  >
+No template for <It is very IMPORTANT that you remain well HYDRATED. >
+No template for <Digoxin 0.25mcg >
+No template for <Lisinopril 20mg by mouth Daily >
+No template for <coumadin 4mg by mouth Daily >
+No template for <Diltiazem ER 180mg by mouth Daily >
+No template for <Metoprolol tartrate 50mg by mouth twice a day >

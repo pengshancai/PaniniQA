@@ -1,0 +1,13 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|shortness of breath| Medical Issues - Symptom|121|140
+1|cough| Medical Issues - Symptom|145|150
+2|pneumonia| Medical Issues - Disease|177|186
+3|antibiotics| Medicine instructions - Medicine started|207|218
+4|please take for the entire course even if you are feeling better| Aftercare instructions - patient needs to do - Medication|264|328
+5|bacteria in your urine| Tests - Test result|358|380
+6|urinary tract infection| Medical Issues - Disease|428|451
+7|oxycodone| Medicine instructions - Medicine stopped|764|773
+8|cefpodoxime| Medicine instructions - Medicine started|630|641
+9|200mg by mouth every 12 hours for 2 more days| Aftercare instructions - patient needs to do - Medication|642|688
+10|azithromycin| Medicine instructions - Medicine started|702|714
+11|250mg by mouth daily for 1 more day| Aftercare instructions - patient needs to do - Medication|715|750

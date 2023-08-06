@@ -1,0 +1,12 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|shortness of breath| Medical Issues - Symptom|64|83
+1|pneumonia| Medical Issues - Disease|102|111
+2|IV antibiotics| Treatments - Medicine name|140|154
+3|This has been treated with IV antibiotics and you will continue a full 7 day course, through [**2167-11-25**].| Medicine instructions - Medicine continued|113|223
+4|rash| Medical Issues - Complication developed in the hospital|240|244
+5|blood count was noted to be low| Medical Issues - Complication developed in the hospital|271|302
+6|chronic anemia| Medical Issues - Disease|359|373
+7|Your blood count was noted to be low after admission, but is stable, and likely represents a chronic anemia which can be addressed further with your PCP who is aware| Aftercare instructions - Upcoming Schedules - PCP appointment|266|431
+8|echocardiogram| Tests - Test name|529|543
+9|showed good pump function| Tests - Test result|550|575
+10|Your lasix dose was halved to 20mg daily.| Medicine instructions - Medicine changed|577|618

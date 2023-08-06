@@ -1,0 +1,7 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|flare of angioedema| Medical Issues - Symptom|65|84
+1|angioedema| Medical Issues - Disease|74|84
+2|steroids| Treatments - Medicine name|106|114
+3|antihistamines| Treatments - Medicine name|119|133
+4|Please take Prednisone 40 mg on Thursday, [**6-23**], then take 5 mg every other daily as usual. In case of another flare of angioedema, you may take 60 mg of Prednisone once daily for up to three days and also take Benadryl. You will want to formulate a plan for any future flares with your allergy doctor.| Aftercare instructions - patient needs to do - Medication|235|542
+5|If you experience tongue swelling, difficulty breathing, hoarse voice, fevers/chills, nausea/vomiting, or any other concerning symptoms, please call your primary care physician or return to the emergency room.| Aftercare instructions - Emergency instruction|545|754

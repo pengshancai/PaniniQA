@@ -1,0 +1,17 @@
+Medical Issues
+Symptoms [No explicit item] caused by Disease <gallstone pancreatitis>
+
+Treatments
+Medicine <You were on antibiotics after the procedure and nystatin cream to treat vaginitis > to treat <vaginitis>
+<You were on antibiotics after the procedure and nystatin cream to treat vaginitis >  Results: [No explicit item]
+Medicine <You needed additional pain medicine but you are now back on your home doses of oxycodone and fentenyl > to treat <pain>
+<You needed additional pain medicine but you are now back on your home doses of oxycodone and fentenyl >  Results: [No explicit item]
+Medicine <START taking Imdur to prevent further chest pain > to treat <chest pain>
+<START taking Imdur to prevent further chest pain >  Results: [No explicit item]
+Medicine <START taking carvedilol instead of the metoprolol to slow your heart rate, this medicine lowers your blood pressure as well > to treat <heart rate>
+<START taking carvedilol instead of the metoprolol to slow your heart rate, this medicine lowers your blood pressure as well >  Results: [No explicit item]
+
+No template for <STOP taking Ticlid, nifedipine, metoprolol and clonidine >
+No template for <START taking nystatin tablets intravaginally to treat the vaginitis, you only need 5 more days of this medicine >
+No template for <INCREASE the aspirin to 325 mg daily because of your heart attack >
+No template for <INCREASE the Lisinopril to 40 mg daily >

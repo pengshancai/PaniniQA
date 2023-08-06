@@ -1,0 +1,12 @@
+Medical Issues
+Symptoms include <weakness while reaching for a coffee mug>;<rapid irregular heart beat >;
+Symptoms <rapid irregular heart beat> caused by Disease <not having taken your morning dose of Toprol > 
+Symptoms <no explicit item> caused by Disease < urinary tract infection >
+
+Treatments
+Medicine <breifly treated with IV medication for heart rate in the ICU > to treat <rapid irregular heart beat>
+<breifly treated with IV medication for heart rate in the ICU >  Results: <no explicit item>
+
+No template for <your Toprol dose was increased to 75mg daily. >
+No template for <we discussed extensively your risk for stroke, and recommended that you take coumadin to reduce this risk, however you preferred to stay on a regular aspirin, as you had had some rectal bleeding with coumadin in the past  >
+No template for <ou have a history of frequent urinary tract infections, and should discuss with your primary care physician >

@@ -1,0 +1,11 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|chest pain| Medical Issues - Symptom|64|74
+1|cardiac catheterization| Tests - Test name|92|115
+2|showed some occlusion in the grafts done from your previous CABG| Tests - Test result|122|186
+3|occlusion in the grafts done from your previous CABG| Medical Issues - Disease|134|186
+4|Stents| Treatments - Procedure name|188|194
+5|bleeding at the site in your left groin| Medical Issues - Symptom|256|296
+6|aneurysm found in one of the left femoral arteries| Medical Issues - Disease|342|392
+7|You were continued on your home medications except isosorbide which you do not need anymore.| Medicine instructions - Medicine stopped|421|513
+8|we added colesevelam for cholesterol| Medicine instructions - Medicine started|527|563
+9|If you have worsening chest pain, shortness of breath, nausea, vomiting, lightheadedness, or any other concerning symptoms, please call your doctor or return to the ED| Aftercare instructions - Emergency instruction|567|734

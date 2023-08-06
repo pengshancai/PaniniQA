@@ -1,0 +1,11 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|bleed after your kyphoplasty| Medical Issues - Symptom|130|158
+1|two procedures to stope the bleeding| Treatments - Procedure name|168|204
+2|You have now been restarted on your heparin| Medicine instructions - Medicine started|206|249
+3|anitbiotics| Treatments - Medicine name|326|337
+4|bladder infection| Medical Issues - Disease|344|361
+5|blood infection| Medical Issues - Disease|377|392
+6|Your last day of antibiotics will be [**2147-5-10**]| Aftercare instructions - patient needs to do - Medication|394|446
+7|It is improtant that you eat in order to heal. You will be going to a rehab to gain your strength and improve your eating.| Aftercare instructions - patient needs to do - Diet|448|570
+8|Please call to make an appointment with you primary care docotor once you leave the rehab center.| Aftercare instructions - Upcoming Schedules - PCP appointment|571|668
+9|If you have chest pain, shortness of breath, new abdominal pain, new weakness, problems with [**Name2 (NI) 16019**], fainting, or other concerning symtpoms please seek medical attention or go to the ER.| Aftercare instructions - Emergency instruction|669|871

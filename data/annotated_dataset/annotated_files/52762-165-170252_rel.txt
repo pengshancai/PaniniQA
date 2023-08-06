@@ -1,0 +1,18 @@
+Medical Issues
+Symptoms include <short of breath>;
+Symptoms <short of breath> caused by Disease <flare up of your chronic obstructive pulmonary disease> 
+
+Treatments
+Medicine <inhalers> to treat <flare up of your chronic obstructive pulmonary disease>
+<inhalers>  Results: [no explicit item]
+Procedure <nebulizers> to treat <flare up of your chronic obstructive pulmonary disease>
+<nebulizers>  Results: [no explicit item]
+Medicine <steroids> to treat <flare up of your chronic obstructive pulmonary disease>
+<steroids >  Results: [no explicit item]
+Medicine <antibiotics> to treat <flare up of your chronic obstructive pulmonary disease>
+<antibiotics>  Results: [no explicit item]
+
+No template for <INCREASED prednisone to 40mg a day for [**10-6**] and [**10-7**], then continue taking your home dose of 5mg daily>
+No template for <Azithromycin (last day [**10-7**])>
+No template for <Advair twice daily>
+No template for <Flovent>

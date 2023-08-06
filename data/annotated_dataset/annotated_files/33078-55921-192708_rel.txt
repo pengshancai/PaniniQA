@@ -1,0 +1,15 @@
+Medical Issues
+Complication <bleeding > caused by <a procedure to remove fluid > 
+
+Treatments
+Procedure <a procedure to remove fluid  > to treat <fluid in your lungs>
+Medicine <blood products > to treat <bleeding>
+Procedure <catheter in your chest > to treat <fluid in your lungs>
+<catheter in your chest >  Results: < improved and are breathing well on room air >
+
+
+Aftercare instructions
+If encounter <chest pain, palpitations, shortness of breath, nausea, vomiting, fevers, chills, or other concerning symptoms> do <Please call your PCP or go to the ED >
+
+No template for <Please follow the medications prescribed below.  >
+No template for <Please follow up with the appointments below.  >

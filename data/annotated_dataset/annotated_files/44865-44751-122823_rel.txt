@@ -1,0 +1,44 @@
+Medical Issues
+Symptoms include <right sided weakness>;<diarrhea >;<abdomen was distended >;
+Symptoms <right sided weakness> caused by Disease <stroke > 
+Symptoms <diarrhea> caused by Disease <infection called Clostridium Difficile > 
+Complication <flare of your emphysema > caused by [no explicit item]
+Complication <rapid heart rate in the setting of having low oxygen levels while eating > caused by <emphysema flare> 
+
+Tests
+Tests include <ultrasound >;
+Test results of <ultrasound>: <showed your TIPS was occluded >;
+
+Treatments
+Procedure <surgery > to treat <stroke>
+<surgery >  Results: <repaired damaged artery>
+Procedure <antibiotics > to treat <infection>
+<antibiotics > Results: <improvement of your diarrhea >
+Procedure <revision of your TIPS > to treat <distended abdomen>
+<revision of your TIPS > Results: <successful >
+Procedure <3 liters of fluid removed from your abdomen > to treat <impaired breathing>
+<3 liters of fluid removed from your abdomen >  Results: <improved breathing>
+Medicine <slow prednisone taper > to treat <emphysema flare>
+<slow prednisone taper >  Results: [no explicit item]
+Procedure <breathing treatments > to treat <emphysema flare>
+<breathing treatments >  Results: [no explicit item]
+Medicine <started on a medication > to treat <rapid heart rate in the setting of having low oxygen levels while eating >
+<started on a medication >  Results: <stopped rapid heart rate>
+Procedure <supplemental oxygen level increased > to treat <rapid heart rate in the setting of having low oxygen levels while eating >
+<supplemental oxygen level increased >  Results: <stopped rapid heart rate>
+
+No template for <You will need a repeat ultrasound of your liver in 10 days on [**2117-6-12**] to reassess the liver. >
+No template for <- Flagyl duration was extended, last dose on [**2117-6-30**] - Vancomycin duration was extended, last dose on [**2117-6-30**] >
+No template for <- Digoxin was started for heart rate >
+No template for <- Ipratropium nebulization breathing treatments were started >
+No template for <- Xopenex nebulization breathing treatments were started >
+No template for <- Prednisone was started, to be decreased according to your taper >
+No template for <- Aspirin was started >
+No template for <- Atorvastatin was started >
+No template for <- Tramadol was started for pain, to be titrated down as tolerated >
+No template for <- Tylenol was started as needed for pain >
+No template for <- Maalox was started as needed >
+No template for <- Calcium and Vitamin D supplements were started  >
+No template for <Heparin subcutaneous shots were started >
+No template for <Tramadol was started to be used as needed for pain >
+No template for <Percocet was stopped >

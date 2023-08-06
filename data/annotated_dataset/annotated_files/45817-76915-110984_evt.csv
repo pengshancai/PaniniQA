@@ -1,0 +1,9 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|pneumonia| Medical Issues - Disease|104|113
+1|antibiotics| Treatments - Medicine name|213|224
+2|your breathing improved| Treatments - Result of the treatment|242|265
+3|Please note the following changes to your medications: -START Bactrim DS 2 tablets three times daily for 7 days including today| Medicine instructions - Medicine started|267|394
+4|-START Prenisone 40mg daily for 5 days including today, then decrease dose to 20mg daily for 11 days| Medicine instructions - Medicine started|395|495
+5|-After you finish Bactrim DS, start Bactrim SS 1 tablet daily| Medicine instructions - Medicine started|496|557
+6|We made no other changes to your medications while you were in the hospital. Please continue taking the rest of your medications as prescribed by your outpatient providers.| Medicine instructions - Medicine continued|558|730
+7|Please see below for your currently scheduled follow up appointments| Aftercare instructions - Upcoming Schedules - Specialist appointment|731|799

@@ -1,0 +1,5 @@
+Medical Issues
+Symptoms include <acid in your blood >;
+Symptoms <acid in your blood> caused by Disease <diabetic ketoacidosis (DKA)>
+
+No template for < >

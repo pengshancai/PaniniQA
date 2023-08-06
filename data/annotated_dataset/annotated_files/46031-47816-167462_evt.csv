@@ -1,0 +1,18 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|infection in your blood| Medical Issues - Disease|77|100
+1|blood pressure to be low| Medical Issues - Symptom|118|142
+2|fluid| Treatments - Medicine name|214|219
+3|antibiotics| Treatments - Medicine name|224|235
+4|your condition improved| Treatments - Result of the treatment|240|263
+5|fever| Medical Issues - Complication developed in the hospital|363|368
+6|remove your catheter| Treatments - Procedure name|413|433
+7|new line| Treatments - Procedure name|532|540
+8|amputation of you the second toe of your left foot| Treatments - Procedure name|583|633
+9|You tolerated surgery well and were able to walk after the surgery| Treatments - Result of the treatment|635|701
+10|dialysis| Treatments - Procedure name|728|736
+11|While you were here, we made the following changes to your medications: 1. You are to receive an antibiotic called Cefepime for a total of 14 days. At home a visiting nurse will help you with this.| Medicine instructions - Medicine started|794|992
+12|2. We stopped your lasix during this admission because your blood pressure was low.| Medicine instructions - Medicine stopped|992|1075
+13|Please follow up with your PCP regarding the need for this medication.| Aftercare instructions - Upcoming Schedules - PCP appointment|1076|1146
+14|3. We added neutraphos to your medication regiment because of low phosphate in your blood. You should take this until your PCP instructs you otherwise.| Medicine instructions - Medicine started|1147|1298
+15|No other changes were made to your medications.| Aftercare instructions - patient needs to do - Medication|1299|1346
+16|If you at any point feel chest pain, shortness of breath, dizziness, lightheadedness, fevers, chills, diarrhea, burning on urination, fainting or any other symptom that concerns you please return to the hospital for further evaluation.| Aftercare instructions - Emergency instruction|1347|1582

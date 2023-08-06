@@ -1,0 +1,19 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|very short of breath| Medical Issues - Symptom|76|96
+1|atrial tachycardia| Medical Issues - Disease|130|148
+2|acute congestive heart failure| Medical Issues - Disease|189|219
+3|hypertension| Medical Issues - Complication developed in the hospital|237|249
+4|aggressive dialysis| Treatments - Procedure name|317|336
+5|nitroglycerin drip| Treatments - Medicine name|294|312
+6|ablated your AV node| Treatments - Procedure name|404|424
+7|pacemaker| Treatments - Procedure name|443|452
+8|1. We discontinued your amiodarone 200 mg daily| Medicine instructions - Medicine stopped|581|628
+9|2. We started you on tylenol, extra strength, for pain at the pacer site.| Medicine instructions - Medicine started|629|702
+10|Please take all medications as prescribed.| Aftercare instructions - patient needs to do - Medication|703|745
+11|Please check your INR tomorrow, [**7-17**] and call results to Dr. [**Last Name (STitle) 1911**], office: [**Telephone/Fax (1) 98045**], secretary [**Doctor First Name **]| Aftercare instructions - Upcoming Schedules - Test|746|917
+12|Please keep all previously scheduled appointments.| Aftercare instructions - Upcoming Schedules - Specialist appointment|918|968
+13|Please return to the ED or your healthcare provider immediately if you experience increased shortness of breath, chest pain, nausea, excessive fatigue, chills, fevers, swelling of your legs or feet, or difficulty lying flat.| Aftercare instructions - Emergency instruction|969|1193
+14|Please adhere to a low-sodium (2 gm/day), low protein, low-fluid (1200 cc) diet, of which information was given to you on discharge.| Aftercare instructions - patient needs to do - Diet|1196|1328
+15|Please weight yourself daily in the morning before breakfast and call Dr. [**Last Name (STitle) **] if you have a weight gain of more than 3 pounds in 1 day or 6 pounds in 3 days.| Aftercare instructions - patient needs to do - Other|1329|1508
+16|No lifting more than 5 pounds for six weeks. Avoid extreme movements of your right arm such as reaching for objects or tucking your shirt in. Please refer to the booklet we gave you on discharge regarding post pacemaker care. No showers for one week.| Aftercare instructions - patient needs to do - Other|1511|1761
+17|very fast heart rate| Medical Issues - Symptom|108|128

@@ -1,0 +1,34 @@
+Medical Issues
+Symptoms include <fractures in both your right hip and your right wrist>;
+Complication <respiratory distress > caused by [no explicit item]
+Complication <urinary tract infection > caused by [no explicit item]
+Complication <pneumonia > caused by [no explicit item]
+
+Treatments
+Procedure <intubation > to treat {complicated post-operative course}
+<intubation >  Results: <You were ultimately extubated and transferred back to the medical floor>
+Medicine <antibiotics > to treat <urinary tract infection >;<pneumonia >
+<antibiotics >  Results: [no explicit item]
+
+Aftercare instructions
+If encounter <any further falls, chest pain, shortness of breath, fevers greater than 101.5, severe nausea with inability to tolerate food or liquids by mouth, confusion, or any other concerning symptoms> do <Please return to the emergency room or call 911>
+
+No template for <MEDICATION CHANGES: -CHANGE Lorazepam to 0.5 mg at night as needed for anxiety  >
+No template for <-STOP Aciphex >
+No template for <START Pantoprazole 40 mg twice a day >
+No template for <STOP Ibuprofen >
+No template for <STOP Lexapro >
+No template for <START Duloxetine 40 mg daily >
+No template for <CHANGE Metoprolol Tartrate to 50 mg twice a day >
+No template for <CHANGE Prednisone to 5 mg daily >
+No template for <STOP Ultram >
+No template for <THE FOLLOWING MEDICATIONS WERE ADDED: -Milk of Magnesia 30 mL twice a day as needed for upset stomach >
+No template for <Bisacodyl 10 mg PO/PR daily as needed for constipation >
+No template for <Docusate Sodium 100 mg twice a day >
+No template for <Enoxaparin Sodium 40 mg injection daily >
+No template for <Acetaminophen 650 mg every 6 hours as needed for pain >
+No template for <Miconazole Powder 2% three times a day >
+No template for <Fluconazole 200 mg daily (to complete a 7 day course, ending on [**11-14**]) >
+No template for <Senna 1 tab twice a day >
+No template for <Lidocaine 5% Patch daily (apply for 12 hours and then keep off for 12 hours) >
+No template for <Amlodipine 5 mg daily >

@@ -1,0 +1,16 @@
+Medical Issues
+Symptoms include <confused>;<not responding in a manner that is normal for you >;
+Symptoms <confused> <not responding in a manner that is normal for you > caused by Disease <pneumonia >
+Symptoms <confused> <not responding in a manner that is normal for you > caused by Disease <infection in your urine >
+
+Tests
+Tests include <X-Ray  >;
+Test results of <X-Ray >: <demonstrated a pneumonia >;
+
+Treatments
+Medicine < IV antibiotics > to treat <pneumonia> <infection in your urine>
+< IV antibiotics >  Results: <returned to your normal state of functioning>
+
+No template for <Please note that we will need you to complete your final dose of IV Vancomycin and Cefepime at [**Hospital1 100**] Senior Life on [**2152-3-12**].  >
+No template for <You should continue all of your medications with the following important changes: 1. Vancomycin 1 g IV x one dose on Sunday [**2152-3-12**] 2. Cefepime 1 g IV x one dose on Sunday [**2152-3-12**] >
+No template for <HOLD Imdur 15 mg daily. >

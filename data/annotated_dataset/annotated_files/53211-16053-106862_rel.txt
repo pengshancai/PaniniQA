@@ -1,0 +1,18 @@
+Medical Issues
+Symptoms include <respiratory failure>;<leg swelling>;
+Symptoms <respiratory failure> caused by Disease <pneumonia> 
+Symptoms <respiratory failure> caused by Disease <exacerbation of your severe COPD> 
+
+Treatments
+Procedure <intubation> to treat <respiratory failure>
+<intubation>  Results: <improved>
+Medicine <antibiotics> to treat <pneumonia>
+<antibiotics>  Results: <improved>
+Medicine <steroids> to treat <exacerbation of your severe COPD>
+<steroids>  Results: <improved>
+Procedure <respiratory therapy> to treat <exacerbation of your severe COPD>
+<respiratory therapy>  Results: <improved>
+
+No template for <INCREASE amlodipine to 10 mg by mouth daily>
+No template for <furosemide (lasix) 60 mg by mouth daily>
+No template for <lisinopril 40 mg by mouth daily>

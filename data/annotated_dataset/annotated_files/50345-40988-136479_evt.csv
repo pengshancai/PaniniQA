@@ -1,0 +1,20 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|fall| Medical Issues - Symptom|72|76
+1|rib fractures| Medical Issues - Symptom|110|123
+2|hematoma| Medical Issues - Disease|210|218
+3|active bleeding in your pelvis| Medical Issues - Symptom|169|199
+4|blood in your left chest| Medical Issues - Symptom|236|260
+5|drainage with a chest tube| Treatments - Procedure name|271|297
+6|You should take your pain medication as directed to stay ahead of the pain otherwise you won't be able to take deep breaths| Aftercare instructions - patient needs to do - Medication|410|538
+7|If the pain medication is too sedating take half the dose and notify your physician| Aftercare instructions - patient needs to do - Medication|540|623
+8|use your incentive spirometer 4 times every hour while awake| Aftercare instructions - patient needs to do - Medication|713|773
+9|You will be more comfortable if you use a cough pillow to hold against your chest and guard your rib cage while coughing and deep breathing| Aftercare instructions - patient needs to do - Other|892|1031
+10|Symptomatic relief with ice packs or heating pads for short periods may ease the pain| Aftercare instructions - patient needs to do - Other|1035|1120
+11|Narcotic pain medication can cause constipation therefore you should take a stool softener twice daily and increase your fluid and fiber intake if possible| Aftercare instructions - patient needs to do - Diet|1124|1279
+12|Do NOT smoke| Aftercare instructions - patient needs to do - Other|1283|1295
+13|You can put your left arm in a sling for comfort| Aftercare instructions - patient needs to do - Other|1298|1346
+14|No heavy lifting or any type of contact sports for 6-8 weeks so as not to reinjue your spleen| Aftercare instructions - patient needs to do - Other|1350|1443
+15|If you develop any dizziness, feel faint or have any more blood in your urine please call your doctor or return to the Emergency Room| Aftercare instructions - patient needs to do - Other|1447|1580
+16|Return to the Emergency Room right away for any acute shortness of breath, increased pain or crackling sensation around your ribs| Aftercare instructions - patient needs to do - Other|1584|1714
+17|broken collarbone| Medical Issues - Symptom|127|144
+18|lacerated spleen| Medical Issues - Symptom|148|164

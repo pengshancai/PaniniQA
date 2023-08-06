@@ -1,0 +1,16 @@
+Medical Issues
+Symptoms include <dehydration>;<diarrhea >;<mucositis >;
+
+Treatments
+Medicine <antibiotics > to treat <bloodstream infection> <pneumonia>
+Medicine <enoxaparin > to treat <blood clot found in your arm veins>
+<chemotherapy> Results: <white blood cells recovered >
+<chemotherapy> Results: <mucositis continued to improve >
+
+Aftercare instructions
+If encounter < fevers, chills, vomiting, diarrhea, abdominal pain, worsening mouth/throat pain, bloody stools, or any other concerning symptoms> do < please seek medical attention or come to the ER immediately. >
+
+No template for <We also started enoxaparin (Lovenox), a blood thinner, due to a blood clot found in your arm veins. >
+No template for <We changed your ranitidine to pantopraxole. >
+No template for <Please take all medications as prescribed  >
+No template for <go to all follow up appointments >

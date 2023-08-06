@@ -1,0 +1,15 @@
+Medical Issues
+Symptoms include <low blood pressure>;
+Symptoms <low blood pressure> caused by Disease <C. diff  >
+
+Treatments
+Procedure <You were given a lot of intravenous fluid and medicine > to treat <low blood pressure>
+<You were given a lot of intravenous fluid and medicine >  Results: [No explicit item]
+Procedure <You were started on an antibiotics > to treat <C. diff>
+<You were started on an antibiotics >  Results: <overall improved>
+Medicine <Please start Vancomycin 125 mg tab, 1 tab, by mouth, every 6 hours > to treat <C. diff>
+<Please start Vancomycin 125 mg tab, 1 tab, by mouth, every 6 hours >  Results: [No explicit item]
+
+No template for <Pleast START amlodipine 5 mg, 1 tab, once a day >
+No template for <Please STOP moxipril 7.5 mg daily for now >
+No template for <Please STOP metformin until your kidney function returns to its baseline >

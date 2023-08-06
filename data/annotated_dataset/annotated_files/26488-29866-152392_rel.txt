@@ -1,0 +1,16 @@
+Medical Issues
+Symptoms include <headache>;<drowsiness >;
+Symptoms <headache> <drowsiness> caused by Disease <bleeding > <intracranial bleeding>
+
+Tests
+Tests include <scna your head >;<repeated the head scan. >;
+Test results of <scan of your head>: <found bleeding. >;
+Test results of <repeated scan of your head after treatment>: <bleeding was stable >;
+
+Treatments
+Medicine <You were given medication to reverse your anticoagulation and you were given medication to better control your blood pressure. > to treat <intracranial bleeding>
+<You were given medication to reverse your anticoagulation and you were given medication to better control your blood pressure. > Results: <bleeding was stable >
+
+
+No template for <Your coumadin and aspirin were stopped >
+No template for <Plavix needs to be started on ([**2118-9-11**]) >

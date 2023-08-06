@@ -1,0 +1,9 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|lethargy| Medical Issues - Symptom|70|78
+1|low blood pressure| Medical Issues - Symptom|83|101
+2|rapid heart rate| Medical Issues - Symptom|128|144
+3|bacteria in your blood| Tests - Test result|149|171
+4|tunneled dialysis line| Medical Issues - Complication developed in the hospital|273|295
+5|BEGIN TAKING IV vancomycin at dialysis (last day [**2103-2-7**])| Medicine instructions - Medicine started|507|571
+6|INCREASE FREQUENCY of digoxin to 4 days per week (M/W/F/[**Doctor First Name **])| Medicine instructions - Medicine changed|668|749
+7|Please follow up with your doctors as recommended below| Aftercare instructions - Upcoming Schedules - Specialist appointment|750|805

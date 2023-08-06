@@ -1,0 +1,13 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|atrial fibrillation| Medical Issues - Disease|74|93
+1|high blood pressures| Medical Issues - Symptom|95|115
+2|confusion| Medical Issues - Symptom|120|129
+3|medications to control your heart read and blood pressure| Treatments - Medicine name|145|202
+4|echocardiogram| Tests - Test name|206|220
+5|look at your heart| Tests - Test goal|233|251
+6|showed that your mitral valve has some damage (torn cord)| Tests - Test result|259|316
+7|You should follow-up with your cardiologist Dr. [**Last Name (STitle) **].| Aftercare instructions - Upcoming Schedules - Specialist appointment|318|392
+8|urinary tract infection| Medical Issues - Disease|416|439
+9|antibiotics| Treatments - Medicine name|445|456
+10|You will continue physical therapy at rehab.| Aftercare instructions - Upcoming Schedules - Specialist appointment|458|502
+11|You should followup with Dr. [**Last Name (STitle) 363**] for your recent spine surgery.| Aftercare instructions - Upcoming Schedules - Specialist appointment|503|591

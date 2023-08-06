@@ -1,0 +1,22 @@
+Medical Issues
+Symptoms include <chest pain>;
+Symptoms <chest pain> caused by Disease <pneumonia > 
+
+Tests
+Tests include <several tests and images >;
+Test results of <several tests and images>: <your pain was caused by a pneumonia (an infection of the lung) >;
+
+Treatments
+Medicine <antibiotics > to treat <pneumonia>
+<antibiotics >  Results: <pneumonia>
+
+No template for <You will need to continue to take antibiotics by mouth for 7 days. Even if you feel better, please take your antibiotics until they are done. >
+No template for <You will need to continue to take antibiotics by mouth for 7 days. Even if you feel better, please take your antibiotics until they are done. >
+No template for <You also have a medication, Dilaudid, to help you if you have any chest pain. You may take one every four hours if you are having pain. Please do not take extra of this medication; please do not operate heavy machinery, such as a car, when taking this medication. >
+No template for <You also have a medication, Dilaudid, to help you if you have any chest pain. You may take one every four hours if you are having pain. Please do not take extra of this medication; please do not operate heavy machinery, such as a car, when taking this medication. >
+No template for <START azithromycin (antibiotics) for seven more days. >
+No template for <START cefpodoxime (antibiotics) for seven more days. >
+No template for <Take Dilaudid as directed for pain. >
+No template for <You had some high potassium readings during your last day of admission. We would like you to go to the [**Hospital **] clinic, where you see Dr. [**Last Name (STitle) 11616**], on Monday to have this level checked. >
+No template for <Also, limit foods that are high in potassium, such as bananas, potatoes, and yogurt, for a few days. >
+No template for <In four weeks, you will also have to follow up with Dr. [**Last Name (STitle) 11616**] for another chest X-ray. >

@@ -1,0 +1,12 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|gastrointestinal bleed| Medical Issues - Symptom|97|119
+1|endoscopy| Tests - Test name|132|141
+2|showed ulcers in your stomach| Tests - Test result|148|177
+3|ulcers in your stomach| Medical Issues - Disease|155|177
+4|2 units of red blood cells| Treatments - Medicine name|237|263
+5|your blood counts stabilized| Treatments - Result of the treatment|268|296
+6|You will need to take a acid suppressing medication twice daily| Aftercare instructions - patient needs to do - Medication|298|361
+7|have a repeat endoscopy in 8 weeks to ensure that these ulcerations have resolved| Aftercare instructions - Upcoming Schedules - Test|366|447
+8|HOLD methotrexate until your doctor tells you that you can restart| Medicine instructions - Medicine stopped|513|579
+9|START omeprazole 40mg twice daily| Medicine instructions - Medicine started|582|616
+10|CHANGE your aspirin to 81mg daily| Medicine instructions - Medicine changed|618|651

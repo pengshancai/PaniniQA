@@ -1,0 +1,27 @@
+Medical Issues
+Symptoms include <shortness of breath>;
+Symptoms <shortness of breath> caused by Disease <congestive heart failure > 
+Symptoms <shortness of breath> caused by Disease <chronic obstructive pulmonary disease > 
+Symptoms [no explicit item] caused by Disease <infection > 
+
+Treatments
+Medicine <diuretics > to treat <congestive heart failure>
+<diuretics >  Results: <Your condition improved and you did not require as much oxygen at time of transfer.>
+Medicine <steroids > to treat <chronic obstructive pulmonary disease>
+<steroids >  Results: <Your condition improved and you did not require as much oxygen at time of transfer.>
+Medicine <antibiotics > to treat <Your condition improved and you did not require as much oxygen at time of transfer.>
+<antibiotics >  Results: <infection>
+
+No template for <The following changes were made to your medications: STOP oral furosemide >
+No template for < STOP albuterol inhaler >
+No template for <STOP lisinopril >
+No template for <STOP oxycodone >
+No template for <STOP amlodipine >
+No template for <START IV furosemide and adjust dose as needed  >
+No template for <START miconazole powder as needed for rash under R breast  >
+No template for <START albuterol nebs, both every four hours and as needed every six hours >
+No template for <START nicotine patch >
+No template for <Please stop smoking. >
+No template for <Please maintain a low salt diet >
+No template for <Weigh yourself every day and call your doctor if your weight goes up by 3 pounds or more.  >
+No template for <Please take all medications as instructed. >

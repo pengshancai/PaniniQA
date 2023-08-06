@@ -1,0 +1,9 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|shortness of breath| Medical Issues - Symptom|63|82
+1|exacerbation of your COPD| Medical Issues - Disease|181|206
+2|stent that was in your airways was reomoved| Treatments - Procedure name|109|152
+3|antibiotics| Treatments - Medicine name|239|250
+4|Please continue your home medications| Medicine instructions - Medicine continued|316|354
+5|Finish your prednisone taper as follows: [**2101-9-20**], 19, 20: 30 mg daily [**2105-9-24**], 23, 24: 20 mg daily [**2109-9-28**], 27, 28: 10 mg daily| Medicine instructions - Medicine started|411|562
+6|Continue the last 2 days of your levofloxacin antibiotic on [**9-20**] and [**9-21**]| Medicine instructions - Medicine continued|563|649
+7|| Aftercare instructions - Emergency instruction|649|771

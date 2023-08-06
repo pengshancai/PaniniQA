@@ -1,0 +1,21 @@
+Medical Issues
+Symptoms <no explicit item> caused by Disease <hypertensive urgency> 
+Symptoms <no explicit item> caused by Disease < infection at your prior IV site on your left hand > 
+
+Treatments
+Medicine <IV medications > to treat <hypertensive urgency>
+<IV medications >  Results: <no explicit item>
+Medicine <Your usual oral blood pressure medications were continued > to treat <hypertensive urgency>
+<Your usual oral blood pressure medications were continued >  Results: <your blood pressure remained well-controlled>
+<Your usual oral blood pressure medications were continued> Results: <your blood pressure remained well-controlled >
+Medicine < IV vancomycin > to treat <infection at your prior IV site on your left hand >
+< IV vancomycin >  Results: <no explicit item>
+
+Aftercare instructions
+If encounter <fevers, chills, chest pains, shortness of breath, nausea, vomiting, or headaches> do <call your PCP or go to the ED>
+
+No template for < You will need 7 days more of antibiotics which will be given with dialysis.  >
+No template for <Please resume your usual dialysis schedule. Your last dialysis was [**1-23**].  >
+No template for <Please continue to take your medications as prescribed. >
+No template for <You should hold your coumadin today. You can resume this on wednesday at your normal dose.  >
+No template for <You should have your INR checked at dialyis as usual on thursday. >

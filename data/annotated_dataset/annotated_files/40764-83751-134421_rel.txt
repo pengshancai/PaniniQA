@@ -1,0 +1,8 @@
+Medical Issues
+Symptoms [No explicit item] caused by Disease <serious infection in your bladder and blood>
+Symptoms [No explicit item] caused by Disease <an infection in your foot >
+
+Treatments
+Procedure <You also received dialysis during your stay. > to treat <serious infection of blood>
+<You also received dialysis during your stay. >  Results: [No explicit item]
+No template for <You were discharged to a hospice facility near to your family. >

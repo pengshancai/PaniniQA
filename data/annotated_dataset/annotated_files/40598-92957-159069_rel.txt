@@ -1,0 +1,10 @@
+Medical Issues
+Symptoms include <slow heart rate>;<low blood pressure >;
+Symptoms <CHANGE HERE Symptom name> caused by Disease <atypical allergic reaction >
+
+Treatments
+Procedure <cardiac catheterization > to treat <[No explicit item]
+<cardiac catheterization >  Results: [No explicit item]
+Medicine <Decrease Aspirin from 325mg daily to 81mg daily.  > to treat [No explicit item]
+<Decrease Aspirin from 325mg daily to 81mg daily.  >  Results: [No explicit item]
+

@@ -1,0 +1,18 @@
+Medical Issues
+Symptoms include <gastrointestinal bleed>;
+Symptoms <gastrointestinal bleed> caused by Disease <ulcers in your stomach > <Maybe>
+
+Tests
+Tests include <endoscopy >;
+Test results of <endoscopy>: <showed ulcers in your stomach >;
+
+Treatments
+Medicine <2 units of red blood cells > to treat <ulcers in your stomach>
+<2 units of red blood cells >  Results: <your blood counts stabilized>
+<2 units of red blood cells> Results: <your blood counts stabilized >
+
+No template for <You will need to take a acid suppressing medication twice daily >
+No template for <have a repeat endoscopy in 8 weeks to ensure that these ulcerations have resolved >
+No template for <HOLD methotrexate until your doctor tells you that you can restart >
+No template for <START omeprazole 40mg twice daily  >
+No template for <CHANGE your aspirin to 81mg daily >

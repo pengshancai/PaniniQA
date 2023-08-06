@@ -1,0 +1,14 @@
+Medical Issues
+Symptoms include <shortness of breath>;<fever >;<nausea >;<vomiting >;<blood pressure was slightly low >;
+Symptoms <shortness of breath>;<fever >;<nausea >;<vomiting >;<blood pressure was slightly low > caused by Disease <viral illness > 
+
+Tests
+Tests include <labwork >;
+
+Treatments
+Medicine <antibiotics > to treat <viral illness>
+<antibiotics >  Results: <your symptoms improved>
+
+No template for <CHANGES TO YOUR MEDICATIONS: - START Levofloxacin 750 mg daily. You will take this for three more days (ending on [**2138-4-4**]). >
+No template for <- STOP taking the Bactrim that you had started prior to your admission. >
+No template for <- Continue all of your other medications as you were taking them previously.  >

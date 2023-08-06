@@ -1,0 +1,18 @@
+Medical Issues
+Symptoms include <difficulty breathing>;
+Symptoms <difficulty breathing> caused by Disease <COPD exacerbation>
+Symptoms <difficulty breathing> caused by Disease <pneumonia>
+
+Tests
+Test results of <{pulse oximetry}>: <low oxygen level>;
+
+Treatments
+Medicine <steroids> to treat <COPD exacerbation>
+<steroids>  Results: <you were able to leave the ICU>
+Procedure <breathing treatments> to treat <difficulty breathing>
+<breathing treatments>  Results: <you were able to leave the ICU>
+Medicine <antibiotics> to treat <pneumonia>
+<antibiotics>  Results: <you were able to leave the ICU>
+
+
+No template for <It is very important that you try to stop smoking, it is the best thing you can do for your health>

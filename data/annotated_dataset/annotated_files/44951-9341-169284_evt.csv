@@ -1,0 +1,10 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|difficulty swallowing after the eating| Medical Issues - Symptom|70|108
+1|upper endoscopy| Tests - Test name|168|183
+2|food stuck in your esophagus| Tests - Test result|209|237
+3|They were able to remove some of the food and push some of it into your esophagus| Tests - Test result|239|320
+4|They would like to see you in 1 month in their office. Please call [**Telephone/Fax (1) 682**] to schedule an appointment with Dr. [**First Name8 (NamePattern2) 1158**] [**Last Name (NamePattern1) 679**].| Aftercare instructions - Upcoming Schedules - Specialist appointment|322|526
+5|Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more than 3 lbs.| Aftercare instructions - patient needs to do - Other|527|615
+6|STARTED Protonix 40mg twice a day| Medicine instructions - Medicine started|671|704
+7|STOPPED Ranitidine| Medicine instructions - Medicine stopped|708|726
+8|No other changes were made to your medications.| Medicine instructions - Medicine continued|727|774

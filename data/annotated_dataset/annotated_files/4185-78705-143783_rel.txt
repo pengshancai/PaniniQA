@@ -1,0 +1,14 @@
+Medical Issues
+Symptoms include <dysfunctional vocal cords >;
+Symptoms <dysfunctional vocal cords> caused by Disease <tracheobronchomalacia>
+Symptoms [No explicit item] caused by Disease <chronic obstructive pulmonary disease >
+
+Tests
+Tests include <bronchoscopy >;
+
+Treatments
+Medicine <treatment of your COPD > to treat [No explicit item]
+<treatment of your COPD >  Results: [No explicit item]
+
+No template for <You were urged to stop smoking >
+No template for <You were discharged to a rehabilitation facility >

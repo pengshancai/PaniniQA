@@ -1,0 +1,5 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|stent in your left carotid artery| Treatments - Procedure name|65|98
+1|Imdur was held during your hospitalization, but can be restarted the after you leave the hospital| Medicine instructions - Medicine continued|274|372
+2|Please hold atenolol until your follow up appointment Dr. [**Last Name (STitle) **] next week.| Medicine instructions - Medicine stopped|393|487
+3|Please call your doctor or come the emergency room if you have lightheadedness, chest pain, change in vision or any other concerning symptoms.| Aftercare instructions - patient needs to do - Other|488|630

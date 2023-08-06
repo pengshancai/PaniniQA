@@ -1,0 +1,14 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|pneumonia| Medical Issues - Disease|64|73
+1|anemia| Medical Issues - Disease|78|84
+2|antibiotic| Treatments - Medicine name|104|114
+3|pneumonia| Treatments - Treatment goal|123|132
+4|five red blood cell transfusions| Treatments - Procedure name|137|169
+5|anemia| Treatments - Treatment goal|185|191
+6|You will also need further evaluation of your anemia as an outpatient.| Aftercare instructions - Upcoming Schedules - Test|193|263
+7|Please take the antibiotic levofloxacin for the next 6 days. It is important that you take all of it, even if you are feeling better, to get over your pneumonia.| Medicine instructions - Medicine started|264|425
+8|You were also given a prescription for an inhaler to help with shortness of breath and wheezing.| Medicine instructions - Medicine started|426|522
+9|You were also given a prescription for Zolpidem to help you sleep at night.| Medicine instructions - Medicine started|522|598
+10|Please do not drive if you take this medication.| Aftercare instructions - patient needs to do - Medication|599|647
+11|Please follow-up with the providers outlined below.| Aftercare instructions - Upcoming Schedules - Specialist appointment|648|699
+12|Please call your physician or return to the hospital if you develop fevers, worsening shortness of breath, worsening cough, chest pain, or orther concerning symptoms.| Aftercare instructions - Emergency instruction|700|866

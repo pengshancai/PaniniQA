@@ -1,0 +1,15 @@
+Medical Issues
+Symptoms include <bleeding in your GI tract>;<you had large veins in your esophagus called varices >;
+
+Treatments
+Medicine <START nadolol 20 mg daily > to treat [No explicit item]
+<START nadolol 20 mg daily >  Results: [No explicit item]
+Medicine <START ciprofloxacin 500 mg daily for 4 days. When you complete the 4 day course, you will take 250 mg daily thereafter > to treat [No explicit item]
+<START ciprofloxacin 500 mg daily for 4 days. When you complete the 4 day course, you will take 250 mg daily thereafter >  Results: [No explicit item]
+Medicine <START protonix 40 mg [**Hospital1 **]  > to treat [No explicit item]
+<START protonix 40 mg [**Hospital1 **]  >  Results: [No explicit item]
+Medicine <START sucralfate 1 mg by mouth four times a day for 2 weeks > to treat [No explicit item]
+<START sucralfate 1 mg by mouth four times a day for 2 weeks >  Results: [No explicit item]
+Medicine <INCREASE lactulose - 2 - 3 doses per day, titrate to 2 - 3 bowel movements per day > to treat [No explicit item]
+<INCREASE lactulose - 2 - 3 doses per day, titrate to 2 - 3 bowel movements per day >  Results: [No explicit item]
+

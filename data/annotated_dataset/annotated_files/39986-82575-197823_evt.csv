@@ -1,0 +1,14 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|respiratory distress| Medical Issues - Symptom|69|89
+1|tracheostomy was removed| Treatments - Procedure name|147|171
+2|You were treated with antibiotics| Treatments - Medicine name|173|206
+3|START Vancomycin 1250 mg intravenous every 12 hours for one more day| Treatments - Medicine name|309|377
+4|START CeftriaXONE 1 gm intravenous once a day for one more day| Treatments - Medicine name|378|441
+5|STOP Amaryl START Glargine 10 units once a day| Medicine instructions - Medicine stopped|441|488
+6|START Glargine 10 units once a day| Treatments - Medicine name|471|539
+7|STOP Novolin STOP hydromorphone| Medicine instructions - Medicine stopped|539|570
+8|STOP milk of magnesia| Medicine instructions - Medicine stopped|571|593
+9|START Docusate twice a day| Treatments - Medicine name|593|619
+10|STOP Hyocyamine| Medicine instructions - Medicine stopped|620|636
+11|pneumonia| Medical Issues - Disease|211|220
+12|urinary tract infection| Medical Issues - Disease|231|254

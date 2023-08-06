@@ -1,0 +1,17 @@
+Medical Issues
+Symptoms include <transient episode of right arm weakness>;<slight right pronator drift >;
+Symptoms <slight right pronator drift > caused by Disease <mild weakness >
+
+Tests
+Tests include <imaging  >;
+Test results of <imaging>: <left internal carotid dissection >;
+
+No template for < Please have Dr. [**Last Name (STitle) **] check your blood pressure to make sure the medications are adequate. >
+No template for <You will need to follow-up with Dr. [**Last Name (STitle) **] on Tuesday morning to have your INR checked (coumadin level).  >
+No template for <You will follow up with Dr. [**First Name (STitle) **] in neurology clinic in 3 months. Dr. [**First Name (STitle) **] in Neurology - [**2116-4-20**] at 1:00 pm, [**Hospital Ward Name 23**] [**Location (un) 6332**]  >
+No template for <You will need a CT angiogram prior to your appointment.  >
+No template for <Started Coumadin (warfarin) 5 mg every night w/ a goal INR [**3-20**]  >
+No template for <Lovenox 90 mg SC twice daily - until INR is therapeutic  >
+No template for <Amlodipine 5 mg by mouth at night  >
+No template for <Lisinopril 20 mg by mouth at night >
+No template for <Atorvastatin 20 mg by mouth at night >

@@ -1,0 +1,21 @@
+Medical Issues
+Symptoms include <one of the valves in your heart isn&#x27;t opening up as well as it should >;
+Symptoms [No explicit item] caused by Disease <infection over your pacemaker>
+
+Treatments
+Medicine <We treated you with antibiotics > to treat <infection>
+<We treated you with antibiotics >  Results: [No explicit item]
+Procedure <took out the old pacemaker > to treat <infection>
+<took out the old pacemaker >  Results: [No explicit item]
+Procedure <We then inserted a new pacemaker on the other side of your chest > to treat <infection>
+<We then inserted a new pacemaker on the other side of your chest >  Results: [No explicit item]
+Medicine <You will need to take antiobiotics for a few weeks > to treat <infection>
+<You will need to take antiobiotics for a few weeks >  Results: [No explicit item]
+Medicine <Ciprofloxacin 500mg twice daily through  > to treat [No explicit item]
+<Ciprofloxacin 500mg twice daily through  >  Results: [No explicit item]
+Medicine <START Aspirin 81mg daily > to treat [No explicit item]
+<START Aspirin 81mg daily >  Results: [No explicit item]
+Medicine <START Metoprolol succinate 25mg daily > to treat [No explicit item]
+<START Metoprolol succinate 25mg daily >  Results: [No explicit item]
+No template for <You should have this followed up with your PCP and cardiologist. >
+No template for <DECREASE Coumadin to 5mg daily due to interaction with antibiotic and we are requesting that you follow up to measure your INR within 3 days of discharge. >

@@ -1,0 +1,19 @@
+Medical Issues
+Symptoms include <acute decompensation of your kidney function>;
+
+Treatments
+Procedure <You underwent a variety of procedures to determine why this happened. You were seen by the nephrology team as well. > to treat <decompensated kidney function>
+<You underwent a variety of procedures to determine why this happened. You were seen by the nephrology team as well. >  Results: <You have improved a great deal since your admission>
+Procedure <You were also seen by the [**Last Name (un) **] doctors who have helped to adjust your insulin regimen as you have been taken off of oral diabetes medications for now. > to treat [no explicit item]
+Medicine <insulin regimen > to treat [no explicit item]
+<insulin regimen >  Results: <You have improved a great deal since your admission>
+
+Aftercare instructions
+If encounter <T&gt;101.5, chills, nausea, vomiting, chest pain, shortness of breath, abdominal pain, lack of urination, extremely elevated blood sugars, change in mental status, or any other concern> do <Please call your primary doctor or return to the ED>
+
+No template for < You will need to take all medications as instructed. >
+No template for <Do not take your lisinopril, cyclosporin, or metformin. >
+No template for <Continue taking your home dose of citalopram >
+No template for <You will need to check your blood sugars 4 times a day - 30 min before breakfast, lunch, dinner, and just before bed. >
+No template for <You will need to give yourself insulin at this time as well. The amount you give will be according to the sliding scale the [**Last Name (un) **] team has made for you. You will also need to give yourself an evening dose of the long acting insulin. It is very important that you record all of your blood sugars and bring this log to your appointment with Dr. [**Last Name (STitle) **] on [**Last Name (STitle) 766**]. >
+No template for <You will need to keep all of your follow-up appointments. >

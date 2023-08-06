@@ -1,0 +1,21 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|retaining a lot of extra fluid| Medical Issues - Symptom|113|143
+1|heart failure| Medical Issues - Disease|165|178
+2|medications to increase the squeezing power of your heart and to force more fluid out in your urine| Treatments - Medicine name|381|480
+3|You responded well and we were successful in getting 15-20 pounds of fluid off.| Treatments - Result of the treatment|482|561
+4|worsening knee pain| Medical Issues - Symptom|581|600
+5|We found you developed a gout attack and gave you steroids both in your knee and by mouth to help with the pain| Tests - Test result|681|792
+6|examine the fluid in your knee| Tests - Test name|649|679
+7|gout attack| Medical Issues - Complication developed in the hospital|706|717
+8|steroids| Treatments - Medicine name|731|739
+9|to help with the pain| Treatments - Treatment goal|771|792
+10|Start Oxycontin 20mg tab twice daily| Medicine instructions - Medicine started|895|931
+11|Start Prednisone 5mg tabs as directed to slowly decrease the dose| Medicine instructions - Medicine started|932|997
+12|Increase NPH insullin and sliding scale insulin to control your blood sugars| Medicine instructions - Medicine changed|998|1074
+13|Start metolazone to decrease your swelling.| Medicine instructions - Medicine started|1075|1118
+14|No other changes were made to your medications.| Aftercare instructions - patient needs to do - Medication|1119|1166
+15|In the future, you will need to keep a very close eye on your medications, diet, and weight.| Aftercare instructions - patient needs to do - Medication|1167|1259
+18|Weigh yourself every morning, and call your doctor if weight goes up more than 3 lbs in 1 day or 5 pounds in 3 days.| Aftercare instructions - patient needs to do - Other|1260|1376
+19|Also, you need to keep a strict low salt diet which will help reduce the amount of fluid your body retains.| Aftercare instructions - patient needs to do - Diet|1377|1484
+20|Make sure that you keep all of the follow-up appointments listed below.| Aftercare instructions - Upcoming Schedules - Specialist appointment|1485|1556
+21|Bring your medications to each appointment so your doctors [**Name5 (PTitle) **] update their records and adjust doses as needed.| Aftercare instructions - patient needs to do - Medication|1557|1686

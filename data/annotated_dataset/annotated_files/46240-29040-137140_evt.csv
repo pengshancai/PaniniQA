@@ -1,0 +1,18 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|food stuck in your gastrointestinal tract| Medical Issues - Symptom|75|116
+1|upper endoscopy| Treatments - Procedure name|135|150
+2|food was moved into your stomach| Treatments - Result of the treatment|159|191
+3|diverticulum| Medical Issues - Disease|254|266
+4|found to have an outpoutching called a diverticulum| Treatments - Result of the treatment|215|266
+5|You have been scheduled to see Dr. [**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) **] in gastroenterology. The time and date of your appointment is listed below.| Aftercare instructions - Upcoming Schedules - Specialist appointment|268|444
+6|You will also need to have an upper endoscopy repeated as well. This will be scheduled by Dr. [**Last Name (STitle) **] when you see him.| Aftercare instructions - Upcoming Schedules - Test|445|582
+7|2)Please take all medications as listed in the discharge instructions.| Medicine instructions - Medicine continued|583|653
+8|You have been started on one new medication called Pantoprazole, since you were found to have some inflammation of your gastrointestinal tract. Please continue this until you are told to stop by your primary care physician.| Medicine instructions - Medicine started|654|877
+9|please continue to get your INR checked since you are on Coumadin.| Aftercare instructions - Upcoming Schedules - Test|911|977
+10|aspirating| Medical Issues - Symptom|1001|1011
+11|difficulty breathing| Medical Issues - Symptom|1172|1192
+12|)You were found to be aspirating during your hospital stay. This means that some of the fluid you were eating was going into the wrong pipe, into your lungs. As a result, you may have had some difficulty breathing| Medical Issues - Complication developed in the hospital|979|1192
+13|You are instructed to be on the following diet with additional recommendations: - Nectar thick liquids and regular solids| Aftercare instructions - patient needs to do - Diet|1194|1315
+14|- Also follow these precautions: Swallow with chin tucked to chest, at least 2 repeat swallows, intermittent cough to clear possible penetration.| Aftercare instructions - patient needs to do - Other|1316|1461
+15|- Lastly, you will need a repeat swallowing study in 2 weeks. You will be contact[**Name (NI) **] regarding the date and time. If you don't hear from them, please contact [**Telephone/Fax (1) 3731**] to schedule this appointment.| Aftercare instructions - Upcoming Schedules - Test|1462|1696
+16|4)If you experience any fevers, chills, chest pain, shortness of breath, abdominal pain, difficulty with swallowing, or any other concerning symptoms, please return to the emergency room.| Aftercare instructions - Emergency instruction|1697|1884

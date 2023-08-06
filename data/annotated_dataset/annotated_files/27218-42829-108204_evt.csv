@@ -1,0 +1,13 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|coughing| Medical Issues - Symptom|77|85
+1|difficulty swallowing| Medical Issues - Symptom|87|108
+2|rule other possible infection or blood clots that may be causing your increased coughing| Tests - Test goal|217|305
+3|evaluations were normal| Tests - Test result|314|337
+4|ALS| Medical Issues - Disease|430|433
+5|worsening shortness of breath| Medical Issues - Symptom|504|533
+6|progression of your ALS| Medical Issues - Disease|541|564
+7|G-tube placed per interventional radiology with conscious sedation| Treatments - Procedure name|718|784
+8|without complications| Treatments - Result of the treatment|789|810
+9|intubated| Treatments - Procedure name|826|836
+10|Your tube feed has been recommended per nutrition consult and you are discharged home with home hospice service.| Aftercare instructions - patient needs to do - Diet|887|999
+11|| Medicine instructions - Medicine changed|1000|1067

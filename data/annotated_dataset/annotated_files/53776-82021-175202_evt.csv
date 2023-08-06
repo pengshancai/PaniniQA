@@ -1,0 +1,9 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|perforated diverticulitis| Medical Issues - Disease|64|89
+1|bowel rest| Treatments - Procedure name|110|120
+2|IV antibiotics| Treatments - Medicine name|131|145
+3|pain has improved| Treatments - Result of the treatment|152|169
+4|you have been advanced to a regular diet| Aftercare instructions - patient needs to do - Diet|174|214
+5|2 week course of IV antibiotics| Medicine instructions - Medicine started|268|299
+6|Please follow up in the Acute Care Surgery clinic at the appointment listed below| Aftercare instructions - Upcoming Schedules - Specialist appointment|354|435
+7|You should also follow up with your primary care provider after leaving the rehab facility| Aftercare instructions - Upcoming Schedules - PCP appointment|437|527

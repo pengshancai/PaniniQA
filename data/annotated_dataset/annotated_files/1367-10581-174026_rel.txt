@@ -1,0 +1,8 @@
+Medical Issues
+Symptoms include <low blood pressure>;
+Symptoms <low blood pressure> caused by Disease <recent change in your diuretic medication > <Maybe>
+Symptoms <low blood pressure> caused by Disease <decrease in your nutritional intake > <Maybe>
+
+No template for <It is very important that you continue to eat and drink on a daily basis while you are on a diurectic medication. >
+No template for <STOP: [**Hospital1 8296**] Isosorbide Mononitrate Torsemide >
+No template for <Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more than 3 lbs or decreases by more than 3 lbs. >

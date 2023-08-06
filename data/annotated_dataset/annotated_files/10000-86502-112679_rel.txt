@@ -1,0 +1,14 @@
+Medical Issues
+Symptoms include <back pain >;<This kidney stone was also infected and caused you to have bacteria in your blood stream >;<blood pressure was low >;
+Symptoms <back pain > caused by Disease <stone in your ureter which is the tube draining urine from your kidney into the bladder > 
+Symptoms <blood pressure was low > caused by Disease <from the infection. > 
+
+Treatments
+Procedure <you need a tube in your right side to drain the urine that your right kidney makes > to treat <kidney stone>
+<you need a tube in your right side to drain the urine that your right kidney makes >  Results: {CHANGE HERE Treatment Result}
+Medicine <you received antibiotics through the IV and lots of IV fluids > to treat <infection>
+<you received antibiotics through the IV and lots of IV fluids >  Results: {CHANGE HERE Treatment Result}
+
+No template for <You will follow-up with the urologists (kidney specialists) so they can break the stone and take out this tube. >
+No template for <START vancomycin 1250mg IV twice daily until [**2119-12-24**]  >
+No template for <STOP hydrochlorothiazide until you visit your primary care doctor >

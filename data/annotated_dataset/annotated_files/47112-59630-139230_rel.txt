@@ -1,0 +1,9 @@
+Medical Issues
+Symptoms include <confusion>;
+
+No template for <IT IS EXTREMELY IMPORTANT THAT YOU USE YOUR BIPAP MACHINE EVERY NIGHT! We spoke with you daughter about this, and she will help you remember to put it on every night so you can get used to the machine, even though it is uncomfortable. >
+No template for <Please don&#x27;t take your lasix tomorrow (Saturday, [**2166-2-8**]) because you are slightly dehydrated. You can restart taking it on Sunday [**2166-2-9**]. >
+No template for <Have labwork checked at your appointment with Dr. [**Last Name (STitle) 2185**] on Monday [**2166-2-10**]. Please keep all of your appointments as listed below.  >
+No template for <Please keep all of your appointments as listed below. >
+No template for <Call your doctor if you become short of breath or gain more than 3 pounds in 3 days.  >
+No template for <Restrict your [**Month/Day/Year **] intake to less than 2 grams per day. Do not drink more than 1500 mL of fluid in one day. >

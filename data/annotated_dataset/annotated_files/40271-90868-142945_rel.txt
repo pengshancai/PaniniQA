@@ -1,0 +1,35 @@
+Medical Issues
+Symptoms include <breast mass>;<low back pain >;
+Symptoms <breast mass> caused by Disease <breast cancer >
+
+Treatments
+Procedure <biopsy > to treat <breast cancer>
+<biopsy >  Results: [No explicit item]
+Procedure <Two surgeries were performed on your lower back > to treat [No explicit item]
+<Two surgeries were performed on your lower back >  Results: <CHANGE HERE Treatment Result>
+Medicine <Start taking Tylenol 1000 mg by mouth every eight hours for pain > to treat [No explicit item]
+<Start taking Tylenol 1000 mg by mouth every eight hours for pain >  Results: [No explicit item]
+Medicine <Start taking Dexamethasone 4 mg by mouth every six hours > to treat [No explicit item]
+<Start taking Dexamethasone 4 mg by mouth every six hours >  Results: [No explicit item]
+Medicine <Start taking Pantoprazole 40 mg by mouth daily > to treat [No explicit item]
+<Start taking Pantoprazole 40 mg by mouth daily >  Results: [No explicit item]
+Medicine <Start taking Lorazepam 1 mg by mouth at night for sleep > to treat [No explicit item]
+Medicine <Start taking Lorazepam 0.5 mg by mouth every four hours as needed for anxiety. > to treat [No explicit item]
+<Start taking Lorazepam 0.5 mg by mouth every four hours as needed for anxiety. >  Results: [No explicit item]
+Medicine <Start taking Polyethylene glycol 17 g by mouth daily as needed for constipation > to treat [No explicit item]
+<Start taking Polyethylene glycol 17 g by mouth daily as needed for constipation >  Results: [No explicit item]
+Medicine <Start taking Lovenox 40 mg subcutaneous injection daily > to treat [No explicit item]
+Medicine <Start taking Senna 8.6 mg. > to treat [No explicit item]
+Medicine <Start taking Senna 8.6 mg. Take one tablet twice a day.  > to treat [No explicit item]
+<Start taking Senna 8.6 mg. Take one tablet twice a day.  >  Results: [No explicit item]
+Medicine <Start taking Docusate sodium 100 mg. Take one tablet twice a day.  > to treat [No explicit item]
+<Start taking Docusate sodium 100 mg. Take one tablet twice a day.  >  Results: [No explicit item]
+Medicine <Start taking Ondansetron 4 mg by mouth every eight hours as needed for nausea. > to treat [No explicit item]
+<Start taking Ondansetron 4 mg by mouth every eight hours as needed for nausea. >  Results: [No explicit item]
+Medicine <Start taking Hydromorphone 1-2 mg intravenously every three hours as needed for breakthrough pain > to treat [No explicit item]
+<Start taking Hydromorphone 1-2 mg intravenously every three hours as needed for breakthrough pain >  Results: [No explicit item]
+Medicine <Start taking MS Contin 90 mg by mouth every eight hours > to treat [No explicit item]
+<Start taking MS Contin 90 mg by mouth every eight hours >  Results: [No explicit item]
+
+No template for <Stop taking Vicodin that you were taking prior to admission. Your new pain medications are detailed above.  >
+No template for <Stop taking Bactrim. You completed your course of antibiotics for your urinary tract infection while in the hospital. >

@@ -1,0 +1,12 @@
+Medical Issues
+Symptoms [no explicit item] caused by Disease <atrial fibrillation>
+
+Treatments
+Medicine <medication > to treat <atrial fibrillation>
+<medication >  Results:  <you did well>
+
+No template for <Metoprolol XL 200 mg daily >
+No template for <Atenolol >
+No template for <Warfarin (Coumadin) 5 mg daily >
+No template for <Your VNA needs to draw INR (blood thinning level) on Monday and forward the result to Dr.[**Last Name (STitle) **] >
+No template for <If you experience any chest pain, worsening shortness of breath, dizziness or other concerning symptoms, please return to the hospital or call your PCP >

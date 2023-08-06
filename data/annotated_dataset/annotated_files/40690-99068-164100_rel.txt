@@ -1,0 +1,20 @@
+Medical Issues
+Symptoms include <abdominal pain>;<stone obstructing your common bile duct >;<pain >;<constipation >;
+Symptoms [No explicit item] caused by Disease <urinary tract infection >
+Symptoms [No explicit item] caused by Disease <ingrown toenail >
+
+Treatments
+Procedure <ERCP > to treat <stone obstructing your common bile duct>
+<ERCP >  Results: [No explicit item]
+Medicine <STARTED vitamin B12 > to treat [No explicit item]
+<STARTED vitamin B12 >  Results: [No explicit item]
+Medicine <thiamine &amp > to treat [No explicit item]
+<thiamine &amp >  Results: [No explicit item]
+Medicine <STARTED acetaminophen as needed > to treat <pain>
+<STARTED acetaminophen as needed >  Results: [No explicit item]
+Medicine <STARTED colace, senna &amp; miralax as needed > to treat <constipation>
+<TARTED colace, senna &amp; miralax as needed >  Results: [No explicit item]
+Medicine <treated with a 7-day course of cefpodoxime > to treat <urinary tract infection>
+<treated with a 7-day course of cefpodoxime >  Results: [No explicit item]
+
+No template for <You will likely need to have surgery to remove your gallbladder. >

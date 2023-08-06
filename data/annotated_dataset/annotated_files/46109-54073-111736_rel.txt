@@ -1,0 +1,11 @@
+Medical Issues
+Symptoms include <speech difficulties>;<worsening of your right sided weakness >;
+Symptoms <speech difficulties>;<worsening of your right sided weakness > caused by Disease <stroke >
+
+No template for <We increased your lisinopril to 5mg daily. >
+No template for <2. We started a medication called labetalol for atrial fibrillation. >
+No template for <3. We have stopped your aspirin >
+No template for <Please continue your tizanidine, gabapentin, and labetalol at your regular doses. >
+No template for <You have an MRI that is tentatively scheduled for [**2168-12-2**] prior to your appointment with Dr. [**First Name (STitle) **] to evaluate the area of the bleed. >
+No template for <You have an MRI that is tentatively scheduled for [**2168-12-2**] prior to your appointment with Dr. [**First Name (STitle) **] to evaluate the area of the bleed. >
+No template for <Radiology will contact you with the specific time and date >

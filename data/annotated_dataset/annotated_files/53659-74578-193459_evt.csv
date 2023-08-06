@@ -1,0 +1,11 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|gastrointestinal bleed| Medical Issues - Symptom|65|87
+1|colonoscopy| Tests - Test name|104|115
+2|to look at your lower bowel system| Tests - Test goal|117|151
+3|endoscopy| Tests - Test name|160|169
+4|to look at your esophagus and stomach| Tests - Test goal|171|208
+5|no obvious source of bleeding| Tests - Test result|223|252
+6|blood count| Tests - Test name|284|295
+7|stable| Tests - Test result|314|321
+8|The instructions for re-starting your tube feeds are below| Aftercare instructions - patient needs to do - Other|459|517
+9|feeding tube replaced by the radiologists| Treatments - Procedure name|379|420

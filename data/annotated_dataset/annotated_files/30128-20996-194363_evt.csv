@@ -1,0 +1,9 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|infection| Medical Issues - Disease|64|74
+1|intubation| Treatments - Procedure name|136|146
+2|hypoxic respiratory distress| Medical Issues - Symptom|151|179
+3|antibiotics| Treatments - Medicine name|203|214
+4|Please call your doctor or return to the ER if you experience any of the following symptoms: fever > 101.4, nausea/vomiting, chills, severe abdominal pain or any other concerning symptoms.| Aftercare instructions - Emergency instruction|216|404
+5|Please take all medications as prescribed.| Aftercare instructions - patient needs to do - Medication|407|450
+6|You can continue taking your depakote and oral contraceptive when you leave the hospital.| Aftercare instructions - patient needs to do - Medication|450|539
+7|Please follow up with all appointments as instructed.| Aftercare instructions - Upcoming Schedules - Specialist appointment|541|595

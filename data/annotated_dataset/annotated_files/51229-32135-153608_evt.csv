@@ -1,0 +1,8 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|worsening congestive heart failure| Medical Issues - Disease|64|98
+1|build up of fluid around the lungs and in the legs| Medical Issues - Symptom|114|164
+2|Please weigh yourself every morning and call your physician should your weight increase by greater than 3 lbs| Aftercare instructions - patient needs to do - Other|166|275
+3|Please adhere to a 2 gram per day sodium diet and a 1 L daily fluid restriction| Aftercare instructions - patient needs to do - Diet|277|356
+4|Your dose of lasix (furosemide) was increased| Medicine instructions - Medicine changed|358|403
+5|Please continue taking your other medications as prescribed| Aftercare instructions - patient needs to do - Medication|412|471
+6|Please continue to refrain from smoking. Information was given to you on admission regarding smoking cessation and preventing relapses| Aftercare instructions - patient needs to do - Other|792|926

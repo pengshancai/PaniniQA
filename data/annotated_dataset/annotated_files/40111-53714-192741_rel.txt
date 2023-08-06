@@ -1,0 +1,16 @@
+Medical Issues
+Symptoms [No explicit item] caused by Disease <COPD/emphysema>
+Symptoms [No explicit item] caused by Disease <respiratory failure >
+
+Treatments
+Procedure <you were intubated in the emergency department > to treat <respiratory failure>
+<you were intubated in the emergency department >  Results: [No explicit item]
+Procedure <You were admitted to the intensive care unit > to treat <respiratory failure>
+<You were admitted to the intensive care unit >  Results: [No explicit item]
+Medicine <started on antibiotics and steroids > to treat [No explicit item]
+<started on antibiotics and steroids >  Results: [No explicit item]
+Procedure <You were extubated, improved clinically, and transferred to the floor > to treat <respiratory failure>
+<You were extubated, improved clinically, and transferred to the floor >  Results: [No explicit item]
+Medicine < > to treat [No explicit item]
+< >  Results: [No explicit item]
+

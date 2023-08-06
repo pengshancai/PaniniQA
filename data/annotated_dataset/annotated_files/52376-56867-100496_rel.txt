@@ -1,0 +1,21 @@
+Medical Issues
+Symptoms include <fever>;<fatigue>;<difficulty breathing>;
+Symptoms <fever>;<fatigue>;<difficulty breathing> caused by Disease <pneumonia> <CHANGE HERE Maybe>
+Symptoms <fever>;<fatigue>;<difficulty breathing> caused by Disease <pneumocystis (PCP)> <CHANGE HERE Maybe>
+
+Treatments
+Medicine <antibiotics> to treat <pneumocystis (PCP)>
+<antibiotics>  Results: <breathing improved>
+Medicine <steroids> to treat <pneumocystis (PCP)>
+<steroids>  Results: <breathing improved>
+
+
+No template for <You should discuss with your oncologist whether or not you should continue with your steroids after you finish the prednisone and if you continue with the prednisone or dexamethasone you should take bactrim prophylaxis for PCP which is usually one tablet three times per week>
+No template for <Bactrim DS 2 tabs three times daily for a total of 21 days until [**12-14**]>
+No template for <Prednisone 40 mg daily until [**12-3**], then 20 mg daily until [**12-14**]>
+No template for <Dexamethasone>
+No template for <STOP your current pain regimen of morphine and dilaudid>
+No template for <MS Contin 45 mg twice a day (take one 30 mg tablet and one 15 mg tablet for a total of 45 mg)>
+No template for <Dilaudid 2 mg every 4-6 hrs as needed for pain>
+No template for <Please follow up with your oncologist and in pain clinic>
+No template for <Please continue all other home medications>

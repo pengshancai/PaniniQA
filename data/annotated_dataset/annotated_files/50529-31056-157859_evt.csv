@@ -1,0 +1,11 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|shortness of breath| Medical Issues - Symptom|70|89
+1|fluid in you lungs| Tests - Test result|127|145
+2|cardiac ischemia| Medical Issues - Disease|172|188
+3|cardiac catheterization| Treatments - Procedure name|275|298
+4|You had stents placed to these blockages| Treatments - Result of the treatment|300|340
+5|aspirin 325 mg and plavix 75 mg daily to prevent clotting of these stents| Medicine instructions - Medicine started|419|492
+6|Please do not stop either of these medications unless instructed to do so by your cardiologist| Aftercare instructions - patient needs to do - Medication|494|588
+7|Please keep all of your follow up appointments| Aftercare instructions - Upcoming Schedules - Specialist appointment|592|638
+8|If you develop chest pain, shortness of breath or any other concerning symptoms, please call your primary care doctor or go to the nearest Emergency Department| Aftercare instructions - patient needs to do - Other|642|801
+9|| Aftercare instructions - patient needs to do - Other|805|897

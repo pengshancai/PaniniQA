@@ -1,0 +1,8 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|TIPS procedure| Treatments - Procedure name|112|126
+1|chest tube| Treatments - Procedure name|184|195
+2|fluid in your right lungs| Medical Issues - Symptom|218|243
+3|liver transplant| Treatments - Procedure name|369|385
+4|workup will continue on an outpatient basis| Aftercare instructions - Upcoming Schedules - Specialist appointment|433|476
+5|feeding tube| Treatments - Procedure name|602|615
+6|aid with your nutrition| Treatments - Treatment goal|634|657

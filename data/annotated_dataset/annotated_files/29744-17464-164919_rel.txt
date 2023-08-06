@@ -1,0 +1,13 @@
+Medical Issues
+Symptoms include <loss of consciousness>;
+Symptoms <loss of consciousness> caused by Disease <vasovagal syncope > 
+Symptoms <loss of consciousness> caused by Disease <neurocardiogenic syncope > 
+Symptoms [no explicit item] caused by Disease <pneumonia > 
+
+Tests
+Tests include <chest x-rays >;<CT-scan >;<MRI of your spine >;
+Test results of <chest x-rays >;<CT-scan >: <persistent nodule in your lungs >;
+Test results of <MRI of your spine>: <excess water (edema) in two of your cervical vertebrae >;
+
+No template for <Please inform your primary care doctor regarding this finding and give him the radiology reports that we will include with your paperwork. >
+No template for <Per the radiologist, this finding does not imply a poor prognosis, but is rather an unusual abnormality. Please tell your primary care doctor about this finding. >

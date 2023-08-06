@@ -1,0 +1,37 @@
+Medical Issues
+Symptoms include <shortness of breath>;
+Complication <oxygen levels became low > caused by {CHANGE HERE Reason} <{condition while at the hospitalMaybe}>
+Complication < sodium level was low > caused by {new medication for blood pressure} {CHANGE HERE Maybe}
+
+Tests
+Tests include <CT scan of your chest> >;<bronchoscopy >;<blood tests >;
+Test results of {CT scan Test name}: <pneumonia >;
+Test results of {CT scan Test name}: <emphysema >;
+Test results of {bronchoscopy Test name}: <prematurely aborted  >;
+Test goal of {blood test Test name}: < liver enzymes >;
+Test results of {blood test Test name}: <elevated >;
+Test results of {blood test Test name}: < did not have the final results before you were discharged >;
+
+Treatments
+Medicine <antibiotics > to treat {pneumonia Disease}
+<antibiotics >  Results: {fever resolved Treatment Result}
+Medicine <nebulizers > to treat {shortness of breath Disease}
+<nebulizers >  Results: {oxygen levels improved Treatment Result}
+<oxygen levels improved  >  Results: {CHANGE HERE Treatment Result}
+<fevers resolved >  Results: {CHANGE HERE Treatment Result}
+<started on a new medication for your blood pressure >  Results: {CHANGE HERE Treatment Result}
+
+
+No template for <follow-up with your PCP  >
+No template for <see the pulmonologist within 4-6weeks of discharge >
+No template for < Please talk to your PCP about scheduling [**Name Initial (PRE) **] repeat CAT scan of your chest before this appointment >
+No template for <recheck your electrolytes >
+No template for < losartan >
+No template for <50mg once a day for your blood pressure >
+No template for <omeprazole >
+No template for <20mg once a day for heartburn >
+No template for <albuterol inhaler >
+No template for <2puffs every 4-6hours as needed for shortness of breath >
+No template for <hydrochlorothiazide >
+No template for <follow up the final results >
+No template for < recheck your liver function tests >

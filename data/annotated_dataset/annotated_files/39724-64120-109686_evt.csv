@@ -1,0 +1,35 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|ventricular tachycardia| Medical Issues - Disease|153|176
+1|ablation| Treatments - Procedure name|203|211
+2|bleeding in your urine| Medical Issues - Symptom|261|283
+3|Foley catheter| Treatments - Procedure name|421|435
+4|transfused 2 units of packed red blood cells| Treatments - Procedure name|457|501
+5|bladder mass| Medical Issues - Disease|592|604
+6|residual clot burden| Medical Issues - Disease|608|628
+7|follow-up with Urology| Aftercare instructions - Upcoming Schedules - Specialist appointment|639|661
+8|cystoscopy| Treatments - Procedure name|685|695
+9|chest pain| Medical Issues - Symptom|800|810
+10|pressure| Medical Issues - Symptom|812|820
+11|squeezing| Medical Issues - Symptom|822|831
+12|tightness| Medical Issues - Symptom|835|844
+13|vomiting| Medical Issues - Symptom|1036|1044
+14|diarrhea| Medical Issues - Symptom|1046|1054
+15|dehydration| Medical Issues - Disease|1083|1094
+16|dry mouth| Medical Issues - Symptom|1104|1113
+17|rapid heartbeat| Medical Issues - Symptom|1115|1130
+18|dizzy| Medical Issues - Symptom|1143|1148
+19|faint when standing| Medical Issues - Symptom|1152|1171
+20|blood or dark/black material when you vomit| Medical Issues - Symptom|1183|1226
+21|blood in your urine| Medical Issues - Symptom|1302|1321
+22|experience an unusual discharge| Medical Issues - Symptom|1326|1357
+23|aspirin| Medicine instructions - Medicine stopped|1694|1701
+24|aspirin| Medicine instructions - Medicine started|1740|1747
+25|continue all of your other home medications as prescribed| Medicine instructions - Medicine continued|1796|1853
+26|shaking chills| Medical Issues - Symptom|1497|1511
+27|fever greater than 101.5 degrees Fahrenheit| Medical Issues - Symptom|1516|1560
+28|vomiting| Medical Issues - Symptom|928|936
+29|cannot keep down fluids| Medical Issues - Symptom|941|964
+30|worsening cough| Medical Issues - Symptom|867|882
+31|shortness of breath| Medical Issues - Symptom|883|903
+32|wheezing| Medical Issues - Symptom|908|916
+33|bloody urine| Medical Issues - Symptom|390|402

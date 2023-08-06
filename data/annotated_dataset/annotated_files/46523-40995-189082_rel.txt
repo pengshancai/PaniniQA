@@ -1,0 +1,9 @@
+Medical Issues
+Symptoms include <bleeding in the left side of your brain>;<weakness of the right side of your body >;<trouble with speech >;
+Symptoms <bleeding in the left side of your brain>;<weakness of the right side of your body >;<trouble with speech > caused by Disease <uncontrolled hypertension > 
+
+Aftercare instructions
+If encounter <any worsening in your symptoms or have other concerns> do <Please call your PCP or return to the emergency room>
+
+No template for <Please take all medications as prescribed. If you have concerns about the medications, please call your PCP before changing the doses >
+No template for <Your home dose of metformin was 850mg Twice a day, this was decreased to 500mg twice a day as your blood sugar here was less than 200. Your dose may therefore need to be increased. >

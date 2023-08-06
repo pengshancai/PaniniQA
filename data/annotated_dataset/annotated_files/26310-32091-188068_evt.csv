@@ -1,0 +1,11 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|asthma axacerbation| Medical Issues - Symptom|75|94
+1|upper respiratory infection which is most likely viral| Medical Issues - Disease|101|155
+2|atrial fibrillation| Medical Issues - Symptom|181|200
+3|fast heart rate| Medical Issues - Symptom|206|221
+4|rhythm changed back to normal with good rate control| Treatments - Result of the treatment|247|299
+5|Please continue to take the medications as written.| Aftercare instructions - patient needs to do - Medication|320|371
+6|If you have problems taking your inhalers please call your doctor's office.| Aftercare instructions - patient needs to do - Medication|372|452
+7|Your new medications include- Atrovent and Prednisone and saline nasal spray.| Medicine instructions - Medicine started|453|530
+8|Please keep all of the follow up appointments.| Aftercare instructions - Upcoming Schedules - Specialist appointment|533|579
+9|| Aftercare instructions - Emergency instruction|582|743

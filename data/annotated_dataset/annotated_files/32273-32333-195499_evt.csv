@@ -1,0 +1,11 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|altered mental status| Medical Issues - Symptom|58|79
+1|agitation| Medical Issues - Symptom|84|93
+2|drug overdose| Medical Issues - Disease|129|142
+3|agitation and unresponsiveness returned| Medical Issues - Complication developed in the hospital|261|300
+4|substance abuse| Medical Issues - Disease|359|374
+5|If you are on home medications we urge you to tell your primary care physician.| Aftercare instructions - patient needs to do - Medication|626|706
+6|We strongly recommend that you refrain from using any medications that are not prescribed to you by your primary care physician.| Aftercare instructions - patient needs to do - Medication|707|835
+7|[**Name10 (NameIs) 357**] follow up with you primary care doctor within the next two weeks to verify your full recovery.| Aftercare instructions - Upcoming Schedules - PCP appointment|836|957
+8|If you develop fever, chills, or confusion please return to the Emergency Department.| Aftercare instructions - Emergency instruction|957|1042
+9|If when you return home you feel you are a threat to yourself or others please call 911 or return to the Emergency Department.| Aftercare instructions - Emergency instruction|1042|1169

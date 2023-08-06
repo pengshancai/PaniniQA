@@ -1,0 +1,15 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|confusion| Medical Issues - Symptom|63|72
+1|liver disease| Medical Issues - Disease|77|91
+2|urinary tract infection| Medical Issues - Disease|118|142
+3|bleeding from your stomach| Medical Issues - Disease|162|188
+4|blood transfusions| Treatments - Procedure name|202|221
+5|broke fingers on your left hand| Medical Issues - Disease|235|266
+6|splint| Treatments - Procedure name|279|285
+7|You should follow-up your liver problems with the liver doctors at [**Hospital3 2576**] [**Hospital3 **] within the next 10-14 days if possible.| Aftercare instructions - Upcoming Schedules - Specialist appointment|287|432
+8|You should follow-up with your gastroenterologist at [**Hospital 882**] Hospital for an endoscopy for treatment of your stomach bleeding.| Aftercare instructions - Upcoming Schedules - Specialist appointment|432|569
+9|Finally you should follow-up with a hand specialist in the next 1-2 weeks for your fractures.| Aftercare instructions - Upcoming Schedules - Specialist appointment|570|664
+10|Please Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more than 3 lbs.| Aftercare instructions - patient needs to do - Other|666|761
+11|Your Rifaxamin dose was CHANGED to 550 mg [**Hospital1 **].| Medicine instructions - Medicine changed|817|876
+12|Your lasix dose was DECREASED to 40 mg daily.| Medicine instructions - Medicine changed|877|922
+13|You were STARTED on ciproloxacin which you should continue for two more days.| Medicine instructions - Medicine started|923|1000

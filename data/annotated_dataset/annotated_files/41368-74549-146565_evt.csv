@@ -1,0 +1,10 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|pulmonary emboli| Medical Issues - Disease|179|195
+1|difficult for you to breathe| Medical Issues - Symptom|264|292
+2|increased the work that your heart does| Medical Issues - Symptom|297|336
+3|treat you medically with medications that can help prevent further clots from forming| Treatments - Medicine name|413|498
+4|Ultrasound| Treatments - Procedure name|500|510
+5|the blood thinner you have been started on will help to prevent further such clots from forming.| Treatments - Medicine name|654|751
+6|START warfarin.| Treatments - Medicine name|1070|1085
+7|STOP metoprolol| Medicine instructions - Medicine stopped|1086|1101
+8|Continue primodone if you want| Medicine instructions - Medicine continued|1103|1133

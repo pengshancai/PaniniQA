@@ -1,0 +1,7 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|worsening liver failure| Medical Issues - Disease|95|118
+1|focus foremost on your comfort| Treatments - Treatment goal|239|269
+2|discharged to a facility with hospice| Treatments - Procedure name|294|331
+3|Start lorazepam as needed for anxiety and shortness of breath.| Medicine instructions - Medicine started|591|653
+4|Start morphine as needed for pain and shortness of breath.| Medicine instructions - Medicine started|657|715
+5|Use vaseline as needed for dry skin.| Aftercare instructions - patient needs to do - Medication|719|755

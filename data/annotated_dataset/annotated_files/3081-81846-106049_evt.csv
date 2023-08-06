@@ -1,0 +1,14 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|shortness of breath| Medical Issues - Symptom|101|120
+1|ultrasound of your heart| Tests - Test name|125|149
+2|showed dilation of your heart| Tests - Test result|170|199
+3|use of methamphetamines| Medical Issues - Disease|236|259
+4|It is important that you stop using drugs as this can have a serious impact on your heart and potentially cause death.| Aftercare instructions - patient needs to do - Medication|260|380
+5|fever| Medical Issues - Symptom|390|395
+6|hepatitis C| Medical Issues - Disease|619|630
+7|Please follow up with the infectious disease and liver doctors as below.| Aftercare instructions - Upcoming Schedules - Specialist appointment|646|718
+8|Please weigh yourself every morning, call your PCP [**Last Name (NamePattern4) **]. [**Last Name (STitle) **] if your weight goes up more than 3 lbs.| Aftercare instructions - patient needs to do - Other|718|868
+9|START taking metoprolol for your cardiomyopathy| Medicine instructions - Medicine started|925|972
+10|START taking lisinopril for your cardiomyopathy| Medicine instructions - Medicine started|975|1022
+11|Please follow up at the appointments below (with infectious disease, liver, cardiology, and your primary care doctor).| Aftercare instructions - Upcoming Schedules - Specialist appointment|1023|1141
+12|dilation of your heart| Medical Issues - Disease|177|199

@@ -1,0 +1,16 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|urinary urgency| Medical Issues - Symptom|48|63
+1|fever| Medical Issues - Symptom|65|70
+2|low blood pressure| Tests - Test result|72|90
+3|passing out| Medical Issues - Symptom|107|118
+4|admitted to the ICU| Treatments - Procedure name|147|166
+5|concerns of a severe infection given the low blood pressure| Treatments - Treatment goal|171|230
+6|you were given broad coverage antibiotics and this was changed over to ciprofloxacin for cystitis (infection of the bladder and urinary tract)| Treatments - Medicine name|399|541
+7|IV fluids| Treatments - Medicine name|558|567
+8|symptoms improved| Treatments - Result of the treatment|574|591
+9|urine and blood cultures| Tests - Test name|598|622
+10|still pending| Tests - Test result|627|640
+11|Please be sure to stay well hydrated and drink plenty of fluids.| Aftercare instructions - patient needs to do - Diet|713|778
+12|Please take a few days to rest after discharge.| Aftercare instructions - patient needs to do - Other|778|825
+13|ciprofloxacin 500mg [**Hospital1 **] (twice a day) for 13 more days to complete a 14 day course.| Aftercare instructions - patient needs to do - Medication|863|959
+14|Please take all of your medications as prescribed and follow up with the appointments below.| Aftercare instructions - patient needs to do - Other|962|1054

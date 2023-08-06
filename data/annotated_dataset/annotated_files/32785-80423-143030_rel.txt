@@ -1,0 +1,8 @@
+Treatments
+Medicine <amiodarone > to treat {fast heart beat}
+Procedure <ablation procedure > to treat {fast heart beat}
+<ablation procedure >  Results: <You tolerated the procedure well>
+
+No template for <You will follow up with Dr. [**Last Name (STitle) **] next week and will need to get your platelet count followed regularly.  >
+No template for <Change metoprolol to tartrate and increase the dose to 50 mg three times a day to lower your heart rate >
+No template for < >

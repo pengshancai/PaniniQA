@@ -1,0 +1,29 @@
+Medical Issues
+Symptoms include <confusion>;<difficulty writing >;<difficulty moving the right side of your body >;
+Symptoms {CHANGE HERE Symptom name} caused by Disease <brain swelling > {CHANGE HERE Maybe}
+Complication <blood infection > caused by {CHANGE HERE Reason} {CHANGE HERE Maybe}
+
+Tests
+Tests include <brain biopsy >;
+Test results of {brain biopsy}: <brain lymphoma >;
+
+Treatments
+Medicine <methotrexate > to treat {lymphoma}
+<methotrexate >  Results: {brain swelling decreased};{confusion and mental state improved significantly}
+<prevention of seizures  >  Results: {No explicit item}
+<prevention of infection >  Results: {No explicit item}
+Medicine <Vancomycin > to treat {blood infection}
+<Vancomycin >  Results: {No explicit item}
+Medicine <steroids > to treat {brain swelling}
+<steroids >  Results: {No explicit item}
+
+
+Aftercare instructions
+If encounter {fevers, chills, shortness of breath, chest pain, severe headaches, new weakness, numbness, balance difficulties, double vision or any other symptom concerning to you} do <call the health care provider at your facility for further assistance or go to the emergency room >
+
+No template for <You should continue to take these medications >
+No template for <You should continue to take this for an additional 4 days >
+No template for <You should continue to take this for an additional 4 days >
+No template for <continue to take these as prescribed >
+No template for <Because of the swelling in your brain, you were also placed on steroids, you should continue to take these as prescribed. >
+No template for <During your stay, you were also suspected to to have a blood infection, for which you are being treated with antibiotic (Vancomycin). >

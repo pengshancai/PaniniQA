@@ -1,0 +1,19 @@
+Medical Issues
+Symptoms include <increased fluid on your body>;<kidneys were not functioning well>;
+Symptoms <increased fluid on your body> caused by Disease <kidneys were not functioning well> 
+Symptoms [no explicit item] caused by Disease <atrial fibrillation> 
+
+Treatments
+Procedure <catheter was placed > to treat <kidneys were not functioning well>
+<catheter was placed >  Results: [no explicit item]
+Procedure <dialysis > to treat <kidneys were not functioning well>
+<dialysis >  Results: [no explicit item]
+
+No template for <lasix>
+No template for <nadolol>
+No template for <potassium>
+No template for <renagel (sevelamer)>
+No template for <nephrocaps (B-vitamin-B12-folate)>
+No template for <midodrine>
+No template for <Please call your physician or return to the ED if you have worsening swelling, shortness of breath, chest pain, or other symptoms that are concerning to you>
+No template for <Please adhere to a low sodium (&lt;2 gm/day) diet>

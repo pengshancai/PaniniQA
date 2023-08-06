@@ -1,0 +1,16 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|abnormal, fast heart rhythm| Medical Issues - Symptom|67|94
+1|fluid in your lungs| Medical Issues - Symptom|104|123
+2|atrial fibrillation| Medical Issues - Disease|153|172
+3|shock (cardioversion)| Treatments - Procedure name|184|205
+4|It is recommended that you take a blood thinner for the rest of your life due to the risk of you heart returning to this abnormal rhythm and a risk of stroke from this abnormal rhythm. At a minimum, it is essential that you take a blood thinner for the next 30 days. We have decided to prescribe Dabigatran which is a blood thinner that does not require monitoring. You should take this medication twice a day for the next 30 days. If you do not take it, you have a risk of having a stroke.| Medicine instructions - Medicine started|253|744
+5|We recommend that you take a full dose Aspirin 325mg daily after you stop the Dabigatran.| Medicine instructions - Medicine changed|745|834
+6|Dabigatran 75mg by mouth twice a day for 30 days| Medicine instructions - Medicine started|888|936
+7|to prevent a stroke Lasix/Furosemide 40mg by mouth daily for at least 14 days| Medicine instructions - Medicine started|939|1016
+8|to remove extra fluid that makes you short of breath Metoprolol 25mg by mounth once a day| Medicine instructions - Medicine started|1019|1108
+9|to control your heart rate Please start a full dose aspirin (325mg per day) after you complete Dabigatran| Aftercare instructions - patient needs to do - Medication|1111|1216
+10|We recommend that you see a cardiologist in 6 weeks. The phone number for cardiology here is ([**Telephone/Fax (1) 2037**].| Aftercare instructions - Upcoming Schedules - Specialist appointment|1218|1341
+11|Please see your new primary care doctor as detailed below.| Aftercare instructions - Upcoming Schedules - PCP appointment|1342|1400
+12|Please return to the hospital with any symptoms of shortness of breath, palpitations, chest pain, leg swelling or any other symptoms that concern you.| Aftercare instructions - Emergency instruction|1401|1551
+13|Please weigh yourself everyday and call your doctor if your weight goes up more than 6lbs.| Aftercare instructions - patient needs to do - Other|1552|1642
+14|Please limit your salt intake to less than 2gram per day to prevent heart failure symptoms.| Aftercare instructions - patient needs to do - Diet|1643|1734

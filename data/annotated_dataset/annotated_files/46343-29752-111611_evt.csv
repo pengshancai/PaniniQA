@@ -1,0 +1,12 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|shortness of breath| Medical Issues - Symptom|47|66
+1|chest pain| Medical Issues - Symptom|83|93
+2|cardiac catheterization| Treatments - Procedure name|234|257
+3|determine the anatomy and pressures in your heart| Treatments - Treatment goal|175|224
+4|During the procedure, it was found that the apex of your heart was bigger than it should be. As a result, a diagnosis of takotsubo cardiomyopathy was made, which is a condition in which you can go into congestive heart failure and have acute changes in the anatomy of your heart based on acute changes in emotion or anxiety.| Treatments - Result of the treatment|259|583
+5|takotsubo cardiomyopathy| Medical Issues - Disease|380|404
+6|You were given medications to remove fluid from your lungs (which you will be started on at home) and medications to control your heart.| Medicine instructions - Medicine started|584|720
+7|You have an appointment with a cardiologist (Dr. [**Last Name (STitle) **] and one that you must make with your primary care provider.| Aftercare instructions - Upcoming Schedules - Specialist appointment|721|855
+8|[**Name10 (NameIs) **] you experience any acute shortness of breath, cough up pink tinged sputum, chest pain, loss of consciousness, or extreme lightheadedness/dizziness, please call your primary care physician [**Last Name (NamePattern4) **] [**Telephone/Fax (1) 608**].| Aftercare instructions - Emergency instruction|856|1127
+9|In addition: weigh yourself every morning, [**Name8 (MD) 138**] MD if weight &gt; 3 lbs and adhere to 2 gm sodium diet every day.| Aftercare instructions - patient needs to do - Diet|1128|1257
+10|In addition: weigh yourself every morning, [**Name8 (MD) 138**] MD if weight &gt; 3 lbs and adhere to 2 gm sodium diet every day.| Aftercare instructions - patient needs to do - Other|1128|1257

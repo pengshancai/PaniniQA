@@ -1,0 +1,7 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|shortness of breath| Medical Issues - Symptom|175|194
+1|antibiotics| Treatments - Medicine name|238|249
+2|nebulizers| Treatments - Procedure name|251|261
+3|morphine| Treatments - Medicine name|306|314
+4|Please take all of your medications exactly as prescribed| Aftercare instructions - patient needs to do - Medication|374|431
+5|Please call your physician or return to the emergency department if you experience fevers, chest pain, worsening shortness of breath that in not relieved with your medications, or any other concerning symptoms| Aftercare instructions - patient needs to do - Other|433|642

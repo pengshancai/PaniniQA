@@ -1,0 +1,13 @@
+Medical Issues
+Symptoms {No explicit item} caused by Disease <traumatic fall> [No explicit item]
+
+Treatments
+Procedure <physical therapy with gait training > to treat {traumatic fall}
+<physical therapy with gait training >  Results: {return home}
+<return home >  Results: [No explicit item]
+<healing >  Results: [No explicit item]
+<stamina >  Results: [No explicit item]
+
+No template for <rehab >
+No template for <eat >
+No template for <stay hydrated  >

@@ -1,0 +1,14 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|hard time breathing| Medical Issues - Symptom|180|199
+1|tube placed down your throat| Treatments - Procedure name|305|333
+2|pneumonia| Tests - Test result|346|355
+3|placed a needle near your lungs to help take off some fluid which had accumulated there.| Treatments - Procedure name|600|690
+4|We also were able to take the tube out of your throat, and you breathed well on your own.| Treatments - Result of the treatment|690|779
+5|antibiotics| Treatments - Medicine name|819|830
+6|you got better| Treatments - Result of the treatment|836|850
+7|our speech and swallow specialists saw you twice, and both times felt that it was unsafe for you to continue to eat foods by mouth, because of the risk of aspiration.| Medical Issues - Complication developed in the hospital|861|1027
+8|we placed a "PEG" tube, which helps give you nutrition directly to your stomach.| Treatments - Procedure name|1045|1135
+9|START Furosemide 40 mg Daily (continue to take this until your body swelling improves)| Medicine instructions - Medicine started|1167|1253
+10|START heparin 5000 U subcutaneously every eight (8) hours| Medicine instructions - Medicine started|1256|1313
+11|STOP Gabapentin 300 mg at night (you did not require this medication while in the hospital)| Medicine instructions - Medicine stopped|1316|1407
+12|We did not make any other changes to your home medications, so please continue to take them as you normally have been.| Medicine instructions - Medicine continued|1408|1526

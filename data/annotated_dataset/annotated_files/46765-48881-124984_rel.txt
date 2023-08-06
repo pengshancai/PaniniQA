@@ -1,0 +1,16 @@
+Medical Issues
+Symptoms [no explicit item] caused by Disease <heart attack> 
+
+Treatments
+Procedure <cardiac catheterization > to treat <heart attack>
+<cardiac catheterization >  Results: <stent was placed >
+
+No template for <It is very important that you do not stop ANY of your medications until you speak with your cardiologist. >
+No template for <It is very important that you do not stop ANY of your medications until you speak with your cardiologist. >
+No template for <Medication changes: DECREASE enalapril to 5mg daily (for blood pressure) STOP hydrochlorothiazine (for blood pressure) >
+No template for <STOP hydrochlorothiazine (for blood pressure) >
+No template for <STOP simvastatin (this has been replaced by another cholesterol med) >
+No template for <START atorvastatin 80mg daily (for cholesterol) >
+No template for <START clopidogrel 75mg daily (blood thinner) DO NOT STOP WITHOUT DISCUSSING WITH YOUR CARDIOLOGIST >
+No template for <START metoprolol 12.5mg twice daily (for blood pressure and heart rate) >
+No template for <DO NOT STOP WITHOUT DISCUSSING WITH YOUR CARDIOLOGIST >

@@ -1,0 +1,10 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|lung surgery| Treatments - Procedure name|65|78
+1|You will continue to need pain medication once you are home but you can wean it over a few weeks as the discomfort resolves| Treatments - Medicine name|541|664
+2|Use a stool softener or gentle laxative to stay regular| Treatments - Medicine name|805|860
+3|Take Tylenol 650 mg every 6 hours in between your narcotic| Treatments - Medicine name|916|974
+4|If your doctor allows you may also take Ibuprofen to help relieve the pain| Treatments - Medicine name|976|1050
+5|Continue to stay well hydrated and eat well to heal your incisions| Aftercare instructions - patient needs to do - Diet|1054|1120
+6|No tub bathing, swimming or hot tubs until incision healed| Aftercare instructions - patient needs to do - Other|1196|1254
+7|shortness of breath| Medical Issues - Symptom|1498|1517
+8|chest pain| Medical Issues - Symptom|1519|1529

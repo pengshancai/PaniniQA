@@ -1,0 +1,18 @@
+
+Treatments
+Procedure <lung surgery> to treat [no explicit item]
+<lung surgery> Results: <recovered well >
+
+Aftercare instructions
+If encounter <Fevers or chills, Increased shortness of breath, chest pain or any other symptoms that concern you > do <Call Dr.[**Name (NI) 2347**] office [**Telephone/Fax (1) 2348**]>
+
+No template for <* Continue to use your incentive spirometer 10 times an hour while awake.  >
+No template for <* Check your incisions daily and report any increased redness or drainage. Cover the area with a gauze pad if it is draining.  >
+No template for <* Your chest tube dressing may be removed in 48 hours. If it starts to drain, cover it with a clean dry dressing and change it as needed to keep site clean and dry. >
+No template for <* You will continue to need pain medication once you are home but you can wean it over a few weeks as the discomfort resolves. Make sure that you have regular bowel movements while on narcotic pain medications as they are constipating which can cause more problems. Use a stool softener or gentle laxative to stay regular.  >
+No template for <* No driving while taking narcotic pain medication.  >
+No template for <* Take Tylenol 650 mg every 6 hours in between your narcotic. If your doctor allows you may also take Ibuprofen to help relieve the pain.  >
+No template for <* Continue to stay well hydrated and eat well to heal your incisions  >
+No template for <* Shower daily. Wash incision with mild soap &amp; water, rinse, pat dry  >
+No template for <* No tub bathing, swimming or hot tubs until incision healed >
+No template for < Walk 4-5 times a day and gradually increase your activity as you can tolerate >

@@ -1,0 +1,13 @@
+Medical Issues
+Symptoms include <altered mental status>;<slurred speech>;<bradycardic>;
+
+Tests
+Tests include <CT>;<MRI>;<EEG>;<CSF>;
+Test results of <CT>;<MRI>;<EEG>: <no evidence of stroke or seizures >;
+Test goal of <CSF>: <to assess for possible infectious etiology for your change in mental status>;
+
+Treatments
+<CHANGE HERE Procedure name / Medicine name> Results: <mental status and heart rate improved by hospital day #2>
+
+No template for <Please take medications as scheduled - there has been no changes to your medications>
+No template for <Please contact your PCP to set up a follow-up appointment as soon as available>

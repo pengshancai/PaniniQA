@@ -1,0 +1,25 @@
+Medical Issues
+Symptoms include <weakness>;
+Symptoms <weakness> caused by Disease <stroke > 
+
+Treatments
+Medicine <heparin > to treat <stroke>
+<heparin >  Results: [no explicit item]
+Medicine <coumadin > to treat <stroke>
+<coumadin >  Results: [no explicit item]
+<heparin>;<coumadin> Results: <thin your blood >
+
+No template for <You will continue to take coumadin for 2 months and then will restart aspirin. >
+No template for <You will continue to take coumadin for 2 months and then will restart aspirin. >
+No template for <You will have a follow-up appointment with Dr. [**First Name (STitle) **] in 2 months. >
+No template for <Please note the following changes to your medications: START: - coumadin (take for a total of 2 months, you will need your INR blood level checked regularly while on this medication) >
+No template for <benadryl/sarna lotion for itch >
+No template for <artificial tears for dry eyes >
+No template for <Capsaicin cream for pain over knee >
+No template for <Percocet for back/knee pain >
+No template for <Rosuvastatin for high cholesterol >
+No template for <Clobetasol ointment 0.5% to affected areas (NOT on face, skin folds, arm pits or inner thighs) >
+No template for <Hydrocortisone cream to affected areas on face, skin folds and arm pits, inner thighs  >
+No template for <INCREASE: - amlodipine 5mg --&gt; 10mg daily >
+No template for <STOP: - aspirin (you will restart this medication in 2 months after stopping coumadin) >
+No template for < >

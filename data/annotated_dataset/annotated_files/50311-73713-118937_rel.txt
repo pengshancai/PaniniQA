@@ -1,0 +1,18 @@
+Medical Issues
+Symptoms include <confusion >;
+Symptoms[no explicit item] caused by Disease <pneumonia > 
+Symptoms <confusion> caused by Disease <urinary tract infection > 
+
+Tests
+Tests include <platelet count >;
+Test results of <{pulse oximetry}>: <decrease oxygen levels in your blood>;
+Test results of <platelet count>: < low >;
+Test results of <{blood test}>: <decreased levels of potassium and phosphorous >;
+
+Treatments
+Medicine <IV antibiotics > to treat <urinary tract infection>;<pneumonia>;
+<IV antibiotics >  Results: [no explicit item]
+
+No template for <You were taken off heparin and omeprazole >
+No template for <You should refrain from using Oxycodone in the future >
+No template for <You should have your labs checked with your primary care physician in one week >

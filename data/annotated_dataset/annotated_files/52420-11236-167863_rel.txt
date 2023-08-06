@@ -1,0 +1,30 @@
+Medical Issues
+Symptoms include <diarrhea>;
+Symptoms <respiratory failure> caused by Disease <pneumonia> 
+Symptoms [no explicit item] caused by Disease <renal failure>
+
+Tests
+Tests include <platelet count>;
+Test results of <{blood pressure measurement}>: <hypotensive (low blood pressure)>;
+Test results of <stool guaiac test>: <guaiac positive >;
+Test results of <platelet count>: <very low>;
+
+Treatments
+Procedure <IV fluids> to treat <hypotensive (low blood pressure)>
+<IV fluids >  Results: [no explicit item]
+Medicine <antibiotics> to treat <pneumonia>
+<antibiotics >  Results: [no explicit item]
+Medicine <pulse dose steroids> to treat <diarrhea>
+<pulse dose steroids>  Results: [no explicit item]
+Medicine <taper of prednisone> to treat <diarrhea>
+<taper of prednisone>  Results: [no explicit item]
+Procedure <anticoagulation was stopped> to treat <{low platelet count}>
+<anticoagulation was stopped>  Results: [no explicit item]
+
+
+No template for <Please make sure to discuss with your doctor when it is appropriate for you to restart your metoprolol and lovenox>
+No template for <lovenox>
+No template for <metoprolol>
+No template for <Calcium>
+No template for <vitamin D>
+No template for <If you experience any shortness of breath, chest pains, abdominal pains, fevers or chills, or any other concerning symptoms please call your doctor or return to the emergency room>

@@ -1,0 +1,17 @@
+Medical Issues
+Symptoms include <abnormal heart rhythm which would come and go occasionally>;
+
+Treatments
+Procedure <Electrophysiology Lab > to treat [no explicit item]
+<Electrophysiology Lab > Results: <parts of cardiac tissue contributing to your abnormal heart rhythm could not be completely ablated because it was too close to your coronary arteries and there was a lot of calcification around the area >
+
+Aftercare instructions
+If encounter <any symptoms concerning to you> do <Please seek medical attention >
+
+No template for <You will be sent home with [**Initials (NamePattern4) **] [**Last Name (NamePattern4) **] of Hearts monitor which will be further explained to you before leaving the hospital. >
+No template for <You will wear this monitor for several days and push an event button to record when you are feeling symptoms. At this time, the monitor will record your heart rhythm, which can be analyzed afterwards by your cardiologist. >
+No template for <The following changes have been made to your medications: >
+No template for <Your mexilitine has been stopped >
+No template for <Your lisinopril has been decreased from 20mg to 10mg >
+No template for <All of the rest of your medications are unchanged. >
+No template for <Please be sure to keep all of your followup appointments. >

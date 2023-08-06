@@ -1,0 +1,14 @@
+Medical Issues
+Symptoms include <severe liver laceration>;<lung laceration >;<bruising and rib fractures >;<abdominal pain >;<fluid which has collected in your abdomen >;<right rib fractures 8 and 10  >;<severe pain >;<acute shortness of breath >;<increased pain or crackling sensation around your ribs ( crepitus ) >;<increased abdominal pain >;<dizziness >;<increased fatigue >;
+Symptoms [No explicit item] caused by Disease <Pneumonia >
+
+Tests
+Tests include <blood count  >;
+
+Treatments
+Procedure <use your incentive spirometer 4 times every hour while awake > to treat <pneumonia>
+<use your incentive spirometer 4 times every hour while awake >  Results: [No explicit item]
+Medicine <non steroidal antiinflammatory drugs are very effective in controlling pain ( ie, Ibuprofen, Motrin, Advil, Aleve, Naprosyn) > to treat <pain>
+<non steroidal antiinflammatory drugs are very effective in controlling pain ( ie, Ibuprofen, Motrin, Advil, Aleve, Naprosyn) >  Results: [No explicit item]
+
+No template for <You should take your pain medication as directed to stay ahead of the pain otherwise you won&#x27;t be able to take deep breaths >

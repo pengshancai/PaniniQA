@@ -1,0 +1,11 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|bleeding from your rectum| Medical Issues - Symptom|70|95
+1|multiple blood transfusions| Treatments - Procedure name|130|157
+2|colonoscopy| Tests - Test name|216|227
+3|interventional radiology procedure| Tests - Test name|235|269
+4|which could not localize the sites of your bleeding| Tests - Test result|270|321
+5|You should call your Cardiologist [**Last Name (LF) 766**], [**2161-5-18**] to discuss re-starting your Aspirin and Plavix. You should also set up an appointment with your cardiologist for follow-up.| Aftercare instructions - Upcoming Schedules - Specialist appointment|377|576
+6|While you were here, your home medications were changed.| Medicine instructions - Medicine changed|577|633
+7|You should CONTINUE taking: simvastatin 80mg daily allopurinol 100mg daily| Medicine instructions - Medicine continued|634|708
+8|You should STOP taking: Plavix Aspirin - UNTIL you discuss this with your cardiologist and PCP.| Medicine instructions - Medicine stopped|709|804
+9|[**Name10 (NameIs) 357**] call them the day after discharge| Aftercare instructions - Upcoming Schedules - Specialist appointment|805|864

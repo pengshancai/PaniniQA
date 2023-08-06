@@ -1,0 +1,10 @@
+Medical Issues
+Symptoms include <nausea>;<vomiting >;
+Symptoms <nausea> <vomiting> caused by Disease <Diabetic Ketoacidosis > 
+
+Treatments
+Medicine <medication > to treat <Diabetic Ketoacidosis>
+<medication >  Results: <blood sugar was controlled >
+<medication> Results: <Your nausea and vomiting resolved >
+
+No template for < >

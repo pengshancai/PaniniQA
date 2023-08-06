@@ -1,0 +1,18 @@
+Medical Issues
+Symptoms include <low blood count>;
+Symptoms <low blood count> caused by Disease <esophageal variceal bleeding > <Maybe>
+
+Tests
+Tests include <esophagogastroduodenoscopy >;
+Test results of <esophagogastroduodenoscopy>: <showed varices in your distal esophagus which were banded >;
+
+Treatments
+Medicine <five units of packed red blood cells > to treat <esophageal variceal bleeding>
+
+No template for <CONTINUE NADOLOL 20 mg by mouth once a day >
+No template for <CONTINUE THIAMINE 100 mg by mouth once a day >
+No template for <CONTINUE DIOVAN 160 mg by mouth once a day  >
+No template for <INCREASE OMEPRAZOLE to 40 mg by mouth twice a day >
+No template for <START FOLIC ACID 1 mg by mouth once a day >
+No template for <START FERROUS SULFATE 325 mg by mouth three times a day >
+No template for <START SUCRALFATE 1 gm suspension four times a day for 10 days (End date: [**2120-5-13**]) >

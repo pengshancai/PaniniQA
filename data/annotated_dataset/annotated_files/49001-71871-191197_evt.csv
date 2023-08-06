@@ -1,0 +1,17 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|gastrointestinal bleed| Medical Issues - Disease|104|126
+1|low blood pressure| Medical Issues - Symptom|165|183
+2|intravenous fluid| Treatments - Medicine name|200|217
+3|two units of blood| Treatments - Medicine name|222|240
+4|your blood counts (hemoglobin and hematocrit) had increased| Treatments - Result of the treatment|321|380
+5|blood pressure returned to [**Location 213**]| Treatments - Result of the treatment|390|435
+6|upper endoscopy| Tests - Test name|496|511
+7|colonoscopy| Tests - Test name|515|526
+8|capsule study| Tests - Test name|534|547
+9|to look for the source of bleeding| Tests - Test goal|457|491
+10|normal| Tests - Test result|573|579
+11|did not find a source of bleeding, but did find polyps in your colon| Tests - Test result|597|665
+12|will need to be removed| Tests - Test implication|673|696
+13|in progress| Tests - Test result|718|730
+14|you will need to follow up with your gastroenterologist for the results| Aftercare instructions - Upcoming Schedules - Specialist appointment|735|806
+15|follow up with your primary care doctor| Aftercare instructions - Upcoming Schedules - PCP appointment|825|864

@@ -1,0 +1,10 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|fever| Medical Issues - Symptom|77|82
+1|renal failure| Medical Issues - Disease|84|97
+2|ascites| Medical Issues - Disease|102|109
+3|An intravenous line was inserted into your arm| Treatments - Procedure name|111|157
+4|given fluids| Treatments - Procedure name|171|183
+5|Blood work| Tests - Test name|185|195
+6|lab tests| Tests - Test name|200|209
+7|reaction to the antibiotic| Medical Issues - Symptom|253|279
+8|Prednisone 30mg daily| Treatments - Medicine name|504|526

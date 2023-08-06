@@ -1,0 +1,13 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|fevers| Medical Issues - Symptom|91|97
+1|confusion| Medical Issues - Symptom|99|108
+2|cough| Medical Issues - Symptom|114|119
+3|aspiration pneumonia| Medical Issues - Disease|153|173
+4|antibiotics| Treatments - Medicine name|197|209
+5|improved| Treatments - Result of the treatment|213|221
+6|seen by our speech and swallow specialists who assessed your swallowing| Tests - Test name|237|308
+7|recommended that supervised feeding of a soft diet with nectar thickened liquids would be the best way to prevent future aspiration events| Tests - Test result|313|451
+8|Please START Augmentin 875mg twice daily ending [**12-7**]| Medicine instructions - Medicine started|527|586
+9|Please START Albuterol inhaler as needed| Medicine instructions - Medicine started|588|628
+10|Please DECREASE your home glipizide dose to 2.5mg daily| Medicine instructions - Medicine changed|631|686
+11|Please STOP your home metformin| Medicine instructions - Medicine stopped|689|720

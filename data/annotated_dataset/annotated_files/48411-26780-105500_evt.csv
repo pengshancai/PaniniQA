@@ -1,0 +1,19 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|falls| Medical Issues - Symptom|106|111
+1|kidney failure| Tests - Test result|139|153
+2|antibiotics| Treatments - Medicine name|221|232
+3|kidney function| Tests - Test name|267|283
+4|improving| Tests - Test result|287|296
+5|follow up as an outpatient with the kidney doctors| Aftercare instructions - Upcoming Schedules - Specialist appointment|347|398
+6|MGUS may be progressing further| Medical Issues - Complication developed in the hospital|515|546
+7|bone marrow biopsy| Tests - Test name|550|568
+8|multiple myeloma| Tests - Test implication|604|620
+9|hematologist/oncologist| Aftercare instructions - Upcoming Schedules - Specialist appointment|684|707
+10|heart was beating very slowly| Medical Issues - Complication developed in the hospital|803|832
+11|unresponsive| Medical Issues - Complication developed in the hospital|846|858
+12|follow up with the heart doctors| Aftercare instructions - Upcoming Schedules - Specialist appointment|934|966
+13|lisinopril| Medicine instructions - Medicine stopped|1072|1082
+14|citalopram| Medicine instructions - Medicine stopped|1122|1132
+15|gabapentin| Medicine instructions - Medicine stopped|1172|1182
+16|HAVE BLOODWORK CHECKED| Aftercare instructions - Upcoming Schedules - Test|1225|1248
+17|YOU SHOULD BE DRINKING AT LEAST [**1-26**] LITERS PER DAY| Aftercare instructions - patient needs to do - Diet|1300|1357

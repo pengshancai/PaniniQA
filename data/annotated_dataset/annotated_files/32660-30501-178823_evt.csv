@@ -1,0 +1,12 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|fever| Medical Issues - Symptom|77|82
+1|low blood pressure| Medical Issues - Symptom|84|102
+2|low oxygen content in your blood| Medical Issues - Symptom|108|140
+3|recurrent pneumonia| Medical Issues - Disease|169|188
+4|antibiotics| Treatments - Medicine name|210|221
+5|intravenous fluids| Treatments - Medicine name|223|241
+6|oxygen| Treatments - Medicine name|247|253
+7|Please continue to use oxygen at home, via nasal cannula on [**2-8**] L of oxygen during the day, and via face mask on 40% during the night.| Aftercare instructions - patient needs to do - Medication|255|396
+8|COPD| Medical Issues - Disease|493|497
+9|Please complete the 7 day course of antibiotics as instructed. The last day of your antibiotics (Zosyn) is [**7-6**].| Aftercare instructions - patient needs to do - Medication|500|619
+10|If you experience fevers, chills, nausea, vomiting, severe coughing, shortness of breath, chest pain, or any other worrisome symptoms, please call your primary care physician or return to the emergency room.| Aftercare instructions - Emergency instruction|620|828

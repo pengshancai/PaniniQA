@@ -1,0 +1,26 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|abdominal distention| Medical Issues - Symptom|64|84
+1|nausea| Medical Issues - Symptom|86|92
+2|bloody vomit| Medical Issues - Symptom|98|110
+3|endoscopy of your upper gastrointestinal tract| Treatments - Procedure name|143|189
+4|showed erosion and inflammation in your esophagus that was likely the cause of your bleeding| Treatments - Result of the treatment|196|288
+5|Biopsies| Tests - Test name|290|298
+6|proton pump inhibitor| Treatments - Medicine name|333|354
+7|sulfacrate| Treatments - Medicine name|359|369
+8|We also stopped your blood thinning medication, aggrenox that you were on to prevent recurrent stroke. You should talk to your doctor about starting this medicine again.| Medicine instructions - Medicine stopped|437|606
+9|We also stopped your blood thinning medication, aggrenox that you were on to prevent recurrent stroke. You should talk to your doctor about starting this medicine again| Aftercare instructions - patient needs to do - Medication|437|605
+10|atrial fibrillation| Medical Issues - Complication developed in the hospital|676|695
+11|diltiazem| Treatments - Medicine name|776|785
+12|Because you have had this arrhythmia several times, you should talk to your doctor about starting another blood thinner (coumadin) to prevent complications from this problem.| Aftercare instructions - Upcoming Schedules - PCP appointment|871|1045
+13|difficulty breathing| Medical Issues - Complication developed in the hospital|1078|1098
+14|chronic lung disease| Medical Issues - Disease|1173|1193
+15|extra fluid on your lungs| Medical Issues - Symptom|1112|1137
+16|oxygen| Treatments - Procedure name|1215|1221
+17|diuresis| Treatments - Procedure name|1223|1231
+18|steriods| Treatments - Medicine name|1233|1241
+19|inhalers| Treatments - Medicine name|1246|1254
+20|You breathing improved and at the time of discharge, you were breathing comfortably on 3 L of oxygen by nasal cannula| Treatments - Result of the treatment|1256|1373
+21|You also had significant problems with [**Name2 (NI) 98652**] in the hospital, requiring several medications to have a bowel movement. At the rehab center you can stop these medications as long as you are not constipated.| Medicine instructions - Medicine stopped|1375|1596
+22|Please make the following changes to your medication: 1. start Sucralfate 1 gm by mouth 4 times daily 2. protonix 40 mg by mouth twice daily 3. prednisone taper (30, 20, 10 mg) by mouth for 3 days 4. azithromycin 250 mg by mouth for 2 days| Medicine instructions - Medicine started|1597|1836
+23|5. stop aggrenox| Medicine instructions - Medicine stopped|1837|1853
+24|You should call your doctor immediately or return to the hospital if you should develop any fever, chills, abdominal pain, nausea, vomiting, diarrhea, chest pain, shortness of breath, or any other symptoms that concern you.| Aftercare instructions - Emergency instruction|1854|2077

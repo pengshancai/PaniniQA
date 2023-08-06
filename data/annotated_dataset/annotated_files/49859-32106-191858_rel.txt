@@ -1,0 +1,9 @@
+Medical Issues
+Symptoms include <pain in your chest >;<taking more pain medication than you are prescribed >;
+Symptoms <pain in your chest> caused by Disease <pneumonia >
+
+Tests
+Test results of <{blood pressure measurement}>: <low blood pressure>;
+
+No template for <if your pain becomes difficult to control please contact your pain specialist; adjusting your own pain medications can be life threatening. >
+No template for <continue to take Ibuprofen or Alleve as needed, being careful not to exceed the recommended daily dose. >

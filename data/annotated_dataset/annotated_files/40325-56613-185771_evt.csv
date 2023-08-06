@@ -1,0 +1,11 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|wear your TLSO brace for the next 8 weeks| Aftercare instructions - Upcoming Schedules - Treatment|156|197
+1|rib fractures| Medical Issues - Symptom|320|333
+2|pain| Medical Issues - Symptom|357|361
+3|shallow breaths| Medical Issues - Symptom|397|412
+4|You should take your pain medication as directed to stay ahead of the pain otherwise you won't be able to take deep breaths.| Treatments - Treatment goal|436|565
+5|Pneumonia| Medical Issues - Disease|653|662
+6|use your incentive spirometer 4 times every hour while awake| Treatments - Procedure name|739|799
+7|use a cough pillow to hold against your chest and guard your rib cage while coughing and deep breathing| Aftercare instructions - patient needs to do - Medication|954|1057
+8|Symptomatic relief with ice packs or heating pads for short periods may ease the pain| Aftercare instructions - Upcoming Schedules - Treatment|1061|1146
+9|Do NOT smoke| Aftercare instructions - patient needs to do - Other|1309|1322

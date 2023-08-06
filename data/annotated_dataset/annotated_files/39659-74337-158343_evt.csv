@@ -1,0 +1,14 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|diverticulitis| Medical Issues - Disease|66|80
+1|remove part of your colon| Treatments - Treatment goal|102|127
+2|colostomy| Treatments - Procedure name|140|149
+3|will pass air and stool thru it| Treatments - Result of the treatment|158|189
+4|pneumonia| Medical Issues - Disease|309|318
+5|antibiotics| Treatments - Medicine name|359|370
+6|urinary tract infection| Medical Issues - Disease|563|586
+7|Coumadin| Treatments - Medicine name|715|723
+8|rehab| Aftercare instructions - Upcoming Schedules - Specialist appointment|745|750
+9|urology clinic| Aftercare instructions - Upcoming Schedules - Specialist appointment|692|706
+10|keep your lungs inflated| Treatments - Treatment goal|519|543
+11|colostomy| Treatments - Procedure name|236|245
+12|antibiotic| Treatments - Medicine name|624|634

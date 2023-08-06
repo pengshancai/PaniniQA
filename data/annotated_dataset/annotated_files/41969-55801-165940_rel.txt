@@ -1,0 +1,14 @@
+Medical Issues
+Symptoms include <swelling in your neck>;
+Symptoms <CHANGE HERE Symptom name> caused by Disease <Urinary tract infection >
+
+Treatments
+Procedure <chemotherapy > to treat [No explicit item]
+<chemotherapy >  Results: [No explicit item]
+Medicine <Ciprofloxacin - you will need to complete a 5 day course of this > to treat [No explicit item]
+<Ciprofloxacin - you will need to complete a 5 day course of this >  Results: [No explicit item]
+Medicine <STARTED Ciprofloxacin for 5 days > to treat [No explicit item]
+<STARTED Ciprofloxacin for 5 days >  Results: [No explicit item]
+Medicine <STARTED Oxycodone 5-10mg by mouth every 6 hours as needed for pain > to treat <pain>
+<STARTED Oxycodone 5-10mg by mouth every 6 hours as needed for pain >  Results: [No explicit item]
+

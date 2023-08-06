@@ -1,0 +1,17 @@
+Medical Issues
+Symptoms include < little confused {confusion} >;<anxious {anxiety}>;
+Symptoms <no explicit item> caused by Disease <fractures of your facial bones> 
+Symptoms <no explicit item> caused by Disease <some bleeding around your brain > 
+Symptoms <no explicit item> caused by Disease <urinary tract infection > 
+
+Treatments
+Medicine <medication  > to treat <little confused {confusion}>;<anxious {anxiety}>
+<medication  >  Results: <no explicit item>
+Medicine <antibiotics > to treat <urinary tract infection>
+<antibiotics >  Results: <no explicit item>
+
+No template for <You will need to follow up with the plastic surgeons in about one week to have your sutures removed.  >
+No template for <You will also need to follow up with the neurosurgeons in four weeks to make sure that the blood around your brain is stable.  >
+No template for <You will need to get another CT scan of your head before your follow up appointment.  >
+No template for < It is very important that you follow up with your primary care doctor after you leave rehab. It is also important for you to discuss ways to help you refrain from alcohol use and prevent injuries in the future. >
+No template for <STOP the following medications until you follow up with your doctors to determine when it is safe to restart: - bupropion - acamprosate - naltrexone - simvastatin - aspirin - Trazodone >

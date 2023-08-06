@@ -1,0 +1,16 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|shortness of breath| Medical Issues - Symptom|96|115
+1|exacerbation of your COPD| Medical Issues - Disease|144|169
+2|nebulizers| Treatments - Procedure name|215|225
+3|steroids| Treatments - Medicine name|227|235
+4|antibiotics| Treatments - Medicine name|241|252
+5|you improved| Treatments - Result of the treatment|257|269
+6|pneumonia| Medical Issues - Disease|184|193
+7|prednisone| Medicine instructions - Medicine started|330|340
+8|azithromycin| Medicine instructions - Medicine started|350|362
+9|cefepime| Medicine instructions - Medicine started|372|380
+10|pantoprazole| Medicine instructions - Medicine started|390|402
+11|finasteride| Medicine instructions - Medicine started|412|423
+12|Please follow up with your Primary Care Physician| Aftercare instructions - Upcoming Schedules - PCP appointment|427|476
+13|[**Name10 (NameIs) 6**] appointment has been made| Aftercare instructions - Upcoming Schedules - Specialist appointment|478|527
+14|Once you are home, you should continue your home inhalers and nebulizers as needed for shortness of breath| Aftercare instructions - patient needs to do - Medication|529|635

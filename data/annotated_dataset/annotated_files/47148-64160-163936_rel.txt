@@ -1,0 +1,15 @@
+Medical Issues
+Symptoms include <shortness of breath>;<fluid around your lungs >;
+Complication <cardiac event > caused by [no explicit item]
+Complication <developed an injury to your kidneys from the contrast dye used during the catherization > caused by <contrast dye>
+
+Treatments
+Medicine <diuretics > to treat <fluid around your lungs>
+<diuretics >  Results: [no explicit item]
+Procedure <cath lab > to treat <cardiac event>
+<cath lab >  Results: <found the blood vessels supplying your heart, including those with stents, to all be patent >
+
+No template for <You have a follow-up with Dr. [**Last Name (STitle) 2903**] (see below) during which you should be evaluated for your night sweats. >
+No template for <The following change was made to your medications: -- STOP losartan. Dr. [**Last Name (STitle) 2903**] should restart this medication after your kidneys have completely recovered. >
+No template for <Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more than 3 lbs. >
+No template for <Please be sure to limit the amount of salt in your diet to less than 2 grams daily. >

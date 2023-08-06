@@ -1,0 +1,10 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|low blood pressure| Medical Issues - Complication developed in the hospital|66|84
+1|bronchoscopy| Tests - Test name|100|112
+2|Blood tests| Tests - Test name|114|125
+3|no evidence of any infection or heart attack| Tests - Test result|133|177
+4|No changes were made to any of your home medications.| Medicine instructions - Medicine continued|273|326
+5|Please attend all followup appointments.| Aftercare instructions - Upcoming Schedules - Specialist appointment|329|369
+6|Please take all medications as prescribed.| Aftercare instructions - patient needs to do - Medication|370|412
+7|the sedation you had for the bronchoscopy| Tests - Test name|230|271
+8|If you experience high fevers, chest pain, difficulty breathing, loss of consciousness, or other concerning symptoms, then you need to seek medical attention.| Aftercare instructions - Emergency instruction|415|573

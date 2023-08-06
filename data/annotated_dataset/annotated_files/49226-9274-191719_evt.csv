@@ -1,0 +1,11 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|bleeding from your gastrointestinal tract| Medical Issues - Symptom|66|107
+1|EGD| Tests - Test name|234|237
+2|inflammation in your esophagus and stomach| Tests - Test result|265|307
+3|Coumadin was temporarily stopped on admission and you were given heparin to thin your blood while your Coumadin level (INR) increased again.| Treatments - Medicine name|409|549
+4|You will need to continue this medication until your INR is therapeutic.| Aftercare instructions - patient needs to do - Medication|550|623
+5|You were also given a medication called Valium used in alcohol withdrawal.| Medicine instructions - Medicine started|623|697
+6|thiamine| Medicine instructions - Medicine started|733|741
+7|Bactrim for a urinary tract infection, you will need to finish a 7 day course of this medication| Medicine instructions - Medicine started|748|844
+8|INCREASED protonix to twice daily dosing| Medicine instructions - Medicine started|925|965
+9|Your Coumadin level (INR) was high| Tests - Test result|109|143

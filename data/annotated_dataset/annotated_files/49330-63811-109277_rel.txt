@@ -1,0 +1,21 @@
+Medical Issues
+Symptoms include <urinary urgency>;<fever >;<passing out >;
+
+Tests
+Tests include <urine and blood cultures >; <vitals>
+Test results of <vitals>: <low blood pressure >;
+Test results of <urine and blood cultures>: <still pending >;
+
+Treatments
+Procedure <admitted to the ICU > to treat [no explicit item]
+<admitted to the ICU >  Results: <symptoms improved >;
+Medicine <IV fluids > to treat [no explicit item]
+<IV fluids >  Results: <symptoms improved >;
+
+Medicine <you were given broad coverage antibiotics and this was changed over to ciprofloxacin for cystitis (infection of the bladder and urinary tract) > to treat [no explicit item]
+
+
+No template for <Please be sure to stay well hydrated and drink plenty of fluids.  >
+No template for <Please take a few days to rest after discharge. >
+No template for <ciprofloxacin 500mg [**Hospital1 **] (twice a day) for 13 more days to complete a 14 day course. >
+No template for <Please take all of your medications as prescribed and follow up with the appointments below. >

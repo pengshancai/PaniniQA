@@ -1,0 +1,8 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|respiratory failure| Medical Issues - Disease|93|112
+1|tracheomalacia| Medical Issues - Disease|117|131
+2|performed a bronchoscopy and inserted a stent into your trachea to help keep it open| Treatments - Procedure name|163|247
+3|you subsequently did much better| Treatments - Result of the treatment|253|285
+4|Please call or return to the Emergency Department if you have any of the following: * Persistent temperature > 101 degrees or chills * Difficulty breathing or managing your ventilator * Production of colorful or excessive sputum * Any other symptoms which concern you.| Aftercare instructions - Emergency instruction|287|558
+5|Resume taking your medications as directed.| Aftercare instructions - patient needs to do - Medication|572|615
+6|Diet: Continue your tube feeds via the PEG tube| Aftercare instructions - patient needs to do - Diet|616|663

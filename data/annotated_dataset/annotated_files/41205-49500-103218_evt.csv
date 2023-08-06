@@ -1,0 +1,6 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|tylenol overdose| Medical Issues - Symptom|63|79
+1|You were treated with a medication to decrease the toxicity from tylenol| Treatments - Medicine name|81|153
+2|You were seen by psychiatry who recommended inpatient psychiatric treatment for depression| Aftercare instructions - Upcoming Schedules - Specialist appointment|236|326
+3|You should START taking Vitamin D| Treatments - Medicine name|440|473
+4|You should START taking Neutra-Phos| Treatments - Medicine name|475|510

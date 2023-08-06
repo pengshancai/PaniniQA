@@ -1,0 +1,9 @@
+Tests
+Tests include <MRI >;
+Test results of <MRI >: <showed that there was some swelling in your brain >;
+
+Aftercare instructions
+If encounter <worsening headaches, vision changes, chest pain, shortness of breath, abdominal pain, fevers &gt; 101, chills, night sweats, or any other symptoms that concern you> do <You should return to the hospital or see your PCP >
+
+No template for <You should be seen by your nephrologist on Monday, [**3-9**] at your previously scheduled appointment.  >
+No template for <You should avoid salty foods and try to stay hydrated to protect your kidneys. >

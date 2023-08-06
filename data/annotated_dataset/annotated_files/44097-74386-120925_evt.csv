@@ -1,0 +1,13 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|bleeding from ulcers in your GI tract| Medical Issues - Symptom|169|206
+1|bacteria in your stomach| Medical Issues - Disease|242|266
+2|You will need to take antibiotics for two weeks| Medicine instructions - Medicine started|268|315
+3|We also started you on a medication to decrease the acid in your stomach.| Medicine instructions - Medicine started|317|390
+4|Your blood pressure was low in the hospital so we stopped several of your blood pressure medicines.| Medicine instructions - Medicine stopped|391|490
+5|Please follow up with your primary doctor and cardiologist as directed.| Aftercare instructions - Upcoming Schedules - Specialist appointment|491|562
+6|-Please START amoxicillin 1000 mg twice daily for two weeks (last day [**2113-7-16**])| Medicine instructions - Medicine started|590|676
+7|-Please START clarithromycin 500 mg twice daily for two weeks (last day [**2113-7-16**])| Medicine instructions - Medicine started|677|765
+8|-Please START pantoprazole 40 mg twice for six weeks| Medicine instructions - Medicine started|766|818
+9|-Please STOP simvastatin because this can interact with one of the antibiotics.| Medicine instructions - Medicine stopped|819|898
+10|you should restart this after you finish antibiotics| Medicine instructions - Medicine started|899|951
+11|| Medicine instructions - Medicine stopped|970|1079

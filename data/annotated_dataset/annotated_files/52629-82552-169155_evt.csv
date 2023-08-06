@@ -1,0 +1,13 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|Pneumonia| Medical Issues - Disease|64|73
+1|breathing treatments| Treatments - Medicine name|97|117
+2|antibiotics| Treatments - Medicine name|122|133
+3|breathing improved| Treatments - Result of the treatment|140|158
+4|CT scan of your lungs| Tests - Test name|170|191
+5|no infiltrate| Tests - Test result|205|218
+6|Echocardiogram| Tests - Test name|236|250
+7|diastolic dysfunction| Tests - Test result|263|284
+8|small pulmonary nodule| Tests - Test result|353|375
+9|You also had a small pulmonary nodule which needs to be followed up in 3 months via your PCP| Aftercare instructions - Upcoming Schedules - PCP appointment|338|430
+10|Please contiune to take all other medications as prescribled| Aftercare instructions - patient needs to do - Medication|492|551
+11|Please continue to take Levofloxacin for your pneumonia for 1 more day| Medicine instructions - Medicine started|556|626

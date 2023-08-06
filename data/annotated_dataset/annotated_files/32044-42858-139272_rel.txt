@@ -1,0 +1,15 @@
+Medical Issues
+Symptoms include <confusion>;
+Symptoms <confusion> caused by Disease < liver disease > 
+
+Treatments
+Procedure < blood transfusions > to treat <bleeding from your stomach>
+Procedure <splint > to treat {broken fingers on your left hand }
+
+No template for <You should follow-up your liver problems with the liver doctors at [**Hospital3 2576**] [**Hospital3 **] within the next 10-14 days if possible.  >
+No template for <You should follow-up with your gastroenterologist at [**Hospital 882**] Hospital for an endoscopy for treatment of your stomach bleeding. >
+No template for <Finally you should follow-up with a hand specialist in the next 1-2 weeks for your fractures.  >
+No template for <Please Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more than 3 lbs. >
+No template for <Your Rifaxamin dose was CHANGED to 550 mg [**Hospital1 **]. >
+No template for <Your lasix dose was DECREASED to 40 mg daily. >
+No template for <You were STARTED on ciproloxacin which you should continue for two more days. >

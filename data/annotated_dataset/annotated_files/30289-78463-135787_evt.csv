@@ -1,0 +1,24 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|large upper GI bleed| Medical Issues - Symptom|139|159
+1|blood transfusions| Treatments - Procedure name|186|204
+2|upper endoscopies| Tests - Test name|209|226
+3|esophageal varices| Medical Issues - Disease|240|258
+4|peptic ulcer| Medical Issues - Disease|265|277
+5|showed esophageal varices and a peptic ulcer that may have been bleeding| Tests - Test result|233|305
+6|intubated| Treatments - Procedure name|316|325
+7|aspiration pneumonia| Medical Issues - Complication developed in the hospital|364|384
+8|antibiotics| Treatments - Medicine name|408|419
+9|confused| Medical Issues - Complication developed in the hospital|492|500
+10|lactulose| Treatments - Medicine name|522|531
+11|blood in your stool| Medical Issues - Complication developed in the hospital|541|560
+12|1. We ADDED Nadolol 20mg twice per day. This is important to take to prevent further bleeding.| Medicine instructions - Medicine started|676|771
+13|2. We ADDED Sucralfate and Pantoprazole for your ulcer.| Medicine instructions - Medicine started|771|826
+14|3. We ADDED Lactulose and Rifaxamin to help keep your thinking clear.| Medicine instructions - Medicine started|827|896
+15|4. We added Amlodipine for blood pressure control.| Medicine instructions - Medicine started|897|947
+16|We DISCONTINUED captopril during your last hospitalization.| Medicine instructions - Medicine stopped|948|1007
+17|5. We added FOLATE, THIAMINE and MULTIVITAMINS which you should take daily for good nutrition.| Medicine instructions - Medicine started|1008|1102
+18|6. We ADDED Ciprofloxacin to prevent infection in your abdomen. You need to take this TWICE A DAY until [**11-16**] and then take it once a day from then on.| Medicine instructions - Medicine started|1103|1260
+19|6. We ADDED Ciprofloxacin to prevent infection in your abdomen. You need to take this TWICE A DAY until [**11-16**] and then take it once a day from then on.| Aftercare instructions - patient needs to do - Medication|1103|1260
+20|Your cefpodoxime was stopped.| Medicine instructions - Medicine stopped|1261|1290
+21|It is extremely important to stop drinking alcohol as drinking alcohol is the cause of your bleeding. You were seen by social work and were given resources to stop drinking.| Aftercare instructions - patient needs to do - Other|1291|1464
+22|Please call your doctor or 911 if you experience crushing chest pain, difficulty breathing, fevers/ chills intractable nausea or vomiting, blood in your urine vomit or stool or any other concerning medical problem.| Aftercare instructions - Emergency instruction|1465|1679

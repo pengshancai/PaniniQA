@@ -1,0 +1,16 @@
+Medical Issues
+Symptoms [no explicit item] caused by Disease <sepsis> 
+Symptoms [no explicit item] caused by Disease <urinary tract infection> 
+Complication <given your poor state of health it was decided to make you comfort measures only> caused by [no explicit item]
+
+Treatments
+Procedure <IV fluids> to treat <sepsis>
+<IV fluids>  Results: [no explicit item]
+Medicine <antibiotics> to treat <urinary tract infection>
+<antibiotics>  Results: [no explicit item]
+
+
+No template for <All of your medicines were stopped>
+No template for <You are being discharged back to your extended care facility>
+No template for <OxycoDONE-Acetaminophen Elixir [**4-27**] mL PO/NG Q2H:PRN pain>
+No template for <Acetaminophen 650 mg PR Q4H:PRN pain, agitation>

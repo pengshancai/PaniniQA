@@ -1,0 +1,22 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|failure to thrive| Medical Issues - Disease|63|80
+1|blood pressure was very low| Medical Issues - Symptom|125|152
+2|vasopressors| Treatments - Medicine name|184|196
+3|hypotension| Medical Issues - Symptom|232|243
+4|extreme dehydration| Medical Issues - Disease|265|284
+5|irregular heart rythem| Medical Issues - Symptom|356|378
+6|atrial fibrillation| Medical Issues - Complication developed in the hospital|440|459
+7|developed an urinary tract infection| Medical Issues - Complication developed in the hospital|507|543
+8|lung infection| Medical Issues - Complication developed in the hospital|548|562
+9|antibiotics| Treatments - Medicine name|587|598
+10|Have your blood drawn on Tuesday, [**12-27**] to measure your digoxin level| Aftercare instructions - Upcoming Schedules - Test|601|676
+11|Fax this result to Dr. [**Last Name (STitle) **] at [**Telephone/Fax (1) **] (office phone [**Telephone/Fax (1) **]) and obtain recommendation from him regarding dosage changes of this medication.| Aftercare instructions - Upcoming Schedules - Specialist appointment|678|874
+12|PEG (feeding) tube| Treatments - Procedure name|887|905
+13|give you nutrition| Treatments - Treatment goal|915|933
+14|Midodrine was added for your blood pressure| Medicine instructions - Medicine started|995|1038
+15|Sotolal was discontinued| Medicine instructions - Medicine stopped|1039|1063
+16|replaced with amiodarone and digoxin| Medicine instructions - Medicine started|1068|1104
+17|Depakote and Trilepal| Medicine instructions - Medicine stopped|1105|1126
+18|valproic acid| Medicine instructions - Medicine started|1146|1159
+19|Please follow up with your doctors as detailed below.| Aftercare instructions - Upcoming Schedules - Specialist appointment|1162|1215
+20|f you develop fevers, chills, lightheadedness or dizziness, abdominal pain, diarrhea, cough, chest pain, difficultly urinating, or any other worrisome symptoms please call your doctor or go to the emergency room.| Aftercare instructions - Emergency instruction|1219|1431

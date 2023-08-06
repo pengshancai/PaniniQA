@@ -1,0 +1,12 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|worsening difficulty breathing with exertion| Medical Issues - Symptom|122|166
+1|new Left Bundle Branch Block| Medical Issues - Symptom|168|196
+2|stress echo| Tests - Test name|210|221
+3|depressed contraction of your heart without evidence of ischemia| Tests - Test result|234|298
+4|right heart cath| Treatments - Procedure name|309|325
+5|complete heart block| Medical Issues - Complication developed in the hospital|334|354
+6|pacing wire placed| Treatments - Procedure name|372|390
+7|During removal of that wire your heart was beating very slowly| Medical Issues - Complication developed in the hospital|392|454
+8|pacemaker| Treatments - Procedure name|508|517
+9|During you admission, some of your medications were changed, you should take the following medications when leavign the hospital: - metoprolol XL 25mg (ongoing) - clindamycin for 1 day after discharge| Medicine instructions - Medicine changed|519|719
+10|Please note that if you become lightheaded or dizzy or have chest pain you should call your doctor and/or return to the emergency room.| Aftercare instructions - Emergency instruction|720|855

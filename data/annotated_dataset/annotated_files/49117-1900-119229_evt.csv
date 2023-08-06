@@ -1,0 +1,14 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|fevers| Medical Issues - Symptom|89|95
+1|chills| Medical Issues - Symptom|97|103
+2|nausea| Medical Issues - Symptom|105|111
+3|vomiting| Medical Issues - Symptom|113|121
+4|You were given medications for your nausea and vomiting| Treatments - Treatment goal|165|220
+5|upper endoscopy| Tests - Test name|233|248
+6|bleeding| Tests - Test implication|356|364
+7|small tear from the vomiting, but also some inflammation and an erosion in the stomach| Tests - Test result|392|478
+8|you were started on antibiotics to treat the bacteria| Treatments - Treatment goal|631|684
+9|You should continue your treatment with the Levofloxacin for 5 more days as below| Aftercare instructions - patient needs to do - Medication|849|930
+10|You should follow up with your primary care physician on Tuesday morning| Aftercare instructions - Upcoming Schedules - PCP appointment|932|1004
+11|you should call and make an appointment to follow-up with Dr. [**Last Name (STitle) **], as listed below as well| Aftercare instructions - patient needs to do - Other|1027|1139
+12|If you develop any fevers, chills, worsening nausea or vomiting, or abdominal pain, you should return to the emergency room immediately.| Aftercare instructions - patient needs to do - Other|1140|1277

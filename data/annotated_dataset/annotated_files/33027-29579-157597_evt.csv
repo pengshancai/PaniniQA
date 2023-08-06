@@ -1,0 +1,10 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|hip fracture| Medical Issues - Disease|82|94
+1|biopsy| Tests - Test name|106|112
+2|showed no cancer| Tests - Test result|124|140
+3|You will follow up with Dr. [**First Name (STitle) 4223**] and Dr. [**Last Name (STitle) **] for further observation.| Aftercare instructions - Upcoming Schedules - Specialist appointment|141|260
+4|osteooporosis| Medical Issues - Disease|393|406
+5|You should discuss this with your kidney doctor.| Aftercare instructions - Upcoming Schedules - Specialist appointment|432|480
+6|dialysis| Treatments - Procedure name|557|565
+7|Please continue to take your medications as prescribed| Aftercare instructions - patient needs to do - Medication|569|623
+8|Please call your doctor or return to the hospital if you experience any worrisome symptoms.| Aftercare instructions - Emergency instruction|666|757

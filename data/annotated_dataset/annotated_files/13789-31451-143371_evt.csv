@@ -1,0 +1,11 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|slow heart rate| Medical Issues - Symptom|69|84
+1|pacemaker and found that the battery was not working| Medical Issues - Disease|102|154
+2|Vitamin K| Treatments - Medicine name|176|186
+3|reverse the Coumadin that you take| Treatments - Treatment goal|189|223
+4|the generator of your pacemaker was replaced| Treatments - Procedure name|233|277
+5|None of your medications were changed| Medicine instructions - Medicine continued|279|316
+6|urinary tract infection| Medical Issues - Disease|396|419
+7|You should take the antibiotic Augmentin 500mg two times per day for a total of 7 days.| Medicine instructions - Medicine started|421|509
+8|You should return to the hospital if you notice that your heart rate is slow again or if you develop pain in your chest, shortness of breath, light headededness, fainting, or any concerning bleeding.| Aftercare instructions - Emergency instruction|701|900
+9|You should call your doctor if you continue to have pain with urination or notice blood in your urine despite taking this antibiotic. In addition you should be evaluated if you develop fever.| Aftercare instructions - patient needs to do - Other|509|700

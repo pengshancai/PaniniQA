@@ -1,0 +1,10 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|pneumonia| Medical Issues - Disease|64|73
+1|antibiotics| Treatments - Medicine name|97|108
+2|lasix| Treatments - Medicine name|118|123
+3|to remove some fluid| Treatments - Treatment goal|124|144
+4|You improved| Treatments - Result of the treatment|146|158
+5|blood sugars were elevated| Tests - Test result|204|230
+6|You should follow-up with your PCP about this| Aftercare instructions - Upcoming Schedules - PCP appointment|260|305
+7|You should be seen in the next week by your PCP| Aftercare instructions - Upcoming Schedules - PCP appointment|307|354
+8|No changes were made to your medications. You should continue to take them as prescribed| Aftercare instructions - patient needs to do - Medication|356|444

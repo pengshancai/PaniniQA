@@ -1,0 +1,18 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|bilateral blood clots in your lungs| Medical Issues - Symptom|64|99
+1|breathing machine| Treatments - Procedure name|184|201
+2|low oxygen levels| Medical Issues - Symptom|253|270
+3|medicine to break-up the clots| Treatments - Medicine name|287|317
+4|your breathing stabilized and you were then able to have the breathing tube safely removed| Treatments - Result of the treatment|319|409
+5|confusion| Medical Issues - Complication developed in the hospital|528|537
+6|CT scan| Tests - Test name|610|617
+7|concerning lesion on your kidney| Tests - Test result|627|659
+8|MRI| Tests - Test name|664|667
+9|showed a hemorrhagic cyst (benign)| Tests - Test result|687|721
+10|MRI of the head| Tests - Test name|726|741
+11|small stroke lesions in your brain, but you did not clinically have symptoms from these very small lesions| Tests - Test result|749|855
+12|Please continue to take your regular home medications| Aftercare instructions - patient needs to do - Medication|859|912
+13|START lovenox injections to prevent further blood clots until coumadin level is therapeutic| Medicine instructions - Medicine started|939|1030
+14|START coumadin to thin your blood and prevent further blood clots| Medicine instructions - Medicine started|1033|1098
+15|Temporarily hold Triamterene-HCTZ (dyazide, a diuretic) until you follow-up with Dr. [**Last Name (STitle) **]| Medicine instructions - Medicine stopped|1101|1211
+16|Temporarily hold Aspirin until you follow-up with Dr. [**Last Name (STitle) **]| Medicine instructions - Medicine stopped|1214|1293

@@ -1,0 +1,16 @@
+Medical Issues
+Symptoms include <low heart rate>;<low blood pressure >;
+Symptoms <low heart rate> <low blood pressure> caused by Disease <acute kidney failure  > 
+
+Treatments
+Procedure <dialysis > to treat <acute kidney failure >
+<intravenous medications> Results: <Your heart rate and blood pressure have recovered to within normal limits. >
+<dialysis > Results: < kidney function slowly improved  >
+
+Aftercare instructions
+If encounter <fever, chills, chest pain, shortness of breath, nausea/vomiting, spontaneous bleeding or any other concerning symptoms> do <Please call your primary doctor or return to the ED. >
+
+No template for < You were seen by physical therapy who felt that you needed home physical therapy to facilitate your recovery. >
+No template for <Please take all your medications as directed. >
+No template for <Please keep your follow up appointments as below. >
+No template for < >

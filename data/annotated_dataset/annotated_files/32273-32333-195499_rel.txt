@@ -1,0 +1,11 @@
+Medical Issues
+Symptoms include <altered mental status>;<agitation >;
+Symptoms <altered mental status> <agitation> caused by Disease <drug overdose> 
+
+Aftercare instructions
+If encounter <fever, chills, or confusion> do <please return to the Emergency Department. >
+If encounter <you feel you are a threat to yourself or others> do < please call 911 or return to the Emergency Department. >
+
+No template for < If you are on home medications we urge you to tell your primary care physician. >
+No template for <We strongly recommend that you refrain from using any medications that are not prescribed to you by your primary care physician. >
+No template for <[**Name10 (NameIs) 357**] follow up with you primary care doctor within the next two weeks to verify your full recovery.  >

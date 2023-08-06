@@ -1,0 +1,21 @@
+Medical Issues
+Symptoms include < low blood count >;
+Symptoms <low blood count> caused by Disease <gastrointestinal bleed >
+Symptoms <low blood count> caused by Disease <chronic blood loss from your gastric antral extasia > 
+
+Tests
+Tests include <upper endoscopy >;
+Test results of <upper endoscopy>: <showed grade I varices which had not recently bleed and gastric antral ectasia (small vascular abnormalities) >;
+
+Treatments
+Procedure {transfused with 2 units of blood } to treat <anemia>
+{transfused with 2 units of blood }  Results: <your blood count increased and remained stable >
+Medicine <augmentin and bactrim > to treat <cellulitis at the site of your skin biopsy>
+
+Aftercare instructions
+If encounter <fevers, chills, dizziness, shortness of breath, abdominal pain, blood in your stool, vomiting of blood, or dark black stool (different from your normal stool)> do <Call you primary doctor or go to the emergency room. >
+
+No template for <You were started on 2 antibiotics for concern of cellulitis at the site of your skin biopsy.  >
+No template for <You were started on 2 antibiotics for concern of cellulitis at the site of your skin biopsy. These are called augmentin and bactrim.  >
+No template for <You should follow-up with your dermatologist within 7-10 days regarding your skin wound.  >
+No template for < Otherwise continue your outpatient medications as prescribed. >

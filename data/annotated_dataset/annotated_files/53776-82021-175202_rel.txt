@@ -1,0 +1,14 @@
+Medical Issues
+Symptoms [no explicit item] caused by Disease <perforated diverticulitis>
+
+Treatments
+Procedure <bowel rest> to treat <perforated diverticulitis>
+<bowel rest>  Results: <pain has improved>
+Medicine <IV antibiotics> to treat <perforated diverticulitis>
+<IV antibiotics>  Results: <pain has improved>
+
+
+No template for <you have been advanced to a regular diet>
+No template for <2 week course of IV antibiotics>
+No template for <Please follow up in the Acute Care Surgery clinic at the appointment listed below>
+No template for <You should also follow up with your primary care provider after leaving the rehab facility>

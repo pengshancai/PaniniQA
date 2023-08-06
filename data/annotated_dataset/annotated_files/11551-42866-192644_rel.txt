@@ -1,0 +1,14 @@
+Medical Issues
+Symptoms include <acute liver injury>;
+Symptoms <acute liver injury> caused by Disease <ingestion of substances including acetaminophen (Tylenol) {acetaminophen toxicity}> 
+
+Treatments
+Medicine <medications  > to treat <acute liver injury>
+<medications  >  Results: <You slowly improved>
+<medications> Results: <You slowly improved >
+
+No template for <It is very important not to drink any alcohol.  >
+No template for <You should not use any acetaminophen containing products until your doctor tells you your liver tests have returned to [**Location 213**].  >
+No template for <STOP venlafaxine >
+No template for <We are starting you on oxycodone to help control your pain. You may take one tablet (5 mg) every eight hours. Take a total of three tablets of oxycodone (5 mg) on both Saturday and Sunday. Take two tablets on both Monday and Tuesday. Take one tablet on both Wednesday and Thursday. Never take more than one tablet at a time. Separate each tablet by eight hours. Do not drive or perform any activity that requires mental alertness while taking this medication. If you are feeling well, you can take less tablets. >
+No template for <We gave you a prescription for docusate and senna. These will help you move your bowels while on narcotic pain medications. You do not need to take these if you are moving your bowels regularly. >

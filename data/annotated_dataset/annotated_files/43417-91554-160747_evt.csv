@@ -1,0 +1,14 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|large heart attack in the back side of your heart| Medical Issues - Disease|110|159
+1|Cardiac Catheterization procedure| Treatments - Procedure name|182|215
+2|stent placed in one of the arteries bringing blood to your heart| Treatments - Result of the treatment|240|304
+3|low blood pressure| Medical Issues - Complication developed in the hospital|622|640
+4|In order to keep this stent open you will be on several new medications and stop smoking. These interventions are critical as reobstructing your stent would be very dangerous.| Aftercare instructions - patient needs to do - Medication|306|481
+5|You will need to watch carefully for lightheadedness, dizziness, back or groin pain and any other concerning symptoms| Aftercare instructions - Emergency instruction|717|834
+6|If any of these occur, please call Dr [**Last Name (STitle) 171**] or return to the hospital immediately.| Aftercare instructions - Emergency instruction|836|941
+7|| |942|1022
+8|Please review the attached list of medications and take everything as prescribed.| Aftercare instructions - patient needs to do - Medication|942|1023
+9|You will need for follow up with your primary doctor [**First Name (Titles) **] [**Last Name (Titles) 766**] to have your blood pressure and blood counts checked.| Aftercare instructions - Upcoming Schedules - PCP appointment|1024|1186
+10|You will also need to see Dr [**Last Name (STitle) 171**] (cardiology) in 2 weeks as written below.| Aftercare instructions - Upcoming Schedules - Specialist appointment|1187|1286
+11|You can return to work in 1 week but be sure not to do any lifting.| Aftercare instructions - patient needs to do - Other|1287|1354
+12|After you see Dr [**Last Name (STitle) 171**], you can discuss gradually increasing your activity and exercise.| Aftercare instructions - Upcoming Schedules - Specialist appointment|1355|1466

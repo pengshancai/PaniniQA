@@ -1,0 +1,18 @@
+Medical Issues
+Symptoms include <difficulty with vision>;<HA >;<sensory changes >;
+Symptoms <difficulty with vision>;<HA >;<sensory changes > caused by Disease <bleed in your brainstem> 
+Symptoms <bleed in your brainstem> caused by Disease <poorly controlled blood pressure> 
+
+Treatments
+Medicine <blood pressure medications > to treat <poorly controlled blood pressure>
+<blood pressure medications >  Results: [no explicit item]
+
+No template for <aspirin>
+No template for <plavix>
+No template for <insulin>
+No template for <Metformin>
+No template for <atenolol was increased to 75mg daily>
+No template for <you were started on Insulin, 15U of lantus at night and sliding scale>
+No template for < Please make all follow up appointments>
+No template for <please take all medications as prescribed>
+No template for <You can restart aspirin in one week>

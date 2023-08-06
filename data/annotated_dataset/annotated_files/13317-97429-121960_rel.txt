@@ -1,0 +1,21 @@
+Medical Issues
+Symptoms include <respiratory difficulties >;
+Symptoms <no explicit item> caused by Disease <obstructing ascending cecal colon cancer > 
+Complication <you had some extra fluid collect in your lungs {fluid collection in your lungs} > caused by <surgery> <Maybe>
+Symptoms <no explicit item> caused by Disease <urinary tract infection > 
+
+Treatments
+Procedure <open right colectomy> to treat <obstructing ascending cecal colon cancer>
+<open right colectomy>  Results: <You have tolerated the abdominal surgery well {you tolerated surgery well} >;<you are passing gas {you passed gas} >;<you have had bowel movements {you had bowel movements} >
+<open right colectomy> Results: <You have tolerated the abdominal surgery well {you tolerated surgery well} >
+<open right colectomy> Results: <you are passing gas {you passed gas} >
+<open right colectomy> Results: <you have had bowel movements {you had bowel movements} >
+Medicine <medications > to treat <you had some extra fluid collect in your lungs {fluid collection in your lungs}>
+<medications >  Results: <no explicit item>
+Medicine < inhaled respiratory medications > to treat <no explicit item>
+< inhaled respiratory medications >  Results: <no explicit item>
+Medicine <antibiotics > to treat <urinary tract infection>
+<antibiotics >  Results: <no explicit item>
+
+No template for <You also were started on inhaled respiratory medications, which you are to continue taking at home. >
+No template for <You were started on metoprolol for treatment of atrial fibrillation. >

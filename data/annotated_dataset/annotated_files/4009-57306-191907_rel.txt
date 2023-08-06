@@ -1,0 +1,16 @@
+Medical Issues
+Symptoms include <fever>;<reaction to the antibiotic >;
+Symptoms <CHANGE HERE Symptom name> caused by Disease <renal failure > 
+Symptoms <CHANGE HERE Symptom name> caused by Disease <ascites >
+
+Tests
+Tests include <Blood work >;<lab tests >;
+
+Treatments
+Procedure <An intravenous line was inserted into your arm > to treat <dehydration>
+<An intravenous line was inserted into your arm >  Results: [No explicit item]
+Procedure <given fluids > to treat [No explicit item]
+<given fluids >  Results: [No explicit item]
+Medicine <Prednisone 30mg daily  > to treat [No explicit item]
+<Prednisone 30mg daily  >  Results: [No explicit item]
+

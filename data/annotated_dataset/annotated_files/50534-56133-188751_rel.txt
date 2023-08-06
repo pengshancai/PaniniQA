@@ -1,0 +1,11 @@
+Medical Issues
+Symptoms include <chest pain>;
+
+Tests
+Tests include <heart catheterization >;
+Test results of <heart catheterization>: <found a blockage in an artery and was able to open it with 2 metal wire stents >;
+Test goal of <heart catheterization>: <a catheter was passed through your groin and into your heart to investigate whether your chest pain was due to a heart blockage >;
+
+No template for <You should follow-up with your primary care physician in one week >
+No template for <You should also follow-up with your cardiologist Dr. [**Last Name (STitle) 105236**] at [**Hospital3 417**] within one month >
+No template for <it is very important that you take a medication that we started while you were in the hospital called Plavix >

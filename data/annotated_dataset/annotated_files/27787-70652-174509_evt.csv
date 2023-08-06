@@ -1,0 +1,11 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|chest discomfort| Medical Issues - Symptom|70|86
+1|low blood pressure| Medical Issues - Symptom|93|111
+2|GERD| Medical Issues - Disease|162|167
+3|It is recommended that you follow up with your cardiologist to confirm this.| Aftercare instructions - Upcoming Schedules - Specialist appointment|218|294
+4|withheld your medications and gave you fluids| Treatments - Procedure name|335|380
+5|blood pressure normalized| Treatments - Result of the treatment|300|325
+6|Famotidine was added to your home medications and is to be taken twice a day.| Medicine instructions - Medicine started|403|481
+7|The rest of your home medications can be continued as outpatient.| Medicine instructions - Medicine continued|481|547
+8|Please keep your scheduled appointments or contact the provider [**Name9 (PRE) 67751**] you need to reschedule.| Aftercare instructions - Upcoming Schedules - Specialist appointment|547|658
+9|Please contact the hospital or your doctor if you should experience a fever of greater than 101, shortness of breath or chest pain.| Aftercare instructions - Emergency instruction|659|790

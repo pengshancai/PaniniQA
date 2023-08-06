@@ -1,0 +1,14 @@
+Medical Issues
+Symptoms include {shortness of breath};
+Symptoms {shortness of breath} caused by Disease <pericardial effusion > 
+Symptoms {shortness of breath}  caused by Disease {fluid in your lungs } 
+
+Treatments
+Procedure <drained > to treat {fluid in your lungs } 
+Medicine <Taxol  > to treat <metastatic breast cancer>
+Medicine <blood thinner > to treat <DVT (clot) in your upper extremity>
+Medicine <antibiotics > to treat {Urinary Tract Infection}
+
+
+No template for <The fluid in these was found to be malignant and consistent with metastatic breast cancer, so you were started on chemotherapy to control this, which is called Taxol and you will receive this weekly on 3 weeks and then have one week off. >
+No template for <While you were in the hospital you also developed an abnormal heart rhythm (atrial fibrillation) and have been started on medications for this, as well as a DVT (clot) in your upper extremity) for which you were started on a blood thinner and a UTI that was treated for 7 days with antibiotics. >

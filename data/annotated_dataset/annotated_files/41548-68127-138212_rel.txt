@@ -1,0 +1,12 @@
+Medical Issues
+Symptoms include <chest pain>;<fevers >;
+Symptoms [No explicit item]caused by Disease <viral upper respiratory infection >
+
+Treatments
+Procedure <You underwent a cardiac cath > to treat [No explicit item]
+<You underwent a cardiac cath >  Results: [No explicit item]
+<CHANGE HERE Procedure name / Medicine name> Results: <blockages to blood flow >
+Procedure <You had stents put in the arteries of your heart to open them up  > to treat <blocked arteries>
+<You had stents put in the arteries of your heart to open them up  >  Results: [No explicit item]
+
+No template for <We decreased your aspirin to a baby aspirin (81mg a day) >

@@ -1,0 +1,16 @@
+Medical Issues
+Symptoms include <COPD exacerbation>;
+Symptoms <COPD exacerbation> caused by Disease <infection > 
+Symptoms [no explicit item] caused by Disease <atrial fibrillation > 
+
+Tests
+Tests include <Echo >;
+Test results of <Echo>: <slightly worsened pumping function. >;
+
+No template for < Even though the infection was most likely viral, we ask that you complete antibiotics as prescribed and not miss [**First Name (Titles) 691**] [**Last Name (Titles) 4319**]. >
+No template for <Please discuss this with your primary doctor at your next visit. >
+No template for <You are taking a blood thinner (coumadin) for your heart condition called atrial fibrillation. Your blood was too thin and we stopped your coumadin briefly. Then we restarted it as the thinning decreased.  >
+No template for <You are taking a blood thinner (coumadin) for your heart condition called atrial fibrillation. Your blood was too thin and we stopped your coumadin briefly. Then we restarted it as the thinning decreased. >
+No template for <It is very important that you follow up with coumadin clinic to check your INR (blood thinning) carefully, otherwise you run serious health risks, such as stroke, or bleeding. >
+No template for <It is very important that you follow up with coumadin clinic to check your INR (blood thinning) carefully, otherwise you run serious health risks, such as stroke, or bleeding. >
+No template for <We stopped your flexuril because it is contraindicated in your condition. >

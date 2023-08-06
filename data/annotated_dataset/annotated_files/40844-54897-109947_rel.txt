@@ -1,0 +1,22 @@
+Medical Issues
+Symptoms include <vomiting blood>;
+Symptoms [No explicit item] caused by Disease <alcohol withdrawal >
+Symptoms [No explicit item] caused by Disease <alcohol gastritis >
+
+Treatments
+Medicine <STARTED thiamine > to treat [No explicit item]
+<STARTED thiamine >  Results: [No explicit item]
+Medicine <folate > to treat [No explicit item]
+<folate >  Results: [No explicit item]
+Medicine <multivitamin > to treat [No explicit item]
+<multivitamin >  Results: [No explicit item]
+Medicine <STARTED neosporin ointment to your lip > to treat [No explicit item]
+<STARTED neosporin ointment to your lip >  Results: [No explicit item]
+Medicine <STARTED pantoprazole > to treat <alcohol gastritis>
+<STARTED pantoprazole >  Results: [No explicit item]
+Medicine < > to treat [No explicit item]
+< >  Results: [No explicit item]
+
+No template for <You were treated with medication to protect your stomach from acid >
+No template for <diazepam (valium) >
+No template for <Regarding your alcohol use and depression, psychiatry was consulted and they recommend inpatient psychiatric management >

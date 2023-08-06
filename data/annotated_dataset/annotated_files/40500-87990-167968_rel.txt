@@ -1,0 +1,9 @@
+Medical Issues
+Symptoms include <rectal bleeding  >;<vomiting blood >;<lightheadedness >;<dizziness >;
+Symptoms <CHANGE HERE Symptom name> caused by Disease <melena>
+Symptoms <CHANGE HERE Symptom name> caused by Disease <rectus sheath hematoma >
+
+Treatments
+Medicine <appetite stimulent > to treat [low appetite]
+<appetite stimulent >  Results: [No explicit item]
+

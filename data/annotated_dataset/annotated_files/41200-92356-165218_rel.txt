@@ -1,0 +1,13 @@
+Medical Issues
+Symptoms include <GI bleed>;
+
+Tests
+Tests include <endoscopy >;<colonoscopy >;
+Test implications of <colonoscopy>: <did not show a great reason for a bleed >;
+
+Treatments
+Procedure <You were transfused with blood > to treat [No explicit item]
+<You were transfused with blood >  Results: [No explicit item]
+Medicine <START taking PROTONIX (PANTOPRAZOLE) 40 mg by mouth twice daily (If your insurance doesn&#x27;t cover this, you can talk to your PCP about getting this medication authorized > to treat [No explicit item]
+<START taking PROTONIX (PANTOPRAZOLE) 40 mg by mouth twice daily (If your insurance doesn&#x27;t cover this, you can talk to your PCP about getting this medication authorized >  Results: [No explicit item]
+

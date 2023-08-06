@@ -1,0 +1,12 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|breathing fast| Medical Issues - Symptom|108|122
+1|blood oxygen level was low| Medical Issues - Symptom|132|158
+2|aspiration pneumonia| Medical Issues - Disease|256|276
+3|machine to help you breath| Treatments - Procedure name|295|321
+4|You became progressively better during your stay in the ICU| Treatments - Result of the treatment|323|382
+5|supplemental oxygen| Treatments - Medicine name|440|459
+6|improved further.| Treatments - Result of the treatment|487|504
+7|You were seen by physical therapy who recommended getting physical therapy at home.| Aftercare instructions - Upcoming Schedules - Specialist appointment|505|589
+8|Your lasix is changed to 20 mg orally every other day.| Medicine instructions - Medicine changed|589|644
+9|You were given a prescription for a breathing treatment which you can use if you wheeze or feel short of breath.| Medicine instructions - Medicine started|644|756
+10|You will be having an echocardiogram as outpatient, and then to be evaluated by a cardiologist regarding your narrow valve management.| Aftercare instructions - Upcoming Schedules - Specialist appointment|757|891

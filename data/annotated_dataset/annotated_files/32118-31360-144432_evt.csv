@@ -1,0 +1,14 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|acute renal failure| Medical Issues - Disease|127|146
+1|tense ascites| Medical Issues - Symptom|158|171
+2|alcoholic cirrhosis| Medical Issues - Disease|182|201
+3|paracenteses| Treatments - Procedure name|304|316
+4|total of 11L of ascitic fluid was removed.| Treatments - Result of the treatment|336|378
+5|Fluid studies| Treatments - Procedure name|379|392
+6|did not show infection, however you were started on antibacterial prophylaxis with ciprofloxacin| Treatments - Result of the treatment|393|489
+7|ciprofloxacin| Treatments - Medicine name|476|489
+8|infection on your abdominal skin| Medical Issues - Disease|580|612
+9|Please take all medications as directed. You have been prescribed medications for your liver failure| Aftercare instructions - patient needs to do - Medication|616|716
+10|While you are now medically stable for discharge from the hospital, it is strongly recommended that you seek further care for your alcohol abuse. You should STOP drinking alcohol.| Aftercare instructions - patient needs to do - Other|720|899
+11|You have an appointment with [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 75166**] at Bayview Associates in [**Hospital1 392**] at [**2153**] tomorrow morning at 11 a.m.| Aftercare instructions - Upcoming Schedules - Specialist appointment|900|1086
+12|If you develop chest pain, shortness of breath, fever, severe nausea and vomiting, or other symptoms similar to those that brought you into the hospital, please go to the nearest emergency room.| Aftercare instructions - Emergency instruction|1089|1283

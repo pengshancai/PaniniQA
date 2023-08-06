@@ -1,0 +1,21 @@
+Medical Issues
+Symptoms include <bleeding around your heart >;<swelling in your legs  >;
+
+Treatments
+Procedure <pulmonary vein ablation> to treat <atrial fibrillation>
+<pulmonary vein ablation>  Results: [No explicit item]
+Medicine <you were started on a medication called diltiazem > to treat <high heart rate>
+<you were started on a medication called diltiazem >  Results: [No explicit item]
+Procedure <ablation of your heart > to treat [No explicit item]
+<ablation of your heart >  Results: [No explicit item]
+Procedure <permanant pacemaker > to treat [No explicit item]
+<permanant pacemaker >  Results: [No explicit item]
+Medicine <We STARTED Diltiazem long acting  > to treat [No explicit item]
+<We STARTED Diltiazem long acting  >  Results: [No explicit item]
+Medicine <WE started a low dose of Atenolol to slow your heart rate > to treat <high heart rate>
+<WE started a low dose of Atenolol to slow your heart rate >  Results: [No explicit item]
+
+No template for <The cardiology office will call you with a date and time and instructions in the next week.  >
+No template for < We STOPPED Verapamil >
+No template for <Digoxin >
+No template for <We CHANGED Coumadin to 2 mg per day, you should have your INR checked on Wednesday >

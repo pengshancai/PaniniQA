@@ -1,0 +1,11 @@
+Medical Issues
+Symptoms include <tylenol overdose>;
+
+Treatments
+Medicine <You were treated with a medication to decrease the toxicity from tylenol > to treat [No explicit item]
+<You were treated with a medication to decrease the toxicity from tylenol >  Results: [No explicit item]
+Medicine <You should START taking Vitamin D > to treat [No explicit item]
+<You should START taking Vitamin D >  Results: [No explicit item]
+Medicine <You should START taking Neutra-Phos > to treat [No explicit item]
+<You should START taking Neutra-Phos >  Results: [No explicit item]
+No template for <You were seen by psychiatry who recommended inpatient psychiatric treatment for depression >

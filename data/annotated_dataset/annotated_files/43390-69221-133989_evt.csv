@@ -1,0 +1,13 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|fall| Medical Issues - Symptom|89|93
+1|severe alcohol intoxication| Medical Issues - Symptom|112|139
+2|narcotic ingestion| Medical Issues - Symptom|144|162
+3|Please resume all regular home medications, unless specifically advised not to take a particular medication| Aftercare instructions - patient needs to do - Medication|196|303
+4|Please take any new medications as prescribed.| Aftercare instructions - patient needs to do - Medication|305|351
+5|Please take the prescribed analgesic medications as needed.| Aftercare instructions - patient needs to do - Medication|352|411
+6|You may not drive or heavy machinery while taking narcotic analgesic medications.| Aftercare instructions - patient needs to do - Other|412|493
+7|You may also take acetaminophen (Tylenol) as directed, but do not exceed 4000 mg in one day.| Aftercare instructions - patient needs to do - Medication|494|586
+8|Please get plenty of rest, continue to walk several times per day, and drink adequate amounts of fluids.| Aftercare instructions - patient needs to do - Other|587|691
+9|Avoid strenuous physical activity and refrain from heavy lifting greater than 10 lbs.| Aftercare instructions - patient needs to do - Other|692|777
+10|follow-up with your your primary care physician| Aftercare instructions - Upcoming Schedules - PCP appointment|789|836
+11|Your primary care physician can also discuss alcohol cessation options with you| Aftercare instructions - Upcoming Schedules - PCP appointment|923|1002

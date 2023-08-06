@@ -1,0 +1,16 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|pneumonia| Medical Issues - Disease|95|104
+1|low blood pressure| Medical Issues - Symptom|58|76
+2|IV fluids| Treatments - Procedure name|128|137
+3|antibiotics| Treatments - Medicine name|142|153
+4|symptoms improved| Treatments - Result of the treatment|163|180
+5|Cefpodoxime - continue for 6 more days to end on [**2198-9-16**]| Medicine instructions - Medicine started|330|394
+6|Levofloxacin - continue for 6 more days to end on [**2198-9-16**] (this is an every-other-day medication)| Medicine instructions - Medicine started|402|507
+7|Hydrochlorothiazide| Medicine instructions - Medicine stopped|515|534
+8|Amlodipine| Medicine instructions - Medicine stopped|536|546
+9|Benazepril| Medicine instructions - Medicine stopped|548|558
+10|Triamterene| Medicine instructions - Medicine stopped|560|571
+11|Klor-Con| Medicine instructions - Medicine stopped|576|584
+12|you see your PCP on [**Name9 (PRE) 2974**]. He will decide if you should resume this medications| Aftercare instructions - Upcoming Schedules - PCP appointment|591|687
+13|CHANGE Coumadin to 1.5 Mg daily for this week| Medicine instructions - Medicine changed|690|735
+14|please have your INR drawn tomorrow, Wednesday the 28th at your PCP&#x27;s office| Aftercare instructions - Upcoming Schedules - Test|738|819

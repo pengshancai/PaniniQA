@@ -1,0 +1,7 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|swelling in your neck| Medical Issues - Symptom|96|117
+1|chemotherapy| Treatments - Procedure name|216|228
+2|Urinary tract infection| Medical Issues - Disease|279|302
+3|Ciprofloxacin - you will need to complete a 5 day course of this| Treatments - Medicine name|331|395
+4|STARTED Ciprofloxacin for 5 days| Treatments - Medicine name|452|484
+5|STARTED Oxycodone 5-10mg by mouth every 6 hours as needed for pain| Treatments - Medicine name|485|551

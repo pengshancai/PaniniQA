@@ -1,0 +1,11 @@
+Medical Issues
+Symptoms include <hypoxia >;<confusion>;
+Complication <concern for low blood pressure on presentation> caused by [no explicit item]
+Symptoms <confusion> caused by Disease <consequence of medications (levofloxacin and oxycodone) in the setting of acute renal failure due to dehydration> 
+
+Tests
+Tests include <chest XR>;
+Test results of <chest XR>: <no evidence of pneumonia>;
+Test results of <chest XR>: <more consistent with chronic pleural disease>;
+
+No template for <will need outpatient follow up including a pulmonology appointment and chest CT>

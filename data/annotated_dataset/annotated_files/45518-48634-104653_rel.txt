@@ -1,0 +1,24 @@
+Medical Issues
+Symptoms include <GI bleeding>;
+Symptoms <GI bleeding> caused by Disease <gastritis > <Maybe>
+Symptoms <GI bleeding> caused by Disease <diverticulosis > <Maybe>
+
+Tests
+Tests include <EGD >;<colonoscopy >;
+Test results of <EGD>: <gastritis in your stomach >;
+Test results of <colonoscopy>: <AVM (arteriovenous malformation) in the cecum >;
+Test implications of <colonoscopy>: <coagulated with thermal therapy to stop the bleeding >; 
+Test results of <colonoscopy>: <diverticulosis of the sigmoid colon >;
+
+Treatments
+Procedure <thermal therapy > to treat <GI bleeding>
+<thermal therapy > Results: <stop the bleeding >
+
+Aftercare instructions
+If encounter <Recurrence of bleeding Fainting or lightheadedness Abdominal or Pelvic Pain Pain with urination Fever or Chills Chest pain or shortness of breath, especially with exertion> do <Please call your doctor or return to the ED >
+
+No template for <You will need to get a capsule endoscopy as an outpatient. This will be coordinated by gastroenterology. >
+No template for <We restarted your Coumadin before discharge.  >
+No template for <Your INR was between 2.5 and 3.5 at discharge. You will need to have a follow up INR check with your regular doctor next week. >
+No template for <Your INR was between 2.5 and 3.5 at discharge. You will need to have a follow up INR check with your regular doctor next week. >
+No template for <You should take your Coumadin as per your prior regimen (5.5mg every day but Saturday, on Saturday take 4mg). >

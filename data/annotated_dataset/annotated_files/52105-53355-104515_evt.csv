@@ -1,0 +1,17 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|acute exacerbation of your congestive heart failure| Medical Issues - Disease|36|87
+1|intravenous diuretics| Treatments - Procedure name|135|156
+2|medicines to help your heart pump better| Treatments - Medicine name|161|201
+3|you will need to increase or decrease the torsemide to stay at this weight| Aftercare instructions - patient needs to do - Medication|290|364
+4|Weigh yourself every morning before breakfast| Aftercare instructions - patient needs to do - Other|366|411
+5|You also continued to have bleeding from the malformations in your intestinal tract| Medical Issues - Complication developed in the hospital|564|647
+6|Your kidneys worsened with the diuresis temporarily but have now recovered| Medical Issues - Complication developed in the hospital|839|913
+7|bony deformity on your spine that is impinging on your throat and causing trouble with swallowing| Tests - Test result|926|1023
+8|we will give you only shakes to drink and liquid or crushed medicines| Aftercare instructions - patient needs to do - Diet|1170|1239
+9|furosemide| Medicine instructions - Medicine stopped|1305|1315
+10|metolazone| Medicine instructions - Medicine stopped|1317|1327
+11|digoxin| Medicine instructions - Medicine stopped|1329|1336
+12|magnesium| Medicine instructions - Medicine stopped|1341|1350
+13|Change metoprolol to tartrate formulation so the medicine can be crushed| Medicine instructions - Medicine changed|1354|1426
+14|Start torsemide 80 mg daily to prevent fluid accumulation. This will need to be titrated up or down to maintain a weight of 182 pounds| Medicine instructions - Medicine started|1431|1565
+15|Decrease allopurinol to 100 mg daily| Medicine instructions - Medicine changed|1569|1605

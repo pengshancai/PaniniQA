@@ -1,0 +1,9 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|nausea, vomitting, diarrhea| Medical Issues - Symptom|64|91
+1|viral gastroenteritis| Medical Issues - Disease|130|151
+2|2 weeks of worsening breathing, with cough| Medical Issues - Symptom|183|225
+3|viral upper respiratory illness, in the setting of your considerable underlying lung disease| Medical Issues - Disease|256|348
+4|rapid steroid taper| Treatments - Medicine name|377|396
+5|follow-up with your pulmonary doctor as below, to consider a bronchoscopy as an outpatient| Aftercare instructions - Upcoming Schedules - Specialist appointment|415|505
+6|7 day course of an antibiotic, levaquin| Medicine instructions - Medicine started|594|633
+7|increased regimen of prednisone 60mg once daily, which will be tapered by 20 mg every 3 days (so take 60mg once daily for 3 days, then take 40mg once daily every for 3 days, then take 20mg once daily continuously until instructed to stop by your pulmonary doctor or primary care physician)| Medicine instructions - Medicine started|681|970

@@ -1,0 +1,17 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|facial weakness| Medical Issues - Symptom|141|156
+1|nausea| Medical Issues - Symptom|158|164
+2|emesis| Medical Issues - Symptom|166|172
+3|right frontal intraparenchymal hemorrhage| Medical Issues - Disease|209|250
+4|unable to pass speech| Medical Issues - Symptom|502|523
+5|swallow| Medical Issues - Symptom|528|535
+6|aspiration pneumonitis| Medical Issues - Disease|558|580
+7|PEG tube| Treatments - Procedure name|596|604
+8|propranolol| Medicine instructions - Medicine stopped|745|756
+9|propranolol| Medicine instructions - Medicine started|790|801
+10|acute rehab| Aftercare instructions - Upcoming Schedules - Specialist appointment|890|902
+11|MRI with contrast| Treatments - Procedure name|965|982
+12|Dilantin| Medicine instructions - Medicine continued|1056|1064
+13|amlodipine| Medicine instructions - Medicine started|1380|1390
+14|Plavix 5| Medicine instructions - Medicine stopped|1413|1421
+15|aspirin| Medicine instructions - Medicine continued|1432|1439

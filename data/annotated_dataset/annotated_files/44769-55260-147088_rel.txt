@@ -1,0 +1,17 @@
+Medical Issues
+Symptoms include <increased seizure frequency>;
+
+Tests
+Tests include <Echocardiogram of your heart >;
+Test results of [no explicit item]: <elevation in your cardiac enzymes >;
+Test results of <Echocardiogram of your heart>: <normal >;
+
+Treatments
+Procedure <intubated > to treat [no explicit item]
+<intubated >  Results: [no explicit item]
+Medicine <receiving multiple doses of medication to stop the seizures > to treat <seizures>
+<receiving multiple doses of medication to stop the seizures >  Results: [no explicit item]
+
+No template for <Trileptal was discontinued >
+No template for <Depakote dose was increased to 1000 mg >
+No template for <A new anti-seizure medication, called Vimpat was also started. You are currently on a dose of 100 mg >

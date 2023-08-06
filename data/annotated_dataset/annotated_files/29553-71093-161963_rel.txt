@@ -1,0 +1,20 @@
+Medical Issues
+Symptoms include <low blood pressure>;<dehydration >;<vomiting >;<diarrhea >;
+Symptoms <low blood pressure>;<dehydration >;<vomiting >;<diarrhea > caused by Disease <infection > <Maybe>
+Symptoms <low blood pressure>;<dehydration >;<vomiting >;<diarrhea > caused by Disease <peanut allergy > <Maybe>
+
+Tests
+Tests include <tests of your blood, urine, and stool  >;
+Test results of <tests of your blood, urine, and stool>: <found no definite source of infection >;
+Test implications of <tests of your blood, urine, and stool>: <We do not know for sure what caused your symptoms >;
+
+Treatments
+Medicine < IV fluids > to treat <dehydration>
+Medicine <medicine to increase your blood pressure > to treat <low blood pressure>
+Medicine <antibiotics > to treat <infection>
+
+Aftercare instructions
+If encounter <any of the symptoms listed below or any other symptoms that are concerning to you> do <please call your primary care doctor or go to your local emergency room. >
+
+No template for <After you are discharged from the hospital, please follow up with the doctor appointments mentioned below. >
+No template for <Epi-Pen >

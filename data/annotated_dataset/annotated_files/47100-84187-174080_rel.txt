@@ -1,0 +1,21 @@
+Medical Issues
+Symptoms include <worsening difficulty breathing with exertion>;<new Left Bundle Branch Block >;
+Complication <complete heart block > caused by <right heart cath> 
+Complication <During removal of that wire your heart was beating very slowly > caused by <right heart cath> 
+
+Tests
+Tests include <stress echo >;
+Test results of <stress echo>: <depressed contraction of your heart without evidence of ischemia >;
+
+Treatments
+Procedure <right heart cath > to treat <Left Bundle Branch Block>
+<right heart cath >  Results: [no explicit item]
+Procedure <pacing wire placed > to treat <Left Bundle Branch Block
+<pacing wire placed >  Results: [no explicit item]
+Procedure <pacemaker > to treat <Left Bundle Branch Block>
+<pacemaker >  Results: [no explicit item]
+
+Aftercare instructions
+If encounter <become lightheaded or dizzy or have chest pain> do <Please call your doctor and/or return to the emergency room>
+
+No template for <During you admission, some of your medications were changed, you should take the following medications when leavign the hospital: - metoprolol XL 25mg (ongoing) - clindamycin for 1 day after discharge >

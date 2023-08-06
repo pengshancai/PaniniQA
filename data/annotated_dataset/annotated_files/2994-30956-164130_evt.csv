@@ -1,0 +1,6 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|irregular heart rhythm| Medical Issues - Disease|73|95
+1|permanent pacemaker| Treatments - Procedure name|119|139
+2|Please follow up with your appointments as documented below.| Aftercare instructions - Upcoming Schedules - Specialist appointment|224|285
+3|Please take your medications as prescribed.| Aftercare instructions - patient needs to do - Medication|285|329
+4|Please return to the hospital if you develop fevers, chills, redness or warmth over the site of the pacemaker, chest pain, lightheadedness, palpitations, shortness of breath, or any other concerning symptoms.| Aftercare instructions - Emergency instruction|331|539

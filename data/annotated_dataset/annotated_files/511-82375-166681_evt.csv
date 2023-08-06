@@ -1,0 +1,11 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|headache| Medical Issues - Symptom|81|89
+1|ativan overuse| Medical Issues - Disease|137|151
+2|uncontrolled high blood pressure| Medical Issues - Symptom|47|79
+3|MRI brain| Tests - Test name|293|302
+4|normal| Tests - Test result|307|313
+5|You were started on a blood pressure medication which should be continued after your discharge| Aftercare instructions - patient needs to do - Medication|315|409
+6|Consult your primary care if you decide to breastfeed for further guidance with the medication| Aftercare instructions - patient needs to do - Medication|411|505
+7|We recommend that you discuss with your Ob/Gyn about trying to obtain a visiting nurse for the newborn baby| Aftercare instructions - patient needs to do - Other|507|614
+8|Please keep your follow-up appointments| Aftercare instructions - Upcoming Schedules - Specialist appointment|655|694
+9|decreased responsiveness| Medical Issues - Symptom|94|118

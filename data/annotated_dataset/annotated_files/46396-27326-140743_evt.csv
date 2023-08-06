@@ -1,0 +1,15 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|abdominal pain| Medical Issues - Symptom|145|159
+1|x-ray of your abdomen| Tests - Test name|348|369
+2|showed constipation| Tests - Test result|370|389
+3|Please follow the medications prescribed below. - You were started on a bowel regimen to help move your bowels (Senna and Docusate).| Medicine instructions - Medicine started|391|523
+4|Please STOP your omeprazole given you are also on plavix and they can interact.| Medicine instructions - Medicine stopped|526|606
+5|DECREASE your gabapentin to 300mg twice a day| Medicine instructions - Medicine changed|608|653
+6|STOP your simvastatin| Medicine instructions - Medicine stopped|656|677
+7|START atorvastatin 80mg daily| Medicine instructions - Medicine started|682|711
+8|There were not changes made to your medications, please continue your medication prior to admission| Aftercare instructions - patient needs to do - Medication|714|813
+9|Please follow up with the appointments below. - you should follow-up with your PCP [**Last Name (NamePattern4) **]. [**Last Name (STitle) **]. He is aware of your admission.| Aftercare instructions - Upcoming Schedules - PCP appointment|814|987
+10|Additionally, you should also follow-up with your GI doctor, Dr. [**Last Name (STitle) 10794**]| Aftercare instructions - Upcoming Schedules - Specialist appointment|988|1083
+11|Please call your PCP or go to the ED if you experience chest pain, palpitations, shortness of breath, nausea, vomiting, fevers, chills, or other concerning symptoms.| Aftercare instructions - Emergency instruction|1085|1250
+12|Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight > 3 lbs.| Aftercare instructions - patient needs to do - Other|1251|1326
+13|Adhere to 2 gm sodium diet Fluid Restriction| Aftercare instructions - patient needs to do - Diet|1327|1371

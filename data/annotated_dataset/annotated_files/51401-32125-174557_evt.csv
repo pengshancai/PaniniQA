@@ -1,0 +1,15 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|increased fluid on your body| Medical Issues - Symptom|75|103
+1|kidneys were not functioning well| Medical Issues - Disease|127|160
+2|catheter was placed| Treatments - Procedure name|181|200
+3|dialysis| Treatments - Procedure name|205|213
+4|to remove the fluid| Treatments - Treatment goal|226|245
+5|atrial fibrillation| Medical Issues - Disease|308|327
+6|lasix| Medicine instructions - Medicine stopped|369|374
+7|nadolol| Medicine instructions - Medicine stopped|387|394
+8|potassium| Medicine instructions - Medicine stopped|407|416
+9|renagel (sevelamer)| Medicine instructions - Medicine stopped|429|448
+10|nephrocaps (B-vitamin-B12-folate)| Medicine instructions - Medicine started|461|494
+11|midodrine| Medicine instructions - Medicine started|508|517
+12|Please call your physician or return to the ED if you have worsening swelling, shortness of breath, chest pain, or other symptoms that are concerning to you| Aftercare instructions - patient needs to do - Other|531|687
+13|Please adhere to a low sodium (&lt;2 gm/day) diet| Aftercare instructions - patient needs to do - Diet|689|738

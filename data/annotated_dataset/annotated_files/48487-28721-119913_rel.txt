@@ -1,0 +1,11 @@
+Medical Issues
+Symptoms {CHANGE HERE Symptom name} caused by Disease <infection on your blood> <{blood infection Maybe}>
+
+Treatments
+Medicine <antibiotics > to treat <{blood infection Disease}>
+<antibiotics >  Results: {controlled infection Treatment Result}
+Procedure <TPN (supplemental IV nutrition)  > to treat {CHANGE HERE Disease}
+<TPN (supplemental IV nutrition)  >  Results: <{restarted food intake by mouth Treatment Result}>
+
+No template for < take all medications as written >
+No template for < follow up with your doctor  >

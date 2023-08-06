@@ -1,0 +1,18 @@
+Medical Issues
+Symptoms include <chest pain>;<shortness of breath >;<oxygen level was low >;
+Symptoms [chest pain];[shortness of breath ];[oxygen level was low ]; caused by Disease <viral infection > 
+Tests
+Tests include <EKG >;<blood tests >;<chest x-ray >;<Chest CT >;
+Test results of [EKG ];[blood tests]: <did not show evidence of a heart attack >;
+Test results of {chest x-ray}: <did not show pneumonia >;
+Test results of {Chest CT}: <did not show a blood clot in the lungs >;
+
+Treatments
+Procedure <breathing treatments > to treat {low oxygen level}
+<breathing treatments >  Results: {improved}
+Medicine <diuretic medications > to treat {low oxygen level}
+<diuretic medications >  Results: {improved}
+
+No template for <lasix (furosemide) >
+No template for <It was recommended that you restart lasix (furosemide) 20 mg daily to prevent fluid from building up around your lungs and in your legs. >
+No template for <Please have your blood electrolyte levels and kidney function checked at your follow-up appointment with Dr. [**First Name (STitle) 572**]. >

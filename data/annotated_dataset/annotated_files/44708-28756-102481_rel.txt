@@ -1,0 +1,15 @@
+Medical Issues
+Symptoms include <chest pain>;<blood pressure was very high >;
+
+Treatments
+Medicine <Norvasc 5mg daily>; <Lisinopril 40mg daily>; <Hydrochlorothiazide 25mg daily>; <Atenolol 25mg daily>; to treat [no explicit item]
+<Norvasc 5mg daily>; <Lisinopril 40mg daily>; <Hydrochlorothiazide 25mg daily>; <Atenolol 25mg daily> Results: [no explicit item]
+
+Aftercare instructions
+If encounter <worrisome symptoms such as chest pain, shortness of breath, lightheadedness or begin to feel unwell> do <Please contact your doctor or return to the emergency room>
+
+No template for <You should also continue to take aspirin daily. . >
+No template for <Please follow up with Dr. [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) **] at [**Hospital1 **] Community Health Center. Your appointment is scheduled for [**2114-3-28**] at 3pm.  >
+No template for <You are also scheduled to follow up with [**First Name4 (NamePattern1) 698**] [**Last Name (NamePattern1) 13469**] NP on [**2114-2-21**] at 1pm.  >
+No template for <Please call [**Telephone/Fax (1) 3581**] with any questions. >
+No template for <You will need to stop on the [**Location (un) 453**] of Adult Medicine on the day of your appointment to fill out paperwork for [**Hospital1 **]. >

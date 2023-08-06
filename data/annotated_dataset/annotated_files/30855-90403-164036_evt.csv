@@ -1,0 +1,7 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|gastrointestinal bleed| Medical Issues - Disease|191|213
+1|urinary tract infection| Medical Issues - Disease|313|336
+2|esophagogastroduodenoscopy| Tests - Test name|385|411
+3|did not reveal a source of your bleeding| Tests - Test result|449|489
+4|Please note the following changes to your medications| Medicine instructions - Medicine changed|491|544
+5|Please keep all of your follow up appointments.| Aftercare instructions - Upcoming Schedules - Specialist appointment|546|593

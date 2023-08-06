@@ -1,0 +1,14 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|worsening diarrhea| Medical Issues - Symptom|184|202
+1|C. diff| Medical Issues - Disease|250|257
+2|blood tests| Tests - Test name|267|279
+3|you were Cdiff negative| Tests - Test implication|292|315
+4|pancreas not producing enough enzymes to help you break down food| Medical Issues - Symptom|370|435
+5|bleeding from blood vessels inside of your esophagus| Medical Issues - Symptom|477|529
+6|blood pressures became very low| Medical Issues - Symptom|536|567
+7|It is VERY important that you not drink alcohol and that you do not take more than 2 grams (2,000 milligrams) of Tylenol daily| Aftercare instructions - patient needs to do - Other|899|1025
+8|STOP oral vancomycin| Medicine instructions - Medicine stopped|1207|1227
+9|START Creon tablets three times a day with meals| Medicine instructions - Medicine started|1237|1286
+10|START ciprofloxacin 500 mg twice a day for one more day| Medicine instructions - Medicine started|1295|1350
+11|START metronidazole 500 mg three times a day for one more day| Medicine instructions - Medicine started|1360|1422
+12|please START probiotic colon support one pill daily by mouth| Medicine instructions - Medicine started|1424|1485

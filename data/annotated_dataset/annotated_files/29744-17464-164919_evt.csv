@@ -1,0 +1,12 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|loss of consciousness| Medical Issues - Symptom|65|86
+1|vasovagal syncope| Medical Issues - Disease|372|389
+2|neurocardiogenic syncope| Medical Issues - Disease|403|427
+3|pneumonia| Medical Issues - Disease|771|780
+4|chest x-rays| Tests - Test name|786|798
+5|CT-scan| Tests - Test name|803|810
+6|persistent nodule in your lungs| Tests - Test result|824|855
+7|Please inform your primary care doctor regarding this finding and give him the radiology reports that we will include with your paperwork.| Aftercare instructions - Upcoming Schedules - PCP appointment|857|995
+8|MRI of your spine| Tests - Test name|1006|1023
+9|excess water (edema) in two of your cervical vertebrae| Tests - Test result|1036|1090
+10|Per the radiologist, this finding does not imply a poor prognosis, but is rather an unusual abnormality. Please tell your primary care doctor about this finding.| Aftercare instructions - Upcoming Schedules - PCP appointment|1092|1253

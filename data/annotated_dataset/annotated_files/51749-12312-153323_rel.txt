@@ -1,0 +1,21 @@
+Medical Issues
+Symptoms include <watery diarrhea>;<shortness of breath >;<low blood pressure >;<jaundice>;
+Symptoms <inflamed liver> caused by Disease <history of drinking whiskey> 
+Complication <kidneys also started working harder than usual> caused by [no explicit item]
+
+Tests
+Test results of <{stool culture}>: <No clear bacterial cause was found>;
+Test results of <{total bile acids test}>: <increased amounts of bile>;
+
+Treatments
+[no explicit item] Results: <improved during your hospitalization>
+Procedure <1 L of fluid removed from your abdomen > to treat <inflamed liver>
+<1 L of fluid removed from your abdomen >  Results: <breathing improved prior to discharge>
+
+
+No template for <Losartan>
+No template for <lasix>
+No template for <sotalol>
+No template for <imodium as needed for loose stools>
+No template for <We are holding fluvastatin until your liver numbers go back to baseline>
+No template for <Please call your physician or return to the ED if you experience any of the following: fever &gt; 101, worsening shortness of breath, worsening diarrhea, abdominal pain, or any other symptoms concerning to you>

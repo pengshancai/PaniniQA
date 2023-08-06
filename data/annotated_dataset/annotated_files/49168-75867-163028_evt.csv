@@ -1,0 +1,13 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|confusion| Medical Issues - Symptom|70|79
+1|intoxication from alcohol| Medical Issues - Symptom|84|109
+2|fevers| Medical Issues - Symptom|245|251
+3|IV antibiotics| Treatments - Procedure name|265|279
+4|fevers went away| Treatments - Result of the treatment|286|302
+5|You were monitored for alcohol withdrawal| Treatments - Procedure name|304|346
+6|showing no symptoms of withdrawal at the time of discharge| Treatments - Result of the treatment|355|413
+7|swollen toe| Medical Issues - Symptom|440|451
+8|x-ray of your toe| Tests - Test name|460|477
+9|no fracture or inflammation of the joint| Tests - Test result|485|525
+10|Please take your medications as prescribed, especially the Dilantin which will help to prevent seizure.| Aftercare instructions - patient needs to do - Medication|527|631
+11|follow up appointment with your primary care doctor to review your medications and discuss this admission.| Aftercare instructions - patient needs to do - Other|666|773

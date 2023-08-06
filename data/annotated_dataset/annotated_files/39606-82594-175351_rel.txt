@@ -1,0 +1,20 @@
+Medical Issues
+Symptoms include <very rapid heart beat>;<irregular rhythm. >;<heart was beating very quickly >;
+Symptoms [No explicit item] caused by Disease <COPD > [No explicit item]
+Symptoms [No explicit item] caused by Disease <hyperthyroid > {hyperthyroidism}
+
+Treatments
+Procedure <thyroidectomy > to treat [No explicit item]
+<thyroidectomy >  Results: [No explicit item]
+
+No template for <digoxin >
+No template for <aspirin >
+No template for <oxycodone >
+No template for <verapamil >
+No template for <calcium >
+No template for <omeprazole >
+No template for <iron >
+No template for <olanzapine >
+No template for <replacement therapy >
+No template for <monitor your levels >
+No template for <titrate your dose >

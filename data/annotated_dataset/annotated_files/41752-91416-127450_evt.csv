@@ -1,0 +1,14 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|shortness of breath| Medical Issues - Symptom|174|193
+1|fatigue| Medical Issues - Symptom|195|202
+2|passing out in your bathroom| Medical Issues - Symptom|208|236
+3|large amount of fluid around your heart| Medical Issues - Symptom|263|302
+4|You underwent a pericardiocentesis with drainage of the fluid and your symptoms improved dramatically| Tests - Test name|304|405
+5|your symptoms improved dramatically| Treatments - Result of the treatment|370|405
+6|viral pericarditis| Medical Issues - Disease|439|457
+7|we are giving you medications to prevent the fluid from re-accumulating| Treatments - Medicine name|462|533
+8|thyroid problems| Medical Issues - Disease|831|847
+9|autoimmune disease| Medical Issues - Disease|852|870
+10|echocardiogram| Tests - Test name|921|935
+11|START Ibuprofen 200mg tabs 3 tabs by mouth as needed for pain (Please do not take more than 2400 grams daily, you can take less if you feel it is enough for your pain)| Treatments - Medicine name|1092|1259
+12|START Colchicine 0.6mg by mouth twice daily (You will take this medication for at least 6 months to prevent the fluid around your heart from coming back)| Treatments - Medicine name|1261|1414

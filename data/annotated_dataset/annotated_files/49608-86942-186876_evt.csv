@@ -1,0 +1,6 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|urine infection| Tests - Test result|161|176
+1|chest xray| Tests - Test name|180|190
+2|no evidence of a pneumonia| Tests - Test result|198|224
+3|antibiotics| Treatments - Medicine name|329|340
+4|You will need 2 more days of ceftriaxone for your urinary infection| Aftercare instructions - patient needs to do - Medication|552|619

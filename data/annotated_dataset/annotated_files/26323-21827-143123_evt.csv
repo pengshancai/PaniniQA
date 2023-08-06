@@ -1,0 +1,6 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|Please return to the ER if you have an signs of bleeding (spitting up blood, blood in your stool, dizzyness, or lightheadedness)| Aftercare instructions - Emergency instruction|27|156
+1|Please followup with all of your appointments.| Aftercare instructions - Upcoming Schedules - Specialist appointment|158|204
+2|Please take all medication as we have prescribed. **We have changed your medications. Please take the medications as we have prescribed.| Aftercare instructions - patient needs to do - Medication|205|341
+3|INSTEAD OF BUMEX YOU WILL NOW BE TAKING LASIX| Medicine instructions - Medicine changed|348|393
+4|You will be readmitted to the hospital likely on [**2104-12-8**]. The admitting office will call you to arrange the details.| Aftercare instructions - Upcoming Schedules - Treatment|396|520

@@ -1,0 +1,11 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|abnormal heart rhythm| Medical Issues - Disease|81|102
+1|procedure| Treatments - Procedure name|120|129
+2|improved| Treatments - Result of the treatment|155|164
+3|difficulty breathing| Medical Issues - Complication developed in the hospital|209|229
+4|medications| Medical Issues - Complication developed in the hospital|307|318
+5|sleep apnea| Medical Issues - Complication developed in the hospital|328|339
+6|breathing tube| Treatments - Procedure name|251|265
+7|improved| Treatments - Result of the treatment|376|386
+8|breathing tube was removed| Treatments - Result of the treatment|407|433
+9|| Aftercare instructions - patient needs to do - Other|486|746

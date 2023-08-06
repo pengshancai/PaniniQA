@@ -1,0 +1,14 @@
+Medical Issues
+Symptoms include <bleeding from you GI tract>;
+Symptoms <bleeding from you GI tract> caused by <blood thinner darbigatran > <Maybe>
+
+Tests
+Tests include <colonoscopy >;
+
+No template for <You will have to stay OFF this medication until your next endoscopy. >
+No template for <Please speak with your cardiologist about restarting the darbigatran. >
+No template for <STOP Dabigatran. This medication contributed to your bleeding. You will need to stay off this medication until you have an EGD in 2 weeks. Thereafter, you should talk to your primary provider and cardiologist about when to restart this or other anti-coagulation.  >
+No template for <START Clonazepam 0.5 mg by mouth twice daily and Clonazepam 1 mg at night daily  >
+No template for <START Risperidone 2 mg by mouth at night daily >
+No template for <INCREASED Metoprolol XL to 150 mg once daily - 100 mg XL Daily and 50 mg XL daily >
+No template for < >

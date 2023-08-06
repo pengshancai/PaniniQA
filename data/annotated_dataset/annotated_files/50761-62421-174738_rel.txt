@@ -1,0 +1,19 @@
+Medical Issues
+Symptoms include <headache>;<fever >;
+Symptoms [no explicit item] caused by Disease <sinus infection > 
+
+Tests
+Tests include <CT of your head >;<lumbar puncture >;<CT scan >;
+Test results of <CT of your head>: <did not show any recurrent bleeding >;
+Test results of <lumbar puncture>: <did not show any signs of infection >;
+Test results of <CT scan>: <nodule in you upper lung and a lesion in the pancreas >;
+
+No template for <You will need to make sure that your doctor checks this with another CT scan in [**5-26**] weeks >
+No template for <Afrin nasal spray >
+No template for <you should only use this for 3 days, your nose may get more congested after stopping this medication, this will not last and you should not restart this medication >
+No template for <azithromycin >
+No template for <azithromycin for your sinus infection, you will take this for the next 5 days >
+No template for <We did not give you your blood pressure medications: hydrochlorothiazide, plendil. You should talk to your doctor before restarting these >
+No template for <If you have any worsening of your headache, changes in vision, numbness, tingling, weakness, bleeding, fevers or chills, chest pain or any other concerning symptoms please call your doctor immediately or go to the emergency department >
+No template for <hydrochlorothiazide >
+No template for <plendil >

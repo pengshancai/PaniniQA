@@ -1,0 +1,12 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|confused| Medical Issues - Symptom|215|223
+1|not responding in a manner that is normal for you| Medical Issues - Symptom|228|277
+2|X-Ray| Tests - Test name|311|317
+3|pneumonia| Medical Issues - Disease|332|341
+4|infection in your urine| Medical Issues - Disease|372|395
+5|IV antibiotics| Treatments - Medicine name|416|431
+6|returned to your normal state of functioning| Treatments - Result of the treatment|459|503
+7|Please note that we will need you to complete your final dose of IV Vancomycin and Cefepime at [**Hospital1 100**] Senior Life on [**2152-3-12**].| Aftercare instructions - patient needs to do - Medication|567|714
+8|You should continue all of your medications with the following important changes: 1. Vancomycin 1 g IV x one dose on Sunday [**2152-3-12**] 2. Cefepime 1 g IV x one dose on Sunday [**2152-3-12**]| Medicine instructions - Medicine changed|714|909
+9|HOLD Imdur 15 mg daily.| Medicine instructions - Medicine stopped|913|936
+10|demonstrated a pneumonia| Tests - Test result|317|341

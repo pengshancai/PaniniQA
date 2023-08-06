@@ -1,0 +1,19 @@
+Medical Issues
+Symptoms include <abdominal pain>;<abdominal pain >;
+Symptoms <abdominal pain> caused by Disease <pancreatitis >
+Symptoms [No explicit item] caused by Disease <infection >
+
+Tests
+Tests include <CT scan of the abdomen >;
+
+Treatments
+Procedure <You underwent an ERCP > to treat <pancreatitis>
+<You underwent an ERCP >  Results: [No explicit item]
+Procedure <placement of a stent into the bile duct > to treat <pancreatitis>
+<placement of a stent into the bile duct >  Results: [No explicit item]
+Procedure <exploratory laparotomy > to treat [No explicit item]
+<exploratory laparotomy >  Results: [No explicit item]
+Procedure <lysis of adhesions for a bowel obstruction > to treat <[No explicit item]
+<lysis of adhesions for a bowel obstruction >  Results: [No explicit item]
+
+No template for <You were started on antibiotics >

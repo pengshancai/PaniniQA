@@ -1,0 +1,13 @@
+Medical Issues
+Symptoms include <fevers>;<chills >;
+Symptoms <fevers> <chills > caused by Disease <severe infection in your blood >
+
+Treatments
+Medicine <antibiotics > to treat <severe infection in your blood>
+<antibiotics >  Results: <improved significantly>
+
+Aftercare instructions
+If encounter <chest pain, nausea, vominting, fevers, chills, low blood pressure, or any other symptom that concerns you> do < please seek medical attention. >
+
+No template for <You have improved significantly but will need to complete a 14 day course of antibiotics. >
+No template for <Please take all medications as prescribed and keep all your doctors [**Name5 (PTitle) 4314**]. >

@@ -1,0 +1,19 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|leftward deviation of your eyes| Medical Issues - Symptom|275|306
+1|difficulty speaking and understanding language| Medical Issues - Symptom|311|357
+2|physical examinations| Tests - Test name|379|400
+3|neuroimaging studies| Tests - Test name|402|422
+4|laboratory investigations| Tests - Test name|427|452
+5|suffered a stroke in the left part of your brain that is involved in understanding and producing language| Tests - Test result|477|582
+6|stroke| Medical Issues - Disease|488|494
+7|TPA (tissue plasminogen activator)| Treatments - Medicine name|617|651
+8|images of your blood vessels| Tests - Test name|843|871
+9|soft plaque in the left carotid| Tests - Test result|879|910
+10|source of your stroke| Tests - Test implication|930|951
+11|blood thinner| Treatments - Medicine name|988|1001
+12|bleeding from the squamous cell carcinoma on your right foot| Medical Issues - Complication developed in the hospital|1055|1115
+13|Given that you have had trouble with bleeding from the squamous cell carcinoma on your right foot, we spoke with your outpatient dermatologist, the plastic surgery consult team, and the radiation oncology consult service about this. The only possible noninvasive option to help with this would be 15-20 sessions with the radiation oncologists to help stop the bleeding. After discussion with your family, it is thought that returning for these sessions would be too disruptive to complete.| Aftercare instructions - patient needs to do - Other|1018|1507
+14|Therefore we will hold off on full blood thinners| Medicine instructions - Medicine stopped|1508|1557
+15|continue on aspirin| Medicine instructions - Medicine continued|1562|1581
+16|Please continue to take aspirin 325mg by mouth daily to help prevent future strokes| Medicine instructions - Medicine continued|1583|1666
+17|We also started a medication, simvastatin 40mg by mouth daily. This is to decrease inflammation and to help decrease your risk for future strokes.| Medicine instructions - Medicine started|1668|1814

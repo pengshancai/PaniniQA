@@ -1,0 +1,15 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|worsening shortness of breath| Medical Issues - Symptom|119|148
+1|extremely high blood pressure| Medical Issues - Symptom|171|200
+2|fluid was backing up into your lungs| Medical Issues - Symptom|205|241
+3|eating too much salt and fluids in a short period of time| Medical Issues - Disease|272|329
+4|IV infusion of medications| Treatments - Medicine name|346|373
+5|control your blood pressure| Treatments - Treatment goal|376|404
+6|you began to feel a lot better| Treatments - Result of the treatment|408|438
+7|put you back on your regular mediations| Treatments - Medicine name|448|487
+8|low salt diet| Treatments - Medicine name|494|507
+9|your breathing and blood pressure remained well controlled| Treatments - Result of the treatment|512|570
+10|We made no changes to your medications.| Medicine instructions - Medicine continued|572|611
+11|It is exremely important for you to be 100% compliant with your medications and to follow a low salt diet.| Aftercare instructions - patient needs to do - Other|612|719
+12|You will need to continue dialysis per your usual schedule.| Aftercare instructions - Upcoming Schedules - Treatment|719|778
+13|You should weigh yourself every morning, and call your doctor if your weight goes up more than 3 lbs.| Aftercare instructions - patient needs to do - Other|779|880

@@ -1,0 +1,20 @@
+Medical Issues
+Symptoms include <tense ascites >;
+Symptoms [no explicit item] caused by Disease <acute renal failure> 
+Symptoms <tense ascites > caused by Disease <alcoholic cirrhosis > 
+Symptoms [no explicit item] caused by Disease <infection on your abdominal skin > 
+
+Treatments
+Procedure <paracenteses > to treat <tense ascites>
+<paracenteses >  Results: <total of 11L of ascitic fluid was removed. >
+Procedure <Fluid studies > to treat <infection>
+<Fluid studies >  Results: <did not show infection, however you were started on antibacterial prophylaxis with ciprofloxacin >
+Medicine <ciprofloxacin > to treat <infection prophylaxis>
+<ciprofloxacin >  Results: [no explicit item]
+
+Aftercare instructions
+If encounter <chest pain, shortness of breath, fever, severe nausea and vomiting, or other symptoms similar to those that brought you into the hospital> do <please go to the nearest emergency room. >
+
+No template for <Please take all medications as directed. You have been prescribed medications for your liver failure >
+No template for <While you are now medically stable for discharge from the hospital, it is strongly recommended that you seek further care for your alcohol abuse. You should STOP drinking alcohol. >
+No template for <You have an appointment with [**First Name5 (NamePattern1) **] [**Last Name (NamePattern1) 75166**] at Bayview Associates in [**Hospital1 392**] at [**2153**] tomorrow morning at 11 a.m. >

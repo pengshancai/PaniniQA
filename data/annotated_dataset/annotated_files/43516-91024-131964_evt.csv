@@ -1,0 +1,17 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|chest pain| Medical Issues - Symptom|64|74
+1|shortness of breath| Medical Issues - Symptom|79|98
+2|oxygen level was low| Medical Issues - Symptom|105|125
+3|breathing treatments| Treatments - Procedure name|144|164
+4|diuretic medications| Treatments - Medicine name|169|189
+5|viral infection| Medical Issues - Disease|232|247
+6|EKG| Tests - Test name|283|286
+7|blood tests| Tests - Test name|291|302
+8|did not show evidence of a heart attack| Tests - Test result|303|342
+9|chest x-ray| Tests - Test name|349|360
+10|did not show pneumonia| Tests - Test result|361|383
+11|Chest CT| Tests - Test name|385|393
+12|did not show a blood clot in the lungs| Tests - Test result|394|432
+13|lasix (furosemide)| Medicine instructions - Medicine started|470|488
+14|It was recommended that you restart lasix (furosemide) 20 mg daily to prevent fluid from building up around your lungs and in your legs.| Aftercare instructions - patient needs to do - Medication|434|570
+15|Please have your blood electrolyte levels and kidney function checked at your follow-up appointment with Dr. [**First Name (STitle) 572**].| Aftercare instructions - Upcoming Schedules - Specialist appointment|571|710

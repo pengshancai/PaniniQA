@@ -1,0 +1,18 @@
+Medical Issues
+Symptoms include <vomited blood>;
+Symptoms <vomited blood> caused by Disease <stomach ulcers > 
+
+Tests
+Tests include <endoscopy >;
+Test results of <endoscopy>: <found to have stomach ulcers >;
+
+Treatments
+Medicine <antibiotics > to treat <infection at your recent surgical site (in the left groin)>
+
+No template for <Continue to take your home medications >
+No template for <START bactrim (an antibiotic) to complete a 10-day course >
+No template for <START pantoprazole twice a day (to prevent ulcer formation) >
+No template for <START heparin subcutaneous injections twice a day until the patient is ambulatory at which point this can be discontinued  >
+No template for <STOP taking your 325mg Aspirin until you follow-up with Dr. [**Last Name (STitle) 1391**] and then you can discuss with him if it is now appropriate/safe to restart the aspirin. >
+No template for <TOP taking omeprazole (pantoprazole is replacing this). >
+No template for < >

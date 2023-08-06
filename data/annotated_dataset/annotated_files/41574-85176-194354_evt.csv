@@ -1,0 +1,15 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|breaking your ribs| Medical Issues - Disease|87|105
+1|rib fractures| Medical Issues - Symptom|134|147
+2|severe pain| Medical Issues - Symptom|173|184
+3|You should take your pain medication as directed to stay ahead of the pain otherwise you won't be able to take deep breaths| Treatments - Medicine name|258|387
+4|Pneumonia| Medical Issues - Disease|476|485
+5|secretions that pool in the lungs| Medical Issues - Symptom|704|737
+6|You will be more comfortable if you use a cough pillow to hold against your chest and guard your rib cage while coughing and deep breathing| Aftercare instructions - patient needs to do - Other|741|880
+7|Symptomatic relief with ice packs or heating pads for short periods may ease the pain| Aftercare instructions - patient needs to do - Other|884|969
+8|If your doctor allows, non steroidal antiinflammatory drugs are very effective in controlling pain| Treatments - Medicine name|1147|1245
+9|Ibuprofen| Treatments - Medicine name|1252|1261
+10|Motrin| Treatments - Medicine name|1263|1269
+11|Advil| Treatments - Medicine name|1271|1276
+12|Aleve| Treatments - Medicine name|1278|1283
+13|Naprosyn| Treatments - Medicine name|1285|1293

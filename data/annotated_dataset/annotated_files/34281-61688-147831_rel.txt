@@ -1,0 +1,7 @@
+Medical Issues
+Symptoms include <fever>;<low blood pressure >;
+Symptoms <fever> <low blood pressure > caused by Disease <sepsis > <Maybe>
+
+No template for <Please continue to take the antibiotic, Ciprofloxacin, until you run out of them (3 weeks).  >
+No template for <If you are unable to tolerate Cipro due to nausea/vomiting, or prolonged diarrhea, please call [**Telephone/Fax (1) 2756**] and page the urology resident on-call. We can consider an alternative antibiotic. >
+No template for <Please follow up with your Primary Care Physician (PCP) and Dr. [**Last Name (STitle) **] (Urologist) for follow-up as intructed below. . >

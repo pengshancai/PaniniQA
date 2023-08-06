@@ -1,0 +1,8 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|confusion| Medical Issues - Symptom|88|97
+1|IT IS EXTREMELY IMPORTANT THAT YOU USE YOUR BIPAP MACHINE EVERY NIGHT! We spoke with you daughter about this, and she will help you remember to put it on every night so you can get used to the machine, even though it is uncomfortable.| Aftercare instructions - patient needs to do - Other|211|445
+2|Please don't take your lasix tomorrow (Saturday, [**2166-2-8**]) because you are slightly dehydrated. You can restart taking it on Sunday [**2166-2-9**].| Aftercare instructions - patient needs to do - Medication|446|604
+3|Have labwork checked at your appointment with Dr. [**Last Name (STitle) 2185**] on Monday [**2166-2-10**]. Please keep all of your appointments as listed below.| Aftercare instructions - Upcoming Schedules - Test|605|766
+4|Please keep all of your appointments as listed below.| Aftercare instructions - Upcoming Schedules - Specialist appointment|712|765
+5|Call your doctor if you become short of breath or gain more than 3 pounds in 3 days.| Aftercare instructions - patient needs to do - Other|766|851
+6|Restrict your [**Month/Day/Year **] intake to less than 2 grams per day. Do not drink more than 1500 mL of fluid in one day.| Aftercare instructions - patient needs to do - Diet|851|975

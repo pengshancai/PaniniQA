@@ -1,0 +1,12 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|shortness of breath| Medical Issues - Symptom|69|88
+1|bronchoscopy| Tests - Test name|272|284
+2|you had a large amount of cells called eosinophils| Tests - Test result|300|350
+3|Please start taking Calcium and Vitamin D| Aftercare instructions - patient needs to do - Diet|767|808
+4|take Bactrim to prevent any other lung infections| Medicine instructions - Medicine started|815|864
+5|Please follow up with Dr. [**Last Name (STitle) 713**] and the other doctors listed below| Aftercare instructions - Upcoming Schedules - Specialist appointment|866|955
+6|albuterol| Medicine instructions - Medicine continued|990|1000
+7|levoalbuterol (Xopenex)| Medicine instructions - Medicine started|1055|1078
+8|Please return to the hospital for any worsening shortness of breath, increased cough, fevers, chills, chest pain, fainting, headaches, or any other concerns| Aftercare instructions - patient needs to do - Other|1271|1427
+9|antibiotics| Treatments - Medicine name|233|245
+10|pneumonia| Medical Issues - Disease|205|214

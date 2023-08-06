@@ -1,0 +1,12 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|difficulty breathing| Medical Issues - Symptom|117|137
+1|pneumonia| Medical Issues - Disease|162|171
+2|pleural effusion| Medical Issues - Disease|234|250
+3|antibiotics| Treatments - Medicine name|264|275
+4|PICC line| Treatments - Procedure name|336|345
+5|cancer| Medical Issues - Disease|509|515
+6|CT scan| Tests - Test name|533|540
+7|cancer was likely from your lungs| Tests - Test result|566|599
+8|The following changes were made to your medications: hospice care medication list included in this discharge packet.| Aftercare instructions - patient needs to do - Medication|603|719
+9|drained the fluid from around your lungs| Treatments - Procedure name|449|489
+10|we found cells of cancer| Treatments - Result of the treatment|491|515

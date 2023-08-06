@@ -1,0 +1,17 @@
+Medical Issues
+Symptoms include <shortness of breath >;<chest pain >;
+
+Treatments
+Procedure <lung surgery> to treat [No explicit item]
+<lung surgery>  Results: [No explicit item]
+Medicine <You will continue to need pain medication once you are home but you can wean it over a few weeks as the discomfort resolves > to treat <pain>
+<You will continue to need pain medication once you are home but you can wean it over a few weeks as the discomfort resolves >  Results: [No explicit item]
+Medicine <Use a stool softener or gentle laxative to stay regular > to treat [No explicit item]
+<Use a stool softener or gentle laxative to stay regular >  Results: [No explicit item]
+Medicine <Take Tylenol 650 mg every 6 hours in between your narcotic > to treat [No explicit item]
+<Take Tylenol 650 mg every 6 hours in between your narcotic >  Results: [No explicit item]
+Medicine <If your doctor allows you may also take Ibuprofen to help relieve the pain > to treat <pain>
+<If your doctor allows you may also take Ibuprofen to help relieve the pain >  Results: [No explicit item]
+
+No template for <Continue to stay well hydrated and eat well to heal your incisions >
+No template for <No tub bathing, swimming or hot tubs until incision healed >

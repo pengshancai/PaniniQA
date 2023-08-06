@@ -1,0 +1,13 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|abdominal pain| Medical Issues - Symptom|145|159
+1|CT scan| Tests - Test name|171|178
+2|MRI| Tests - Test name|183|186
+3|determine a source of your infection| Tests - Test goal|206|242
+4|did not reveal a clear cost| Tests - Test result|251|278
+5|tested your blood for an infection in your stomach| Tests - Test name|283|333
+6|antibiotics| Treatments - Medicine name|465|476
+7|MRI of your spine| Tests - Test name|511|528
+8|deformity| Tests - Test result|543|552
+9|Please follow the medications prescribed below.| Medicine instructions - Medicine continued|649|696
+10|Please follow up with the appointments below.| Aftercare instructions - Upcoming Schedules - Specialist appointment|697|742
+11|Please call your PCP or go to the ED if you experience chest pain, palpitations, shortness of breath, nausea, vomiting, fevers, chills, or other concerning symptoms.| Aftercare instructions - Emergency instruction|743|908

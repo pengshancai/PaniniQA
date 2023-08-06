@@ -1,0 +1,21 @@
+Medical Issues
+Symptoms include <difficulty breathing>;<low oxygen saturations >;<excess fluid on your lungs >;
+Symptoms [difficulty breathing];[low oxygen saturations ];[excess fluid on your lungs ]; caused by Disease <heart disease > 
+
+Treatments
+Medicine <levofloxacin > to treat {infection}
+<levofloxacin >  Results: [No explicit item]
+<concern for infection >  Results: [No explicit item]
+Medicine <intravenous Lasix > to treat {excess fluid}
+<intravenous Lasix >  Results: [No explicit item]
+<help eliminate this excess fluid >  Results: [No explicit item]
+
+No template for <going to the acute care unit of [**Hospital 100**] Rehab >
+No template for <heart failure >
+No template for <Amlodipine >
+No template for <famotidine >
+No template for <Imdur >
+No template for <Metolazone >
+No template for <Coumadin >
+No template for <metoprolol >
+No template for <If you experience worsening shortness of breath, chest pain, worsening abdominal pain, confusion, or if your condition worsens in any way you should seek immediate medical attention. >

@@ -1,0 +1,9 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|several episodes of vomiting blood| Medical Issues - Symptom|49|83
+1|upper endoscopy| Tests - Test name|88|103
+2|small tear in your esophagous| Tests - Test result|118|147
+3|most likely secondary to frequent vomitting| Tests - Test implication|148|190
+4|alcohol abuse| Medical Issues - Disease|224|238
+5|we encourage you to completely stop drinking in order to further prevent medical complications of alcohol abuse| Aftercare instructions - patient needs to do - Other|439|550
+6|INCREASE omeprazole to 40mg daily| Medicine instructions - Medicine changed|764|797
+7|thiamine, folate and multivitamin supplement| Medicine instructions - Medicine started|806|851

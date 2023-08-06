@@ -1,0 +1,12 @@
+Medical Issues
+Symptoms include <nausea, vomitting, diarrhea>;<2 weeks of worsening breathing, with cough >;
+Symptoms <nausea, vomitting, diarrhea> caused by Disease <viral gastroenteritis > 
+Symptoms <2 weeks of worsening breathing, with cough >caused by Disease <viral upper respiratory illness, in the setting of your considerable underlying lung disease > 
+
+Treatments
+Medicine <rapid steroid taper > to treat <bronchitis>
+<rapid steroid taper >  Results: <no explicit item>
+
+No template for <follow-up with your pulmonary doctor as below, to consider a bronchoscopy as an outpatient >
+No template for <7 day course of an antibiotic, levaquin >
+No template for <increased regimen of prednisone 60mg once daily, which will be tapered by 20 mg every 3 days (so take 60mg once daily for 3 days, then take 40mg once daily every for 3 days, then take 20mg once daily continuously until instructed to stop by your pulmonary doctor or primary care physician) >

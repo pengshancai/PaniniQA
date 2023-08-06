@@ -1,0 +1,18 @@
+Medical Issues
+Symptoms include <build up of fluid around your left lung >;
+Symptoms <build up of fluid around your left lung > caused by Disease <Legionella pneumonia> 
+
+Tests
+Tests include {took a sample of the fluid around your left lung}; 
+
+Treatments
+Medicine <antibiotics > to treat <Legionella pneumonia>
+<antibiotics >  Results: <breathing improved > <still requiring oxygen therapy >
+<antibiotics> Results: <breathing improved >
+<antibiotics> Results: <still requiring oxygen therapy >
+
+No template for <your oxygen will be weaned down at the rehab >
+No template for <You should continue antibiotics for your pneumonia for a total of 2 weeks (last day will be on [**2136-4-17**]). >
+No template for <After you are discharge from your rehab facility, please [**Name6 (MD) 138**] your NP[**First Name8 (NamePattern2) **] [**Last Name (NamePattern1) 715**] at the geriatric clinic to schedule a follow up. >
+No template for <You should also discuss with [**Doctor First Name 717**] further evaluation of your anemia. >
+No template for <We have not made any changes to your other home medications. >

@@ -1,0 +1,15 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|asecending numbness| Medical Issues - Symptom|192|211
+1|lower extremity weakness| Medical Issues - Symptom|216|240
+2|lung biopsy| Treatments - Procedure name|260|271
+3|bronchiolitis obliterans with organizing pneumonia (BOOP)| Medical Issues - Disease|309|366
+4|a large lesion was also found in your spinal cord| Medical Issues - Symptom|381|430
+5|inflammation| Medical Issues - Symptom|638|650
+6|Sjogrens antibodies were positive| Treatments - Procedure name|701|734
+7|autoimmune process causing a myelitis (inflammation of your spinal cord)| Medical Issues - Disease|766|838
+8|You were treated with steroids and plasmapheresis| Treatments - Medicine name|840|889
+9|repeat spinal tap and blood markers| Treatments - Procedure name|899|934
+10|You will need to continue aggressive physical therapy| Aftercare instructions - Upcoming Schedules - Specialist appointment|1078|1131
+11|Rehab facility and will need to continue oral steroids for the next 2-3 months to treat both your spinal cord process and your BOOP| Aftercare instructions - Upcoming Schedules - Treatment|1157|1288
+12|You will also need to continue linezolid for the next 10 days| Treatments - Medicine name|1290|1351
+13|urinary tract infection| Medical Issues - Disease|1366|1389

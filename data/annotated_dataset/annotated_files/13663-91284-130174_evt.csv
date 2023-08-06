@@ -1,0 +1,7 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|ingesting a substance that was detrimental to your stomach and gastrointestinal system.| Medical Issues - Disease|92|179
+1|EGD| Tests - Test name|218|221
+2|showed damage to your stomach and further down in your esophagus| Tests - Test result|241|305
+3|please take pantoprazole 40mg by mouth twice a day| Medicine instructions - Medicine started|665|715
+4|transferred you to the psychiatric floor| Treatments - Procedure name|464|504
+5|psychiatrists could help you with some of the emotional burdens you have been facing| Treatments - Treatment goal|517|601

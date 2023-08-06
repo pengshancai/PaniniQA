@@ -1,0 +1,11 @@
+Medical Issues
+Symptoms include <slow heart rate>;
+Symptoms <slow heart rate> caused by Disease <accumulation of the diltiazem secondary to your renal failure > 
+
+Treatments
+Medicine <antibiotics > to treat <pneumonia>
+
+Aftercare instructions
+If encounter <chest pain, shortness of breath, fevers, chills, or any other concerns> do <Please contact your primary care physician >
+
+No template for <We changed several of your medications. Please see the medications sheet for specific medications and doses. >

@@ -1,0 +1,17 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|confused| Medical Issues - Symptom|189|198
+1|intubated| Treatments - Procedure name|287|296
+2|medications| Treatments - Medicine name|307|318
+3|support your blood pressure| Treatments - Treatment goal|322|349
+4|urine infection| Medical Issues - Disease|381|396
+5|antibiotics| Treatments - Medicine name|411|423
+6|started to improve| Treatments - Result of the treatment|477|495
+7|You were transferred to the medicine service as you started to improve and your antibiotics were changed to ceftriaxone.| Medicine instructions - Medicine changed|425|545
+8|You will need to complete antibiotics for a total of 10 days.| Aftercare instructions - patient needs to do - Medication|546|607
+9|You should follow up with your urologist to discuss the need for further testing in regards to your recurrent urinary infections and methods of prevention.| Aftercare instructions - Upcoming Schedules - Specialist appointment|608|763
+10|Please START taking - ceftriaxone 1 gram intravenously daily for 10 days (last day [**2-20**])| Medicine instructions - Medicine started|831|925
+11|- warfarin 2 mg daily| Medicine instructions - Medicine started|928|947
+12|- lovenox 80 mg subcutenously twice daily (please continue to use until 2 days after your INR is therapeutic)| Medicine instructions - Medicine started|950|1057
+13|Please CHANGE - lasix 40 mg from twice daily to once daily. This may be increased to twice daily as tolerated.| Medicine instructions - Medicine changed|1060|1120
+14|Please take the rest of your medications as prescribed and follow up with your doctors| Aftercare instructions - patient needs to do - Medication|1173|1259
+15|| Aftercare instructions - patient needs to do - Other|1319|1408

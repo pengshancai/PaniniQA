@@ -1,0 +1,19 @@
+Medical Issues
+Symptoms [no explicit item] caused by Disease <pneumonia> 
+
+Tests
+Tests include <CT scan of your lungs>;<Echocardiogram>;
+Test results of <CT scan of your lungs>: <no infiltrate>;<small pulmonary nodule>;
+Test results of <Echocardiogram>: <diastolic dysfunction>;
+
+
+Treatments
+Medicine <breathing treatments> to treat <pneumonia>
+<breathing treatments >  Results: <breathing improved>
+Medicine <antibiotics > to treat <pneumonia>
+<antibiotics >  Results: <breathing improved>
+
+
+No template for <You also had a small pulmonary nodule which needs to be followed up in 3 months via your PCP>
+No template for <Please continue to take all other medications as prescribed>
+No template for <Please continue to take Levofloxacin for your pneumonia for 1 more day>

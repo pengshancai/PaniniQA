@@ -1,0 +1,23 @@
+Medical Issues
+Symptoms include <diarrhea>;<clot in your upper chest  >;<shortness of breath >;<chest pain >;<lightheadedness >;<sudden and instoppable bleeding >;<spontaneous bleed into your R. buttock area >;
+Symptoms [No explicit item] caused by Disease <C.diff >
+Symptoms [No explicit item] caused by Disease <SVC (superior vena cava) syndrome >
+
+Treatments
+Medicine <You were treated for this infection with antibiotics > to treat <C.diff>
+<You were treated for this infection with antibiotics >  Results: [No explicit item]
+Procedure <replace your old hemodialysis catheter line with a new one > to treat [No explicit item]
+<replace your old hemodialysis catheter line with a new one >  Results: [No explicit item]
+Medicine <heparin > to treat [No explicit item]
+<heparin >  Results: [No explicit item]
+Procedure <hemodialysis catheter > to treat [No explicit item]
+<hemodialysis catheter >  Results: [No explicit item]
+Medicine <we are placing you on an anticoagulant called coumadin and you will be discharged on that medication > to treat <history of blood clots>
+<we are placing you on an anticoagulant called coumadin and you will be discharged on that medication >  Results: [No explicit item]
+Procedure <you had daily hemodialyisis with overlapping peritoneal dialysis > to treat [No explicit item]
+<you had daily hemodialyisis with overlapping peritoneal dialysis >  Results: [No explicit item]
+
+No template for <You will need to be followed up in a coumadin clinic to monitor your blood levels and in a hematology oncology clinic >
+No template for <HD was stopped while PD was continued several times per day -- you are now to have HD and PD at different times during the week >
+No template for <HD was stopped while PD was continued several times per day -- you are now to have HD and PD at different times during the week >
+No template for <We stopped the heparin >

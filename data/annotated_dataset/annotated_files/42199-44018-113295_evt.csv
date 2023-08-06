@@ -1,0 +1,11 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|abdominal pain| Medical Issues - Symptom|64|78
+1|CT scan of the abdomen| Tests - Test name|90|112
+2|pancreatitis| Medical Issues - Disease|131|143
+3|You underwent an ERCP| Treatments - Procedure name|145|166
+4|placement of a stent into the bile duct| Treatments - Procedure name|171|210
+5|You were started on antibiotics| Medicine instructions - Medicine started|278|309
+6|infection| Medical Issues - Disease|394|403
+7|abdominal pain| Medical Issues - Symptom|434|448
+8|exploratory laparotomy| Treatments - Procedure name|507|529
+9|lysis of adhesions for a bowel obstruction| Treatments - Procedure name|534|576

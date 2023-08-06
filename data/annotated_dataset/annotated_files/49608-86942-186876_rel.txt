@@ -1,0 +1,11 @@
+
+Tests
+Tests include <chest x-ray >;<{urine test}>;
+Test results of <{urine test}>: <urine infection>;
+Test results of <chest x-ray >: <no evidence of a pneumonia >;
+
+Treatments
+Medicine <antibiotics > to treat <urine infection>
+<antibiotics >  Results: [no explicit item]
+
+No template for <You will need 2 more days of ceftriaxone for your urinary infection >

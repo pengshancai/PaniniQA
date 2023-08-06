@@ -1,0 +1,18 @@
+|Jargon Term|Annotation|Start Pos|End Pos
+0|chest pain| Medical Issues - Symptom|46|57
+1|shortness of breath| Medical Issues - Symptom|62|82
+2|large blood clot in your lungs| Medical Issues - Disease|102|132
+3|blood thinning medication| Treatments - Medicine name|201|226
+4|additional blood thinning medication-lovenox and coumadin| Treatments - Medicine name|271|328
+5|Then, you were started on additional blood thinning medication-lovenox and coumadin.| Medicine instructions - Medicine started|245|329
+6|flare of your back pain| Medical Issues - Complication developed in the hospital|342|365
+7|pain medication| Treatments - Medicine name|402|417
+8|xray| Tests - Test name|422|426
+9|shows only degenerative changes| Tests - Test result|427|458
+10|MRI of your spine| Tests - Test name|487|504
+11|showed some known surgical changes on the right side, and degenerative changes, but no acute infection or bleed| Tests - Test result|512|623
+12|Coumadin, to be continued for at least 6 months| Medicine instructions - Medicine started|745|793
+13|Stool softeners| Medicine instructions - Medicine started|795|810
+14|Pain medications: lidoderm patch, oxycontin, lyrica, tylenol, oxycodone as needed, and valium as needed| Medicine instructions - Medicine started|813|917
+15|Please take all of your medications as prescribed and follow up with the appointments below.| Aftercare instructions - patient needs to do - Medication|919|1012
+16|Weigh yourself every morning, [**Name8 (MD) 138**] MD if weight goes up more than 3 lbs. Your discharge weight is 82 kgs (180.5 lbs).| Aftercare instructions - patient needs to do - Other|1012|1145

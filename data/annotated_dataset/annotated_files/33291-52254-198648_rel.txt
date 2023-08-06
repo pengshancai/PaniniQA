@@ -1,0 +1,9 @@
+Treatments
+Procedure <catheter was removed and a new one was placed > to treat <infection of your dialysis catheter>
+Medicine <vancomycin > to treat <endocarditis>
+
+Aftercare instructions
+If encounter <any fevers, chills, redness or pain around your line, nausea, vomiting, chest pain, or any other concerns> do <please see your doctor or go to the ED. >
+
+No template for <You should be treated with vancomycin for this problem for a total of 6 weeks; your dialysis facility should coordinate this. >
+No template for <we have changed your Lantus dose from 6U to 4U daily. >
