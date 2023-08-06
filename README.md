@@ -11,10 +11,17 @@ We open source two datasets:
 
 #### Detailed instructions on Dataset 1
 The 456 discharge instructions in Dataset 1 are from the MIMIC-III Clinical Database, a large freely-available database comprising deidentified health-related data associated with patients who stayed in critical care units of the Beth Israel Deaconess Medical Center. 
-To acquire these discharge instructions, please first obtain the credential from [this website](https://link-url-here.org).
+We provide all the annotation files in the folder ```data/annotated_dataset/annotated_files/```. There are two types of files in this folder: 
+1. Files ending with ```evt.csv``` records key medical events in each discharge instruction. 
+2. Files ending with ```rel.txt``` records key medical relations in each discharge instruction.
+Each file is represented by a unique identifier in the form of *row_id-subject_id-hadm_id*.
+
+Due to data security agreement, we can not release the discharge instructions in this repo, you will need to acquire the discharge instructions from MIMIC-III yourself.
+To acquire these discharge instructions, please first obtain the credential from [here](https://link-url-here.org).
 After acquiring the credential, please visit [this link](https://physionet.org/content/mimiciii/1.4/NOTEEVENTS.csv.gz) to download the file **NOTEEVENTS.csv.gz**.
 
-Please run the following command to extract the clinical instructions from the downloaded file:
+Then run the following command to extract the clinical instructions from the downloaded file:
+
 ```
 python scripts/data_process/extract_mimic.py \
   --input_file PATH/TO/NOTEEVENTS.csv \
