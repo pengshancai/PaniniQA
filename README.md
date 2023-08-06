@@ -31,7 +31,15 @@ python scripts/data_process/extract_mimic.py \
 
 Once you have finished running the above command, you should be able to see 456 txt files (discharge instructions) in your folder ```data/annotated_dataset/raw_notes/```
 
+
+
 #### Detailed instructions on Dataset 2
+
+
+#### Creating train/validation/test sets for Key Medical Event Identification
+
+#### Creating train/validation/test sets for Key Medical Relation Identification
+
 
 We provide 30 synthesized discharge instruction in ```data/synthesized_dataset/raw_notes/```. 
 These discharge instructions were generated using the models in [this repo](https://github.com/pengshancai/AVS_gen).
