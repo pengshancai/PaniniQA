@@ -31,14 +31,23 @@ python scripts/data_process/extract_mimic.py \
 
 Once you have finished running the above command, you should be able to see 456 txt files (discharge instructions) in your folder ```data/annotated_dataset/raw_notes/```
 
-
-
-#### Detailed instructions on Dataset 2
-
-
 #### Creating train/validation/test sets for Key Medical Event Identification
 
 #### Creating train/validation/test sets for Key Medical Relation Identification
+
+You may use the following command to create the train / validation / test set for medical relation classification:
+
+```
+CUDA_VISIBLE_DEVICES=0 python scripts/data_process/process_rel_cls.py \
+  --anno_dir data/annotated_dataset/annotated_files/ \
+  --note_dir data/annotated_dataset/raw_notes/ \
+  --split_file data/annotated_dataset/split.json \
+  --output_dir data/rel_cls/
+```
+
+This command will generate the datasets for relation classification in the directory ```data/rel_cls/```.
+
+#### Detailed instructions on Dataset 2
 
 
 We provide 30 synthesized discharge instruction in ```data/synthesized_dataset/raw_notes/```. 
@@ -49,5 +58,21 @@ We also provide the human annotated cloze questions in ```data/synthesized_datas
 ### 2. Identifying Key Medical Events
 
 ### 3. Identifying Key Medical Relations
+
+To train and evaluate the performance of medical relation classification model, run the following command:
+
+```
+CUDA_VISIBLE_DEVICES=0 python run_classification.py \
+  --model_name_or_path path/to/pre-trained/model \  # We use the RoBERTa-large-PM-M3-Voc-hf from the following site: https://github.com/facebookresearch/bio-lm
+  --train_file data/rel_cls/train.json \
+  --validation_file data/rel_cls/test.json \
+  --max_length 512 \
+  --per_device_train_batch_size 8 \
+  --learning_rate 2e-5 \
+  --num_train_epochs 5 \
+  --output_dir path/to/output/directory \
+  --with_tracking \
+  --pos_weight 1.5
+```
 
 
